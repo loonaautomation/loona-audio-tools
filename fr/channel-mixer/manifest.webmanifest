@@ -1,6 +1,6 @@
 {
   "name": "Loona Mixeur de canaux audio en ligne gratuit",
-  "short_name": "Mixeur de canaux audio en ligne ",
+  "short_name": "Mixeur de canaux audio en",
   "description": "Convertissez les canaux audio en ligne gratuitement - stéréo vers mono, mono vers stéréo, inversion des canaux gauche et droit, ou copie du canal gauche ou droit des deux côtés, exporté en WAV. Sans inscription, et votre audio ne quitte jamais votre appareil.",
   "id": "/loona-audio-tools/fr/channel-mixer/",
   "start_url": ".",

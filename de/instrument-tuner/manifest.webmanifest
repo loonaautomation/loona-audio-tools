@@ -1,6 +1,6 @@
 {
   "name": "Loona Instrumenten-Stimmgerät online kostenlos",
-  "short_name": "Instrumenten-Stimmgerät online k",
+  "short_name": "Instrumenten-Stimmgerät",
   "description": "Stimmen Sie jedes Instrument online kostenlos mit Ihrem Mikrofon. Das chromatische Stimmgerät zeigt den Notennamen, die exakte Frequenz und wie viele Cent Sie zu hoch oder zu tief sind. Genauigkeit ehrlich angegeben, keine Anmeldung, und Ihr Audio verlässt niemals Ihr Gerät.",
   "id": "/loona-audio-tools/de/instrument-tuner/",
   "start_url": ".",

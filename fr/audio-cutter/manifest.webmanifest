@@ -1,6 +1,6 @@
 {
   "name": "Loona Découpeur audio en ligne gratuit",
-  "short_name": "Découpeur audio en ligne gratuit",
+  "short_name": "Découpeur audio en ligne",
   "description": "Découpez et rognez des fichiers audio en ligne gratuitement. Découpez MP3, WAV, M4A et OGG avec une forme d'onde visuelle, sans inscription. Votre audio est traité en privé dans votre navigateur et exporté en WAV.",
   "id": "/loona-audio-tools/fr/audio-cutter/",
   "start_url": ".",

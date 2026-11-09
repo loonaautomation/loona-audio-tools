@@ -1,6 +1,6 @@
 {
-  "name": "Loona Generatore immagini forma d'onda online gratuito",
-  "short_name": "Generatore immagini forma d'onda",
+  "name": "Loona Generatore immagini forma d'onda online",
+  "short_name": "Generatore immagini forma",
   "description": "Trasforma qualsiasi file audio in un'immagine di forma d'onda online gratis: scegli dimensione, colori, stile pieno o a barre e sfondo trasparente, poi scarica un PNG. Senza registrazione, e il tuo audio non lascia mai il tuo dispositivo.",
   "id": "/loona-audio-tools/it/waveform-generator/",
   "start_url": ".",

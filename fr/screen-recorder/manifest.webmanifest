@@ -1,6 +1,6 @@
 {
   "name": "Loona Enregistreur d'écran en ligne gratuit",
-  "short_name": "Enregistreur d'écran en ligne gr",
+  "short_name": "Enregistreur d'écran en ligne",
   "description": "Enregistrez votre écran, un onglet ou une fenêtre gratuitement dans votre navigateur - avec l'audio du microphone si vous le voulez. Sans inscription, sans téléversement, se télécharge en WebM.",
   "id": "/loona-audio-tools/fr/screen-recorder/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Generatore di toni online gratuito",
-  "short_name": "Generatore di toni online gratui",
+  "short_name": "Generatore di toni online",
   "description": "Genera toni di prova online gratis. Forme d'onda sinusoidale, quadra, triangolare e a dente di sega da 20 Hz a 20,000 Hz: riproduci all'istante o scarica come WAV. Senza registrazione, funziona al 100% nel tuo browser.",
   "id": "/loona-audio-tools/it/tone-generator/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Editor de etiquetas MP3 en línea gratis",
-  "short_name": "Editor de etiquetas MP3 en línea",
+  "short_name": "Editor de etiquetas MP3 en",
   "description": "Ve y edita las etiquetas ID3 de un MP3 en línea gratis (título, artista, álbum, año e imagen de portada) sin volver a codificar el audio. Los demás marcos se conservan, las etiquetas pueden eliminarse por completo, y tu MP3 nunca sale de tu dispositivo.",
   "id": "/loona-audio-tools/es/mp3-tag-editor/",
   "start_url": ".",

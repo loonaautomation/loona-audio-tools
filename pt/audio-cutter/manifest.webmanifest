@@ -1,6 +1,6 @@
 {
   "name": "Loona Cortador de Áudio Online Grátis",
-  "short_name": "Cortador de Áudio Online Grátis",
+  "short_name": "Cortador de Áudio Online",
   "description": "Corte e apare arquivos de áudio online grátis. Corte MP3, WAV, M4A e OGG com uma forma de onda visual, sem precisar de cadastro. Seu áudio é processado de forma privada no seu navegador e exportado como WAV.",
   "id": "/loona-audio-tools/pt/audio-cutter/",
   "start_url": ".",

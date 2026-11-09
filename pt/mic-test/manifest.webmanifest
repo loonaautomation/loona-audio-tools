@@ -1,6 +1,6 @@
 {
   "name": "Loona Teste de Microfone Online Grátis",
-  "short_name": "Teste de Microfone Online Grátis",
+  "short_name": "Teste de Microfone Online",
   "description": "Teste seu microfone grátis no seu navegador: medidor de nível ao vivo, uma gravação de teste de 5 segundos com reprodução e um seletor de microfone. Nada é enviado - seu microfone só é usado localmente.",
   "id": "/loona-audio-tools/pt/mic-test/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Mixer de Canais de Áudio Online Grátis",
-  "short_name": "Mixer de Canais de Áudio Online ",
+  "short_name": "Mixer de Canais de Áudio",
   "description": "Converta canais de áudio online grátis - estéreo para mono, mono para estéreo, troque os canais esquerdo e direito, ou copie o canal esquerdo ou direito para os dois lados, exportado como WAV. Sem cadastro, e seu áudio nunca sai do seu dispositivo.",
   "id": "/loona-audio-tools/pt/channel-mixer/",
   "start_url": ".",

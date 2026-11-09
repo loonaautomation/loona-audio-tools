@@ -1,6 +1,6 @@
 {
   "name": "Loona Enregistrement de cours vers MP3",
-  "short_name": "Enregistrement de cours vers MP3",
+  "short_name": "Enregistrement de cours vers",
   "description": "Enregistrement de cours vers MP3 gratuit : convertissez et préparez l'audio dans votre navigateur. Sans inscription, sans téléversement.",
   "id": "/loona-audio-tools/fr/lecture-recording-to-mp3/",
   "start_url": ".",

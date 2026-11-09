@@ -1,6 +1,6 @@
 {
   "name": "Loona SRT Subtitle Editor Online Free",
-  "short_name": "SRT Subtitle Editor Online Free",
+  "short_name": "SRT Subtitle Editor Online",
   "description": "Edit SRT and WebVTT subtitle files online free: fix subtitle text and timings, shift all cues at once, repair overlapping cues and convert SRT to VTT. No sign-up, and your subtitle file never leaves your device.",
   "id": "/loona-audio-tools/subtitle-editor/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Mezclador de canales de audio en línea gratis",
-  "short_name": "Mezclador de canales de audio en",
+  "name": "Loona Mezclador de canales de audio en línea",
+  "short_name": "Mezclador de canales de audio",
   "description": "Convierte los canales de audio en línea gratis: estéreo a mono, mono a estéreo, intercambia los canales izquierdo y derecho, o copia el canal izquierdo o el derecho a ambos lados, exportado como WAV. Sin registro, y tu audio nunca sale de tu dispositivo.",
   "id": "/loona-audio-tools/es/channel-mixer/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Accordeur d'instruments en ligne gratuit",
-  "short_name": "Accordeur d'instruments en ligne",
+  "short_name": "Accordeur d'instruments en",
   "description": "Accordez n'importe quel instrument en ligne gratuitement avec votre microphone. L'accordeur chromatique affiche le nom de la note, la fréquence exacte, et de combien de cents vous êtes trop haut ou trop bas. Précision indiquée honnêtement, sans inscription, et votre audio ne quit",
   "id": "/loona-audio-tools/fr/instrument-tuner/",
   "start_url": ".",

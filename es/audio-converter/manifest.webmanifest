@@ -1,6 +1,6 @@
 {
   "name": "Loona Convertidor de audio en línea gratis",
-  "short_name": "Convertidor de audio en línea gr",
+  "short_name": "Convertidor de audio en línea",
   "description": "Convierte archivos de audio en línea gratis: transforma MP3, WAV, OGG, M4A, WebM y más en WAV o MP3 (128, 192 o 320 kbps) conservando la frecuencia de muestreo. Sin registro, y tu audio nunca sale de tu dispositivo, porque la decodificación depende de tu navegador y la conversión",
   "id": "/loona-audio-tools/es/audio-converter/",
   "start_url": ".",

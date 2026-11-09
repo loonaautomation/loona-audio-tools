@@ -1,6 +1,6 @@
 {
   "name": "Loona Generador de tonos en línea gratis",
-  "short_name": "Generador de tonos en línea grat",
+  "short_name": "Generador de tonos en línea",
   "description": "Genera tonos de prueba en línea gratis. Formas de onda sinusoidal, cuadrada, triangular y de diente de sierra de 20 Hz a 20,000 Hz: reprodúcelos al instante o descárgalos como WAV. Sin registro, funciona 100% en tu navegador.",
   "id": "/loona-audio-tools/es/tone-generator/",
   "start_url": ".",

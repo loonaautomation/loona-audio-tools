@@ -1,6 +1,6 @@
 {
   "name": "Loona Assembleur audio en ligne gratuit",
-  "short_name": "Assembleur audio en ligne gratui",
+  "short_name": "Assembleur audio en ligne",
   "description": "Assemblez des fichiers audio en ligne gratuitement. Combinez des fichiers MP3, WAV, M4A et OGG en une seule piste dans l'ordre que vous choisissez, sans inscription. Traité en privé dans votre navigateur, exporté en WAV.",
   "id": "/loona-audio-tools/fr/audio-joiner/",
   "start_url": ".",

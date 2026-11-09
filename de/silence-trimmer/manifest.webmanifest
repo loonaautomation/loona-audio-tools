@@ -1,6 +1,6 @@
 {
   "name": "Loona Stille-Trimmer online kostenlos",
-  "short_name": "Stille-Trimmer online kostenlos",
+  "short_name": "Stille-Trimmer online",
   "description": "Entfernen Sie Stille vom Anfang und Ende von Audio online kostenlos. Der Trimmer misst die stillen Sekunden, schneidet sie bei einer einstellbaren dB-Schwelle mit Puffer zu und exportiert WAV. Keine Anmeldung, und Ihr Audio verlässt niemals Ihr Gerät.",
   "id": "/loona-audio-tools/de/silence-trimmer/",
   "start_url": ".",

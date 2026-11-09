@@ -1,6 +1,6 @@
 {
   "name": "Loona Biblioteca de Ferramentas de Áudio",
-  "short_name": "Biblioteca de Ferramentas de Áud",
+  "short_name": "Biblioteca de Ferramentas de",
   "description": "A biblioteca completa do Loona Audio Tools: conversores MP3/WAV/OGG/M4A/FLAC/AAC, metas de bitrate, predefinições de velocidade e ferramentas por uso.",
   "id": "/loona-audio-tools/pt/audio-tools-library/",
   "start_url": ".",

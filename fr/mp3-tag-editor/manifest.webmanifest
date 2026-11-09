@@ -1,6 +1,6 @@
 {
   "name": "Loona Éditeur de balises MP3 en ligne gratuit",
-  "short_name": "Éditeur de balises MP3 en ligne ",
+  "short_name": "Éditeur de balises MP3 en",
   "description": "Affichez et modifiez les balises ID3 des MP3 en ligne gratuitement - titre, artiste, album, année et pochette - sans réencoder l'audio. Les autres trames sont préservées, les balises peuvent être entièrement supprimées, et votre MP3 ne quitte jamais votre appareil.",
   "id": "/loona-audio-tools/fr/mp3-tag-editor/",
   "start_url": ".",

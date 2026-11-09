@@ -1,6 +1,6 @@
 {
   "name": "Loona Inverseur audio en ligne gratuit",
-  "short_name": "Inverseur audio en ligne gratuit",
+  "short_name": "Inverseur audio en ligne",
   "description": "Inversez l'audio en ligne gratuitement. Lisez n'importe quel fichier MP3, WAV, M4A ou OGG à l'envers et téléchargez l'audio inversé en WAV. Sans inscription, et votre audio ne quitte jamais votre appareil.",
   "id": "/loona-audio-tools/fr/audio-reverser/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Convertisseur de livre audio en MP3",
-  "short_name": "Convertisseur de livre audio en ",
+  "short_name": "Convertisseur de livre audio",
   "description": "Convertisseur de livre audio en MP3 gratuit : convertissez et préparez l'audio dans votre navigateur. Sans inscription, sans téléversement.",
   "id": "/loona-audio-tools/fr/audiobook-mp3-converter/",
   "start_url": ".",

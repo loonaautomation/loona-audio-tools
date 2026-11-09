@@ -1,6 +1,6 @@
 {
   "name": "Loona Créateur de son de notification",
-  "short_name": "Créateur de son de notification",
+  "short_name": "Créateur de son de",
   "description": "Créateur de son de notification gratuit : découpez l'audio dans votre navigateur. Sans inscription, sans téléversement.",
   "id": "/loona-audio-tools/fr/notification-sound-maker/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Recortador de silencios en línea gratis",
-  "short_name": "Recortador de silencios en línea",
+  "short_name": "Recortador de silencios en",
   "description": "Elimina el silencio del principio y del final del audio en línea gratis. El recortador mide los segundos de silencio, los recorta con un umbral de dB ajustable y con margen, y exporta WAV. Sin registro, y tu audio nunca sale de tu dispositivo.",
   "id": "/loona-audio-tools/es/silence-trimmer/",
   "start_url": ".",

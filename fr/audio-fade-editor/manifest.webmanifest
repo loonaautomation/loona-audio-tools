@@ -1,6 +1,6 @@
 {
   "name": "Loona Éditeur de fondus audio en ligne gratuit",
-  "short_name": "Éditeur de fondus audio en ligne",
+  "short_name": "Éditeur de fondus audio en",
   "description": "Ajoutez des fondus d'ouverture et de fermeture à votre audio en ligne gratuitement. Réglez des fondus jusqu'à 10 secondes sur n'importe quel fichier MP3, WAV, M4A ou OGG, prévisualisez et exportez en WAV. Sans inscription, et votre audio ne quitte jamais votre appareil.",
   "id": "/loona-audio-tools/fr/audio-fade-editor/",
   "start_url": ".",

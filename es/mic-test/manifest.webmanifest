@@ -1,6 +1,6 @@
 {
   "name": "Loona Prueba de micrófono en línea gratis",
-  "short_name": "Prueba de micrófono en línea gra",
+  "short_name": "Prueba de micrófono en línea",
   "description": "Prueba tu micrófono gratis en tu navegador: medidor de nivel en directo, una grabación de prueba de 5 segundos con reproducción y un selector de micrófono. No se sube nada: tu micrófono solo se usa localmente.",
   "id": "/loona-audio-tools/es/mic-test/",
   "start_url": ".",

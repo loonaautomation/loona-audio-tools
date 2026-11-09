@@ -1,6 +1,6 @@
 {
   "name": "Loona Détecteur de BPM en ligne gratuit",
-  "short_name": "Détecteur de BPM en ligne gratui",
+  "short_name": "Détecteur de BPM en ligne",
   "description": "Trouvez le BPM d'une chanson en ligne gratuitement. Le détecteur analyse le rythme dans votre navigateur et affiche le tempo, les secondes par temps et une note de fiabilité - plus un outil de tempo tapé. Sans inscription, et votre audio ne quitte jamais votre appareil.",
   "id": "/loona-audio-tools/fr/bpm-detector/",
   "start_url": ".",

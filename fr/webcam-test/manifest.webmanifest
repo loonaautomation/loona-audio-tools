@@ -1,6 +1,6 @@
 {
   "name": "Loona Test de webcam en ligne gratuit",
-  "short_name": "Test de webcam en ligne gratuit",
+  "short_name": "Test de webcam en ligne",
   "description": "Testez votre webcam gratuitement dans votre navigateur : aperçu en direct, lecture de la vraie résolution et de la fréquence d'images, bascule miroir et téléchargement d'une photo instantanée. Rien n'est téléversé - votre caméra n'est utilisée que localement.",
   "id": "/loona-audio-tools/fr/webcam-test/",
   "start_url": ".",
