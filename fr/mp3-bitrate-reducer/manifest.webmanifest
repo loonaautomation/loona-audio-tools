@@ -1,0 +1,29 @@
+{
+  "name": "Loona Réducteur de débit MP3",
+  "short_name": "Réducteur de débit MP3",
+  "description": "Réducteur de débit MP3 gratuit : réduisez la taille des fichiers MP3 en les réencodant à 64–320 kbps. Des fichiers plus petits pour la messagerie, l'e-mail et le stockage — dans votre navigateur.",
+  "id": "/loona-audio-tools/fr/mp3-bitrate-reducer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

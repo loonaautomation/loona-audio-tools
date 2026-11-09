@@ -1,0 +1,29 @@
+{
+  "name": "Loona Combinador de audio en línea gratis",
+  "short_name": "Combinador de audio en línea gra",
+  "description": "Une archivos de audio en línea gratis. Combina archivos MP3, WAV, M4A y OGG en una sola pista en el orden que elijas, sin necesidad de registro. Se procesa de forma privada en tu navegador y se exporta como WAV.",
+  "id": "/loona-audio-tools/es/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

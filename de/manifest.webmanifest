@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "Kostenlose Online-Audio-Tools - schneiden und kürzen Sie MP3-, WAV-, M4A- und OGG-Dateien, verbinden Sie Audiodateien zu einer Spur, konvertieren Sie Audio zwischen WAV und MP3, nehmen Sie Ihre Stimme und Ihren Bildschirm auf und testen Sie Ihr Mikrofon und Ihre Webcam. 100% kost",
+  "id": "/loona-audio-tools/de/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

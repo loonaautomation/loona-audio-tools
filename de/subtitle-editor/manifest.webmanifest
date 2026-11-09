@@ -1,0 +1,29 @@
+{
+  "name": "Loona SRT-Untertitel-Editor online kostenlos",
+  "short_name": "SRT-Untertitel-Editor online kos",
+  "description": "Bearbeiten Sie SRT- und WebVTT-Untertiteldateien online kostenlos: Korrigieren Sie Untertiteltext und Zeiten, verschieben Sie alle Cues auf einmal, reparieren Sie überlappende Cues und konvertieren Sie SRT in VTT. Keine Anmeldung, und Ihre Untertiteldatei verlässt niemals Ihr Ger",
+  "id": "/loona-audio-tools/de/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

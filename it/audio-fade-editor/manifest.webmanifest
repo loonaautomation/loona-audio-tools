@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editor dissolvenza audio online gratuito",
+  "short_name": "Editor dissolvenza audio online ",
+  "description": "Aggiungi dissolvenza in entrata e in uscita all'audio online gratis. Imposta dissolvenze fino a 10 secondi su qualsiasi file MP3, WAV, M4A o OGG, ascolta l'anteprima ed esporta come WAV. Senza registrazione, e il tuo audio non lascia mai il tuo dispositivo.",
+  "id": "/loona-audio-tools/it/audio-fade-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

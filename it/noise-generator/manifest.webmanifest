@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore di rumore online gratuito",
+  "short_name": "Generatore di rumore online grat",
+  "description": "Genera rumore bianco, rosa e marrone online gratis per sonno, concentrazione e mascheramento del suono. Riproducilo in diretta nel tuo browser o scarica 10, 30 o 60 secondi come WAV da ripetere in loop. Senza registrazione, nulla viene caricato.",
+  "id": "/loona-audio-tools/it/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

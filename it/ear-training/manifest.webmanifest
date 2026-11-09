@@ -1,0 +1,29 @@
+{
+  "name": "Loona Allenamento uditivo online gratuito",
+  "short_name": "Allenamento uditivo online gratu",
+  "description": "Allena l'orecchio online gratis: ascolta due note, nomina l'intervallo e costruisci punteggio e serie. Livelli facile, medio e difficile fino all'ottava completa. Senza registrazione, tutto generato nel tuo browser.",
+  "id": "/loona-audio-tools/it/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

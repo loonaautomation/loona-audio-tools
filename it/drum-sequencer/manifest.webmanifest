@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sequencer di batteria online gratuito",
+  "short_name": "Sequencer di batteria online gra",
+  "description": "Crea ritmi di batteria online gratis con un sequencer a 16 passi: suoni sintetizzati di cassa, rullante e charleston, preset rock, house e hip-hop e tempo da 60 a 180 BPM. Nessun campione, senza registrazione, tutto sintetizzato nel tuo browser.",
+  "id": "/loona-audio-tools/it/drum-sequencer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

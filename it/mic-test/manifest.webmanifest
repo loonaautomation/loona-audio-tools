@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test del microfono online gratuito",
+  "short_name": "Test del microfono online gratui",
+  "description": "Testa il microfono gratis nel tuo browser: misuratore di livello in tempo reale, una registrazione di prova di 5 secondi con riproduzione e un selettore del microfono. Nulla viene caricato: il microfono viene usato solo localmente.",
+  "id": "/loona-audio-tools/it/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

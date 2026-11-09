@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de tonalités en ligne gratuit",
+  "short_name": "Générateur de tonalités en ligne",
+  "description": "Générez des tonalités de test en ligne gratuitement. Formes d'onde sinusoïdale, carrée, triangulaire et en dents de scie de 20 Hz à 20,000 Hz - jouez instantanément ou téléchargez en WAV. Sans inscription, fonctionne à 100% dans votre navigateur.",
+  "id": "/loona-audio-tools/fr/tone-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

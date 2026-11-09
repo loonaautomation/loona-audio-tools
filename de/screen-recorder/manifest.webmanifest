@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bildschirmrekorder online kostenlos",
+  "short_name": "Bildschirmrekorder online kosten",
+  "description": "Nehmen Sie Ihren Bildschirm, einen Browser-Tab oder ein Fenster kostenlos in Ihrem Browser auf - mit Mikrofon-Audio, wenn Sie es möchten. Keine Anmeldung, kein Upload, Download als WebM.",
+  "id": "/loona-audio-tools/de/screen-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

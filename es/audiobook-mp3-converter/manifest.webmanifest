@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de audiolibros a MP3",
+  "short_name": "Convertidor de audiolibros a MP3",
+  "description": "Convertidor de audiolibros a MP3 gratuito: convierte y prepara audio en tu navegador. Sin registro, sin subida.",
+  "id": "/loona-audio-tools/es/audiobook-mp3-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Afinador de instrumentos en línea gratis",
+  "short_name": "Afinador de instrumentos en líne",
+  "description": "Afina cualquier instrumento en línea gratis con tu micrófono. El afinador cromático muestra el nombre de la nota, la frecuencia exacta y cuántos cents estás agudo o grave. Precisión indicada con honestidad, sin registro, y tu audio nunca sale de tu dispositivo.",
+  "id": "/loona-audio-tools/es/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

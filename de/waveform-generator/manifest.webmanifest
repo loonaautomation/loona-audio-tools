@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wellenformbild-Generator online kostenlos",
+  "short_name": "Wellenformbild-Generator online ",
+  "description": "Verwandeln Sie jede Audiodatei online kostenlos in ein Wellenformbild - wählen Sie die Größe, die Farben, den gefüllten Stil oder Balkenstil und den transparenten Hintergrund und laden Sie dann eine PNG herunter. Keine Anmeldung, und Ihr Audio verlässt niemals Ihr Gerät.",
+  "id": "/loona-audio-tools/de/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

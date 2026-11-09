@@ -1,0 +1,29 @@
+{
+  "name": "Loona Amplificador de volumen en línea gratis",
+  "short_name": "Amplificador de volumen en línea",
+  "description": "Sube el volumen del audio en línea gratis. Haz que grabaciones MP3, WAV, M4A y OGG bajas suenen hasta un 300% más alto, o normaliza los picos de forma segura, y expórtalo como WAV. Sin registro, y tu audio nunca sale de tu dispositivo.",
+  "id": "/loona-audio-tools/es/volume-booster/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

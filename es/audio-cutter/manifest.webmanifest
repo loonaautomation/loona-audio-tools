@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cortador de audio en línea gratis",
+  "short_name": "Cortador de audio en línea grati",
+  "description": "Corta y recorta archivos de audio en línea gratis. Recorta MP3, WAV, M4A y OGG con una forma de onda visual, sin necesidad de registro. Tu audio se procesa de forma privada en tu navegador y se exporta como WAV.",
+  "id": "/loona-audio-tools/es/audio-cutter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

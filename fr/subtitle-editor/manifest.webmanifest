@@ -1,0 +1,29 @@
+{
+  "name": "Loona Éditeur de sous-titres SRT en ligne gratuit",
+  "short_name": "Éditeur de sous-titres SRT en li",
+  "description": "Modifiez les fichiers de sous-titres SRT et WebVTT en ligne gratuitement : corrigez le texte et les temps des sous-titres, décalez toutes les répliques d'un coup, réparez les répliques qui se chevauchent et convertissez SRT en VTT. Sans inscription, et votre fichier de sous-titre",
+  "id": "/loona-audio-tools/fr/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

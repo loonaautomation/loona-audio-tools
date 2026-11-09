@@ -1,0 +1,29 @@
+{
+  "name": "Loona Entrenamiento auditivo en línea gratis",
+  "short_name": "Entrenamiento auditivo en línea ",
+  "description": "Entrena tu oído en línea gratis: escucha dos notas, nombra el intervalo y construye tu puntuación y tu racha. Niveles fácil, medio y difícil hasta la octava completa. Sin registro, todo se genera en tu navegador.",
+  "id": "/loona-audio-tools/es/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

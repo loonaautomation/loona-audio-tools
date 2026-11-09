@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reductor de bitrate de MP3",
+  "short_name": "Reductor de bitrate de MP3",
+  "description": "Reductor de bitrate de MP3 gratuito: reduce archivos MP3 recodificándolos a 64–320 kbps. Archivos más pequeños para mensajería, correo y almacenamiento, en tu navegador.",
+  "id": "/loona-audio-tools/es/mp3-bitrate-reducer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

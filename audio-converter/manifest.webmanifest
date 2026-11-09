@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Converter Online Free",
+  "short_name": "Audio Converter Online Free",
+  "description": "Convert audio files online free - turn MP3, WAV, OGG, M4A, WebM and more into WAV or MP3 (128, 192 or 320 kbps) with the sample rate preserved. No sign-up, and your audio never leaves your device, because decoding depends on your browser and conversion runs 100% locally.",
+  "id": "/loona-audio-tools/audio-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

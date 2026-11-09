@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio-Geschwindigkeit 0.75x",
+  "short_name": "Audio-Geschwindigkeit 0.75x",
+  "description": "Kostenloser Audio-Tempoänderer 0.75x: Ändern Sie jede Audiodatei in Ihrem Browser auf 0.75x Geschwindigkeit. Keine Anmeldung, kein Upload.",
+  "id": "/loona-audio-tools/de/audio-speed-0-75x/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

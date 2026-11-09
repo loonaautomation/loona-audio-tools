@@ -1,0 +1,29 @@
+{
+  "name": "Loona Webcam-Test online kostenlos",
+  "short_name": "Webcam-Test online kostenlos",
+  "description": "Testen Sie Ihre Webcam kostenlos in Ihrem Browser: Live-Vorschau, echte Anzeige von Auflösung und Bildrate, Spiegel-Umschalter und ein Schnappschussfoto-Download. Nichts wird hochgeladen - Ihre Kamera wird nur lokal verwendet.",
+  "id": "/loona-audio-tools/de/webcam-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

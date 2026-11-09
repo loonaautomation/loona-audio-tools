@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de imágenes de forma de onda en línea gratis",
+  "short_name": "Generador de imágenes de forma d",
+  "description": "Convierte cualquier archivo de audio en una imagen de forma de onda en línea gratis: elige el tamaño, los colores, el estilo relleno o de barras y el fondo transparente, y luego descarga un PNG. Sin registro, y tu audio nunca sale de tu dispositivo.",
+  "id": "/loona-audio-tools/es/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mikrofontest online kostenlos",
+  "short_name": "Mikrofontest online kostenlos",
+  "description": "Testen Sie Ihr Mikrofon kostenlos in Ihrem Browser: Live-Pegelanzeige, eine 5-sekündige Testaufnahme mit Wiedergabe und eine Mikrofonauswahl. Nichts wird hochgeladen - Ihr Mikrofon wird nur lokal verwendet.",
+  "id": "/loona-audio-tools/de/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

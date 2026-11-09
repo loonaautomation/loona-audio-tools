@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metrónomo en línea gratis",
+  "short_name": "Metrónomo en línea gratis",
+  "description": "Metrónomo en línea gratuito con un control deslizante de BPM de 30 a 240, compases, subdivisiones, un primer tiempo acentuado, un pulso visual y tempo por toques. Sin registro, sin nada subido: funciona en tu navegador.",
+  "id": "/loona-audio-tools/es/metronome/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editor sottotitoli SRT online gratuito",
+  "short_name": "Editor sottotitoli SRT online gr",
+  "description": "Modifica file di sottotitoli SRT e WebVTT online gratis: correggi testo e tempi dei sottotitoli, sposta tutti i cue insieme, ripara i cue sovrapposti e converti SRT in VTT. Senza registrazione, e il tuo file di sottotitoli non lascia mai il tuo dispositivo.",
+  "id": "/loona-audio-tools/it/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

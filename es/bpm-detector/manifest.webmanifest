@@ -1,0 +1,29 @@
+{
+  "name": "Loona Detector de BPM en línea gratis",
+  "short_name": "Detector de BPM en línea gratis",
+  "description": "Encuentra el BPM de una canción en línea gratis. El detector analiza el ritmo en tu navegador y muestra el tempo, los segundos por tiempo y una valoración de confianza, además de una herramienta de tempo por toques. Sin registro, y tu audio nunca sale de tu dispositivo.",
+  "id": "/loona-audio-tools/es/bpm-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

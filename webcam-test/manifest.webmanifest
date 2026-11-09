@@ -1,0 +1,29 @@
+{
+  "name": "Loona Webcam Test Online Free",
+  "short_name": "Webcam Test Online Free",
+  "description": "Test your webcam free in your browser: live preview, real resolution and frame-rate readout, mirror toggle and a snapshot photo download. Nothing is uploaded - your camera is only used locally.",
+  "id": "/loona-audio-tools/webcam-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

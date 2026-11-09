@@ -1,0 +1,29 @@
+{
+  "name": "Loona Aumentador de Volume Online Grátis",
+  "short_name": "Aumentador de Volume Online Grát",
+  "description": "Aumente o volume de áudio online grátis. Deixe gravações baixas de MP3, WAV, M4A e OGG até 300% mais altas, ou normalize os picos com segurança, e exporte como WAV. Sem cadastro, e seu áudio nunca sai do seu dispositivo.",
+  "id": "/loona-audio-tools/pt/volume-booster/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

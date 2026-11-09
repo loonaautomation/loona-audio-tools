@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "Strumenti audio online gratuiti: taglia e rifila file MP3, WAV, M4A e OGG, unisci file audio in un'unica traccia, converti l'audio tra WAV e MP3, registra la tua voce e il tuo schermo e testa microfono e webcam. 100% gratuito, senza registrazione, e tutto resta sul tuo dispositiv",
+  "id": "/loona-audio-tools/it/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

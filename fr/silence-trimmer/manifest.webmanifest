@@ -1,0 +1,29 @@
+{
+  "name": "Loona Suppresseur de silences en ligne gratuit",
+  "short_name": "Suppresseur de silences en ligne",
+  "description": "Supprimez le silence du début et de la fin de l'audio en ligne gratuitement. Le rogne-silence mesure les secondes silencieuses, les supprime à un seuil dB réglable avec une marge, et exporte en WAV. Sans inscription, et votre audio ne quitte jamais votre appareil.",
+  "id": "/loona-audio-tools/fr/silence-trimmer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Accordatore strumenti online gratuito",
+  "short_name": "Accordatore strumenti online gra",
+  "description": "Accorda qualsiasi strumento online gratis con il microfono. L'accordatore cromatico mostra il nome della nota, la frequenza esatta e di quanti centesimi sei crescente o calante. Precisione dichiarata onestamente, senza registrazione, e il tuo audio non lascia mai il tuo dispositi",
+  "id": "/loona-audio-tools/it/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

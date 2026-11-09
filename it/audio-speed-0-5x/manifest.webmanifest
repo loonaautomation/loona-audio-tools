@@ -1,0 +1,29 @@
+{
+  "name": "Loona Velocità audio 0.5x",
+  "short_name": "Velocità audio 0.5x",
+  "description": "Cambia velocità audio 0.5x gratuito: porta qualsiasi file audio a velocità 0.5x nel tuo browser. Senza registrazione, nessun caricamento.",
+  "id": "/loona-audio-tools/it/audio-speed-0-5x/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
