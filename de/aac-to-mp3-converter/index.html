@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -126,6 +126,8 @@ audio.player{width:100%;margin-top:12px}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"AAC to MP3 – Free Online","url":"https://loonaautomation.github.io/loona-audio-tools/de/aac-to-mp3-converter/","description":"Kostenloser AAC-in-MP3-Konverter: Konvertieren Sie AAC-Audio in Ihrem Browser in MP3. Keine Anmeldung, kein Upload, keine Wasserzeichen.","applicationCategory":"MultimediaApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"provider":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Startseite","item":"https://loonaautomation.github.io/loona-audio-tools/de/"},{"@type":"ListItem","position":2,"name":"Audio-Tools","item":"https://loonaautomation.github.io/loona-audio-tools/de/"},{"@type":"ListItem","position":3,"name":"AAC in MP3","item":"https://loonaautomation.github.io/loona-audio-tools/de/aac-to-mp3-converter/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Ändert sich die Qualität?","acceptedAnswer":{"@type":"Answer","text":"Die Konvertierung in WAV ist verlustfrei — die dekodierten Samples werden exakt herausgeschrieben. Die Konvertierung in MP3 ist verlustbehaftet: Die Datei schrumpft, aber einige Details werden dauerhaft verworfen. MP3 in WAV zu konvertieren stellt verlorene Qualität nicht wieder her; es ändert nur den Container."}},{"@type":"Question","name":"Ist meine Audiodatei privat?","acceptedAnswer":{"@type":"Answer","text":"Ja. Dekodierung und Kodierung geschehen zu 100% in Ihrem Browser mit der Web Audio API und einem lokalen MP3-Encoder. Die Datei wird niemals hochgeladen, gespeichert oder von uns gehört."}},{"@type":"Question","name":"Was, wenn mein Browser die Datei nicht dekodieren kann?","acceptedAnswer":{"@type":"Answer","text":"Die Dekodierung hängt von Ihrem Browser ab: Chrome und Edge dekodieren die größte Auswahl; Safari verarbeitet M4A/AAC nativ; Firefox dekodiert M4A/AAC nicht. Wenn eine Datei nicht dekodiert wird, versuchen Sie einen anderen Browser."}}]}</script>
+<link rel="manifest" href="../../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -185,6 +187,7 @@ audio.player{width:100%;margin-top:12px}
 <a href="../terms.html">Nutzungsbedingungen</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Audio Tools. Kostenlose Online-Audio-Tools, die zu 100% in Ihrem Browser laufen.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 

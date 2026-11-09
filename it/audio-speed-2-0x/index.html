@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -126,6 +126,8 @@ audio.player{width:100%;margin-top:12px}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Audio Speed 2.0x – Change Playback Speed Free","url":"https://loonaautomation.github.io/loona-audio-tools/it/audio-speed-2-0x/","description":"Cambia velocità audio 2.0x gratuito: porta qualsiasi file audio a velocità 2.0x nel tuo browser. Senza registrazione, nessun caricamento.","applicationCategory":"MultimediaApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"provider":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://loonaautomation.github.io/loona-audio-tools/it/"},{"@type":"ListItem","position":2,"name":"Strumenti audio","item":"https://loonaautomation.github.io/loona-audio-tools/it/"},{"@type":"ListItem","position":3,"name":"Velocità audio 2.0x","item":"https://loonaautomation.github.io/loona-audio-tools/it/audio-speed-2-0x/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"L'altezza cambierà?","acceptedAnswer":{"@type":"Answer","text":"No: lo strumento allunga il tempo dell'audio, così l'altezza resta naturale mentre la velocità cambia. Il parlato molto veloce può comunque sembrare affrettato, che è una proprietà della velocità, non dell'altezza."}},{"@type":"Question","name":"Il file esportato mantiene la nuova velocità?","acceptedAnswer":{"@type":"Answer","text":"Sì: l'esportazione crea un nuovo file audio alla velocità scelta, quindi si riproduce a quella velocità in qualsiasi lettore."}},{"@type":"Question","name":"Il mio file audio è privato?","acceptedAnswer":{"@type":"Answer","text":"Sì: il file viene elaborato interamente nel tuo browser e mai caricato."}}]}</script>
+<link rel="manifest" href="../../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -181,6 +183,7 @@ audio.player{width:100%;margin-top:12px}
 <a href="../terms.html">Termini di utilizzo</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Audio Tools. Strumenti audio online gratuiti che funzionano al 100% nel tuo browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 <script src="../lib/audio-core.js"></script>
