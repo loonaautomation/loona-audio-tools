@@ -1,0 +1,29 @@
+{
+  "name": "Loona نائز جنریٹر آن لائن مفت",
+  "short_name": "نائز جنریٹر آن لائن مفت",
+  "description": "نیند، توجہ اور آواز چھپانے کے لیے سفید، گلابی اور بھورا شور آن لائن مفت بنائیں۔ اسے اپنے براؤزر میں لائیو چلائیں یا لوپ کے لیے 10، 30 یا 60 سیکنڈ WAV کے طور پر ڈاؤن لوڈ کریں۔ کوئی سائن اپ نہیں، کچھ اپ لوڈ نہیں ہوتا۔",
+  "id": "/loona-audio-tools/ur/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

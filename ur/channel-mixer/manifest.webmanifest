@@ -1,0 +1,29 @@
+{
+  "name": "Loona آڈیو چینل مکسر آن لائن مفت",
+  "short_name": "آڈیو چینل مکسر Online",
+  "description": "آڈیو چینلز آن لائن مفت تبدیل کریں - اسٹیریو سے مونو، مونو سے اسٹیریو، بائیں اور دائیں چینلز تبدیل کریں، یا بائیں یا دائیں چینل کو دونوں طرف کاپی کریں، WAV کے طور پر برآمد۔ کوئی سائن اپ نہیں، اور آپ کی آڈیو کبھی آپ کی ڈیوائس نہیں چھوڑتی۔",
+  "id": "/loona-audio-tools/ur/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

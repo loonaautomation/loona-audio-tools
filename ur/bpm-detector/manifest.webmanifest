@@ -1,0 +1,29 @@
+{
+  "name": "Loona BPM ڈیٹیکٹر آن لائن مفت",
+  "short_name": "BPM ڈیٹیکٹر آن لائن مفت",
+  "description": "گانے کا BPM آن لائن مفت معلوم کریں۔ ڈیٹیکٹر آپ کے براؤزر میں دھڑکن کا تجزیہ کرتا ہے اور رفتار، فی دھڑکن سیکنڈ اور اعتماد کی درجہ بندی دکھاتا ہے - اس کے علاوہ ٹیپ ٹیمپو ٹول۔ کوئی سائن اپ نہیں، اور آپ کی آڈیو کبھی آپ کی ڈیوائس نہیں چھوڑتی۔",
+  "id": "/loona-audio-tools/ur/bpm-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

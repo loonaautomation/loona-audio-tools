@@ -1,0 +1,29 @@
+{
+  "name": "Loona الارم ساؤنڈ میکر",
+  "short_name": "الارم ساؤنڈ میکر",
+  "description": "مفت الارم ساؤنڈ میکر: اپنے براؤزر میں آڈیو تراشیں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
+  "id": "/loona-audio-tools/ur/alarm-sound-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

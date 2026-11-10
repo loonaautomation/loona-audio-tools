@@ -1,0 +1,29 @@
+{
+  "name": "Loona مائیکروفون ٹیسٹ آن لائن مفت",
+  "short_name": "مائیکروفون ٹیسٹ آن لائن مفت",
+  "description": "اپنے مائیکروفون کی جانچ اپنے براؤزر میں مفت کریں: لائیو لیول میٹر، چلانے کے ساتھ 5 سیکنڈ کی آزمائشی ریکارڈنگ، اور مائیکروفون منتخب کنندہ۔ کچھ اپ لوڈ نہیں ہوتا - آپ کا مائیک صرف مقامی طور پر استعمال ہوتا ہے۔",
+  "id": "/loona-audio-tools/ur/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

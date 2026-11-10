@@ -1,0 +1,29 @@
+{
+  "name": "Loona آڈیو کنورٹر آن لائن مفت",
+  "short_name": "آڈیو کنورٹر آن لائن مفت",
+  "description": "آڈیو فائلیں آن لائن مفت تبدیل کریں - MP3، WAV، OGG، M4A، WebM اور مزید کو WAV یا MP3 (128، 192 یا 320 kbps) میں بدلیں، سیمپل ریٹ برقرار رکھ کر۔ کوئی سائن اپ نہیں، اور آپ کی آڈیو کبھی آپ کی ڈیوائس نہیں چھوڑتی، کیونکہ ڈی کوڈنگ آپ کے براؤزر پر منحصر ہے اور تبدیلی 100% مقامی طور پر چلتی ہے۔",
+  "id": "/loona-audio-tools/ur/audio-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

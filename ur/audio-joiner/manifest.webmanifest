@@ -1,0 +1,29 @@
+{
+  "name": "Loona آڈیو جوائنر آن لائن مفت",
+  "short_name": "آڈیو جوائنر آن لائن مفت",
+  "description": "آڈیو فائلیں آن لائن مفت جوڑیں۔ MP3، WAV، M4A اور OGG فائلوں کو اپنی منتخب ترتیب میں ایک ٹریک میں جوڑیں، کسی سائن اپ کی ضرورت نہیں۔ آپ کے براؤزر میں نجی طور پر پروسیس، WAV کے طور پر برآمد۔",
+  "id": "/loona-audio-tools/ur/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

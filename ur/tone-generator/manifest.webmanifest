@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tone Generator آن لائن مفت",
+  "short_name": "Tone Generator آن لائن مفت",
+  "description": "آزمائشی ٹونز آن لائن مفت بنائیں۔ 20 Hz سے 20,000 Hz تک سائن، اسکوائر، ٹرائینگل اور سا ٹوتھ ویوفارمز - فوراً چلائیں یا WAV کے طور پر ڈاؤن لوڈ کریں۔ کوئی سائن اپ نہیں، آپ کے براؤزر میں 100% چلتا ہے۔",
+  "id": "/loona-audio-tools/ur/tone-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

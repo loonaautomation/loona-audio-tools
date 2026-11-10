@@ -1,0 +1,29 @@
+{
+  "name": "Loona ویوفارم تصویر جنریٹر آن لائن مفت",
+  "short_name": "ویوفارم تصویر جنریٹر",
+  "description": "کسی بھی آڈیو فائل کو آن لائن مفت ویوفارم تصویر میں بدلیں - سائز، رنگ، بھری ہوئی یا بار اسٹائل، اور شفاف پس منظر منتخب کریں، پھر PNG ڈاؤن لوڈ کریں۔ کوئی سائن اپ نہیں، اور آپ کی آڈیو کبھی آپ کی ڈیوائس نہیں چھوڑتی۔",
+  "id": "/loona-audio-tools/ur/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

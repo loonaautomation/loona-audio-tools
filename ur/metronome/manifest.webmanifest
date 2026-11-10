@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metronome آن لائن مفت",
+  "short_name": "Metronome آن لائن مفت",
+  "description": "مفت آن لائن میٹرونوم جس میں BPM سلائیڈر 30 سے 240 تک، وقت کے دستخط، ذیلی تقسیم، لہجے والی پہلی دھڑکن، بصری نبض اور ٹیپ ٹیمپو۔ کوئی سائن اپ نہیں، کچھ اپ لوڈ نہیں ہوتا - یہ آپ کے براؤزر میں چلتا ہے۔",
+  "id": "/loona-audio-tools/ur/metronome/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

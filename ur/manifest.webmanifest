@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "مفت آن لائن آڈیو ٹولز - MP3، WAV، M4A اور OGG فائلیں کاٹیں اور تراشیں، آڈیو فائلوں کو ایک ٹریک میں جوڑیں، WAV اور MP3 کے درمیان آڈیو تبدیل کریں، اپنی آواز اور اسکرین ریکارڈ کریں، اور اپنے مائیکروفون اور ویب کیم کی جانچ کریں۔ 100% مفت، کوئی سائن اپ نہیں، اور سب کچھ آپ کی ڈیوائس پر رہتا ہے۔",
+  "id": "/loona-audio-tools/ur/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
