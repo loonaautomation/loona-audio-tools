@@ -1,0 +1,29 @@
+{
+  "name": "Loona Микшер аудиоканалов Онлайн бесплатно",
+  "short_name": "Микшер аудиоканалов Online",
+  "description": "Конвертируйте аудиоканалы онлайн бесплатно: стерео в моно, моно в стерео, меняйте левый и правый каналы или копируйте левый или правый канал на обе стороны, с экспортом в WAV. Без регистрации, и ваше аудио никогда не покидает ваше устройство.",
+  "id": "/loona-audio-tools/ru/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

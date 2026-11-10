@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "Бесплатные онлайн-инструменты для аудио: обрезайте MP3, WAV, M4A и OGG, объединяйте аудиофайлы в одну дорожку, конвертируйте аудио между WAV и MP3, записывайте свой голос и экран, проверяйте микрофон и веб-камеру. На 100% бесплатно, без регистрации, и всё остаётся на вашем устройстве.",
+  "id": "/loona-audio-tools/ru/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

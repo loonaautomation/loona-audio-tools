@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор шума Онлайн бесплатно",
+  "short_name": "Генератор шума Онлайн бесплатно",
+  "description": "Создавайте белый, розовый и коричневый шум онлайн бесплатно для сна, концентрации и маскировки звуков. Воспроизводите его вживую в вашем браузере или скачивайте 10, 30 или 60 секунд в формате WAV для цикла. Без регистрации, ничего не загружается на сервер.",
+  "id": "/loona-audio-tools/ru/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тюнер для инструментов Онлайн бесплатно",
+  "short_name": "Тюнер для инструментов Онлайн бесплатно",
+  "description": "Настраивайте любой инструмент онлайн бесплатно с помощью микрофона. Хроматический тюнер показывает название ноты, точную частоту и то, на сколько центов вы выше или ниже. Точность указана честно, без регистрации, и ваше аудио никогда не покидает ваше устройство.",
+  "id": "/loona-audio-tools/ru/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

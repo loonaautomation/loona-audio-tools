@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор изображения осциллограммы Онлайн бесплатно",
+  "short_name": "Генератор изображения осциллограммы",
+  "description": "Превращайте любой аудиофайл в изображение осциллограммы онлайн бесплатно: выберите размер, цвета, стиль заливки или столбцов и прозрачный фон, а затем скачайте PNG. Без регистрации, и ваше аудио никогда не покидает ваше устройство.",
+  "id": "/loona-audio-tools/ru/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
