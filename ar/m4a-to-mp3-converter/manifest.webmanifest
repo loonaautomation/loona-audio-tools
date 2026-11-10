@@ -1,0 +1,29 @@
+{
+  "name": "Loona M4A إلى MP3",
+  "short_name": "M4A إلى MP3",
+  "description": "محوّل M4A إلى MP3 مجاني: حوّل صوت M4A إلى MP3 في متصفحك. دون تسجيل، ودون رفع، ودون علامة مائية.",
+  "id": "/loona-audio-tools/ar/m4a-to-mp3-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

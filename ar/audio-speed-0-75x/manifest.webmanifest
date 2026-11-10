@@ -1,0 +1,29 @@
+{
+  "name": "Loona سرعة الصوت 0.75x",
+  "short_name": "سرعة الصوت 0.75x",
+  "description": "مغيّر سرعة صوت 0.75x مجاني: غيّر أي ملف صوتي إلى سرعة 0.75x في متصفحك. دون تسجيل، ودون رفع.",
+  "id": "/loona-audio-tools/ar/audio-speed-0-75x/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

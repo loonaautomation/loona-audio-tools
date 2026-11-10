@@ -1,0 +1,29 @@
+{
+  "name": "Loona خلّاط القنوات الصوتية مجاني عبر الإنترنت",
+  "short_name": "خلّاط القنوات الصوتية عبر الإنترنت",
+  "description": "حوّل قنوات الصوت عبر الإنترنت مجانًا - من الستيريو إلى الأحادي، ومن الأحادي إلى الستيريو، وبادل قناتي اليسار واليمين، أو انسخ القناة اليسرى أو اليمنى إلى كلا الجانبين، مُصدّرًا بصيغة WAV. دون تسجيل، ولا يغادر صوتك جهازك أبدًا.",
+  "id": "/loona-audio-tools/ar/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

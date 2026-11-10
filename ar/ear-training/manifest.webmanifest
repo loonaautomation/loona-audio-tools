@@ -1,0 +1,29 @@
+{
+  "name": "Loona تدريب الأذن مجاني عبر الإنترنت",
+  "short_name": "تدريب الأذن مجاني عبر الإنترنت",
+  "description": "درّب أذنك عبر الإنترنت مجانًا - اسمع نغمتين، وسمِّ الفترة، وابنِ نتيجتك وسلسلتك. مستويات سهل ومتوسط وصعب حتى الأوكتاف الكامل. دون تسجيل، كل شيء مولّد في متصفحك.",
+  "id": "/loona-audio-tools/ar/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

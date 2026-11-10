@@ -1,0 +1,29 @@
+{
+  "name": "Loona مكتبة أدوات الصوت",
+  "short_name": "مكتبة أدوات الصوت",
+  "description": "مكتبة Loona Audio Tools الكاملة: محوّلات MP3/WAV/OGG/M4A/FLAC/AAC، وأهداف معدل بت، وإعدادات سرعة مسبقة، وأدوات حسب الاستخدام.",
+  "id": "/loona-audio-tools/ar/audio-tools-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

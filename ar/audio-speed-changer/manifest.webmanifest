@@ -1,0 +1,29 @@
+{
+  "name": "Loona أداة تغيير سرعة الصوت مجاني عبر الإنترنت",
+  "short_name": "أداة تغيير سرعة الصوت عبر الإنترنت",
+  "description": "غيّر سرعة الصوت عبر الإنترنت مجانًا. سرّع أو أبطئ MP3 وWAV وM4A وOGG من 0.25x إلى 3x، وعاين فورًا وصدّر بصيغة WAV. دون تسجيل، ولا يغادر صوتك جهازك أبدًا.",
+  "id": "/loona-audio-tools/ar/audio-speed-changer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

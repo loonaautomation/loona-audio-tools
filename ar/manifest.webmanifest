@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "أدوات صوت مجانية عبر الإنترنت - اقطع وقصّ ملفات MP3 وWAV وM4A وOGG، وادمج ملفات الصوت في مسار واحد، وحوّل الصوت بين WAV وMP3، وسجّل صوتك وشاشتك، واختبر ميكروفونك وكاميرا الويب الخاصة بك. مجاني 100%، ودون تسجيل، وكل شيء يبقى على جهازك.",
+  "id": "/loona-audio-tools/ar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

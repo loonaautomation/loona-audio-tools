@@ -1,0 +1,29 @@
+{
+  "name": "Loona مُسلسِل الطبول مجاني عبر الإنترنت",
+  "short_name": "مُسلسِل الطبول مجاني عبر الإنترنت",
+  "description": "اصنع إيقاعات طبول عبر الإنترنت مجانًا بمُسلسِل من 16 خطوة - أصوات ضربة كبيرة وسنير وقبعة مُصنّعة، وإعدادات Rock وHouse وHip-Hop مسبقة، وإيقاع من 60 إلى 180 BPM. دون عيّنات، ودون تسجيل، كل شيء مُصنّع في متصفحك.",
+  "id": "/loona-audio-tools/ar/drum-sequencer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

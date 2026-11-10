@@ -1,0 +1,29 @@
+{
+  "name": "Loona المترونوم مجاني عبر الإنترنت",
+  "short_name": "المترونوم مجاني عبر الإنترنت",
+  "description": "مترونوم مجاني عبر الإنترنت مع شريط تمرير BPM من 30 إلى 240، وتوقيعات زمنية، وتقسيمات فرعية، ونبضة أولى مشدد عليها، ونبض مرئي، وإيقاع بالنقر. دون تسجيل، ودون رفع أي شيء - يعمل في متصفحك.",
+  "id": "/loona-audio-tools/ar/metronome/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

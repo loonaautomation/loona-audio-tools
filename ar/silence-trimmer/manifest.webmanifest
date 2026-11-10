@@ -1,0 +1,29 @@
+{
+  "name": "Loona أداة إزالة الصمت مجاني عبر الإنترنت",
+  "short_name": "أداة إزالة الصمت مجاني عبر الإنترنت",
+  "description": "أزل الصمت من بداية الصوت ونهايته عبر الإنترنت مجانًا. يقيس المقصّ الثواني الصامتة، ويقصّها عند عتبة dB قابلة للضبط مع حشو، ويصدّر WAV. دون تسجيل، ولا يغادر صوتك جهازك أبدًا.",
+  "id": "/loona-audio-tools/ar/silence-trimmer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

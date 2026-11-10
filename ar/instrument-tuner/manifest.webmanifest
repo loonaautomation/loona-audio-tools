@@ -1,0 +1,29 @@
+{
+  "name": "Loona مدوزن الآلات مجاني عبر الإنترنت",
+  "short_name": "مدوزن الآلات مجاني عبر الإنترنت",
+  "description": "اضبط أي آلة عبر الإنترنت مجانًا بميكروفونك. يُظهر المدوزن اللوني اسم النغمة، والتردد الدقيق، وكم سنتًا أنت عالٍ أو منخفض. الدقة مذكورة بصدق، ودون تسجيل، ولا يغادر صوتك جهازك أبدًا.",
+  "id": "/loona-audio-tools/ar/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
