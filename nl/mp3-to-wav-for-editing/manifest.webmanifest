@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3 naar WAV voor Bewerken",
+  "short_name": "MP3 naar WAV voor Bewerken",
+  "description": "Gratis MP3 naar WAV voor Bewerken: converteer en bereid audio voor in je browser. Geen registratie, geen upload.",
+  "id": "/loona-audio-tools/nl/mp3-to-wav-for-editing/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

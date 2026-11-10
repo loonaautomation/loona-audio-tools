@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audiokanaalmixer Online Gratis",
+  "short_name": "Audiokanaalmixer Online",
+  "description": "Converteer audiokanalen gratis online - stereo naar mono, mono naar stereo, linker- en rechterkanaal verwisselen, of het linker- of rechterkanaal naar beide kanten kopiëren, geëxporteerd als WAV. Geen registratie, en je audio verlaat je apparaat nooit.",
+  "id": "/loona-audio-tools/nl/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

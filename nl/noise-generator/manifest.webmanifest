@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ruisgenerator Online Gratis",
+  "short_name": "Ruisgenerator Online Gratis",
+  "description": "Genereer witte, roze en bruine ruis gratis online voor slaap, focus en geluidsmaskering. Speel het live af in je browser of download 10, 30 of 60 seconden als WAV om te herhalen. Geen registratie, niets geüpload.",
+  "id": "/loona-audio-tools/nl/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metronoom Online Gratis",
+  "short_name": "Metronoom Online Gratis",
+  "description": "Gratis online metronoom met een BPM-schuifregelaar van 30 tot 240, maatsoorten, onderverdelingen, een geaccentueerde eerste tel, een visuele puls en taptempo. Geen registratie, niets geüpload - hij draait in je browser.",
+  "id": "/loona-audio-tools/nl/metronome/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

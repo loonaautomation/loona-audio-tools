@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3-tag-editor Online Gratis",
+  "short_name": "MP3-tag-editor Online Gratis",
+  "description": "Bekijk en bewerk MP3-ID3-tags gratis online - titel, artiest, album, jaar en hoesafbeelding - zonder de audio opnieuw te coderen. Andere frames blijven bewaard, tags kunnen volledig worden verwijderd, en je MP3 verlaat je apparaat nooit.",
+  "id": "/loona-audio-tools/nl/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

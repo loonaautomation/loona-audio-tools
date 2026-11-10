@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio-snelheidsveranderaar Online Gratis",
+  "short_name": "Audio-snelheidsveranderaar Online",
+  "description": "Wijzig de audiosnelheid gratis online. Versnel of vertraag MP3, WAV, M4A en OGG van 0.25x tot 3x, beluister direct een preview en exporteer als WAV. Geen registratie, en je audio verlaat je apparaat nooit.",
+  "id": "/loona-audio-tools/nl/audio-speed-changer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

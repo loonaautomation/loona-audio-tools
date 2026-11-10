@@ -1,0 +1,29 @@
+{
+  "name": "Loona Microfoontest Online Gratis",
+  "short_name": "Microfoontest Online Gratis",
+  "description": "Test je microfoon gratis in je browser: live niveaumeter, een testopname van 5 seconden met afspelen, en een microfoonkiezer. Er wordt niets geüpload - je microfoon wordt alleen lokaal gebruikt.",
+  "id": "/loona-audio-tools/nl/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

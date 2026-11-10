@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Samenvoeger Online Gratis",
+  "short_name": "Audio Samenvoeger Online Gratis",
+  "description": "Voeg audiobestanden gratis online samen. Combineer MP3-, WAV-, M4A- en OGG-bestanden tot één track in de volgorde die je kiest, geen registratie nodig. Privé verwerkt in je browser, geëxporteerd als WAV.",
+  "id": "/loona-audio-tools/nl/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
