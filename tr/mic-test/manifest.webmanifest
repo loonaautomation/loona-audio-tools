@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mikrofon Testi Çevrimiçi Ücretsiz",
+  "short_name": "Mikrofon Testi Çevrimiçi Ücretsiz",
+  "description": "Mikrofonunuzu tarayıcınızda ücretsiz test edin: canlı seviye ölçer, geri çalmayla birlikte 5 saniyelik bir test kaydı ve bir mikrofon seçici. Hiçbir şey yüklenmez - mikrofonunuz yalnızca yerel olarak kullanılır.",
+  "id": "/loona-audio-tools/tr/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

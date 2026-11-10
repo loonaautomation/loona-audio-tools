@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ekran Kaydedici Çevrimiçi Ücretsiz",
+  "short_name": "Ekran Kaydedici Çevrimiçi Ücretsiz",
+  "description": "Ekranınızı, bir sekmeyi veya bir pencereyi tarayıcınızda ücretsiz kaydedin - isterseniz mikrofon sesiyle. Kayıt yok, yükleme yok, WebM olarak indirilir.",
+  "id": "/loona-audio-tools/tr/screen-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

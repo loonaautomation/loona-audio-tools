@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ses Kanal Mikseri Çevrimiçi Ücretsiz",
+  "short_name": "Ses Kanal Mikseri Çevrimiçi",
+  "description": "Ses kanallarını çevrimiçi ve ücretsiz dönüştürün - stereo'dan mono'ya, mono'dan stereo'ya, sol ve sağ kanalları değiştirin veya sol ya da sağ kanalı her iki tarafa kopyalayın; WAV olarak dışa aktarılır. Kayıt gerekmez ve sesiniz cihazınızdan asla ayrılmaz.",
+  "id": "/loona-audio-tools/tr/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

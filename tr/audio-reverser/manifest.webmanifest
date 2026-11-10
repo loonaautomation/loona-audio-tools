@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ses Ters Çevirici Çevrimiçi Ücretsiz",
+  "short_name": "Ses Ters Çevirici Çevrimiçi Ücretsiz",
+  "description": "Sesi çevrimiçi ve ücretsiz ters çevirin. Herhangi bir MP3, WAV, M4A veya OGG dosyasını tersten çalın ve ters çevrilmiş sesi WAV olarak indirin. Kayıt gerekmez ve sesiniz cihazınızdan asla ayrılmaz.",
+  "id": "/loona-audio-tools/tr/audio-reverser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona BPM Dedektörü Çevrimiçi Ücretsiz",
+  "short_name": "BPM Dedektörü Çevrimiçi Ücretsiz",
+  "description": "Bir şarkının BPM'sini çevrimiçi ve ücretsiz bulun. Dedektör, vuruşu tarayıcınızda analiz eder ve tempoyu, vuruş başına saniyeyi ve bir güven derecesini gösterir - ayrıca bir dokunarak tempo aracı. Kayıt gerekmez ve sesiniz cihazınızdan asla ayrılmaz.",
+  "id": "/loona-audio-tools/tr/bpm-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
