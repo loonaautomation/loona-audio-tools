@@ -123,6 +123,21 @@ audio.player{width:100%;margin-top:12px}
 .kv2{display:flex;gap:14px;flex-wrap:wrap;margin:10px 0}
 .kv2 div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:8px 14px;font-size:.93rem}
 .kv2 b{color:var(--teal)}
+
+.ls{max-width:640px;margin:22px auto 4px;position:relative;text-align:left}
+.ls-box{display:flex;background:#fff;border-radius:999px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.28);border:2px solid var(--gold,#d4af37)}
+.ls-box input{flex:1;border:0;outline:0;padding:14px 18px;font-size:1.02rem;min-width:0;color:var(--ink,#12211c);background:#fff}
+.ls-box button{border:0;background:var(--gold,#d4af37);color:#231a00;font-weight:800;padding:0 22px;font-size:1rem;cursor:pointer}
+.ls-box button:hover{background:var(--gold2,#b8912a)}
+.ls-list{position:absolute;left:0;right:0;top:calc(100% + 8px);background:#fff;border-radius:14px;box-shadow:0 18px 44px rgba(0,0,0,.35);z-index:60;max-height:70vh;overflow-y:auto;text-align:left}
+.ls-item{display:block;padding:10px 16px;text-decoration:none;border-bottom:1px solid #eee9da}
+.ls-item:last-of-type{border-bottom:0}
+.ls-item:hover,.ls-item.act{background:#fbf6df}
+.ls-nm{font-weight:700;color:var(--ink,#12211c)}
+.ls-badge{display:inline-block;margin-left:8px;background:var(--teal,#062e2a);color:#ffe9a8;font-size:.68rem;font-weight:700;padding:2px 8px;border-radius:999px;vertical-align:2px;white-space:nowrap}
+.ls-ds{display:block;color:#5a6660;font-size:.85rem;margin-top:1px}
+.ls-none{padding:12px 16px;color:#5a6660;font-size:.92rem}
+@media(max-width:560px){.ls-box button{padding:0 14px}.ls-box input{padding:12px 14px;font-size:.98rem}}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Loona Audio Tools","url":"https://loonaautomation.github.io/loona-audio-tools/fr/","description":"Free online audio tools that run 100% in your browser - cut and trim audio, join audio files and record your voice without uploading anything.","publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{
@@ -156,6 +171,11 @@ audio.player{width:100%;margin-top:12px}
 <h1>Gratuit en ligne <span class="gold">Outils audio</span><br>Qui ne téléversent jamais votre audio</h1>
 <p>En résumé : Loona Audio Tools vous donne des outils gratuits pour découper et rogner l'audio, assembler plusieurs fichiers audio en un seul, enregistrer votre voix, changer la vitesse de l'audio, amplifier les enregistrements faibles, inverser les sons, ajouter des fondus, convertir l'audio entre formats, supprimer les extrémités silencieuses, mélanger les canaux mono et stéréo, détecter le BPM d'une chanson, transformer l'audio en images de forme d'onde, modifier les balises MP3, jouer un métronome, accorder des instruments, construire des rythmes de batterie, entraîner votre oreille avec des intervalles, générer du bruit blanc, rose et brun, générer des tonalités de test, enregistrer votre écran, modifier des fichiers de sous-titres, et tester votre microphone et votre webcam - le tout traité en privé dans votre navigateur.</p>
 <p>Choisissez un outil ci-dessous et terminez le travail en quelques secondes. Aucun compte, aucune file d'attente, aucun filigrane.</p>
+
+<div class="ls"><form id="lsForm" role="search" autocomplete="off">
+<div class="ls-box"><input id="lsInput" type="search" placeholder="Rechercher parmi 23 outils audio&hellip; essayez &lsquo;découpeur&rsquo;" aria-label="Rechercher parmi 23 outils audio" autocomplete="off"><button type="submit">Rechercher</button></div>
+<div id="lsList" class="ls-list" role="listbox" hidden></div>
+</form></div>
 <div class="badges"><span class="badge">100% gratuit</span><span class="badge">Sans inscription</span><span class="badge">L'audio ne quitte jamais votre appareil</span><span class="badge">Fonctionne sur mobile</span></div>
 </div></div>
 <div class="wrap">
@@ -188,6 +208,237 @@ audio.player{width:100%;margin-top:12px}
 <a href="terms.html">Conditions d'utilisation</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Audio Tools. Outils audio en ligne gratuits qui fonctionnent à 100% dans votre navigateur.</div></footer>
+<script>/*loona-audio-search*/
+/* Loona Audio Tools search (per-site build of the Loona hub tool search v2) — lazy-loads /search-index.json on first focus/typing.
+   v2 fixes: a failed fetch no longer poisons the session (it retries on the next
+   keystroke/focus), a "Loading tools…" state shows while the index downloads,
+   an embedded popular-tools fallback keeps search alive offline, Roman Urdu
+   aliases, joined-word matching, dedupe and tool-over-guide ranking. */
+(function () {
+  "use strict";
+  var form = document.getElementById('lsForm'),
+      input = document.getElementById('lsInput'),
+      list = document.getElementById('lsList');
+  if (!form || !input || !list) return;
+  var INDEX_URL = '/loona-audio-tools/fr/search-index.json';
+  var STR = {"loading": "Chargement des outils…", "fb": "Outils populaires affichés — l'index complet arrive…", "zero1": "Aucun résultat exact pour “", "zero2": "” — essayez ces outils populaires :"};
+  var FALLBACK = [{"n": "Découpeur audio", "u": "https://loonaautomation.github.io/loona-audio-tools/fr/audio-cutter/", "s": "Loona Audio Tools", "d": "Découpez le début et la fin de n'importe quelle chanson, sonnerie, cours ou note vocale avec une forme d'onde visuelle - puis téléchargez la découpe en WAV.", "k": "audio cutter audio cutter decoupez le debut et la fin de n importe quelle chanson sonnerie cours ou note vocale avec une forme d onde visuelle puis telechargez la decoupe en wav", "p": 0, "c": "Tool"}, {"n": "Convertisseur audio", "u": "https://loonaautomation.github.io/loona-audio-tools/fr/audio-converter/", "s": "Loona Audio Tools", "d": "Convertissez l'audio entre formats - transformez MP3, WAV, OGG, M4A, WebM et plus en WAV ou MP3 à 128, 192 ou 320 kbps, avec la fréquence d'échantillonnage préservée.", "k": "audio converter audio converter convertissez l audio entre formats transformez mp3 wav ogg m4a webm et plus en wav ou mp3 a 128 192 ou 320 kbps avec la frequence d echantillonnage preservee", "p": 1, "c": "Tool"}, {"n": "Assembleur audio", "u": "https://loonaautomation.github.io/loona-audio-tools/fr/audio-joiner/", "s": "Loona Audio Tools", "d": "Combinez deux fichiers audio ou plus en une seule piste, dans exactement l'ordre que vous choisissez.", "k": "audio joiner audio joiner combinez deux fichiers audio ou plus en une seule piste dans exactement l ordre que vous choisissez", "p": 2, "c": "Tool"}, {"n": "Enregistreur vocal", "u": "https://loonaautomation.github.io/loona-audio-tools/fr/voice-recorder/", "s": "Loona Audio Tools", "d": "Enregistrez votre voix avec votre microphone, réécoutez, et téléchargez l'enregistrement - rien n'est jamais téléversé.", "k": "voice recorder voice recorder enregistrez votre voix avec votre microphone reecoutez et telechargez l enregistrement rien n est jamais televerse", "p": 3, "c": "Tool"}, {"n": "Modificateur de vitesse audio", "u": "https://loonaautomation.github.io/loona-audio-tools/fr/audio-speed-changer/", "s": "Loona Audio Tools", "d": "Accélérez ou ralentissez n'importe quel audio, de 0.25x à 3x - parfait pour les cours, les podcasts et l'apprentissage de chansons. La hauteur change avec la vitesse, indiqué honnêtement sur la page.", "k": "audio speed changer audio speed changer accelerez ou ralentissez n importe quel audio de 0 25x a 3x parfait pour les cours les podcasts et l apprentissage de chansons la hauteur change avec la vitesse indique honnetement sur la page", "p": 4, "c": "Tool"}, {"n": "Amplificateur de volume", "u": "https://loonaautomation.github.io/loona-audio-tools/fr/volume-booster/", "s": "Loona Audio Tools", "d": "Rendez les enregistrements faibles jusqu'à 300% plus forts, avec un avertissement d'écrêtage en direct et une option Normaliser en un clic qui augmente le volume en toute sécurité.", "k": "volume booster volume booster rendez les enregistrements faibles jusqu a 300 plus forts avec un avertissement d ecretage en direct et une option normaliser en un clic qui augmente le volume en toute securite", "p": 5, "c": "Tool"}];
+  var data = null, loading = null, usingFallback = false, active = -1, current = [];
+
+  /*CORE-START*/
+/* Loona search core v2 — shared by the homepage dropdown and the /search/ page.
+   Adds over v1: Roman Urdu alias layer, joined-word matching, keyword prefix match,
+   URL+name dedupe, tool-over-guide boost. `data` is supplied by the page glue. */
+var ALIASES = {
+  "awaz": "audio",
+  "jorna": "join",
+  "kaatna": "cut",
+  "raftaar": "speed"
+};
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function lev(a, b) {
+  if (a === b) return 0;
+  var la = a.length, lb = b.length, i, j;
+  if (Math.abs(la - lb) > 1) return 2;
+  var prev = [], cur = [];
+  for (j = 0; j <= lb; j++) prev[j] = j;
+  for (i = 1; i <= la; i++) {
+    cur[0] = i; var best = 99;
+    for (j = 1; j <= lb; j++) {
+      var v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a.charAt(i - 1) === b.charAt(j - 1) ? 0 : 1));
+      cur[j] = v; if (v < best) best = v;
+    }
+    if (best > 1) return 2;
+    var t = prev; prev = cur; cur = t;
+  }
+  return prev[lb];
+}
+function wordLevel(w, nameWords, hayWords, nameJoined) {
+  var i;
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i] === w) return 30;
+  for (i = 0; i < nameWords.length; i++) if (w.length >= 3 && nameWords[i].indexOf(w) === 0) return 24;
+  for (i = 0; i < hayWords.length; i++) if (hayWords[i] === w) return 20;
+  for (i = 0; i < hayWords.length; i++) if (w.length >= 3 && hayWords[i].indexOf(w) === 0) return 18;
+  if (w.length >= 4 && nameJoined.indexOf(w) >= 0) return 22;
+  if (w.length >= 4) {
+    for (i = 0; i < nameWords.length; i++) if (lev(w, nameWords[i]) <= 1) return 17;
+    for (i = 0; i < hayWords.length; i++) if (lev(w, hayWords[i]) <= 1) return 12;
+  }
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i].indexOf(w) >= 0) return 14;
+  return 0;
+}
+function expandWords(qw) {
+  /* variants tried (best score wins): the words themselves; each Roman Urdu
+     word swapped for the FIRST word of its English meaning; the full meaning;
+     and — for multi-word queries — the words joined into one ("wi fi"→"wifi"). */
+  var prim = [], full = [], changed = false;
+  for (var i = 0; i < qw.length; i++) {
+    var a = ALIASES[qw[i]];
+    if (a) {
+      changed = true;
+      var parts = a.split(' ');
+      prim.push(parts[0]);
+      for (var j = 0; j < parts.length; j++) full.push(parts[j]);
+    } else { prim.push(qw[i]); full.push(qw[i]); }
+  }
+  var out = [qw];
+  if (changed) { out.push(prim); if (full.join(' ') !== prim.join(' ')) out.push(full); }
+  if (qw.length > 1) out.push([qw.join('')]);
+  return out;
+}
+function runSearch(q, limit) {
+  var query = norm(q);
+  if (!query || !data) return [];
+  var variants = expandWords(query.split(' ')), out = [];
+  for (var e = 0; e < data.length; e++) {
+    var it = data[e], name = norm(it.n),
+        hay = name + ' ' + norm(it.s) + ' ' + (it.k || ''),
+        nameWords = name.split(' '), hayWords = hay.split(' '),
+        nameJoined = name.replace(/ /g, ''), best = -1;
+    for (var v = 0; v < variants.length; v++) {
+      var qw = variants[v], sum = 0, ok = true;
+      for (var i = 0; i < qw.length; i++) {
+        var lv = wordLevel(qw[i], nameWords, hayWords, nameJoined);
+        if (lv === 0) { ok = false; break; }
+        sum += lv;
+      }
+      if (!ok) continue;
+      var score = sum * 10, qs = qw.join(' '), qJoined = qs.replace(/ /g, '');
+      if (name === qs) score += 100000;
+      else if (name.indexOf(qs) === 0) score += 5000;
+      else if (name.indexOf(qs) >= 0) score += 2000;
+      if (nameJoined === qJoined) score += 9000;
+      else if (qJoined.length >= 4 && nameJoined.indexOf(qJoined) >= 0) score += 2500;
+      if (qw.length > 1) {
+        var allN = true;
+        for (var k = 0; k < qw.length; k++) if (nameWords.indexOf(qw[k]) < 0) allN = false;
+        if (allN) score += 800;
+      }
+      /* tool whose name carries the searched word beats a guide about it */
+      if (it.c !== 'Guide') {
+        for (var m = 0; m < qw.length; m++) if (nameWords.indexOf(qw[m]) >= 0) { score += 350; break; }
+      }
+      score -= (typeof it.p === 'number' ? it.p : 400) * 0.6;
+      score -= name.length * 0.3;
+      if (score > best) best = score;
+    }
+    if (best >= 0) out.push({ it: it, score: best });
+  }
+  out.sort(function (a, b) { return b.score - a.score; });
+  /* dedupe: same URL once, same tool name once (keep the better-ranked copy) */
+  var seenU = {}, seenN = {}, res = [];
+  for (var r = 0; r < out.length; r++) {
+    var en = out[r].it, key = norm(en.n);
+    if (seenU[en.u] || seenN[key]) continue;
+    seenU[en.u] = 1; seenN[key] = 1; res.push(en);
+    if (res.length >= limit) break;
+  }
+  return res;
+}
+function popular(n) {
+  if (!data) return [];
+  return data.filter(function (e) { return (typeof e.p === 'number' ? e.p : 400) < 30; })
+             .sort(function (a, b) { return a.p - b.p; }).slice(0, n);
+}
+/*CORE-END*/
+
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function badge(e) { return e.c === 'Website' ? 'Website' : (e.c === 'Guide' ? 'Guide' : e.s.replace(/^Loona /, '')); }
+  function itemHtml(e, i) {
+    return '<a class="ls-item" role="option" data-i="' + i + '" href="' + esc(e.u) + '">' +
+           '<span class="ls-nm">' + esc(e.n) + '</span><span class="ls-badge">' + esc(badge(e)) + '</span>' +
+           '<span class="ls-ds">' + esc(e.d) + '</span></a>';
+  }
+  function bindItems() {
+    var links = list.querySelectorAll('.ls-item');
+    for (var i = 0; i < links.length; i++) {
+      links[i].addEventListener('mouseenter', function () { setActive(parseInt(this.getAttribute('data-i'), 10)); });
+    }
+  }
+  function render(items, q) {
+    active = -1; current = items;
+    var h = '';
+    if (usingFallback) h += '<div class="ls-none">' + STR.fb + '</div>';
+    h += items.map(itemHtml).join('');
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderZero(q) {
+    var pop = popular(6);
+    active = -1; current = pop;
+    var h = '<div class="ls-none">' + STR.zero1 + esc(q) + STR.zero2 + '</div>' +
+            pop.map(itemHtml).join('') +
+            '';
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderLoading() {
+    list.innerHTML = '<div class="ls-none">' + STR.loading + '</div>';
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function refresh() {
+    var q = input.value;
+    if (!data) { renderLoading(); return; }
+    if (!norm(q)) { render(popular(6), ''); return; }
+    var res = runSearch(q, 8);
+    if (res.length) render(res, q); else renderZero(q);
+  }
+  function hide() { list.hidden = true; active = -1; input.setAttribute('aria-expanded', 'false'); }
+  function setActive(i) {
+    active = i;
+    var links = list.querySelectorAll('.ls-item');
+    for (var j = 0; j < links.length; j++) links[j].classList.toggle('act', j === i);
+    if (i >= 0 && links[i]) links[i].scrollIntoView({ block: 'nearest' });
+  }
+  function ensureIndex() {
+    if (data && !usingFallback) return;
+    if (loading) return;
+    loading = fetch(INDEX_URL).then(function (r) {
+      if (!r.ok) throw new Error('index ' + r.status);
+      return r.json();
+    }).then(function (j) {
+      data = j; usingFallback = false; loading = null; refresh();
+    }).catch(function () {
+      loading = null;                 /* not poisoned: next keystroke/focus retries */
+      if (!data) { data = FALLBACK; usingFallback = true; }
+      refresh();
+    });
+  }
+  var timer = null;
+  function onType() { ensureIndex(); refresh(); }
+  input.addEventListener('focus', onType);
+  input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(onType, 70); });
+  input.addEventListener('keydown', function (ev) {
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      ev.preventDefault();
+      if (list.hidden) { onType(); return; }
+      var n = current.length; if (!n) return;
+      setActive(ev.key === 'ArrowDown' ? (active + 1) % n : (active - 1 + n) % n);
+    } else if (ev.key === 'Escape') { hide(); }
+  });
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    var q = input.value;
+    if (active >= 0 && current[active]) { window.location.href = current[active].u; return; }
+    ensureIndex();
+    if (data) {
+      var best = runSearch(q, 1);
+      if (best.length) { window.location.href = best[0].u; return; }
+    }
+    if (norm(q)) renderZero(q);
+  });
+  document.addEventListener('click', function (ev) { if (!form.contains(ev.target)) hide(); });
+})();
+
+</script>
 <script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
