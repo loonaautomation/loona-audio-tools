@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pemangkas Keheningan Online Gratis",
+  "short_name": "Pemangkas Keheningan Online Gratis",
+  "description": "Hilangkan keheningan dari awal dan akhir audio online secara gratis. Pemangkas mengukur detik-detik senyap, memangkasnya pada ambang batas dB yang dapat disesuaikan dengan bantalan, dan mengekspor WAV. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
+  "id": "/loona-audio-tools/id/silence-trimmer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

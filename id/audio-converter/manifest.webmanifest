@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter Audio Online Gratis",
+  "short_name": "Konverter Audio Online Gratis",
+  "description": "Konversi berkas audio online secara gratis - ubah MP3, WAV, OGG, M4A, WebM, dan lainnya menjadi WAV atau MP3 (128, 192, atau 320 kbps) dengan laju sampel yang dipertahankan. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda, karena pendekodean bergantung pada browser Anda dan konversi berjalan 100% secara lokal.",
+  "id": "/loona-audio-tools/id/audio-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

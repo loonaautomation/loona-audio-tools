@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pendeteksi BPM Online Gratis",
+  "short_name": "Pendeteksi BPM Online Gratis",
+  "description": "Temukan BPM lagu online secara gratis. Pendeteksi menganalisis ketukan di browser Anda dan menampilkan tempo, detik per ketukan, dan peringkat keyakinan - ditambah alat ketuk-tempo. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
+  "id": "/loona-audio-tools/id/bpm-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
