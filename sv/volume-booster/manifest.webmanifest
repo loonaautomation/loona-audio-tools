@@ -1,0 +1,29 @@
+{
+  "name": "Loona Volymförstärkare Online gratis",
+  "short_name": "Volymförstärkare Online gratis",
+  "description": "Förstärk ljudvolymen online gratis. Gör tysta MP3-, WAV-, M4A- och OGG-inspelningar upp till 300 % starkare, eller normalisera toppar säkert, och exportera som WAV. Ingen registrering, och ditt ljud lämnar aldrig din enhet.",
+  "id": "/loona-audio-tools/sv/volume-booster/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

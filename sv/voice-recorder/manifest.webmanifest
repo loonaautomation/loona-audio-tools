@@ -1,0 +1,29 @@
+{
+  "name": "Loona Röstinspelare Online gratis",
+  "short_name": "Röstinspelare Online gratis",
+  "description": "Spela in din röst online gratis med din mikrofon. Lyssna tillbaka och ladda ner din inspelning – den lämnar aldrig din enhet. Ingen registrering, inga uppladdningar, fungerar på telefon och dator.",
+  "id": "/loona-audio-tools/sv/voice-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

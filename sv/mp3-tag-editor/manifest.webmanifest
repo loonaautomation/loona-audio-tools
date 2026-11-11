@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3-taggredigerare Online gratis",
+  "short_name": "MP3-taggredigerare Online gratis",
+  "description": "Visa och redigera MP3-ID3-taggar online gratis – titel, artist, album, år och omslagsbild – utan att koda om ljudet. Andra ramar bevaras, taggar kan tas bort helt, och din MP3 lämnar aldrig din enhet.",
+  "id": "/loona-audio-tools/sv/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

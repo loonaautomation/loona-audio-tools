@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hastighetsändrare för ljud Online gratis",
+  "short_name": "Hastighetsändrare för ljud Online",
+  "description": "Ändra ljudhastigheten online gratis. Snabba upp eller sakta ner MP3, WAV, M4A och OGG från 0.25x till 3x, förhandsgranska direkt och exportera som WAV. Ingen registrering, och ditt ljud lämnar aldrig din enhet.",
+  "id": "/loona-audio-tools/sv/audio-speed-changer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

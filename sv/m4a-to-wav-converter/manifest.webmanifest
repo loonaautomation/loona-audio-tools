@@ -1,0 +1,29 @@
+{
+  "name": "Loona M4A till WAV",
+  "short_name": "M4A till WAV",
+  "description": "Gratis M4A-till-WAV-konverterare: konvertera M4A-ljud till WAV i din webbläsare. Ingen registrering, ingen uppladdning, ingen vattenstämpel.",
+  "id": "/loona-audio-tools/sv/m4a-to-wav-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

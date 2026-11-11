@@ -1,0 +1,29 @@
+{
+  "name": "Loona SRT-undertextredigerare Online gratis",
+  "short_name": "SRT-undertextredigerare Online",
+  "description": "Redigera SRT- och WebVTT-undertextfiler online gratis: åtgärda undertext och tider, flytta alla köer samtidigt, reparera överlappande köer och konvertera SRT till VTT. Ingen registrering, och din undertextfil lämnar aldrig din enhet.",
+  "id": "/loona-audio-tools/sv/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

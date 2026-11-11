@@ -1,0 +1,29 @@
+{
+  "name": "Loona Skärminspelare Online gratis",
+  "short_name": "Skärminspelare Online gratis",
+  "description": "Spela in din skärm, en webbläsarflik eller ett fönster gratis i din webbläsare – med mikrofonljud om du vill ha det. Ingen registrering, ingen uppladdning, laddas ner som WebM.",
+  "id": "/loona-audio-tools/sv/screen-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3-bithastighetsminskare",
+  "short_name": "MP3-bithastighetsminskare",
+  "description": "Gratis MP3-bithastighetsminskare: krymp MP3-filer genom att koda om med 64–320 kbps. Mindre filer för meddelanden, e-post och lagring — i din webbläsare.",
+  "id": "/loona-audio-tools/sv/mp3-bitrate-reducer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
