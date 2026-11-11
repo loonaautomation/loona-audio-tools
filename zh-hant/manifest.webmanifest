@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "免費線上音訊工具——剪下和修剪 MP3、WAV、M4A 和 OGG 檔案，將音訊檔案合併為一條曲目，在 WAV 和 MP3 之間轉換音訊，錄製您的聲音和螢幕，並測試您的麥克風和攝像頭。100% 免費，無需註冊，一切都保留在您的裝置上。",
+  "id": "/loona-audio-tools/zh-hant/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

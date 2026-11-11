@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音訊剪下器 免費線上",
+  "short_name": "音訊剪下器 免費線上",
+  "description": "線上免費剪下和修剪音訊檔案。使用視覺化波形修剪 MP3、WAV、M4A 和 OGG，無需註冊。您的音訊在瀏覽器中私密處理，並匯出為 WAV。",
+  "id": "/loona-audio-tools/zh-hant/audio-cutter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

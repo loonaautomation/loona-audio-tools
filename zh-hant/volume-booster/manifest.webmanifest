@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音量增強器 免費線上",
+  "short_name": "音量增強器 免費線上",
+  "description": "線上免費增強音訊音量。將安靜的 MP3、WAV、M4A 和 OGG 錄音調高至 300%，或安全地歸一化峰值，並匯出為 WAV。無需註冊，您的音訊從不離開您的裝置。",
+  "id": "/loona-audio-tools/zh-hant/volume-booster/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

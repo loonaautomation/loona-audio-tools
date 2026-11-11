@@ -1,0 +1,29 @@
+{
+  "name": "Loona 螢幕錄影機 免費線上",
+  "short_name": "螢幕錄影機 免費線上",
+  "description": "在您的瀏覽器中免費錄製您的螢幕、瀏覽器選項卡或視窗——如果您願意，帶麥克風音訊。無需註冊，無上傳，下載為 WebM。",
+  "id": "/loona-audio-tools/zh-hant/screen-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

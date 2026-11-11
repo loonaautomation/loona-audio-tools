@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3 標籤編輯器 免費線上",
+  "short_name": "MP3 標籤編輯器 免費線上",
+  "description": "線上免費檢視和編輯 MP3 ID3 標籤——標題、藝術家、專輯、年份和封面圖——無需重新編碼音訊。其他幀被保留，標籤可以完全刪除，您的 MP3 從不離開您的裝置。",
+  "id": "/loona-audio-tools/zh-hant/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

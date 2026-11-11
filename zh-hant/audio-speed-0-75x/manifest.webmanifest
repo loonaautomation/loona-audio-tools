@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音訊速度 0.75x",
+  "short_name": "音訊速度 0.75x",
+  "description": "免費音訊速度 0.75x 變速器：在您的瀏覽器中將任何音訊檔案更改為 0.75x 速度。無需註冊，無需上傳。",
+  "id": "/loona-audio-tools/zh-hant/audio-speed-0-75x/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

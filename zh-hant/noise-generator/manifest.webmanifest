@@ -1,0 +1,29 @@
+{
+  "name": "Loona 噪聲生成器 免費線上",
+  "short_name": "噪聲生成器 免費線上",
+  "description": "線上免費生成白色、粉色和棕色噪聲，用於睡眠、專注和聲音掩蓋。在您的瀏覽器中實時播放，或下載 10、30 或 60 秒為 WAV 進行迴圈。無需註冊，無上傳。",
+  "id": "/loona-audio-tools/zh-hant/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

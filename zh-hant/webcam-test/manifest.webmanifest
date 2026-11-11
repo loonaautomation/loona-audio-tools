@@ -1,0 +1,29 @@
+{
+  "name": "Loona 攝像頭測試 免費線上",
+  "short_name": "攝像頭測試 免費線上",
+  "description": "在您的瀏覽器中免費測試您的攝像頭：實時預覽、真實解析度和幀率讀數、映象切換和快照照片下載。不上傳任何東西——您的相機僅在本地使用。",
+  "id": "/loona-audio-tools/zh-hant/webcam-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
