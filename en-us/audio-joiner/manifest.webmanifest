@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Joiner - Combine Audio Files Into One Track",
+  "short_name": "Audio Joiner - Combine Audio Files Into One Track",
+  "description": "Join audio files online free. Combine MP3, WAV, M4A and OGG files into one track in the order you choose, no sign-up needed. Processed privately in your browser, exported as WAV.",
+  "id": "/loona-audio-tools/en-us/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

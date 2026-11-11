@@ -1,0 +1,29 @@
+{
+  "name": "Loona Volume Booster - Make Audio Louder Online Free",
+  "short_name": "Volume Booster - Make Audio Louder Online Free",
+  "description": "Boost audio volume online free. Make quiet MP3, WAV, M4A and OGG recordings up to 300% louder, or normalize peaks safely, and export as WAV. No sign-up, and your audio never leaves your device.",
+  "id": "/loona-audio-tools/en-us/volume-booster/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

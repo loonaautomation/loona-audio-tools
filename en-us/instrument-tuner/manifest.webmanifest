@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instrument Tuner - Chromatic Tuner Online Free",
+  "short_name": "Instrument Tuner - Chromatic Tuner Online Free",
+  "description": "Tune any instrument online free with your microphone. The chromatic tuner shows the note name, the exact frequency, and how many cents sharp or flat you are. Accuracy stated honestly, no sign-up, and your audio never leaves your device.",
+  "id": "/loona-audio-tools/en-us/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

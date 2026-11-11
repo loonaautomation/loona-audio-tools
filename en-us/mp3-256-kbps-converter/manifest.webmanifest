@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Converter - Convert Audio Files Online Free",
+  "short_name": "Audio Converter - Convert Audio Files Online Free",
+  "description": "Free MP3 256 kbps converter: convert any audio file to MP3 at 256 kbps in your browser. No sign-up, no upload.",
+  "id": "/loona-audio-tools/en-us/mp3-256-kbps-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
