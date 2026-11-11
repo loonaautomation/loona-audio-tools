@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editor de etichete MP3 Online Gratuit",
+  "short_name": "Editor de etichete MP3 Online Gratuit",
+  "description": "Vezi și editează etichetele ID3 ale MP3-urilor online gratuit - titlu, artist, album, an și imagine de copertă - fără recodarea sunetului. Alte cadre sunt păstrate, etichetele pot fi eliminate complet, iar MP3-ul tău nu părăsește niciodată dispozitivul.",
+  "id": "/loona-audio-tools/ro/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

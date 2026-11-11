@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de imagini ale formei de undă Online Gratuit",
+  "short_name": "Generator de imagini ale formei de undă",
+  "description": "Transformă orice fișier audio într-o imagine a formei de undă, online gratuit - alege dimensiunea, culorile, stilul plin sau cu bare și fundalul transparent, apoi descarcă un PNG. Fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul.",
+  "id": "/loona-audio-tools/ro/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

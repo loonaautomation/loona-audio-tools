@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor audio Online Gratuit",
+  "short_name": "Convertor audio Online Gratuit",
+  "description": "Convertește fișiere audio online gratuit - transformă MP3, WAV, OGG, M4A, WebM și multe altele în WAV sau MP3 (128, 192 sau 320 kbps), cu rata de eșantionare păstrată. Fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul, pentru că decodarea depinde de browserul tău, iar conversia rulează 100% local.",
+  "id": "/loona-audio-tools/ro/audio-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
