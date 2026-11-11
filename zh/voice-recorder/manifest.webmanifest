@@ -1,0 +1,29 @@
+{
+  "name": "Loona 录音机 免费在线",
+  "short_name": "录音机 免费在线",
+  "description": "在线免费使用您的麦克风录制您的声音。回听并下载您的录音——它从不离开您的设备。无需注册，无上传，可在手机和电脑上工作。",
+  "id": "/loona-audio-tools/zh/voice-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

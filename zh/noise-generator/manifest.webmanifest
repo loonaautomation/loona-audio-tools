@@ -1,0 +1,29 @@
+{
+  "name": "Loona 噪声生成器 免费在线",
+  "short_name": "噪声生成器 免费在线",
+  "description": "在线免费生成白色、粉色和棕色噪声，用于睡眠、专注和声音掩盖。在您的浏览器中实时播放，或下载 10、30 或 60 秒为 WAV 进行循环。无需注册，无上传。",
+  "id": "/loona-audio-tools/zh/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

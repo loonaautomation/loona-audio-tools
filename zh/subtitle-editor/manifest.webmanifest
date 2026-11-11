@@ -1,0 +1,29 @@
+{
+  "name": "Loona SRT 字幕编辑器 免费在线",
+  "short_name": "SRT 字幕编辑器 在线",
+  "description": "在线免费编辑 SRT 和 WebVTT 字幕文件：修复字幕文本和时间，一次移动所有字幕条，修复重叠的字幕条，并将 SRT 转换为 VTT。无需注册，您的字幕文件从不离开您的设备。",
+  "id": "/loona-audio-tools/zh/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

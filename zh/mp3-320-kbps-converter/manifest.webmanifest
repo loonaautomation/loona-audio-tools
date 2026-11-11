@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3 320 kbps 转换器",
+  "short_name": "MP3 320 kbps 转换器",
+  "description": "免费 MP3 320 kbps 转换器：在您的浏览器中将任何音频文件转换为 320 kbps 的 MP3。无需注册，无需上传。",
+  "id": "/loona-audio-tools/zh/mp3-320-kbps-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

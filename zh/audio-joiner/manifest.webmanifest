@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音频合并器 免费在线",
+  "short_name": "音频合并器 免费在线",
+  "description": "在线免费合并音频文件。按您选择的顺序将 MP3、WAV、M4A 和 OGG 文件合并为一条曲目，无需注册。在您的浏览器中私密处理，导出为 WAV。",
+  "id": "/loona-audio-tools/zh/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

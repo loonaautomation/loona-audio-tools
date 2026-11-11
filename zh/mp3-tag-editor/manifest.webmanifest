@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3 标签编辑器 免费在线",
+  "short_name": "MP3 标签编辑器 免费在线",
+  "description": "在线免费查看和编辑 MP3 ID3 标签——标题、艺术家、专辑、年份和封面图——无需重新编码音频。其他帧被保留，标签可以完全删除，您的 MP3 从不离开您的设备。",
+  "id": "/loona-audio-tools/zh/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

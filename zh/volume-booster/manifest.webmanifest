@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音量增强器 免费在线",
+  "short_name": "音量增强器 免费在线",
+  "description": "在线免费增强音频音量。将安静的 MP3、WAV、M4A 和 OGG 录音调高至 300%，或安全地归一化峰值，并导出为 WAV。无需注册，您的音频从不离开您的设备。",
+  "id": "/loona-audio-tools/zh/volume-booster/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

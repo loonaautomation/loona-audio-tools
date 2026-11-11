@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音频速度 1.25x",
+  "short_name": "音频速度 1.25x",
+  "description": "免费音频速度 1.25x 变速器：在您的浏览器中将任何音频文件更改为 1.25x 速度。无需注册，无需上传。",
+  "id": "/loona-audio-tools/zh/audio-speed-1-25x/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

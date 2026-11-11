@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音频淡入淡出编辑器 免费在线",
+  "short_name": "音频淡入淡出编辑器 免费在线",
+  "description": "在线免费为音频添加淡入和淡出。在任何 MP3、WAV、M4A 或 OGG 文件上设置长达 10 秒的淡入淡出，预览，并导出为 WAV。无需注册，您的音频从不离开您的设备。",
+  "id": "/loona-audio-tools/zh/audio-fade-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

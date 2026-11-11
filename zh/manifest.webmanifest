@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "免费在线音频工具——剪切和修剪 MP3、WAV、M4A 和 OGG 文件，将音频文件合并为一条曲目，在 WAV 和 MP3 之间转换音频，录制您的声音和屏幕，并测试您的麦克风和摄像头。100% 免费，无需注册，一切都保留在您的设备上。",
+  "id": "/loona-audio-tools/zh/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

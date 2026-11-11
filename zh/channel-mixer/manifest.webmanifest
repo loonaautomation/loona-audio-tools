@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音频声道混合器 免费在线",
+  "short_name": "音频声道混合器 在线",
+  "description": "在线免费转换音频声道——立体声转单声道、单声道转立体声、交换左右声道，或将左声道或右声道复制到两侧，导出为 WAV。无需注册，您的音频从不离开您的设备。",
+  "id": "/loona-audio-tools/zh/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

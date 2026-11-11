@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音频转换器 免费在线",
+  "short_name": "音频转换器 免费在线",
+  "description": "在线免费转换音频文件——将 MP3、WAV、OGG、M4A、WebM 等以 WAV 或 MP3（128、192 或 320 kbps）转换，采样率得到保留。无需注册，您的音频从不离开您的设备，因为解码取决于您的浏览器，转换 100% 在本地运行。",
+  "id": "/loona-audio-tools/zh/audio-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 鼓音序器 免费在线",
+  "short_name": "鼓音序器 免费在线",
+  "description": "在线免费制作鼓节奏，使用 16 步音序器——合成的 kick、snare 和 hi-hat 声音，rock、house 和 hip-hop 预设，以及从 60 到 180 BPM 的速度。无采样、无需注册，一切都在您的浏览器中合成。",
+  "id": "/loona-audio-tools/zh/drum-sequencer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
