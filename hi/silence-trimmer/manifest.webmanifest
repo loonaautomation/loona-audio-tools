@@ -1,0 +1,29 @@
+{
+  "name": "Loona साइलेंस ट्रिमर ऑनलाइन मुफ़्त",
+  "short_name": "साइलेंस ट्रिमर ऑनलाइन मुफ़्त",
+  "description": "रिकॉर्डिंग की शुरुआत और अंत से खामोशी ऑनलाइन मुफ़्त हटाएँ। ट्रिमर खामोश सेकंड मापता है, उन्हें पैडिंग के साथ एक समायोज्य dB थ्रेशोल्ड पर ट्रिम करता है, और WAV निर्यात करता है। कोई साइन-अप नहीं, और आपका ऑडियो आपके डिवाइस से कभी बाहर नहीं जाता।",
+  "id": "/loona-audio-tools/hi/silence-trimmer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

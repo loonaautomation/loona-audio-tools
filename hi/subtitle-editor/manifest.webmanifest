@@ -1,0 +1,29 @@
+{
+  "name": "Loona SRT उपशीर्षक संपादक ऑनलाइन मुफ़्त",
+  "short_name": "SRT उपशीर्षक संपादक Online",
+  "description": "SRT और WebVTT उपशीर्षक फ़ाइलें ऑनलाइन मुफ़्त संपादित करें: उपशीर्षक टेक्स्ट और समय ठीक करें, सभी क्यू एक साथ शिफ़्ट करें, ओवरलैपिंग क्यू मरम्मत करें और SRT को VTT में कन्वर्ट करें। कोई साइन-अप नहीं, और आपकी उपशीर्षक फ़ाइल आपके डिवाइस से कभी बाहर नहीं जाती।",
+  "id": "/loona-audio-tools/hi/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

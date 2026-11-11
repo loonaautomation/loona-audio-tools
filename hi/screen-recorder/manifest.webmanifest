@@ -1,0 +1,29 @@
+{
+  "name": "Loona स्क्रीन रिकॉर्डर ऑनलाइन मुफ़्त",
+  "short_name": "स्क्रीन रिकॉर्डर ऑनलाइन मुफ़्त",
+  "description": "अपनी स्क्रीन, एक ब्राउज़र टैब या एक विंडो अपने ब्राउज़र में मुफ़्त रिकॉर्ड करें - यदि चाहें तो माइक्रोफ़ोन ऑडियो के साथ। कोई साइन-अप नहीं, कोई अपलोड नहीं, WebM के रूप में डाउनलोड होता है।",
+  "id": "/loona-audio-tools/hi/screen-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

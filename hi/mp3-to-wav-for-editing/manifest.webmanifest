@@ -1,0 +1,29 @@
+{
+  "name": "Loona संपादन के लिए MP3 से WAV",
+  "short_name": "संपादन के लिए MP3 से WAV",
+  "description": "संपादन के लिए मुफ़्त MP3 से WAV: अपने ब्राउज़र में ऑडियो कन्वर्ट और तैयार करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
+  "id": "/loona-audio-tools/hi/mp3-to-wav-for-editing/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

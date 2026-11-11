@@ -1,0 +1,29 @@
+{
+  "name": "Loona ईयर ट्रेनिंग ऑनलाइन मुफ़्त",
+  "short_name": "ईयर ट्रेनिंग ऑनलाइन मुफ़्त",
+  "description": "अपने कान को ऑनलाइन मुफ़्त प्रशिक्षित करें - दो नोट सुनें, अंतराल का नाम बताएँ, और अपना स्कोर और सिलसिला बनाएँ। पूरे ऑक्टेव तक आसान, मध्यम और कठिन स्तर। कोई साइन-अप नहीं, सब कुछ आपके ब्राउज़र में उत्पन्न होता है।",
+  "id": "/loona-audio-tools/hi/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

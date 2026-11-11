@@ -1,0 +1,29 @@
+{
+  "name": "Loona वॉइस रिकॉर्डर ऑनलाइन मुफ़्त",
+  "short_name": "वॉइस रिकॉर्डर ऑनलाइन मुफ़्त",
+  "description": "अपने माइक्रोफ़ोन से अपनी आवाज़ ऑनलाइन मुफ़्त रिकॉर्ड करें। वापस सुनें और अपनी रिकॉर्डिंग डाउनलोड करें - यह आपके डिवाइस से कभी बाहर नहीं जाती। कोई साइन-अप नहीं, कोई अपलोड नहीं, फ़ोन और कंप्यूटर पर काम करता है।",
+  "id": "/loona-audio-tools/hi/voice-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

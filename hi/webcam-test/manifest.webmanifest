@@ -1,0 +1,29 @@
+{
+  "name": "Loona वेबकैम टेस्ट ऑनलाइन मुफ़्त",
+  "short_name": "वेबकैम टेस्ट ऑनलाइन मुफ़्त",
+  "description": "अपने वेबकैम का परीक्षण अपने ब्राउज़र में मुफ़्त करें: लाइव प्रीव्यू, असली रिज़ॉल्यूशन और फ़्रेम-दर रीडआउट, मिरर टॉगल और एक स्नैपशॉट फ़ोटो डाउनलोड। कुछ भी अपलोड नहीं होता - आपका कैमरा केवल स्थानीय रूप से उपयोग होता है।",
+  "id": "/loona-audio-tools/hi/webcam-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

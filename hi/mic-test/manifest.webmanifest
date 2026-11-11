@@ -1,0 +1,29 @@
+{
+  "name": "Loona माइक्रोफ़ोन टेस्ट ऑनलाइन मुफ़्त",
+  "short_name": "माइक्रोफ़ोन टेस्ट ऑनलाइन मुफ़्त",
+  "description": "अपने माइक्रोफ़ोन का परीक्षण अपने ब्राउज़र में मुफ़्त करें: लाइव लेवल मीटर, प्लेबैक के साथ 5-सेकंड की परीक्षण रिकॉर्डिंग, और एक माइक्रोफ़ोन चयनकर्ता। कुछ भी अपलोड नहीं होता - आपका माइक केवल स्थानीय रूप से उपयोग होता है।",
+  "id": "/loona-audio-tools/hi/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

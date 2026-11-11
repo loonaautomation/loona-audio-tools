@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "मुफ़्त ऑनलाइन ऑडियो टूल - MP3, WAV, M4A और OGG फ़ाइलें काटें और ट्रिम करें, ऑडियो फ़ाइलों को एक ट्रैक में जोड़ें, ऑडियो को WAV और MP3 के बीच कन्वर्ट करें, अपनी आवाज़ और स्क्रीन रिकॉर्ड करें, और अपने माइक्रोफ़ोन और वेबकैम का परीक्षण करें। 100% मुफ़्त, कोई साइन-अप नहीं, और सब कुछ आपके डिवाइस पर रहता है।",
+  "id": "/loona-audio-tools/hi/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

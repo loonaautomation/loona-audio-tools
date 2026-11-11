@@ -1,0 +1,29 @@
+{
+  "name": "Loona ऑडियो जॉइनर ऑनलाइन मुफ़्त",
+  "short_name": "ऑडियो जॉइनर ऑनलाइन मुफ़्त",
+  "description": "ऑडियो फ़ाइलें ऑनलाइन मुफ़्त जोड़ें। MP3, WAV, M4A और OGG फ़ाइलों को अपने चुने हुए क्रम में एक ट्रैक में जोड़ें, किसी साइन-अप की ज़रूरत नहीं। आपके ब्राउज़र में निजी रूप से प्रोसेस, WAV के रूप में निर्यात।",
+  "id": "/loona-audio-tools/hi/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

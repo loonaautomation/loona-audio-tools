@@ -1,0 +1,29 @@
+{
+  "name": "Loona ऑडियो चैनल मिक्सर ऑनलाइन मुफ़्त",
+  "short_name": "ऑडियो चैनल मिक्सर Online",
+  "description": "ऑडियो चैनल ऑनलाइन मुफ़्त कन्वर्ट करें - स्टीरियो से मोनो, मोनो से स्टीरियो, बाएँ और दाएँ चैनल बदलें, या बाएँ या दाएँ चैनल को दोनों तरफ कॉपी करें, WAV के रूप में निर्यात। कोई साइन-अप नहीं, और आपका ऑडियो आपके डिवाइस से कभी बाहर नहीं जाता।",
+  "id": "/loona-audio-tools/hi/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

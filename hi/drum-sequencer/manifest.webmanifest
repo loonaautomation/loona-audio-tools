@@ -1,0 +1,29 @@
+{
+  "name": "Loona ड्रम सीक्वेंसर ऑनलाइन मुफ़्त",
+  "short_name": "ड्रम सीक्वेंसर ऑनलाइन मुफ़्त",
+  "description": "16-चरण सीक्वेंसर के साथ ड्रम बीट ऑनलाइन मुफ़्त बनाएँ - सिंथेसाइज़ की गई किक, स्नेयर और हाई-हैट ध्वनियाँ, rock, house और hip-hop प्रीसेट, और 60 से 180 BPM तक टेम्पो। कोई सैंपल नहीं, कोई साइन-अप नहीं, सब कुछ आपके ब्राउज़र में सिंथेसाइज़ होता है।",
+  "id": "/loona-audio-tools/hi/drum-sequencer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

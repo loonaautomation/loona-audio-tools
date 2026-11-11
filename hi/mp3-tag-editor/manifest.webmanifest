@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3 टैग एडिटर ऑनलाइन मुफ़्त",
+  "short_name": "MP3 टैग एडिटर ऑनलाइन मुफ़्त",
+  "description": "MP3 ID3 टैग ऑनलाइन मुफ़्त देखें और संपादित करें - शीर्षक, कलाकार, एल्बम, वर्ष और कवर आर्ट - ऑडियो को दोबारा एन्कोड किए बिना। अन्य फ़्रेम सुरक्षित रखे जाते हैं, टैग पूरी तरह हटाए जा सकते हैं, और आपका MP3 आपके डिवाइस से कभी बाहर नहीं जाता।",
+  "id": "/loona-audio-tools/hi/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
