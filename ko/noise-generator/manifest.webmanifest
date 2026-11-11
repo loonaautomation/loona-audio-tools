@@ -1,0 +1,29 @@
+{
+  "name": "Loona 노이즈 생성기 온라인 무료",
+  "short_name": "노이즈 생성기 온라인 무료",
+  "description": "수면, 집중, 소리 마스킹을 위해 백색, 핑크, 브라운 노이즈를 온라인에서 무료로 생성하세요. 브라우저에서 실시간으로 재생하거나, 반복 재생용으로 10초, 30초, 60초를 WAV로 다운로드하세요. 가입이 필요 없고, 업로드되는 것도 없어요.",
+  "id": "/loona-audio-tools/ko/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

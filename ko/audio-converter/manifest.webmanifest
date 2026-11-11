@@ -1,0 +1,29 @@
+{
+  "name": "Loona 오디오 변환기 온라인 무료",
+  "short_name": "오디오 변환기 온라인 무료",
+  "description": "오디오 파일을 온라인에서 무료로 변환하세요 - MP3, WAV, OGG, M4A, WebM 등을 샘플 레이트를 보존하며 WAV나 MP3(128, 192, 320 kbps)로 바꾸세요. 가입이 필요 없고, 오디오는 기기를 떠나지 않아요. 디코딩은 브라우저에 달려 있고 변환은 100% 로컬에서 실행되기 때문이에요.",
+  "id": "/loona-audio-tools/ko/audio-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

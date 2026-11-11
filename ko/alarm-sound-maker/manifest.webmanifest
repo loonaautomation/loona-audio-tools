@@ -1,0 +1,29 @@
+{
+  "name": "Loona 알람 소리 만들기",
+  "short_name": "알람 소리 만들기",
+  "description": "무료 알람 소리 만들기: 브라우저에서 오디오를 다듬으세요. 가입 없이, 업로드 없이.",
+  "id": "/loona-audio-tools/ko/alarm-sound-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

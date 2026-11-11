@@ -1,0 +1,29 @@
+{
+  "name": "Loona 톤 생성기 온라인 무료",
+  "short_name": "톤 생성기 온라인 무료",
+  "description": "테스트 톤을 온라인에서 무료로 생성하세요. 20 Hz부터 20,000 Hz까지 사인파, 구형파, 삼각파, 톱니파 — 즉시 재생하거나 WAV로 다운로드하세요. 가입이 필요 없고, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-audio-tools/ko/tone-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

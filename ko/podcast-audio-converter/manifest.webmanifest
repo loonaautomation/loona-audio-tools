@@ -1,0 +1,29 @@
+{
+  "name": "Loona 팟캐스트 오디오 변환기",
+  "short_name": "팟캐스트 오디오 변환기",
+  "description": "무료 팟캐스트 오디오 변환기: 브라우저에서 오디오를 변환하고 준비하세요. 가입 없이, 업로드.",
+  "id": "/loona-audio-tools/ko/podcast-audio-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 오디오 채널 믹서 온라인 무료",
+  "short_name": "오디오 채널 믹서 온라인",
+  "description": "오디오 채널을 온라인에서 무료로 변환하세요 - 스테레오를 모노로, 모노를 스테레오로, 좌우 채널 교체, 또는 왼쪽이나 오른쪽 채널을 양쪽으로 복사하고, WAV로 내보내세요. 가입이 필요 없고, 오디오는 기기를 떠나지 않아요.",
+  "id": "/loona-audio-tools/ko/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

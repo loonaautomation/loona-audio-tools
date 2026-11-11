@@ -1,0 +1,29 @@
+{
+  "name": "Loona 화면 녹화기 온라인 무료",
+  "short_name": "화면 녹화기 온라인 무료",
+  "description": "브라우저에서 화면, 브라우저 탭, 창을 무료로 녹화하세요. 원하면 마이크 오디오와 함께요. 가입이 필요 없고, 업로드도 없으며, WebM으로 다운로드돼요.",
+  "id": "/loona-audio-tools/ko/screen-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

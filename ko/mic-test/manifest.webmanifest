@@ -1,0 +1,29 @@
+{
+  "name": "Loona 마이크 테스트 온라인 무료",
+  "short_name": "마이크 테스트 온라인 무료",
+  "description": "브라우저에서 마이크를 무료로 테스트하세요: 실시간 레벨 미터, 재생 가능한 5초 테스트 녹음, 마이크 선택기가 있어요. 업로드되는 것은 없어요. 마이크는 로컬에서만 사용돼요.",
+  "id": "/loona-audio-tools/ko/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

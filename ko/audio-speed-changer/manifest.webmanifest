@@ -1,0 +1,29 @@
+{
+  "name": "Loona 오디오 속도 변경기 온라인 무료",
+  "short_name": "오디오 속도 변경기 온라인",
+  "description": "온라인에서 무료로 오디오 속도를 바꾸세요. MP3, WAV, M4A, OGG를 0.25x에서 3x까지 빠르게 또는 느리게 하고, 즉시 미리 듣고, WAV로 내보내세요. 가입이 필요 없고, 오디오는 기기를 떠나지 않아요.",
+  "id": "/loona-audio-tools/ko/audio-speed-changer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

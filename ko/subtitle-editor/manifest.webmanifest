@@ -1,0 +1,29 @@
+{
+  "name": "Loona SRT 자막 편집기 온라인 무료",
+  "short_name": "SRT 자막 편집기 온라인",
+  "description": "SRT와 WebVTT 자막 파일을 온라인에서 무료로 편집하세요: 자막 텍스트와 타이밍을 고치고, 모든 큐를 한꺼번에 이동하고, 겹치는 큐를 수정하고, SRT를 VTT로 변환하세요. 가입이 필요 없고, 자막 파일은 기기를 떠나지 않아요.",
+  "id": "/loona-audio-tools/ko/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

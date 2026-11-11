@@ -1,0 +1,29 @@
+{
+  "name": "Loona 오디오 역재생기 온라인 무료",
+  "short_name": "오디오 역재생기 온라인 무료",
+  "description": "오디오를 온라인에서 무료로 뒤집으세요. MP3, WAV, M4A, OGG 파일을 거꾸로 재생하고 뒤집힌 오디오를 WAV로 다운로드하세요. 가입이 필요 없고, 오디오는 기기를 떠나지 않아요.",
+  "id": "/loona-audio-tools/ko/audio-reverser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "무료 온라인 오디오 도구 - MP3, WAV, M4A, OGG 파일을 자르고 다듬고, 오디오 파일을 하나의 트랙으로 병합하고, WAV와 MP3 사이에서 오디오를 변환하고, 목소리와 화면을 녹화하고, 마이크와 웹캠을 테스트하세요. 100% 무료, 가입 불필요, 모든 것이 기기에 그대로 남아요.",
+  "id": "/loona-audio-tools/ko/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
