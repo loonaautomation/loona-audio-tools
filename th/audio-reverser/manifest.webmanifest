@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวเล่นเสียงย้อนกลับ ออนไลน์ฟรี",
+  "short_name": "ตัวเล่นเสียงย้อนกลับ ออนไลน์ฟรี",
+  "description": "พลิกกลับเสียงออนไลน์ฟรี เล่นไฟล์ MP3, WAV, M4A หรือ OGG ใดก็ได้ย้อนกลับ และดาวน์โหลดเสียงที่พลิกกลับแล้วเป็น WAV ไม่ต้องสมัครสมาชิก และเสียงของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
+  "id": "/loona-audio-tools/th/audio-reverser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

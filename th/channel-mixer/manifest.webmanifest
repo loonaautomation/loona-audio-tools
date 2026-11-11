@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวผสมช่องสัญญาณเสียง ออนไลน์ฟรี",
+  "short_name": "ตัวผสมช่องสัญญาณเสียง ออนไลน์",
+  "description": "แปลงช่องสัญญาณเสียงออนไลน์ฟรี - สเตอริโอเป็นโมโน โมโนเป็นสเตอริโอ สลับช่องซ้ายและขวา หรือคัดลอกช่องซ้ายหรือขวาไปไว้ทั้งสองข้าง ส่งออกเป็น WAV ไม่ต้องสมัครสมาชิก และเสียงของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
+  "id": "/loona-audio-tools/th/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

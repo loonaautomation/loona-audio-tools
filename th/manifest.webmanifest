@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "เครื่องมือเสียงออนไลน์ฟรี - ตัดและเล็มไฟล์ MP3, WAV, M4A และ OGG รวมไฟล์เสียงให้เป็นแทร็กเดียว แปลงเสียงระหว่าง WAV กับ MP3 บันทึกเสียงและหน้าจอของคุณ และทดสอบไมโครโฟนและเว็บแคมของคุณ ฟรี 100% ไม่ต้องสมัครสมาชิก และทุกอย่างอยู่บนอุปกรณ์ของคุณ",
+  "id": "/loona-audio-tools/th/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

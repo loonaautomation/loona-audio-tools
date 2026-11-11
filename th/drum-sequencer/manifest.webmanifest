@@ -1,0 +1,29 @@
+{
+  "name": "Loona ดรัมซีเควนเซอร์ ออนไลน์ฟรี",
+  "short_name": "ดรัมซีเควนเซอร์ ออนไลน์ฟรี",
+  "description": "สร้างจังหวะกลองออนไลน์ฟรีด้วยซีเควนเซอร์ 16 ขั้น - เสียงคิก สแนร์ และไฮแฮตที่สังเคราะห์ขึ้น ค่าที่ตั้งไว้ล่วงหน้าสำหรับร็อก เฮาส์ และฮิปฮอป และจังหวะความเร็วตั้งแต่ 60 ถึง 180 BPM ไม่มีแซมเปิล ไม่ต้องสมัครสมาชิก ทุกอย่างสังเคราะห์ในเบราว์เซอร์ของคุณ",
+  "id": "/loona-audio-tools/th/drum-sequencer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวสร้างเสียงรบกวน ออนไลน์ฟรี",
+  "short_name": "ตัวสร้างเสียงรบกวน ออนไลน์ฟรี",
+  "description": "สร้างเสียงรบกวนสีขาว สีชมพู และสีน้ำตาลออนไลน์ฟรี สำหรับการนอนหลับ การโฟกัส และการกลบเสียง เล่นสดในเบราว์เซอร์ของคุณหรือดาวน์โหลด 10, 30 หรือ 60 วินาทีเป็น WAV เพื่อเล่นวนซ้ำ ไม่ต้องสมัครสมาชิก ไม่มีอะไรถูกอัปโหลด",
+  "id": "/loona-audio-tools/th/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

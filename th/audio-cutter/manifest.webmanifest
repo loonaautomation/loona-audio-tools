@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวตัดไฟล์เสียง ออนไลน์ฟรี",
+  "short_name": "ตัวตัดไฟล์เสียง ออนไลน์ฟรี",
+  "description": "ตัดและเล็มไฟล์เสียงออนไลน์ฟรี ตัด MP3, WAV, M4A และ OGG ด้วยรูปคลื่นเสียงแบบเห็นภาพ ไม่ต้องสมัครสมาชิก เสียงของคุณถูกประมวลผลอย่างเป็นส่วนตัวในเบราว์เซอร์ของคุณและส่งออกเป็น WAV",
+  "id": "/loona-audio-tools/th/audio-cutter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
