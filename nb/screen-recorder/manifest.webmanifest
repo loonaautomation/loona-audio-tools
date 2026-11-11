@@ -1,0 +1,29 @@
+{
+  "name": "Loona Skjermopptaker gratis på nett",
+  "short_name": "Skjermopptaker gratis på nett",
+  "description": "Ta opp skjermen din, en nettleserfane eller et vindu gratis i nettleseren din - med mikrofonlyd hvis du vil ha det. Ingen registrering, ingen opplasting, lastes ned som WebM.",
+  "id": "/loona-audio-tools/nb/screen-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

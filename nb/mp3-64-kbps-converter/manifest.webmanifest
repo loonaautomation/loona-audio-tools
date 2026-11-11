@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3 64 kbps-konverter",
+  "short_name": "MP3 64 kbps-konverter",
+  "description": "Gratis MP3 64 kbps-konverter: konverter alle lydfiler til MP3 ved 64 kbps i nettleseren din. Ingen registrering, ingen opplasting.",
+  "id": "/loona-audio-tools/nb/mp3-64-kbps-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

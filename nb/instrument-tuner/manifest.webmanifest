@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instrumentstemmer gratis på nett",
+  "short_name": "Instrumentstemmer gratis på nett",
+  "description": "Stem alle instrumenter gratis på nett med mikrofonen din. Den kromatiske stemmeren viser tonenavnet, den nøyaktige frekvensen, og hvor mange cent for høy eller lav du er. Nøyaktighet opplyst ærlig, ingen registrering, og lyden din forlater aldri enheten din.",
+  "id": "/loona-audio-tools/nb/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "Gratis nettbaserte lydverktøy - kutt og trim MP3-, WAV-, M4A- og OGG-filer, føy lydfiler sammen til ett spor, konverter lyd mellom WAV og MP3, ta opp stemmen din og skjermen din, og test mikrofonen og webkameraet ditt. 100% gratis, ingen registrering, og alt blir værende på enheten din.",
+  "id": "/loona-audio-tools/nb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
