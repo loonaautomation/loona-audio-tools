@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rychlost zvuku 0.5x",
+  "short_name": "Rychlost zvuku 0.5x",
+  "description": "Bezplatný měnič rychlosti zvuku 0.5x: změňte libovolný zvukový soubor na rychlost 0.5x ve svém prohlížeči. Bez registrace, bez nahrávání.",
+  "id": "/loona-audio-tools/cs/audio-speed-0-5x/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

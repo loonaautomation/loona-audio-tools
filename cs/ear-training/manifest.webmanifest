@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trénink sluchu Online zdarma",
+  "short_name": "Trénink sluchu Online zdarma",
+  "description": "Trénujte svůj sluch online zdarma – uslyšíte dva tóny, pojmenujete interval a budujete své skóre a sérii. Lehká, střední a těžká úroveň až po celou oktávu. Bez registrace, vše generováno ve vašem prohlížeči.",
+  "id": "/loona-audio-tools/cs/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

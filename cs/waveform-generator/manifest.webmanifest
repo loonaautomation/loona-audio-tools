@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor obrázku zvukové vlny Online zdarma",
+  "short_name": "Generátor obrázku zvukové vlny",
+  "description": "Proměňte libovolný zvukový soubor na obrázek zvukové vlny online zdarma – vyberte velikost, barvy, styl vyplněný nebo sloupcový a průhledné pozadí a poté si stáhněte PNG. Bez registrace a váš zvuk nikdy neopustí vaše zařízení.",
+  "id": "/loona-audio-tools/cs/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
