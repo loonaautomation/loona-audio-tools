@@ -1,6 +1,6 @@
 {
   "name": "Loona Audio Tools",
-  "short_name": "Loona Audio Tools",
+  "short_name": "Audio Tools",
   "description": "Free online audio tools - cut and trim MP3, WAV, M4A and OGG files, join audio files into one track, convert audio between WAV and MP3, record your voice and your screen, and test your microphone and webcam. 100% free, no sign-up, and everything stays on your device.",
   "start_url": ".",
   "scope": ".",
