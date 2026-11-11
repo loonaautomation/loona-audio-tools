@@ -1,0 +1,29 @@
+{
+  "name": "Loona ওয়েবক্যাম টেস্ট অনলাইন বিনামূল্যে",
+  "short_name": "ওয়েবক্যাম টেস্ট অনলাইন বিনামূল্যে",
+  "description": "আপনার ব্রাউজারে বিনামূল্যে আপনার ওয়েবক্যাম পরীক্ষা করুন: লাইভ প্রিভিউ, আসল রেজোলিউশন ও ফ্রেম-রেট রিডআউট, মিরর টগল এবং একটি স্ন্যাপশট ছবি ডাউনলোড। কিছুই আপলোড হয় না - আপনার ক্যামেরা শুধুমাত্র স্থানীয়ভাবে ব্যবহৃত হয়।",
+  "id": "/loona-audio-tools/bn/webcam-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

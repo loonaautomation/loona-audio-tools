@@ -1,0 +1,29 @@
+{
+  "name": "Loona যন্ত্র টিউনার অনলাইন বিনামূল্যে",
+  "short_name": "যন্ত্র টিউনার অনলাইন বিনামূল্যে",
+  "description": "আপনার মাইক্রোফোনে অনলাইনে বিনামূল্যে যেকোনো যন্ত্র টিউন করুন। ক্রোমাটিক টিউনার সুরের নাম, সঠিক ফ্রিকোয়েন্সি, এবং আপনি কত cents sharp বা flat তা দেখায়। সঠিকতা সততার সঙ্গে উল্লেখ করা, কোনো সাইন-আপ নেই, এবং আপনার অডিও কখনো আপনার ডিভাইস ছাড়ে না।",
+  "id": "/loona-audio-tools/bn/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona মেট্রোনোম অনলাইন বিনামূল্যে",
+  "short_name": "মেট্রোনোম অনলাইন বিনামূল্যে",
+  "description": "বিনামূল্যের অনলাইন মেট্রোনোম, 30 থেকে 240 পর্যন্ত BPM স্লাইডার, টাইম সিগনেচার, উপবিভাগ, একটি অ্যাকসেন্টযুক্ত প্রথম বিট, একটি দৃশ্যমান পালস এবং ট্যাপ টেম্পোসহ। কোনো সাইন-আপ নেই, কিছু আপলোড হয় না - এটি আপনার ব্রাউজারে চলে।",
+  "id": "/loona-audio-tools/bn/metronome/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

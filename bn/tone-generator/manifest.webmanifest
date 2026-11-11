@@ -1,0 +1,29 @@
+{
+  "name": "Loona টোন জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "টোন জেনারেটর অনলাইন বিনামূল্যে",
+  "description": "অনলাইনে বিনামূল্যে পরীক্ষা টোন তৈরি করুন। 20 Hz থেকে 20,000 Hz পর্যন্ত Sine, square, triangle ও sawtooth ওয়েভফর্ম - তৎক্ষণাৎ বাজান বা WAV হিসেবে ডাউনলোড করুন। কোনো সাইন-আপ নেই, 100% আপনার ব্রাউজারে চলে।",
+  "id": "/loona-audio-tools/bn/tone-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

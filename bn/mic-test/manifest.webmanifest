@@ -1,0 +1,29 @@
+{
+  "name": "Loona মাইক্রোফোন টেস্ট অনলাইন বিনামূল্যে",
+  "short_name": "মাইক্রোফোন টেস্ট অনলাইন বিনামূল্যে",
+  "description": "আপনার ব্রাউজারে বিনামূল্যে আপনার মাইক্রোফোন পরীক্ষা করুন: লাইভ লেভেল মিটার, প্লেব্যাকসহ একটি 5-সেকেন্ডের পরীক্ষা রেকর্ডিং, এবং একটি মাইক্রোফোন নির্বাচক। কিছুই আপলোড হয় না - আপনার মাইক শুধুমাত্র স্থানীয়ভাবে ব্যবহৃত হয়।",
+  "id": "/loona-audio-tools/bn/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

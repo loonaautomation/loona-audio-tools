@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3 থেকে WAV এডিটিংয়ের জন্য",
+  "short_name": "MP3 থেকে WAV এডিটিংয়ের জন্য",
+  "description": "বিনামূল্যে MP3 থেকে WAV এডিটিংয়ের জন্য: আপনার ব্রাউজারে অডিও রূপান্তর ও প্রস্তুত করুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
+  "id": "/loona-audio-tools/bn/mp3-to-wav-for-editing/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

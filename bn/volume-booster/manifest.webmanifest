@@ -1,0 +1,29 @@
+{
+  "name": "Loona ভলিউম বুস্টার অনলাইন বিনামূল্যে",
+  "short_name": "ভলিউম বুস্টার অনলাইন বিনামূল্যে",
+  "description": "অনলাইনে বিনামূল্যে অডিও ভলিউম বাড়ান। শান্ত MP3, WAV, M4A ও OGG রেকর্ডিং 300% পর্যন্ত জোরালো করুন, বা নিরাপদে পিক normalize করুন, এবং WAV হিসেবে এক্সপোর্ট করুন। কোনো সাইন-আপ নেই, এবং আপনার অডিও কখনো আপনার ডিভাইস ছাড়ে না।",
+  "id": "/loona-audio-tools/bn/volume-booster/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

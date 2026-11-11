@@ -1,0 +1,29 @@
+{
+  "name": "Loona ইয়ার ট্রেনিং অনলাইন বিনামূল্যে",
+  "short_name": "ইয়ার ট্রেনিং অনলাইন বিনামূল্যে",
+  "description": "অনলাইনে বিনামূল্যে আপনার কান প্রশিক্ষণ দিন - দুটি সুর শুনুন, ইন্টারভ্যালের নাম বলুন, এবং আপনার স্কোর ও ধারাবাহিকতা তৈরি করুন। পূর্ণ অষ্টক পর্যন্ত সহজ, মাঝারি ও কঠিন স্তর। কোনো সাইন-আপ নেই, সবকিছু আপনার ব্রাউজারে তৈরি হয়।",
+  "id": "/loona-audio-tools/bn/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

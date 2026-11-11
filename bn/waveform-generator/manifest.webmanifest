@@ -1,0 +1,29 @@
+{
+  "name": "Loona ওয়েভফর্ম ছবি জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "ওয়েভফর্ম ছবি জেনারেটর",
+  "description": "অনলাইনে বিনামূল্যে যেকোনো অডিও ফাইলকে একটি ওয়েভফর্ম ছবিতে পরিণত করুন - আকার, রঙ, ভরা বা বার স্টাইল, এবং স্বচ্ছ পটভূমি বেছে নিন, তারপর একটি PNG ডাউনলোড করুন। কোনো সাইন-আপ নেই, এবং আপনার অডিও কখনো আপনার ডিভাইস ছাড়ে না।",
+  "id": "/loona-audio-tools/bn/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
