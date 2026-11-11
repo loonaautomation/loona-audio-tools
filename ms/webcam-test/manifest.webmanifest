@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ujian Kamera Web Dalam Talian Percuma",
+  "short_name": "Ujian Kamera Web Dalam Talian Percuma",
+  "description": "Uji kamera web anda secara percuma dalam pelayar anda: pratonton langsung, bacaan resolusi dan kadar bingkai sebenar, togol cermin dan muat turun foto gambar. Tiada apa-apa dimuat naik - kamera anda hanya digunakan secara setempat.",
+  "id": "/loona-audio-tools/ms/webcam-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

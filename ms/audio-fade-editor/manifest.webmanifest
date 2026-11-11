@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editor Luntur Audio Dalam Talian Percuma",
+  "short_name": "Editor Luntur Audio Dalam Talian Percuma",
+  "description": "Tambah luntur masuk dan luntur keluar pada audio dalam talian secara percuma. Tetapkan luntur sehingga 10 saat pada mana-mana fail MP3, WAV, M4A atau OGG, pratonton, dan eksport sebagai WAV. Tanpa pendaftaran, dan audio anda tidak pernah meninggalkan peranti anda.",
+  "id": "/loona-audio-tools/ms/audio-fade-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
