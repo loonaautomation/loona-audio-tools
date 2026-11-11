@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rejestrator głosu Online za darmo",
+  "short_name": "Rejestrator głosu Online za darmo",
+  "description": "Nagrywaj głos online za darmo przy użyciu mikrofonu. Odsłuchaj i pobierz nagranie - nigdy nie opuszcza urządzenia. Bez rejestracji, bez przesyłania na serwer, działa na telefonie i komputerze.",
+  "id": "/loona-audio-tools/pl/voice-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

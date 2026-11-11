@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test mikrofonu Online za darmo",
+  "short_name": "Test mikrofonu Online za darmo",
+  "description": "Przetestuj mikrofon bezpłatnie w przeglądarce: miernik poziomu na żywo, 5-sekundowe nagranie testowe z odtwarzaniem oraz selektor mikrofonu. Nic nie jest przesyłane na serwer - mikrofon jest używany tylko lokalnie.",
+  "id": "/loona-audio-tools/pl/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reduktor przepływności MP3",
+  "short_name": "Reduktor przepływności MP3",
+  "description": "Bezpłatny reduktor przepływności MP3: zmniejszaj pliki MP3, kodując je ponownie przy 64–320 kbps. Mniejsze pliki do wiadomości, e-maili i przechowywania — w przeglądarce.",
+  "id": "/loona-audio-tools/pl/mp3-bitrate-reducer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

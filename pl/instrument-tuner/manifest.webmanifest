@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tuner do instrumentów Online za darmo",
+  "short_name": "Tuner do instrumentów Online za darmo",
+  "description": "Strój dowolny instrument online za darmo przy użyciu mikrofonu. Tuner chromatyczny pokazuje nazwę dźwięku, dokładną częstotliwość oraz o ile centów jesteś za wysoko lub za nisko. Dokładność podana uczciwie, bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
+  "id": "/loona-audio-tools/pl/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

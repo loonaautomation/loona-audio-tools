@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sekwencer perkusyjny Online za darmo",
+  "short_name": "Sekwencer perkusyjny Online za darmo",
+  "description": "Twórz rytmy perkusyjne online za darmo przy użyciu sekwencera 16 kroków - syntezowane dźwięki stopy, werbla i hi-hatu, gotowe ustawienia rock, house i hip-hop oraz tempo od 60 do 180 BPM. Bez sampli, bez rejestracji, wszystko syntezowane w przeglądarce.",
+  "id": "/loona-audio-tools/pl/drum-sequencer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
