@@ -1,0 +1,29 @@
+{
+  "name": "Loona Máy đếm nhịp Trực tuyến miễn phí",
+  "short_name": "Máy đếm nhịp Trực tuyến miễn phí",
+  "description": "Máy đếm nhịp trực tuyến miễn phí với thanh trượt BPM từ 30 đến 240, nhịp phách, phân chia nhỏ, nhịp đầu tiên có trọng âm, xung trực quan và tap tempo. Không cần đăng ký, không tải lên gì - nó chạy trong trình duyệt của bạn.",
+  "id": "/loona-audio-tools/vi/metronome/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Luyện cảm âm Trực tuyến miễn phí",
+  "short_name": "Luyện cảm âm Trực tuyến miễn phí",
+  "description": "Luyện tai của bạn trực tuyến miễn phí - nghe hai nốt, gọi tên quãng, và xây dựng điểm và chuỗi của bạn. Các mức dễ, trung bình và khó lên đến toàn bộ quãng tám. Không cần đăng ký, mọi thứ được tạo trong trình duyệt của bạn.",
+  "id": "/loona-audio-tools/vi/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

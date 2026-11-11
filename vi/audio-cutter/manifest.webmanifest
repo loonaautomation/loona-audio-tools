@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình cắt âm thanh Trực tuyến miễn phí",
+  "short_name": "Trình cắt âm thanh Trực tuyến miễn phí",
+  "description": "Cắt và cắt ngắn file âm thanh trực tuyến miễn phí. Cắt MP3, WAV, M4A và OGG với dạng sóng trực quan, không cần đăng ký. Âm thanh của bạn được xử lý riêng tư trong trình duyệt và xuất dưới dạng WAV.",
+  "id": "/loona-audio-tools/vi/audio-cutter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "Các công cụ âm thanh trực tuyến miễn phí - cắt và cắt ngắn file MP3, WAV, M4A và OGG, nối các file âm thanh thành một bản nhạc, chuyển đổi âm thanh giữa WAV và MP3, ghi giọng nói và màn hình của bạn, và kiểm tra micro và webcam của bạn. Miễn phí 100%, không cần đăng ký, và mọi thứ ở lại trên thiết bị của bạn.",
+  "id": "/loona-audio-tools/vi/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

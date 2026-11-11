@@ -1,0 +1,29 @@
+{
+  "name": "Loona OGG sang MP3",
+  "short_name": "OGG sang MP3",
+  "description": "Bộ chuyển đổi OGG sang MP3 miễn phí: chuyển đổi âm thanh OGG sang MP3 trong trình duyệt của bạn. Không cần đăng ký, không tải lên, không hình mờ.",
+  "id": "/loona-audio-tools/vi/ogg-to-mp3-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

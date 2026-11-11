@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình nối âm thanh Trực tuyến miễn phí",
+  "short_name": "Trình nối âm thanh Trực tuyến miễn phí",
+  "description": "Nối các file âm thanh trực tuyến miễn phí. Kết hợp các file MP3, WAV, M4A và OGG thành một bản nhạc theo thứ tự bạn chọn, không cần đăng ký. Được xử lý riêng tư trong trình duyệt của bạn, xuất dưới dạng WAV.",
+  "id": "/loona-audio-tools/vi/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

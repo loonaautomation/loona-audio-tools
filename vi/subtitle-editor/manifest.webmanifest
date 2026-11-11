@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình chỉnh sửa phụ đề SRT Trực tuyến miễn phí",
+  "short_name": "Trình chỉnh sửa phụ đề SRT Online",
+  "description": "Chỉnh sửa file phụ đề SRT và WebVTT trực tuyến miễn phí: sửa văn bản và thời gian phụ đề, dịch chuyển tất cả cue cùng lúc, sửa các cue chồng chéo và chuyển đổi SRT sang VTT. Không cần đăng ký, và file phụ đề của bạn không bao giờ rời khỏi thiết bị.",
+  "id": "/loona-audio-tools/vi/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình cắt khoảng lặng Trực tuyến miễn phí",
+  "short_name": "Trình cắt khoảng lặng Trực tuyến miễn phí",
+  "description": "Loại bỏ im lặng khỏi đầu và cuối âm thanh trực tuyến miễn phí. Trình cắt đo số giây im lặng, cắt chúng ở ngưỡng dB có thể điều chỉnh với đệm, và xuất WAV. Không cần đăng ký, và âm thanh của bạn không bao giờ rời khỏi thiết bị.",
+  "id": "/loona-audio-tools/vi/silence-trimmer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
