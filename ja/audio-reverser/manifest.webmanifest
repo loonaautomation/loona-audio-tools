@@ -1,0 +1,29 @@
+{
+  "name": "Loona オーディオリバーサー オンライン無料",
+  "short_name": "オーディオリバーサー オンライン無料",
+  "description": "音声をオンラインで無料逆転。MP3、WAV、M4A、OGGファイルを逆再生し、逆転した音声をWAVでダウンロード。登録不要で、音声がデバイスの外に出ることはありません。",
+  "id": "/loona-audio-tools/ja/audio-reverser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

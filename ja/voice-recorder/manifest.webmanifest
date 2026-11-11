@@ -1,0 +1,29 @@
+{
+  "name": "Loona ボイスレコーダー オンライン無料",
+  "short_name": "ボイスレコーダー オンライン無料",
+  "description": "マイクで声をオンラインで無料録音。聞き返して、録音をダウンロード — デバイスの外に出ることは決してありません。登録不要、アップロードなし、スマートフォンとコンピューターで動作します。",
+  "id": "/loona-audio-tools/ja/voice-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

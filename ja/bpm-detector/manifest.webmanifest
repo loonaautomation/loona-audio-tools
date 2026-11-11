@@ -1,0 +1,29 @@
+{
+  "name": "Loona BPM検出ツール オンライン無料",
+  "short_name": "BPM検出ツール オンライン無料",
+  "description": "曲のBPMをオンラインで無料検出。検出ツールはブラウザでビートを分析し、テンポ、拍あたりの秒数、信頼度評価を示します — タップテンポツール付き。登録不要で、音声がデバイスの外に出ることはありません。",
+  "id": "/loona-audio-tools/ja/bpm-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3タグエディター オンライン無料",
+  "short_name": "MP3タグエディター オンライン無料",
+  "description": "MP3のID3タグをオンラインで無料表示・編集 — タイトル、アーティスト、アルバム、年、カバーアート — 音声を再エンコードせず。他のフレームは保持され、タグは完全に除去でき、MP3がデバイスの外に出ることは決してありません。",
+  "id": "/loona-audio-tools/ja/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

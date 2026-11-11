@@ -1,0 +1,29 @@
+{
+  "name": "Loona オーディオカッター オンライン無料",
+  "short_name": "オーディオカッター オンライン無料",
+  "description": "音声ファイルをオンラインで無料カット・トリミング。視覚的な波形でMP3、WAV、M4A、OGGをトリミング、登録不要。音声はブラウザでプライベートに処理され、WAVでエクスポートされます。",
+  "id": "/loona-audio-tools/ja/audio-cutter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

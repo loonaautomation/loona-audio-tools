@@ -1,0 +1,29 @@
+{
+  "name": "Loona WhatsAppボイスノートをMP3に変換",
+  "short_name": "WhatsAppボイスノートをMP3に変換",
+  "description": "無料のWhatsAppボイスノートMP3変換：ブラウザで音声を変換・準備します。登録不要、アップロード不要。",
+  "id": "/loona-audio-tools/ja/whatsapp-voice-note-to-mp3/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 楽器チューナー オンライン無料",
+  "short_name": "楽器チューナー オンライン無料",
+  "description": "マイクで任意の楽器をオンラインで無料調律。クロマチックチューナーは音名、正確な周波数、何セント高い・低いかを表示します。精度は正直に述べ、登録不要、音声がデバイスの外に出ることは決してありません。",
+  "id": "/loona-audio-tools/ja/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
