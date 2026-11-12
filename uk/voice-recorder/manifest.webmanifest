@@ -1,0 +1,29 @@
+{
+  "name": "Loona Диктофон Онлайн безкоштовно",
+  "short_name": "Диктофон Онлайн безкоштовно",
+  "description": "Записуйте свій голос онлайн безкоштовно за допомогою мікрофона. Прослухайте назад і завантажте свій запис — він ніколи не залишає ваш пристрій. Без реєстрації, без передавання на сервер, працює на телефоні й комп’ютері.",
+  "id": "/loona-audio-tools/uk/voice-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

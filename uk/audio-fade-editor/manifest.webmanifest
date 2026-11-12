@@ -1,0 +1,29 @@
+{
+  "name": "Loona Редактор плавних переходів аудіо Онлайн безкоштовно",
+  "short_name": "Редактор плавних переходів аудіо Онлайн безкоштовно",
+  "description": "Додавайте наростання і згасання звуку до аудіо онлайн безкоштовно. Встановлюйте переходи до 10 секунд на будь-якому файлі MP3, WAV, M4A або OGG, переглядайте результат і експортуйте як WAV. Без реєстрації, а ваше аудіо ніколи не залишає ваш пристрій.",
+  "id": "/loona-audio-tools/uk/audio-fade-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

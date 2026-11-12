@@ -1,0 +1,29 @@
+{
+  "name": "Loona Об’єднання аудіо Онлайн безкоштовно",
+  "short_name": "Об’єднання аудіо Онлайн безкоштовно",
+  "description": "Об’єднуйте аудіофайли онлайн безкоштовно. Поєднуйте файли MP3, WAV, M4A та OGG в одну доріжку в вибраному вами порядку, без потреби в реєстрації. Обробляється приватно у вашому браузері, експортується як WAV.",
+  "id": "/loona-audio-tools/uk/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

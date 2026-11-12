@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор зображення хвильової форми Онлайн безкоштовно",
+  "short_name": "Генератор зображення хвильової форми",
+  "description": "Перетворюйте будь-який аудіофайл на зображення хвильової форми онлайн безкоштовно — виберіть розмір, кольори, заповнений стиль або стиль стовпчиків і прозоре тло, а потім завантажте PNG. Без реєстрації, а ваше аудіо ніколи не залишає ваш пристрій.",
+  "id": "/loona-audio-tools/uk/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

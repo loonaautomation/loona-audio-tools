@@ -1,0 +1,29 @@
+{
+  "name": "Loona Редактор тегів MP3 Онлайн безкоштовно",
+  "short_name": "Редактор тегів MP3 Онлайн безкоштовно",
+  "description": "Переглядайте і редагуйте теги ID3 для MP3 онлайн безкоштовно — назву, виконавця, альбом, рік і обкладинку — без перекодування аудіо. Інші кадри зберігаються, теги можна видалити повністю, а ваш MP3 ніколи не залишає ваш пристрій.",
+  "id": "/loona-audio-tools/uk/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

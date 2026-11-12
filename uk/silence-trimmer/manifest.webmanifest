@@ -1,0 +1,29 @@
+{
+  "name": "Loona Обрізка тиші Онлайн безкоштовно",
+  "short_name": "Обрізка тиші Онлайн безкоштовно",
+  "description": "Видаляйте тишу з початку і кінця аудіо онлайн безкоштовно. Обрізка вимірює тихі секунди, обрізає їх за регульованим порогом у дБ із запасом і експортує WAV. Без реєстрації, а ваше аудіо ніколи не залишає ваш пристрій.",
+  "id": "/loona-audio-tools/uk/silence-trimmer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

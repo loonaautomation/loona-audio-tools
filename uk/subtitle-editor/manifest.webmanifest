@@ -1,0 +1,29 @@
+{
+  "name": "Loona Редактор субтитрів SRT Онлайн безкоштовно",
+  "short_name": "Редактор субтитрів SRT Онлайн",
+  "description": "Редагуйте файли субтитрів SRT і WebVTT онлайн безкоштовно: виправляйте текст і час субтитрів, зсувайте всі мітки разом, ремонтуйте мітки, що перекриваються, і конвертуйте SRT у VTT. Без реєстрації, а ваш файл субтитрів ніколи не залишає ваш пристрій.",
+  "id": "/loona-audio-tools/uk/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

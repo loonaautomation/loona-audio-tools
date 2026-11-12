@@ -1,0 +1,29 @@
+{
+  "name": "Loona Драм-секвенсор Онлайн безкоштовно",
+  "short_name": "Драм-секвенсор Онлайн безкоштовно",
+  "description": "Створюйте барабанні біти онлайн безкоштовно за допомогою секвенсора з 16 кроків — синтезовані звуки великого барабана, малого барабана та хета, попередні налаштування року, хаусу й хіп-хопу та темп від 60 до 180 ударів на хвилину. Без семплів, без реєстрації, усе синтезується у вашому браузері.",
+  "id": "/loona-audio-tools/uk/drum-sequencer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

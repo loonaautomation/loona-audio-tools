@@ -1,0 +1,29 @@
+{
+  "name": "Loona Визначення BPM Онлайн безкоштовно",
+  "short_name": "Визначення BPM Онлайн безкоштовно",
+  "description": "Знаходьте BPM пісні онлайн безкоштовно. Визначник аналізує ритм у вашому браузері та показує темп, секунди на удар і оцінку впевненості — плюс інструмент темпу під стукіт. Без реєстрації, а ваше аудіо ніколи не залишає ваш пристрій.",
+  "id": "/loona-audio-tools/uk/bpm-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

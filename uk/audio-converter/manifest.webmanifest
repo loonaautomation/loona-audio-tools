@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер аудіо Онлайн безкоштовно",
+  "short_name": "Конвертер аудіо Онлайн безкоштовно",
+  "description": "Конвертуйте аудіофайли онлайн безкоштовно — перетворюйте MP3, WAV, OGG, M4A, WebM та інші у WAV чи MP3 (128, 192 або 320 кбіт/с) зі збереженою частотою дискретизації. Без реєстрації, а ваше аудіо ніколи не залишає ваш пристрій, оскільки розкодування залежить від вашого браузера, а конвертація відбувається на 100% локально.",
+  "id": "/loona-audio-tools/uk/audio-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
