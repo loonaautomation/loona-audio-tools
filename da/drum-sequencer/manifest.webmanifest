@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trommesequencer gratis online",
+  "short_name": "Trommesequencer gratis online",
+  "description": "Lav trommebeats online gratis med en sequencer med 16 trin - syntetiserede stortromme-, lilletromme- og hi-hat-lyde, rock-, house- og hiphop-forudindstillinger og tempo fra 60 til 180 BPM. Ingen samples, ingen tilmelding, alt syntetiseret i din browser.",
+  "id": "/loona-audio-tools/da/drum-sequencer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

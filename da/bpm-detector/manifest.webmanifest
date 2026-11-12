@@ -1,0 +1,29 @@
+{
+  "name": "Loona BPM-detektor gratis online",
+  "short_name": "BPM-detektor gratis online",
+  "description": "Find en sangs BPM online gratis. Detektoren analyserer beatet i din browser og viser tempoet, sekunder pr. slag og en sikkerhedsvurdering - plus et tap-tempo-værktøj. Ingen tilmelding, og din lyd forlader aldrig din enhed.",
+  "id": "/loona-audio-tools/da/bpm-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

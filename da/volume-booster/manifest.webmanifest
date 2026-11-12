@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lydstyrkeforstærker gratis online",
+  "short_name": "Lydstyrkeforstærker gratis online",
+  "description": "Forstærk lydstyrken online gratis. Gør stille MP3-, WAV-, M4A- og OGG-optagelser op til 300% højere, eller normaliser toppene sikkert, og eksporter som WAV. Ingen tilmelding, og din lyd forlader aldrig din enhed.",
+  "id": "/loona-audio-tools/da/volume-booster/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

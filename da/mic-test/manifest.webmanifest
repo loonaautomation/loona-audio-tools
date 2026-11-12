@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mikrofontest gratis online",
+  "short_name": "Mikrofontest gratis online",
+  "description": "Test din mikrofon gratis i din browser: live lydniveaumåler, en testoptagelse på 5 sekunder med afspilning og en mikrofonvælger. Intet uploades - din mikrofon bruges kun lokalt.",
+  "id": "/loona-audio-tools/da/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
