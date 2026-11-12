@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor tónov Online zadarmo",
+  "short_name": "Generátor tónov Online zadarmo",
+  "description": "Generujte testovacie tóny online zadarmo. Sínusové, štvorcové, trojuholníkové a pílové priebehy vlny od 20 Hz do 20,000 Hz – prehrajte okamžite alebo stiahnite ako WAV. Bez registrácie, beží na 100 % vo vašom prehliadači.",
+  "id": "/loona-audio-tools/sk/tone-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

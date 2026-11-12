@@ -1,0 +1,29 @@
+{
+  "name": "Loona Orezávač ticha Online zadarmo",
+  "short_name": "Orezávač ticha Online zadarmo",
+  "description": "Odstraňujte ticho zo začiatku a konca zvuku online zadarmo. Orezávač meria tiché sekundy, orezáva ich pri nastaviteľnom prahu v dB s okrajom a exportuje WAV. Bez registrácie a váš zvuk nikdy neopustí vaše zariadenie.",
+  "id": "/loona-audio-tools/sk/silence-trimmer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metronóm Online zadarmo",
+  "short_name": "Metronóm Online zadarmo",
+  "description": "Bezplatný online metronóm s posuvníkom BPM od 30 do 240, taktovými označeniami, deleniami, prízvukovanou prvou dobou, vizuálnym pulzom a naklepaním tempa. Bez registrácie, nič sa nenahráva na server – beží vo vašom prehliadači.",
+  "id": "/loona-audio-tools/sk/metronome/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
