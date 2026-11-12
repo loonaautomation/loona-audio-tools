@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Toni Bure Mtandaoni",
+  "short_name": "Kizalishaji cha Toni Bure Mtandaoni",
+  "description": "Tengeneza toni za jaribio mtandaoni bure. Maumbo ya wimbi ya sine, square, triangle na sawtooth kutoka 20 Hz hadi 20,000 Hz - cheza mara moja au pakua kama WAV. Hakuna kujisajili, hufanya kazi 100% katika kivinjari chako.",
+  "id": "/loona-audio-tools/sw/tone-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

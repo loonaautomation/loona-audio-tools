@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kipunguzaji cha Kasi ya Biti cha MP3",
+  "short_name": "Kipunguzaji cha Kasi ya Biti cha MP3",
+  "description": "Kipunguzaji cha bure cha kasi ya biti cha MP3: punguza faili za MP3 kwa kusimba upya kwa 64–320 kbps. Faili ndogo zaidi kwa ujumbe, barua pepe na hifadhi — katika kivinjari chako.",
+  "id": "/loona-audio-tools/sw/mp3-bitrate-reducer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

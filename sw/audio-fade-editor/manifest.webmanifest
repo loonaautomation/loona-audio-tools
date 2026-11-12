@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kihariri cha Kufifia kwa Sauti Bure Mtandaoni",
+  "short_name": "Kihariri cha Kufifia kwa Sauti Bure Mtandaoni",
+  "description": "Ongeza kufifia mwanzoni na mwishoni kwa sauti mtandaoni bure. Weka kufifia hadi sekunde 10 kwenye faili yoyote ya MP3, WAV, M4A au OGG, hakiki, na utoe kama WAV. Hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
+  "id": "/loona-audio-tools/sw/audio-fade-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

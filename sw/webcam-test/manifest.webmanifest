@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jaribio la Kamera ya Wavuti Bure Mtandaoni",
+  "short_name": "Jaribio la Kamera ya Wavuti Bure Mtandaoni",
+  "description": "Jaribu kamera yako ya wavuti bure katika kivinjari chako: hakiki ya moja kwa moja, kisomo halisi cha ubora na kiwango cha fremu, kigeuzi cha kioo na upakuaji wa picha ya haraka. Hakuna kinachopakiwa - kamera yako hutumika ndani ya kifaa tu.",
+  "id": "/loona-audio-tools/sw/webcam-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

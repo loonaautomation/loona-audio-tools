@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitunzi cha Ala za Muziki Bure Mtandaoni",
+  "short_name": "Kitunzi cha Ala za Muziki Bure Mtandaoni",
+  "description": "Rekebisha ala yoyote mtandaoni bure kwa maikrofoni yako. Kitunzi cha kromatiki huonyesha jina la noti, masafa halisi, na senti ngapi uko kali au bapa. Usahihi umesemwa kwa uaminifu, hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
+  "id": "/loona-audio-tools/sw/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kipunguzaji cha Kimya Bure Mtandaoni",
+  "short_name": "Kipunguzaji cha Kimya Bure Mtandaoni",
+  "description": "Ondoa kimya kutoka mwanzo na mwisho wa sauti mtandaoni bure. Kipunguzaji hupima sekunde tulivu, huzipunguza kwa kizingiti cha dB kinachoweza kurekebishwa kikiwa na nafasi ya usalama, na hutoa WAV. Hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
+  "id": "/loona-audio-tools/sw/silence-trimmer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

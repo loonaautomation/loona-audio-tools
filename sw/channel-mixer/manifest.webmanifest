@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kichanganyaji cha Chaneli za Sauti Bure Mtandaoni",
+  "short_name": "Kichanganyaji cha Chaneli za Sauti Mtandaoni",
+  "description": "Badilisha chaneli za sauti mtandaoni bure - stereo hadi mono, mono hadi stereo, badilisha chaneli za kushoto na kulia, au nakili chaneli ya kushoto au kulia kwenda pande zote mbili, ikitolewa kama WAV. Hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
+  "id": "/loona-audio-tools/sw/channel-mixer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

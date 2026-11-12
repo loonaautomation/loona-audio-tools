@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "Zana za sauti za bure mtandaoni - kata na punguza faili za MP3, WAV, M4A na OGG, unganisha faili za sauti kuwa wimbo mmoja, badilisha sauti kati ya WAV na MP3, rekodi sauti yako na skrini yako, na ujaribu maikrofoni yako na kamera ya wavuti. Bure 100%, hakuna kujisajili, na kila kitu hubaki kwenye kifaa chako.",
+  "id": "/loona-audio-tools/sw/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
