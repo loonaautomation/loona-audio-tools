@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test mikrofona Besplatno na mreži",
+  "short_name": "Test mikrofona Besplatno na mreži",
+  "description": "Testirajte svoj mikrofon besplatno u pregledniku: mjerač razine uživo, testna snimka od 5 sekundi s reprodukcijom i birač mikrofona. Ništa se ne prenosi - vaš se mikrofon koristi samo lokalno.",
+  "id": "/loona-audio-tools/hr/mic-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

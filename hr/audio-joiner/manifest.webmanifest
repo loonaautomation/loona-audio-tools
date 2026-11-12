@@ -1,0 +1,29 @@
+{
+  "name": "Loona Spajač zvuka Besplatno na mreži",
+  "short_name": "Spajač zvuka Besplatno na mreži",
+  "description": "Spajajte zvučne datoteke besplatno na mreži. Spojite MP3, WAV, M4A i OGG datoteke u jednu snimku redoslijedom koji odaberete, bez potrebne registracije. Obrađuje se privatno u vašem pregledniku, izvozi kao WAV.",
+  "id": "/loona-audio-tools/hr/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trening sluha Besplatno na mreži",
+  "short_name": "Trening sluha Besplatno na mreži",
+  "description": "Trenirajte svoj sluh besplatno na mreži - čujte dva tona, imenujte interval i gradite svoj rezultat i niz. Laka, srednja i teška razina do pune oktave. Bez registracije, sve se generira u vašem pregledniku.",
+  "id": "/loona-audio-tools/hr/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

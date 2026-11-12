@@ -1,0 +1,29 @@
+{
+  "name": "Loona Brzina zvuka 1.25x",
+  "short_name": "Brzina zvuka 1.25x",
+  "description": "Besplatni mjenjač brzine zvuka 1.25x: promijenite bilo koju zvučnu datoteku na brzinu 1.25x u svom pregledniku. Bez registracije, bez prijenosa.",
+  "id": "/loona-audio-tools/hr/audio-speed-1-25x/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
