@@ -1,0 +1,29 @@
+{
+  "name": "Loona Velocidade de Áudio 2.0x",
+  "short_name": "Velocidade de Áudio 2.0x",
+  "description": "Alterador de velocidade de áudio 2.0x grátis: mude qualquer ficheiro de áudio para velocidade 2.0x no seu navegador. Sem registo, sem envio.",
+  "id": "/loona-audio-tools/pt-pt/audio-speed-2-0x/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

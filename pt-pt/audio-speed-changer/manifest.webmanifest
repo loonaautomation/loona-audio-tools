@@ -1,0 +1,29 @@
+{
+  "name": "Loona Alterador de Velocidade de Áudio Online",
+  "short_name": "Alterador de Velocidade de",
+  "description": "Mude a velocidade de áudio online grátis. Acelere ou desacelere MP3, WAV, M4A e OGG de 0.25x a 3x, ouça a prévia na hora e exporte como WAV. Sem registo, e seu áudio nunca sai do seu dispositivo.",
+  "id": "/loona-audio-tools/pt-pt/audio-speed-changer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

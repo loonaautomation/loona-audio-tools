@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editor de Legendas SRT Online Grátis",
+  "short_name": "Editor de Legendas SRT Online",
+  "description": "Edite ficheiros de legenda SRT e WebVTT online grátis: corrija texto e tempos das legendas, desloque todas as deixas de uma vez, repare deixas sobrepostas e converta SRT para VTT. Sem registo, e seu ficheiro de legenda nunca sai do seu dispositivo.",
+  "id": "/loona-audio-tools/pt-pt/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

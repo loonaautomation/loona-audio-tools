@@ -1,0 +1,29 @@
+{
+  "name": "Loona Treinamento de Ouvido Online Grátis",
+  "short_name": "Treinamento de Ouvido Online",
+  "description": "Treine seu ouvido online grátis - ouça duas notas, nomeie o intervalo e construa sua pontuação e sequência. Níveis fácil, médio e difícil até a oitava completa. Sem registo, tudo gerado no seu navegador.",
+  "id": "/loona-audio-tools/pt-pt/ear-training/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
