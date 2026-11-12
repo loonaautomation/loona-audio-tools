@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editor de Tags MP3 Online Grátis",
+  "short_name": "Editor de Tags MP3 Online",
+  "description": "Veja e edite tags ID3 de MP3 online grátis - título, artista, álbum, ano e capa - sem recodificar o áudio. Outros quadros são preservados, tags podem ser removidas completamente, e seu MP3 nunca sai do seu dispositivo.",
+  "id": "/loona-audio-tools/pt-br/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Ruído Online Grátis",
+  "short_name": "Gerador de Ruído Online Grátis",
+  "description": "Gere ruído branco, rosa e marrom online grátis para sono, foco e mascaramento de som. Toque ao vivo no seu navegador ou baixe 10, 30 ou 60 segundos como WAV para repetir em loop. Sem cadastro, nada enviado.",
+  "id": "/loona-audio-tools/pt-br/noise-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
