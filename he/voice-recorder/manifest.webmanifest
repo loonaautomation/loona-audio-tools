@@ -1,0 +1,29 @@
+{
+  "name": "Loona מקליט קול בחינם באינטרנט",
+  "short_name": "מקליט קול בחינם באינטרנט",
+  "description": "הקליטו את הקול שלכם באינטרנט בחינם עם המיקרופון שלכם. האזינו בחזרה והורידו את ההקלטה שלכם - היא לעולם אינה עוזבת את המכשיר שלכם. ללא הרשמה, ללא העלאות, עובד בטלפון ובמחשב.",
+  "id": "/loona-audio-tools/he/voice-recorder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

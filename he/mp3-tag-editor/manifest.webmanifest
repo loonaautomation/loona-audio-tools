@@ -1,0 +1,29 @@
+{
+  "name": "Loona עורך תגיות MP3 בחינם באינטרנט",
+  "short_name": "עורך תגיות MP3 בחינם באינטרנט",
+  "description": "צפו וערכו תגיות ID3 של MP3 באינטרנט בחינם - כותרת, אמן, אלבום, שנה ועטיפת אלבום - ללא קידוד מחדש של השמע. מסגרות אחרות נשמרות, ניתן להסיר תגיות לחלוטין, וקובץ ה-MP3 שלכם לעולם אינו עוזב את המכשיר שלכם.",
+  "id": "/loona-audio-tools/he/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

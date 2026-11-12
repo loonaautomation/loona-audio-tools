@@ -1,0 +1,29 @@
+{
+  "name": "Loona עורך כתוביות SRT בחינם באינטרנט",
+  "short_name": "עורך כתוביות SRT באינטרנט",
+  "description": "עריכת קבצי כתוביות SRT ו-WebVTT באינטרנט בחינם: תקנו טקסט ותזמונים של כתוביות, הזיזו את כל הקטעים בבת אחת, תקנו קטעים חופפים והמירו SRT ל-VTT. ללא הרשמה, וקובץ הכתוביות שלכם לעולם אינו עוזב את המכשיר שלכם.",
+  "id": "/loona-audio-tools/he/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

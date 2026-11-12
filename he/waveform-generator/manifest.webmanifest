@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחולל תמונת צורת גל בחינם באינטרנט",
+  "short_name": "מחולל תמונת צורת גל",
+  "description": "הפכו כל קובץ שמע לתמונת צורת גל באינטרנט בחינם - בחרו את הגודל, הצבעים, סגנון מלא או פסים, ורקע שקוף, ואז הורידו PNG. ללא הרשמה, והשמע שלכם לעולם אינו עוזב את המכשיר שלכם.",
+  "id": "/loona-audio-tools/he/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

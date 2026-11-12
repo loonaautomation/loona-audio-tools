@@ -1,0 +1,29 @@
+{
+  "name": "Loona בדיקת מצלמת רשת בחינם באינטרנט",
+  "short_name": "בדיקת מצלמת רשת בחינם באינטרנט",
+  "description": "בדקו את מצלמת הרשת שלכם בחינם בדפדפן שלכם: תצוגה מקדימה חיה, קריאת רזולוציה וקצב מסגרות אמיתית, מתג מראה והורדת תמונה. שום דבר אינו מועלה - המצלמה שלכם משמשת רק מקומית.",
+  "id": "/loona-audio-tools/he/webcam-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

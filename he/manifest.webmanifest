@@ -1,0 +1,29 @@
+{
+  "name": "Loona Audio Tools",
+  "short_name": "Loona Audio Tools",
+  "description": "כלי שמע מקוונים חינמיים - גזרו וחתכו קבצי MP3, WAV, M4A ו-OGG, חברו קבצי שמע לרצועה אחת, המירו שמע בין WAV ל-MP3, הקליטו את הקול שלכם ואת המסך שלכם, ובדקו את המיקרופון ואת מצלמת הרשת שלכם. 100% חינם, ללא הרשמה, והכול נשאר במכשיר שלכם.",
+  "id": "/loona-audio-tools/he/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
