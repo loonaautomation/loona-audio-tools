@@ -1,0 +1,29 @@
+{
+  "name": "Loona Äänigeneraattori Ilmainen verkossa",
+  "short_name": "Äänigeneraattori Ilmainen verkossa",
+  "description": "Luo testisäveliä verkossa ilmaiseksi. Sini-, neliö-, kolmio- ja sahalaita-aaltomuodot 20 Hz:stä 20,000 Hz:iin - toista heti tai lataa WAV-muodossa. Ei rekisteröitymistä, toimii 100% selaimessasi.",
+  "id": "/loona-audio-tools/fi/tone-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
