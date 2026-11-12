@@ -1,0 +1,29 @@
+{
+  "name": "Loona Επεξεργαστής Ετικετών MP3 Δωρεάν Online",
+  "short_name": "Επεξεργαστής Ετικετών MP3 Δωρεάν Online",
+  "description": "Δείτε και επεξεργαστείτε ετικέτες ID3 MP3 δωρεάν online - τίτλος, καλλιτέχνης, άλμπουμ, έτος και εξώφυλλο - χωρίς επανακωδικοποίηση του ήχου. Άλλα πλαίσια διατηρούνται, οι ετικέτες μπορούν να αφαιρεθούν εντελώς, και το MP3 σας δεν φεύγει ποτέ από τη συσκευή σας.",
+  "id": "/loona-audio-tools/el/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

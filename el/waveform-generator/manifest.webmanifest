@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Εικόνας Κυματομορφής Δωρεάν Online",
+  "short_name": "Γεννήτρια Εικόνας Κυματομορφής",
+  "description": "Μετατρέψτε οποιοδήποτε αρχείο ήχου σε εικόνα κυματομορφής δωρεάν online - διαλέξτε το μέγεθος, τα χρώματα, το γεμισμένο ή στυλ μπαρών, και διαφανές φόντο, και μετά κατεβάστε ένα PNG. Χωρίς εγγραφή, και ο ήχος σας δεν φεύγει ποτέ από τη συσκευή σας.",
+  "id": "/loona-audio-tools/el/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

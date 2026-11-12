@@ -1,0 +1,29 @@
+{
+  "name": "Loona Επεξεργαστής Υποτίτλων SRT Δωρεάν Online",
+  "short_name": "Επεξεργαστής Υποτίτλων SRT Online",
+  "description": "Επεξεργαστείτε αρχεία υποτίτλων SRT και WebVTT δωρεάν online: διορθώστε κείμενο και χρονισμούς υποτίτλων, μετατοπίστε όλα τα σημεία ταυτόχρονα, επισκευάστε επικαλυπτόμενα σημεία και μετατρέψτε SRT σε VTT. Χωρίς εγγραφή, και το αρχείο υποτίτλων σας δεν φεύγει ποτέ από τη συσκευή σας.",
+  "id": "/loona-audio-tools/el/subtitle-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

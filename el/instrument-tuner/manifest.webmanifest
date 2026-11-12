@@ -1,0 +1,29 @@
+{
+  "name": "Loona Κουρδιστήρι Οργάνων Δωρεάν Online",
+  "short_name": "Κουρδιστήρι Οργάνων Δωρεάν Online",
+  "description": "Κουρδίστε οποιοδήποτε όργανο δωρεάν online με το μικρόφωνό σας. Το χρωματικό κουρδιστήρι δείχνει το όνομα της νότας, την ακριβή συχνότητα, και πόσα cents υψηλότερα ή χαμηλότερα είστε. Ακρίβεια δηλωμένη ειλικρινά, χωρίς εγγραφή, και ο ήχος σας δεν φεύγει ποτέ από τη συσκευή σας.",
+  "id": "/loona-audio-tools/el/instrument-tuner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

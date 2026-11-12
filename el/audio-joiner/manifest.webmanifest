@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εργαλείο Συγχώνευσης Ήχου Δωρεάν Online",
+  "short_name": "Εργαλείο Συγχώνευσης Ήχου Δωρεάν Online",
+  "description": "Ενώστε αρχεία ήχου δωρεάν online. Συνδυάστε αρχεία MP3, WAV, M4A και OGG σε ένα κομμάτι με τη σειρά που επιλέγετε, χωρίς να χρειάζεται εγγραφή. Επεξεργασία ιδιωτικά στο πρόγραμμα περιήγησής σας, εξαγωγή ως WAV.",
+  "id": "/loona-audio-tools/el/audio-joiner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μειωτής Bitrate MP3",
+  "short_name": "Μειωτής Bitrate MP3",
+  "description": "Δωρεάν μειωτής bitrate MP3: συρρικνώστε αρχεία MP3 με επανακωδικοποίηση στα 64–320 kbps. Μικρότερα αρχεία για μηνύματα, email και αποθήκευση — στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-audio-tools/el/mp3-bitrate-reducer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
