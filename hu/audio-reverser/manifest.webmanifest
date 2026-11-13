@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hangfordító Online ingyen",
+  "short_name": "Hangfordító Online ingyen",
+  "description": "Fordítsa vissza a hangot online ingyen. Játsszon bármely MP3-, WAV-, M4A- vagy OGG-fájlt visszafelé, és töltse le a fordított hangot WAV-ként. Regisztráció nélkül, és a hangja soha nem hagyja el az eszközét.",
+  "id": "/loona-audio-tools/hu/audio-reverser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

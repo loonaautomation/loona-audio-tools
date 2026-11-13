@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hanggenerátor Online ingyen",
+  "short_name": "Hanggenerátor Online ingyen",
+  "description": "Generáljon teszthangokat online ingyen. Szinusz, négyszög, háromszög és fűrészfog hullámformák 20 Hz-től 20,000 Hz-ig - játssza le azonnal, vagy töltse le WAV-ként. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
+  "id": "/loona-audio-tools/hu/tone-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona BPM-érzékelő Online ingyen",
+  "short_name": "BPM-érzékelő Online ingyen",
+  "description": "Keresse meg egy dal BPM-jét online ingyen. Az érzékelő a böngészőjében elemzi az ütemet, és megmutatja a tempót, az ütésenkénti másodperceket és egy bizonyossági értékelést - plusz egy koppintós tempóeszközt. Regisztráció nélkül, és a hangja soha nem hagyja el az eszközét.",
+  "id": "/loona-audio-tools/hu/bpm-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

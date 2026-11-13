@@ -1,0 +1,29 @@
+{
+  "name": "Loona WhatsApp-hangjegyzet MP3-ba",
+  "short_name": "WhatsApp-hangjegyzet MP3-ba",
+  "description": "Ingyenes WhatsApp-hangjegyzet MP3-ba: konvertáljon és készítsen hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
+  "id": "/loona-audio-tools/hu/whatsapp-voice-note-to-mp3/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

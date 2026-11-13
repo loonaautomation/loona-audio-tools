@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metronóm Online ingyen",
+  "short_name": "Metronóm Online ingyen",
+  "description": "Ingyenes online metronóm 30-tól 240-ig terjedő BPM-csúszkával, ütemmutatókkal, felosztásokkal, hangsúlyos első ütéssel, vizuális pulzussal és koppintós tempóval. Regisztráció nélkül, semmi feltöltés nélkül - a böngészőjében fut.",
+  "id": "/loona-audio-tools/hu/metronome/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
