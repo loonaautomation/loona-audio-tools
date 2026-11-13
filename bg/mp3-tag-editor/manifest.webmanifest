@@ -1,0 +1,29 @@
+{
+  "name": "Loona Редактор на MP3 тагове безплатно онлайн",
+  "short_name": "Редактор на MP3 тагове безплатно онлайн",
+  "description": "Преглеждайте и редактирайте ID3 тагове на MP3 онлайн безплатно - заглавие, изпълнител, албум, година и обложка - без прекодиране на аудиото. Другите кадри се запазват, таговете могат да се премахнат изцяло, а вашият MP3 никога не напуска устройството ви.",
+  "id": "/loona-audio-tools/bg/mp3-tag-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

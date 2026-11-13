@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на изображения на вълновата форма безплатно онлайн",
+  "short_name": "Генератор на изображения на вълновата форма",
+  "description": "Превърнете всеки аудиофайл в изображение на вълнова форма онлайн безплатно - изберете размера, цветовете, запълнения или лентовия стил и прозрачния фон, след което изтеглете PNG. Без регистрация, а аудиото ви никога не напуска устройството ви.",
+  "id": "/loona-audio-tools/bg/waveform-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

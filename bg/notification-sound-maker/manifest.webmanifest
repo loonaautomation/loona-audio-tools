@@ -1,0 +1,29 @@
+{
+  "name": "Loona Създаване на звук за известия",
+  "short_name": "Създаване на звук за известия",
+  "description": "Безплатно създаване на звук за известия: изрязвайте аудио в браузъра си. Без регистрация, без качване.",
+  "id": "/loona-audio-tools/bg/notification-sound-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona MP3 конвертор 128 kbps",
+  "short_name": "MP3 конвертор 128 kbps",
+  "description": "Безплатен MP3 конвертор 128 kbps: конвертирайте всеки аудиофайл в MP3 със 128 kbps в браузъра си. Без регистрация, без качване.",
+  "id": "/loona-audio-tools/bg/mp3-128-kbps-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-audio-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-audio-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
