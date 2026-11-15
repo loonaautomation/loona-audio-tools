@@ -213,7 +213,7 @@ var ALIASES = {
   "kaatna": "cut",
   "raftaar": "speed"
 };
-function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} s = s.replace(/[\u0640\u064B-\u065F\u0670\u05B0-\u05C7]/g, '').replace(/[\u0622\u0623\u0625\u0671]/g, '\u0627').replace(/\u0624/g, '\u0648').replace(/[\u0626\u0649\u06CC]/g, '\u064A').replace(/\u0629/g, '\u0647').replace(/[\u06C1\u06BE]/g, '\u0647').replace(/\u06A9/g, '\u0643').replace(/[\u0660-\u0669]/g, function (c) { return c.charCodeAt(0) - 1632; }).replace(/[\u06F0-\u06F9]/g, function (c) { return c.charCodeAt(0) - 1776; }); return s.replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim(); }
 function lev(a, b) {
   if (a === b) return 0;
   var la = a.length, lb = b.length, i, j;
