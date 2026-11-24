@@ -1,4 +1,4 @@
-const CACHE='loona-audio-tools-v3';
+const CACHE='loona-audio-tools-v4';
 const PREFIX='loona-audio-tools-';
 const CORE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./apple-touch-icon.png'];
 self.addEventListener('install',function(e){{e.waitUntil(caches.open(CACHE).then(function(c){{return Promise.all(CORE.map(function(u){{return c.add(u).catch(function(){{}});}}));}}).then(function(){{return self.skipWaiting();}}));}});
