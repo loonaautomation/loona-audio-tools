@@ -2,7 +2,7 @@
   "name": "Loona Äänenvoimakkuuden tehostaja Ilmainen verkossa",
   "short_name": "Äänenvoimakkuuden tehostaja Ilmainen verkossa",
   "description": "Tehosta äänenvoimakkuutta ilmaiseksi verkossa. Tee hiljaisista MP3-, WAV-, M4A- ja OGG-tallenteista jopa 300% äänekkäämpiä tai normalisoi huiput turvallisesti ja vie WAV-muodossa. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/volume-booster/",
+  "id": "/fi/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

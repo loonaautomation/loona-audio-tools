@@ -2,7 +2,7 @@
   "name": "Loona Generator szumu Online za darmo",
   "short_name": "Generator szumu Online za darmo",
   "description": "Generuj szum biały, różowy i brązowy online za darmo do snu, koncentracji i maskowania dźwięku. Odtwarzaj na żywo w przeglądarce lub pobierz 10, 30 lub 60 sekund jako WAV do zapętlenia. Bez rejestracji, nic nie jest przesyłane na serwer.",
-  "id": "/loona-audio-tools/pl/noise-generator/",
+  "id": "/pl/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

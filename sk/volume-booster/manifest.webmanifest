@@ -2,7 +2,7 @@
   "name": "Loona Zosilňovač hlasitosti Online zadarmo",
   "short_name": "Zosilňovač hlasitosti Online zadarmo",
   "description": "Zvýšte hlasitosť zvuku online zadarmo. Urobte tiché nahrávky MP3, WAV, M4A a OGG až o 300 % hlasnejšie alebo bezpečne normalizujte špičky a exportujte ako WAV. Bez registrácie a váš zvuk nikdy neopustí vaše zariadenie.",
-  "id": "/loona-audio-tools/sk/volume-booster/",
+  "id": "/sk/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

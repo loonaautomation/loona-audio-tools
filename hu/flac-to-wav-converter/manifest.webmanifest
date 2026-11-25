@@ -2,7 +2,7 @@
   "name": "Loona FLAC-ból WAV-ba",
   "short_name": "FLAC-ból WAV-ba",
   "description": "Ingyenes FLAC-ból WAV-ba konvertáló: konvertálja a FLAC-hangot WAV-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/flac-to-wav-converter/",
+  "id": "/hu/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

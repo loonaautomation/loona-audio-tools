@@ -2,7 +2,7 @@
   "name": "Loona Toongenerator Online Gratis",
   "short_name": "Toongenerator Online Gratis",
   "description": "Genereer testtonen gratis online. Sinus-, blok-, driehoeks- en zaagtandgolfvormen van 20 Hz tot 20,000 Hz - speel direct af of download als WAV. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-audio-tools/nl/tone-generator/",
+  "id": "/nl/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

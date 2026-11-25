@@ -2,7 +2,7 @@
   "name": "Loona 播客音訊轉換器",
   "short_name": "播客音訊轉換器",
   "description": "免費播客音訊轉換器：在您的瀏覽器中轉換和準備音訊。無需註冊，無需上傳。",
-  "id": "/loona-audio-tools/zh-hant/podcast-audio-converter/",
+  "id": "/zh-hant/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penjana Nada Dalam Talian Percuma",
   "short_name": "Penjana Nada Dalam Talian Percuma",
   "description": "Jana nada ujian dalam talian secara percuma. Bentuk gelombang sinus, segi empat, segi tiga dan gigi gergaji dari 20 Hz hingga 20,000 Hz - mainkan serta-merta atau muat turun sebagai WAV. Tanpa pendaftaran, berjalan 100% dalam pelayar anda.",
-  "id": "/loona-audio-tools/ms/tone-generator/",
+  "id": "/ms/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

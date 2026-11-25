@@ -2,7 +2,7 @@
   "name": "Loona Dźwięk wywiadu na MP3",
   "short_name": "Dźwięk wywiadu na MP3",
   "description": "Bezpłatny konwerter dźwięku wywiadu na MP3: konwertuj i przygotowuj dźwięk w przeglądarce. Bez rejestracji, bez przesyłania na serwer.",
-  "id": "/loona-audio-tools/pl/interview-audio-to-mp3/",
+  "id": "/pl/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

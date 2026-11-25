@@ -2,7 +2,7 @@
   "name": "Loona Criador de Som de Notificação",
   "short_name": "Criador de Som de Notificação",
   "description": "Criador de Som de Notificação grátis: corte áudio no seu navegador. Sem cadastro, sem envio.",
-  "id": "/loona-audio-tools/pt-br/notification-sound-maker/",
+  "id": "/pt-br/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač zvuka podcasta",
   "short_name": "Pretvarač zvuka podcasta",
   "description": "Besplatni pretvarač zvuka podcasta: pretvorite i pripremite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/podcast-audio-converter/",
+  "id": "/hr/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AAC-ból MP3-ba",
   "short_name": "AAC-ból MP3-ba",
   "description": "Ingyenes AAC-ból MP3-ba konvertáló: konvertálja az AAC-hangot MP3-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/aac-to-mp3-converter/",
+  "id": "/hu/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

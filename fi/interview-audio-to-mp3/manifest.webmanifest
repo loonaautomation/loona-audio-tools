@@ -2,7 +2,7 @@
   "name": "Loona Haastatteluääni MP3:ksi",
   "short_name": "Haastatteluääni MP3:ksi",
   "description": "Ilmainen haastatteluääni MP3:ksi: muunna ja valmistele ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/interview-audio-to-mp3/",
+  "id": "/fi/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

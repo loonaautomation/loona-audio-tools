@@ -2,7 +2,7 @@
   "name": "Loona OGG ל-WAV",
   "short_name": "OGG ל-WAV",
   "description": "ממיר OGG ל-WAV בחינם: המירו שמע OGG ל-WAV בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/ogg-to-wav-converter/",
+  "id": "/he/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Da OGG a MP3",
   "short_name": "Da OGG a MP3",
   "description": "Convertitore gratuito da OGG a MP3: converti l'audio OGG in MP3 nel tuo browser. Senza registrazione, nessun caricamento, nessuna filigrana.",
-  "id": "/loona-audio-tools/it/ogg-to-mp3-converter/",
+  "id": "/it/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

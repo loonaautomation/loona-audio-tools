@@ -2,7 +2,7 @@
   "name": "Loona SRT feliratszerkesztő Online ingyen",
   "short_name": "SRT feliratszerkesztő Online",
   "description": "Szerkesszen SRT és WebVTT feliratfájlokat online ingyen: javítsa a feliratszöveget és az időzítéseket, tolja el az összes sort egyszerre, javítsa az átfedő sorokat, és konvertáljon SRT-ből VTT-be. Regisztráció nélkül, és a feliratfájlja soha nem hagyja el az eszközét.",
-  "id": "/loona-audio-tools/hu/subtitle-editor/",
+  "id": "/hu/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

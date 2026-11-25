@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo hình ảnh dạng sóng Trực tuyến miễn phí",
   "short_name": "Trình tạo hình ảnh dạng sóng",
   "description": "Biến bất kỳ file âm thanh nào thành hình ảnh dạng sóng trực tuyến miễn phí - chọn kích thước, màu sắc, kiểu tô đầy hoặc thanh, và nền trong suốt, sau đó tải xuống PNG. Không cần đăng ký, và âm thanh của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-audio-tools/vi/waveform-generator/",
+  "id": "/vi/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

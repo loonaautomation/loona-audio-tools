@@ -2,7 +2,7 @@
   "name": "Loona WebM MP3:ksi",
   "short_name": "WebM MP3:ksi",
   "description": "Ilmainen WebM–MP3-muunnin: muunna WebM-ääni MP3-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/webm-to-mp3-converter/",
+  "id": "/fi/webm-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

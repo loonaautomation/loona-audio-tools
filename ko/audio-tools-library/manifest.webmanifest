@@ -2,7 +2,7 @@
   "name": "Loona 오디오 도구 라이브러리",
   "short_name": "오디오 도구 라이브러리",
   "description": "전체 Loona Audio Tools 라이브러리: MP3/WAV/OGG/M4A/FLAC/AAC 변환기, 비트레이트 목표, 속도 프리셋, 용도별 도구예요.",
-  "id": "/loona-audio-tools/ko/audio-tools-library/",
+  "id": "/ko/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

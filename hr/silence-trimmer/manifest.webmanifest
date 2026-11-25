@@ -2,7 +2,7 @@
   "name": "Loona Skraćivač tišine Besplatno na mreži",
   "short_name": "Skraćivač tišine Besplatno na mreži",
   "description": "Uklonite tišinu s početka i kraja zvuka besplatno na mreži. Skraćivač mjeri tihe sekunde, skraćuje ih pri podesivom pragu u dB s odstupanjem i izvozi WAV. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/silence-trimmer/",
+  "id": "/hr/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 til WAV",
   "short_name": "MP3 til WAV",
   "description": "Gratis MP3-til-WAV-konverter: konverter MP3-lyd til WAV i din browser. Ingen tilmelding, ingen upload, intet vandmærke.",
-  "id": "/loona-audio-tools/da/mp3-to-wav-converter/",
+  "id": "/da/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل MP3 128 kbps",
   "short_name": "محوّل MP3 128 kbps",
   "description": "محوّل MP3 128 kbps مجاني: حوّل أي ملف صوتي إلى MP3 بمعدل 128 kbps في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/mp3-128-kbps-converter/",
+  "id": "/ar/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Stilteknipper Online Gratis",
   "short_name": "Stilteknipper Online Gratis",
   "description": "Verwijder stilte uit het begin en einde van audio, gratis online. De knipper meet de stille seconden, knipt ze weg op een instelbare dB-drempel met opvulling, en exporteert WAV. Geen registratie, en je audio verlaat je apparaat nooit.",
-  "id": "/loona-audio-tools/nl/silence-trimmer/",
+  "id": "/nl/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Näytön tallennin Ilmainen verkossa",
   "short_name": "Näytön tallennin Ilmainen verkossa",
   "description": "Tallenna näyttösi, selainvälilehti tai ikkuna ilmaiseksi selaimessasi - mikrofonin äänellä, jos haluat sen. Ei rekisteröitymistä, ei latausta palvelimelle, latautuu WebM-muodossa.",
-  "id": "/loona-audio-tools/fi/screen-recorder/",
+  "id": "/fi/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

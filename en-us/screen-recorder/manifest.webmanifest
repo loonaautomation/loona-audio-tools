@@ -2,7 +2,7 @@
   "name": "Loona Screen Recorder - Record Your Screen Online Free",
   "short_name": "Screen Recorder - Record Your Screen Online Free",
   "description": "Record your screen, a browser tab or a window free in your browser - with microphone audio if you want it. No sign-up, no upload, downloads as WebM.",
-  "id": "/loona-audio-tools/en-us/screen-recorder/",
+  "id": "/en-us/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

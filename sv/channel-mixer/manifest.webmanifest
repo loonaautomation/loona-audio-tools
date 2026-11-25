@@ -2,7 +2,7 @@
   "name": "Loona Ljudkanalmixer Online gratis",
   "short_name": "Ljudkanalmixer Online",
   "description": "Konvertera ljudkanaler online gratis – stereo till mono, mono till stereo, byt vänster och höger kanal, eller kopiera vänster eller höger kanal till båda sidorna, exporterat som WAV. Ingen registrering, och ditt ljud lämnar aldrig din enhet.",
-  "id": "/loona-audio-tools/sv/channel-mixer/",
+  "id": "/sv/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

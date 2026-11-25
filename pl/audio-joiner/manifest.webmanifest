@@ -2,7 +2,7 @@
   "name": "Loona Łączenie audio Online za darmo",
   "short_name": "Łączenie audio Online za darmo",
   "description": "Łącz pliki audio online za darmo. Łącz pliki MP3, WAV, M4A i OGG w jedną ścieżkę w wybranej kolejności, bez konieczności rejestracji. Przetwarzane prywatnie w przeglądarce, eksportowane jako WAV.",
-  "id": "/loona-audio-tools/pl/audio-joiner/",
+  "id": "/pl/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

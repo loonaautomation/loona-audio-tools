@@ -2,7 +2,7 @@
   "name": "Loona MP3 128 kbps -muunnin",
   "short_name": "MP3 128 kbps -muunnin",
   "description": "Ilmainen MP3 128 kbps -muunnin: muunna mikä tahansa äänitiedosto MP3-muotoon 128 kbps:n nopeudella selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/mp3-128-kbps-converter/",
+  "id": "/fi/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

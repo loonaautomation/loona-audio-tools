@@ -2,7 +2,7 @@
   "name": "Loona OGG MP3:ksi",
   "short_name": "OGG MP3:ksi",
   "description": "Ilmainen OGG–MP3-muunnin: muunna OGG-ääni MP3-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/ogg-to-mp3-converter/",
+  "id": "/fi/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

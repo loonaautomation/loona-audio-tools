@@ -2,7 +2,7 @@
   "name": "Loona MP3 256 kbps -muunnin",
   "short_name": "MP3 256 kbps -muunnin",
   "description": "Ilmainen MP3 256 kbps -muunnin: muunna mikä tahansa äänitiedosto MP3-muotoon 256 kbps:n nopeudella selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/mp3-256-kbps-converter/",
+  "id": "/fi/mp3-256-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

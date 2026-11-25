@@ -2,7 +2,7 @@
   "name": "Loona OGG în WAV",
   "short_name": "OGG în WAV",
   "description": "Convertor OGG în WAV gratuit: convertește sunetul OGG în WAV în browserul tău. Fără înregistrare, fără încărcare, fără filigran.",
-  "id": "/loona-audio-tools/ro/ogg-to-wav-converter/",
+  "id": "/ro/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

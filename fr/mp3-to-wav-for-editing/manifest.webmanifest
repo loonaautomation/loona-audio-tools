@@ -2,7 +2,7 @@
   "name": "Loona MP3 vers WAV pour le montage",
   "short_name": "MP3 vers WAV pour le montage",
   "description": "MP3 vers WAV pour le montage gratuit : convertissez et préparez l'audio dans votre navigateur. Sans inscription, sans téléversement.",
-  "id": "/loona-audio-tools/fr/mp3-to-wav-for-editing/",
+  "id": "/fr/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

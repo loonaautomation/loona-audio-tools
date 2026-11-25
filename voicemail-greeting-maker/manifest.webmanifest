@@ -2,7 +2,7 @@
   "name": "Loona Voicemail Greeting Maker",
   "short_name": "Voicemail Greeting Maker",
   "description": "Free Voicemail Greeting Maker: trim audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/voicemail-greeting-maker/",
+  "id": "/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

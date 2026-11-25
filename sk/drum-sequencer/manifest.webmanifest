@@ -2,7 +2,7 @@
   "name": "Loona Sekvencer bicích Online zadarmo",
   "short_name": "Sekvencer bicích Online zadarmo",
   "description": "Vytvárajte rytmy bicích online zadarmo so sekvencerom so 16 krokmi – syntetizované zvuky kopáka, virbla a hi-hatu, predvoľby rock, house a hip-hop a tempo od 60 do 180 BPM. Žiadne vzorky, žiadna registrácia, všetko syntetizované vo vašom prehliadači.",
-  "id": "/loona-audio-tools/sk/drum-sequencer/",
+  "id": "/sk/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

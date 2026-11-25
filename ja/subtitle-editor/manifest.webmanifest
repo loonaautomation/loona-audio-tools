@@ -2,7 +2,7 @@
   "name": "Loona SRT字幕エディター オンライン無料",
   "short_name": "SRT字幕エディター Online",
   "description": "SRTとWebVTTの字幕ファイルをオンラインで無料編集：字幕テキストとタイミングを修正し、すべてのキューを一度にずらし、重なるキューを修復し、SRTをVTTに変換します。登録不要で、字幕ファイルがデバイスの外に出ることはありません。",
-  "id": "/loona-audio-tools/ja/subtitle-editor/",
+  "id": "/ja/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona OGG vers WAV",
   "short_name": "OGG vers WAV",
   "description": "Convertisseur OGG vers WAV gratuit : convertissez l'audio OGG en WAV dans votre navigateur. Sans inscription, sans téléversement, sans filigrane.",
-  "id": "/loona-audio-tools/fr/ogg-to-wav-converter/",
+  "id": "/fr/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

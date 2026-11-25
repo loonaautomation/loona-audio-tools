@@ -2,7 +2,7 @@
   "name": "Loona Audio de interviu în MP3",
   "short_name": "Audio de interviu în MP3",
   "description": "Audio de interviu în MP3 gratuit: convertește și pregătește sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/interview-audio-to-mp3/",
+  "id": "/ro/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

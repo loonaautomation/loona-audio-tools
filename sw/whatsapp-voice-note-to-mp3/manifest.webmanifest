@@ -2,7 +2,7 @@
   "name": "Loona Noti ya Sauti ya WhatsApp hadi MP3",
   "short_name": "Noti ya Sauti ya WhatsApp hadi MP3",
   "description": "Noti ya Sauti ya WhatsApp hadi MP3 ya Bure: badilisha na andaa sauti katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/whatsapp-voice-note-to-mp3/",
+  "id": "/sw/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

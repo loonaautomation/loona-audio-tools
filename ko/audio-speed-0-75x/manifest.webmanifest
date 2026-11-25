@@ -2,7 +2,7 @@
   "name": "Loona 오디오 속도 0.75x",
   "short_name": "오디오 속도 0.75x",
   "description": "무료 오디오 속도 0.75x 변경기: 브라우저에서 모든 오디오 파일을 0.75x 속도로 바꾸세요. 가입 없이, 업로드 없이.",
-  "id": "/loona-audio-tools/ko/audio-speed-0-75x/",
+  "id": "/ko/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

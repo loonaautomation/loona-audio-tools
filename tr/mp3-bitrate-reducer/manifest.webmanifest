@@ -2,7 +2,7 @@
   "name": "Loona MP3 Bit Hızı Düşürücü",
   "short_name": "MP3 Bit Hızı Düşürücü",
   "description": "Ücretsiz MP3 bit hızı düşürücü: MP3 dosyalarını 64–320 kbps hızında yeniden kodlayarak küçültün. Mesajlaşma, e-posta ve depolama için daha küçük dosyalar — tarayıcınızda.",
-  "id": "/loona-audio-tools/tr/mp3-bitrate-reducer/",
+  "id": "/tr/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

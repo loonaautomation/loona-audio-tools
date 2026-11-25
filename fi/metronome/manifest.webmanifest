@@ -2,7 +2,7 @@
   "name": "Loona Metronomi Ilmainen verkossa",
   "short_name": "Metronomi Ilmainen verkossa",
   "description": "Ilmainen verkkometronomi, jossa BPM-liukusäädin 30–240, tahtilajit, alijaot, korostettu ensimmäinen isku, visuaalinen pulssi ja naputustempo. Ei rekisteröitymistä, mitään ei ladata palvelimelle - se toimii selaimessasi.",
-  "id": "/loona-audio-tools/fi/metronome/",
+  "id": "/fi/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

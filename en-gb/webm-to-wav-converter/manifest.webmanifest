@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/webm-to-wav-converter/",
+  "id": "/en-gb/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

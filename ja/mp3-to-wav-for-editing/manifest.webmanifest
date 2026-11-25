@@ -2,7 +2,7 @@
   "name": "Loona 編集用MP3からWAVへ",
   "short_name": "編集用MP3からWAVへ",
   "description": "無料の編集用MP3-to-WAVコンバーター：ブラウザで音声を変換・準備します。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/mp3-to-wav-for-editing/",
+  "id": "/ja/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

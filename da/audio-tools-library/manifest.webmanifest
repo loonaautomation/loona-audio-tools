@@ -2,7 +2,7 @@
   "name": "Loona Lydværktøjsbibliotek",
   "short_name": "Lydværktøjsbibliotek",
   "description": "Det fulde Loona Audio Tools-bibliotek: MP3/WAV/OGG/M4A/FLAC/AAC-konvertere, bitrate-mål, hastighedsforudindstillinger og værktøjer til konkrete formål.",
-  "id": "/loona-audio-tools/da/audio-tools-library/",
+  "id": "/da/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

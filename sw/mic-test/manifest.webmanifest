@@ -2,7 +2,7 @@
   "name": "Loona Jaribio la Maikrofoni Bure Mtandaoni",
   "short_name": "Jaribio la Maikrofoni Bure Mtandaoni",
   "description": "Jaribu maikrofoni yako bure katika kivinjari chako: mita ya kiwango cha moja kwa moja, rekodi ya jaribio ya sekunde 5 yenye uchezaji, na kichaguaji cha maikrofoni. Hakuna kinachopakiwa - maikrofoni yako hutumika ndani ya kifaa tu.",
-  "id": "/loona-audio-tools/sw/mic-test/",
+  "id": "/sw/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

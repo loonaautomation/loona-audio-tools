@@ -2,7 +2,7 @@
   "name": "Loona Teste de Webcam Online Grátis",
   "short_name": "Teste de Webcam Online Grátis",
   "description": "Teste sua webcam grátis no seu navegador: prévia ao vivo, leitura de resolução e taxa de quadros reais, alternância de espelho e download de foto. Nada é enviado - sua câmera só é usada localmente.",
-  "id": "/loona-audio-tools/pt-br/webcam-test/",
+  "id": "/pt-br/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

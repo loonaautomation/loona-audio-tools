@@ -2,7 +2,7 @@
   "name": "Loona Instrumenttuner gratis online",
   "short_name": "Instrumenttuner gratis online",
   "description": "Stem ethvert instrument online gratis med din mikrofon. Den kromatiske tuner viser tonens navn, den nøjagtige frekvens, og hvor mange cent for høj eller lav du er. Nøjagtighed angivet ærligt, ingen tilmelding, og din lyd forlader aldrig din enhed.",
-  "id": "/loona-audio-tools/da/instrument-tuner/",
+  "id": "/da/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

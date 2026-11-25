@@ -2,7 +2,7 @@
   "name": "Loona Kigeuzi cha Sauti Bure Mtandaoni",
   "short_name": "Kigeuzi cha Sauti Bure Mtandaoni",
   "description": "Geuza sauti mtandaoni bure. Cheza faili yoyote ya MP3, WAV, M4A au OGG kinyumenyume na upakue sauti iliyogeuzwa kama WAV. Hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
-  "id": "/loona-audio-tools/sw/audio-reverser/",
+  "id": "/sw/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

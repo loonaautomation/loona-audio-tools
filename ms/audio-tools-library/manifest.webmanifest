@@ -2,7 +2,7 @@
   "name": "Loona Pustaka Alat Audio",
   "short_name": "Pustaka Alat Audio",
   "description": "Pustaka penuh Loona Audio Tools: penukar MP3/WAV/OGG/M4A/FLAC/AAC, sasaran kadar bit, pratetap kelajuan dan alat mengikut kegunaan.",
-  "id": "/loona-audio-tools/ms/audio-tools-library/",
+  "id": "/ms/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

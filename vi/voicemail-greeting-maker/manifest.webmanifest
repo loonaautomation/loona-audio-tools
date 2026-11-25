@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo lời chào thư thoại",
   "short_name": "Trình tạo lời chào thư thoại",
   "description": "Trình tạo lời chào thư thoại miễn phí: cắt âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/voicemail-greeting-maker/",
+  "id": "/vi/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

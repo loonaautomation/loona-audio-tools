@@ -2,7 +2,7 @@
   "name": "Loona MP3 轉 WAV 用於編輯",
   "short_name": "MP3 轉 WAV 用於編輯",
   "description": "免費 MP3 轉 WAV 用於編輯：在您的瀏覽器中轉換和準備音訊。無需註冊，無需上傳。",
-  "id": "/loona-audio-tools/zh-hant/mp3-to-wav-for-editing/",
+  "id": "/zh-hant/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

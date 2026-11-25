@@ -2,7 +2,7 @@
   "name": "Loona OGG 转 MP3",
   "short_name": "OGG 转 MP3",
   "description": "免费 OGG 转 MP3 转换器：在您的浏览器中将 OGG 音频转换为 MP3。无需注册，无需上传，无水印。",
-  "id": "/loona-audio-tools/zh/ogg-to-mp3-converter/",
+  "id": "/zh/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

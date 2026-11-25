@@ -2,7 +2,7 @@
   "name": "Loona Értesítésihang-készítő",
   "short_name": "Értesítésihang-készítő",
   "description": "Ingyenes Értesítésihang-készítő: vágjon hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/notification-sound-maker/",
+  "id": "/hu/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Äänen häivytyseditori Ilmainen verkossa",
   "short_name": "Äänen häivytyseditori Ilmainen verkossa",
   "description": "Lisää häivytys äänen alkuun ja loppuun verkossa ilmaiseksi. Aseta häivytykset enintään 10 sekunniksi mille tahansa MP3-, WAV-, M4A- tai OGG-tiedostolle, esikatsele ja vie WAV-muodossa. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/audio-fade-editor/",
+  "id": "/fi/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

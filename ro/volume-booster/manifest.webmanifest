@@ -2,7 +2,7 @@
   "name": "Loona Amplificator de volum Online Gratuit",
   "short_name": "Amplificator de volum Online Gratuit",
   "description": "Amplifică volumul sunetului online gratuit. Fă înregistrările MP3, WAV, M4A și OGG silențioase cu până la 300% mai puternice sau normalizează vârfurile în siguranță și exportă ca WAV. Fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul.",
-  "id": "/loona-audio-tools/ro/volume-booster/",
+  "id": "/ro/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

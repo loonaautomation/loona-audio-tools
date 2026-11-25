@@ -2,7 +2,7 @@
   "name": "Loona Audio Tools",
   "short_name": "Loona Audio Tools",
   "description": "Ferramentas de áudio online grátis - corte e apare arquivos MP3, WAV, M4A e OGG, una arquivos de áudio em uma faixa, converta áudio entre WAV e MP3, grave sua voz e sua tela, e teste seu microfone e sua webcam. 100% grátis, sem cadastro, e tudo fica no seu dispositivo.",
-  "id": "/loona-audio-tools/pt-br/",
+  "id": "/pt-br/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

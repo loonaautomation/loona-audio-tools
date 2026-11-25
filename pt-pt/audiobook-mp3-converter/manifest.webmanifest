@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Audiolivro para MP3",
   "short_name": "Conversor de Audiolivro para",
   "description": "Conversor de Audiolivro para MP3 grátis: converta e prepare áudio no seu navegador. Sem registo, sem envio.",
-  "id": "/loona-audio-tools/pt-pt/audiobook-mp3-converter/",
+  "id": "/pt-pt/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

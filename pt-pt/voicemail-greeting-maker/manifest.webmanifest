@@ -2,7 +2,7 @@
   "name": "Loona Criador de Saudação de Correio de Voz",
   "short_name": "Criador de Saudação de",
   "description": "Criador de Saudação de Correio de Voz grátis: corte áudio no seu navegador. Sem registo, sem envio.",
-  "id": "/loona-audio-tools/pt-pt/voicemail-greeting-maker/",
+  "id": "/pt-pt/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

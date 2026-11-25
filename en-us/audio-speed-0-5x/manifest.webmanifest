@@ -2,7 +2,7 @@
   "name": "Loona Audio Speed Changer - Speed Up or Slow Down Audio Online Free",
   "short_name": "Audio Speed Changer - Speed Up or Slow Down Audio Online Free",
   "description": "Free audio speed 0.5x changer: change any audio file to 0.5x speed in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/en-us/audio-speed-0-5x/",
+  "id": "/en-us/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

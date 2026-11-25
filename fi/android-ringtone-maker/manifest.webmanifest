@@ -2,7 +2,7 @@
   "name": "Loona Android-soittoäänen tekijä",
   "short_name": "Android-soittoäänen tekijä",
   "description": "Ilmainen Android-soittoäänen tekijä: leikkaa ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/android-ringtone-maker/",
+  "id": "/fi/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

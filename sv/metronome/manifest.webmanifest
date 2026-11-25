@@ -2,7 +2,7 @@
   "name": "Loona Metronom Online gratis",
   "short_name": "Metronom Online gratis",
   "description": "Gratis metronom online med ett BPM-reglage från 30 till 240, taktarter, underdelningar, ett accentuerat första slag, en visuell puls och tap-tempo. Ingen registrering, ingenting uppladdat – den körs i din webbläsare.",
-  "id": "/loona-audio-tools/sv/metronome/",
+  "id": "/sv/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

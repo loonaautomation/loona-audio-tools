@@ -2,7 +2,7 @@
   "name": "Loona Alarmlydverktøy",
   "short_name": "Alarmlydverktøy",
   "description": "Gratis alarmlydverktøy: trim lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/alarm-sound-maker/",
+  "id": "/nb/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

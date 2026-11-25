@@ -2,7 +2,7 @@
   "name": "Loona Creator de sunete de alarmă",
   "short_name": "Creator de sunete de alarmă",
   "description": "Creator de sunete de alarmă gratuit: taie sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/alarm-sound-maker/",
+  "id": "/ro/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

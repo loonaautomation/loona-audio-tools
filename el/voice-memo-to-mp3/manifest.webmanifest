@@ -2,7 +2,7 @@
   "name": "Loona Φωνητικό Υπόμνημα σε MP3",
   "short_name": "Φωνητικό Υπόμνημα σε MP3",
   "description": "Δωρεάν Φωνητικό Υπόμνημα σε MP3: μετατρέψτε και προετοιμάστε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/voice-memo-to-mp3/",
+  "id": "/el/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Reducător de rată de biți MP3",
   "short_name": "Reducător de rată de biți MP3",
   "description": "Reducător de rată de biți MP3 gratuit: micșorează fișierele MP3 prin recodare la 64–320 kbps. Fișiere mai mici pentru mesagerie, e-mail și stocare — în browserul tău.",
-  "id": "/loona-audio-tools/ro/mp3-bitrate-reducer/",
+  "id": "/ro/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

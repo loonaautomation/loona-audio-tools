@@ -2,7 +2,7 @@
   "name": "Loona Audiosnelheid 0.5x",
   "short_name": "Audiosnelheid 0.5x",
   "description": "Gratis audiosnelheid 0.5x veranderaar: verander elk audiobestand naar 0.5x snelheid in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/audio-speed-0-5x/",
+  "id": "/nl/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

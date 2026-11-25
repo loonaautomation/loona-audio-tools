@@ -2,7 +2,7 @@
   "name": "Loona Kikata Sauti Bure Mtandaoni",
   "short_name": "Kikata Sauti Bure Mtandaoni",
   "description": "Kata na punguza faili za sauti mtandaoni bure. Punguza MP3, WAV, M4A na OGG kwa umbo la wimbi la kuona, hakuna kujisajili kunahitajika. Sauti yako husindikwa kwa faragha katika kivinjari chako na hutolewa kama WAV.",
-  "id": "/loona-audio-tools/sw/audio-cutter/",
+  "id": "/sw/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

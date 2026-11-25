@@ -2,7 +2,7 @@
   "name": "Loona Καταγραφέας Οθόνης Δωρεάν Online",
   "short_name": "Καταγραφέας Οθόνης Δωρεάν Online",
   "description": "Καταγράψτε την οθόνη σας, μια καρτέλα ή ένα παράθυρο δωρεάν στο πρόγραμμα περιήγησής σας - με ήχο μικροφώνου αν το θέλετε. Χωρίς εγγραφή, χωρίς ανέβασμα, κατεβαίνει ως WebM.",
-  "id": "/loona-audio-tools/el/screen-recorder/",
+  "id": "/el/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Luentotallenne MP3:ksi",
   "short_name": "Luentotallenne MP3:ksi",
   "description": "Ilmainen luentotallenne MP3:ksi: muunna ja valmistele ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/lecture-recording-to-mp3/",
+  "id": "/fi/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

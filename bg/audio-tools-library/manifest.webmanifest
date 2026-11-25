@@ -2,7 +2,7 @@
   "name": "Loona Библиотека с аудио инструменти",
   "short_name": "Библиотека с аудио инструменти",
   "description": "Пълната библиотека на Loona Audio Tools: конвертори MP3/WAV/OGG/M4A/FLAC/AAC, целеви битрейтове, предварителни настройки за скорост и инструменти за конкретни случаи.",
-  "id": "/loona-audio-tools/bg/audio-tools-library/",
+  "id": "/bg/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

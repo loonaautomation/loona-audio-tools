@@ -2,7 +2,7 @@
   "name": "Loona Audio Converter - Convert Audio Files Online Free",
   "short_name": "Audio Converter - Convert Audio Files Online Free",
   "description": "Free OGG-to-WAV converter: convert OGG audio to WAV in your browser. No sign-up, no upload, no watermark.",
-  "id": "/loona-audio-tools/en-us/ogg-to-wav-converter/",
+  "id": "/en-us/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

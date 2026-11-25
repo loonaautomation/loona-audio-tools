@@ -2,7 +2,7 @@
   "name": "Loona Převodník MP3 320 kbps",
   "short_name": "Převodník MP3 320 kbps",
   "description": "Bezplatný převodník MP3 320 kbps: převeďte libovolný zvukový soubor do MP3 při 320 kbps ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/mp3-320-kbps-converter/",
+  "id": "/cs/mp3-320-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

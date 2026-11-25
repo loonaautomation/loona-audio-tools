@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Nada Dering Android",
   "short_name": "Pembuat Nada Dering Android",
   "description": "Pembuat Nada Dering Android Percuma: pangkas audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/android-ringtone-maker/",
+  "id": "/ms/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

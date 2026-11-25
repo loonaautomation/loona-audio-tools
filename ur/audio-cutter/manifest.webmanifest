@@ -2,7 +2,7 @@
   "name": "Loona آڈیو کٹر آن لائن مفت",
   "short_name": "آڈیو کٹر آن لائن مفت",
   "description": "آڈیو فائلیں آن لائن مفت کاٹیں اور تراشیں۔ بصری ویوفارم کے ساتھ MP3، WAV، M4A اور OGG تراشیں، کسی سائن اپ کی ضرورت نہیں۔ آپ کی آڈیو آپ کے براؤزر میں نجی طور پر پروسیس ہوتی ہے اور WAV کے طور پر برآمد ہوتی ہے۔",
-  "id": "/loona-audio-tools/ur/audio-cutter/",
+  "id": "/ur/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

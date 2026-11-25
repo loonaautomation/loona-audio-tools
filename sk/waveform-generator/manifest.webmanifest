@@ -2,7 +2,7 @@
   "name": "Loona Generátor obrázka zvukovej vlny Online zadarmo",
   "short_name": "Generátor obrázka zvukovej vlny",
   "description": "Premeňte akýkoľvek zvukový súbor na obrázok zvukovej vlny online zadarmo – vyberte veľkosť, farby, vyplnený alebo pruhový štýl a priehľadné pozadie a potom si stiahnite PNG. Bez registrácie a váš zvuk nikdy neopustí vaše zariadenie.",
-  "id": "/loona-audio-tools/sk/waveform-generator/",
+  "id": "/sk/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

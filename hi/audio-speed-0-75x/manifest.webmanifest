@@ -2,7 +2,7 @@
   "name": "Loona ऑडियो स्पीड 0.75x",
   "short_name": "ऑडियो स्पीड 0.75x",
   "description": "मुफ़्त ऑडियो स्पीड 0.75x चेंजर: किसी भी ऑडियो फ़ाइल को अपने ब्राउज़र में 0.75x गति में बदलें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/audio-speed-0-75x/",
+  "id": "/hi/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

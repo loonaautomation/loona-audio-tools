@@ -2,7 +2,7 @@
   "name": "Loona M4A в WAV",
   "short_name": "M4A в WAV",
   "description": "Бесплатный конвертер M4A в WAV: конвертируйте аудио M4A в WAV в вашем браузере. Без регистрации, без загрузки на сервер, без водяных знаков.",
-  "id": "/loona-audio-tools/ru/m4a-to-wav-converter/",
+  "id": "/ru/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

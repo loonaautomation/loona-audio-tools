@@ -2,7 +2,7 @@
   "name": "Loona Tongenerator online kostenlos",
   "short_name": "Tongenerator online kostenlos",
   "description": "Erzeugen Sie Testtöne online kostenlos. Sinus-, Rechteck-, Dreieck- und Sägezahn-Wellenformen von 20 Hz bis 20,000 Hz - sofort abspielen oder als WAV herunterladen. Keine Anmeldung, läuft zu 100% in Ihrem Browser.",
-  "id": "/loona-audio-tools/de/tone-generator/",
+  "id": "/de/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

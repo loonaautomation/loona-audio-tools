@@ -2,7 +2,7 @@
   "name": "Loona マイクテスト オンライン無料",
   "short_name": "マイクテスト オンライン無料",
   "description": "ブラウザでマイクを無料テスト：ライブレベルメーター、再生付きの5秒間のテスト録音、マイク選択。何もアップロードされません — マイクはローカルでのみ使用されます。",
-  "id": "/loona-audio-tools/ja/mic-test/",
+  "id": "/ja/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

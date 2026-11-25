@@ -2,7 +2,7 @@
   "name": "Loona Juntador de Áudio Online Grátis",
   "short_name": "Juntador de Áudio Online",
   "description": "Una ficheiros de áudio online grátis. Combine ficheiros MP3, WAV, M4A e OGG em uma faixa na ordem que você escolher, sem precisar de registo. Processado de forma privada no seu navegador, exportado como WAV.",
-  "id": "/loona-audio-tools/pt-pt/audio-joiner/",
+  "id": "/pt-pt/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

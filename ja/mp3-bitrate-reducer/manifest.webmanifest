@@ -2,7 +2,7 @@
   "name": "Loona MP3ビットレート削減ツール",
   "short_name": "MP3ビットレート削減ツール",
   "description": "無料のMP3ビットレート削減：64–320 kbpsで再エンコードし、MP3ファイルを縮小します。メッセージ、メール、保存のためのより小さいファイル — ブラウザで。",
-  "id": "/loona-audio-tools/ja/mp3-bitrate-reducer/",
+  "id": "/ja/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

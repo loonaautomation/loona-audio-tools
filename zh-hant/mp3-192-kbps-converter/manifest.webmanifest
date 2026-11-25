@@ -2,7 +2,7 @@
   "name": "Loona MP3 192 kbps 轉換器",
   "short_name": "MP3 192 kbps 轉換器",
   "description": "免費 MP3 192 kbps 轉換器：在您的瀏覽器中將任何音訊檔案轉換為 192 kbps 的 MP3。無需註冊，無需上傳。",
-  "id": "/loona-audio-tools/zh-hant/mp3-192-kbps-converter/",
+  "id": "/zh-hant/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

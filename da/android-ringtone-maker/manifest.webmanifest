@@ -2,7 +2,7 @@
   "name": "Loona Android-ringetonemager",
   "short_name": "Android-ringetonemager",
   "description": "Gratis Android-ringetonemager: klip lyd i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/android-ringtone-maker/",
+  "id": "/da/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

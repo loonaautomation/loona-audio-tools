@@ -2,7 +2,7 @@
   "name": "Loona Äänen nopeus 1.25x",
   "short_name": "Äänen nopeus 1.25x",
   "description": "Ilmainen äänen nopeuden 1.25x vaihtaja: vaihda mikä tahansa äänitiedosto 1.25x-nopeuteen selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/audio-speed-1-25x/",
+  "id": "/fi/audio-speed-1-25x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

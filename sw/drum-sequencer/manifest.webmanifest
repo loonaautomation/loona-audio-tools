@@ -2,7 +2,7 @@
   "name": "Loona Kipangaji cha Ngoma Bure Mtandaoni",
   "short_name": "Kipangaji cha Ngoma Bure Mtandaoni",
   "description": "Tengeneza midundo ya ngoma mtandaoni bure kwa kipangaji cha hatua 16 - sauti zilizotengenezwa za kick, snare na hi-hat, mipangilio tayari ya rock, house na hip-hop, na mwendo kutoka 60 hadi 180 BPM. Hakuna sampuli, hakuna kujisajili, kila kitu hutengenezwa katika kivinjari chako.",
-  "id": "/loona-audio-tools/sw/drum-sequencer/",
+  "id": "/sw/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

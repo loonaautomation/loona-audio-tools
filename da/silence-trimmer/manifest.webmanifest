@@ -2,7 +2,7 @@
   "name": "Loona Stilhedstrimmer gratis online",
   "short_name": "Stilhedstrimmer gratis online",
   "description": "Fjern stilhed fra starten og slutningen af lyd online gratis. Trimmeren måler de stille sekunder, klipper dem ved en justerbar dB-tærskel med polstring og eksporterer WAV. Ingen tilmelding, og din lyd forlader aldrig din enhed.",
-  "id": "/loona-audio-tools/da/silence-trimmer/",
+  "id": "/da/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona FLAC hadi MP3",
   "short_name": "FLAC hadi MP3",
   "description": "Kibadilishaji cha bure cha FLAC-hadi-MP3: badilisha sauti ya FLAC kuwa MP3 katika kivinjari chako. Hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-audio-tools/sw/flac-to-mp3-converter/",
+  "id": "/sw/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

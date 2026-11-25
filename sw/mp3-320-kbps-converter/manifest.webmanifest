@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha MP3 320 kbps",
   "short_name": "Kibadilishaji cha MP3 320 kbps",
   "description": "Kibadilishaji cha bure cha MP3 320 kbps: badilisha faili yoyote ya sauti kuwa MP3 kwa 320 kbps katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/mp3-320-kbps-converter/",
+  "id": "/sw/mp3-320-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

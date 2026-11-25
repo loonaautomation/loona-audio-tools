@@ -2,7 +2,7 @@
   "name": "Loona FLAC în WAV",
   "short_name": "FLAC în WAV",
   "description": "Convertor FLAC în WAV gratuit: convertește sunetul FLAC în WAV în browserul tău. Fără înregistrare, fără încărcare, fără filigran.",
-  "id": "/loona-audio-tools/ro/flac-to-wav-converter/",
+  "id": "/ro/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

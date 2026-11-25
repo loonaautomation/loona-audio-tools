@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/audio-fade-editor/",
+  "id": "/en-gb/ms/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

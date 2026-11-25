@@ -2,7 +2,7 @@
   "name": "Loona מחבר שמע בחינם באינטרנט",
   "short_name": "מחבר שמע בחינם באינטרנט",
   "description": "חיבור קבצי שמע באינטרנט בחינם. שלבו קבצי MP3, WAV, M4A ו-OGG לרצועה אחת בסדר שתבחרו, ללא צורך בהרשמה. מעובד בפרטיות בדפדפן שלכם, מיוצא כ-WAV.",
-  "id": "/loona-audio-tools/he/audio-joiner/",
+  "id": "/he/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona FLAC से WAV",
   "short_name": "FLAC से WAV",
   "description": "मुफ़्त FLAC-से-WAV कन्वर्टर: FLAC ऑडियो को अपने ब्राउज़र में WAV में कन्वर्ट करें। कोई साइन-अप नहीं, कोई अपलोड नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-audio-tools/hi/flac-to-wav-converter/",
+  "id": "/hi/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

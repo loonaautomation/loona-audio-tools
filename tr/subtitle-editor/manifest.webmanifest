@@ -2,7 +2,7 @@
   "name": "Loona SRT Altyazı Düzenleyici Çevrimiçi Ücretsiz",
   "short_name": "SRT Altyazı Düzenleyici Çevrimiçi",
   "description": "SRT ve WebVTT altyazı dosyalarını çevrimiçi ve ücretsiz düzenleyin: altyazı metnini ve zamanlamalarını düzeltin, tüm satırları birden kaydırın, çakışan satırları onarın ve SRT'yi VTT'ye dönüştürün. Kayıt gerekmez ve altyazı dosyanız cihazınızdan asla ayrılmaz.",
-  "id": "/loona-audio-tools/tr/subtitle-editor/",
+  "id": "/tr/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

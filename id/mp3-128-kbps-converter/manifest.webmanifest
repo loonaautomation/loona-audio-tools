@@ -2,7 +2,7 @@
   "name": "Loona Konverter MP3 128 kbps",
   "short_name": "Konverter MP3 128 kbps",
   "description": "Konverter MP3 128 kbps gratis: konversi berkas audio apa pun ke MP3 pada 128 kbps di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/mp3-128-kbps-converter/",
+  "id": "/id/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

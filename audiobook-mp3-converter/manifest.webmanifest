@@ -2,7 +2,7 @@
   "name": "Loona Audiobook MP3 Converter",
   "short_name": "Audiobook MP3 Converter",
   "description": "Free Audiobook MP3 Converter: convert and prepare audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/audiobook-mp3-converter/",
+  "id": "/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

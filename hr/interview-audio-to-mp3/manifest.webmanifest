@@ -2,7 +2,7 @@
   "name": "Loona Zvuk intervjua u MP3",
   "short_name": "Zvuk intervjua u MP3",
   "description": "Besplatni zvuk intervjua u MP3: pretvorite i pripremite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/interview-audio-to-mp3/",
+  "id": "/hr/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

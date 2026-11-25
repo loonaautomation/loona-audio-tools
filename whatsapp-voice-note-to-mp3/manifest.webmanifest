@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp Voice Note to MP3",
   "short_name": "WhatsApp Voice Note to MP3",
   "description": "Free WhatsApp Voice Note to MP3: convert and prepare audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/whatsapp-voice-note-to-mp3/",
+  "id": "/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

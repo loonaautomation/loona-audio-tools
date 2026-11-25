@@ -2,7 +2,7 @@
   "name": "Loona MP3 192 kbps কনভার্টার",
   "short_name": "MP3 192 kbps কনভার্টার",
   "description": "বিনামূল্যে MP3 192 kbps কনভার্টার: আপনার ব্রাউজারে যেকোনো অডিও ফাইল 192 kbps-এ MP3-তে রূপান্তর করুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
-  "id": "/loona-audio-tools/bn/mp3-192-kbps-converter/",
+  "id": "/bn/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

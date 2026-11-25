@@ -2,7 +2,7 @@
   "name": "Loona ตัวรวมไฟล์เสียง ออนไลน์ฟรี",
   "short_name": "ตัวรวมไฟล์เสียง ออนไลน์ฟรี",
   "description": "รวมไฟล์เสียงออนไลน์ฟรี รวมไฟล์ MP3, WAV, M4A และ OGG ให้เป็นแทร็กเดียวตามลำดับที่คุณเลือก ไม่ต้องสมัครสมาชิก ประมวลผลอย่างเป็นส่วนตัวในเบราว์เซอร์ของคุณ ส่งออกเป็น WAV",
-  "id": "/loona-audio-tools/th/audio-joiner/",
+  "id": "/th/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

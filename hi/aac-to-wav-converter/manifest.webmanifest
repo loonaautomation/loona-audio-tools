@@ -2,7 +2,7 @@
   "name": "Loona AAC से WAV",
   "short_name": "AAC से WAV",
   "description": "मुफ़्त AAC-से-WAV कन्वर्टर: AAC ऑडियो को अपने ब्राउज़र में WAV में कन्वर्ट करें। कोई साइन-अप नहीं, कोई अपलोड नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-audio-tools/hi/aac-to-wav-converter/",
+  "id": "/hi/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

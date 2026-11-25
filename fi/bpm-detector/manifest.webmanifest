@@ -2,7 +2,7 @@
   "name": "Loona BPM-tunnistin Ilmainen verkossa",
   "short_name": "BPM-tunnistin Ilmainen verkossa",
   "description": "Selvitä laulun BPM verkossa ilmaiseksi. Tunnistin analysoi tahdin selaimessasi ja näyttää tempon, sekunnit tahtia kohden ja luotettavuusarvion - sekä naputustempon työkalun. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/bpm-detector/",
+  "id": "/fi/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

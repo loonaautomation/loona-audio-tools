@@ -2,7 +2,7 @@
   "name": "Loona 留守番電話グリーティングメーカー",
   "short_name": "留守番電話グリーティングメーカー",
   "description": "無料の留守番電話グリーティングメーカー：ブラウザで音声をトリミングします。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/voicemail-greeting-maker/",
+  "id": "/ja/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

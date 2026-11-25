@@ -2,7 +2,7 @@
   "name": "Loona Luisterboek MP3-converter",
   "short_name": "Luisterboek MP3-converter",
   "description": "Gratis Luisterboek MP3-converter: converteer en bereid audio voor in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/audiobook-mp3-converter/",
+  "id": "/nl/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

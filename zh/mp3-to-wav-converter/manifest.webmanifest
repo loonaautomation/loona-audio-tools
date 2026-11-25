@@ -2,7 +2,7 @@
   "name": "Loona MP3 转 WAV",
   "short_name": "MP3 转 WAV",
   "description": "免费 MP3 转 WAV 转换器：在您的浏览器中将 MP3 音频转换为 WAV。无需注册，无需上传，无水印。",
-  "id": "/loona-audio-tools/zh/mp3-to-wav-converter/",
+  "id": "/zh/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

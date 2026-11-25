@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp-äänimuistiinpano MP3:ksi",
   "short_name": "WhatsApp-äänimuistiinpano MP3:ksi",
   "description": "Ilmainen WhatsApp-äänimuistiinpano MP3:ksi: muunna ja valmistele ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/whatsapp-voice-note-to-mp3/",
+  "id": "/fi/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

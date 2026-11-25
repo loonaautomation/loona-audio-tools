@@ -2,7 +2,7 @@
   "name": "Loona AAC u MP3",
   "short_name": "AAC u MP3",
   "description": "Besplatni pretvarač AAC u MP3: pretvorite AAC zvuk u MP3 u svom pregledniku. Bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-audio-tools/hr/aac-to-mp3-converter/",
+  "id": "/hr/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

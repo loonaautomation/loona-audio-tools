@@ -2,7 +2,7 @@
   "name": "Loona ตัวเปลี่ยนความเร็วเสียง ออนไลน์ฟรี",
   "short_name": "ตัวเปลี่ยนความเร็วเสียง ออนไลน์",
   "description": "เปลี่ยนความเร็วเสียงออนไลน์ฟรี เร่งหรือชะลอไฟล์ MP3, WAV, M4A และ OGG จาก 0.25x ถึง 3x ฟังตัวอย่างได้ทันทีและส่งออกเป็น WAV ไม่ต้องสมัครสมาชิก และเสียงของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
-  "id": "/loona-audio-tools/th/audio-speed-changer/",
+  "id": "/th/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kiểm tra micro Trực tuyến miễn phí",
   "short_name": "Kiểm tra micro Trực tuyến miễn phí",
   "description": "Kiểm tra micro của bạn miễn phí trong trình duyệt: đồng hồ đo mức trực tiếp, bản ghi kiểm tra 5 giây với phát lại, và bộ chọn micro. Không có gì được tải lên - micro của bạn chỉ được dùng cục bộ.",
-  "id": "/loona-audio-tools/vi/mic-test/",
+  "id": "/vi/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

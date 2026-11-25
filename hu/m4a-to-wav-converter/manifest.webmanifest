@@ -2,7 +2,7 @@
   "name": "Loona M4A-ból WAV-ba",
   "short_name": "M4A-ból WAV-ba",
   "description": "Ingyenes M4A-ból WAV-ba konvertáló: konvertálja az M4A-hangot WAV-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/m4a-to-wav-converter/",
+  "id": "/hu/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

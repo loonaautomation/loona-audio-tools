@@ -2,7 +2,7 @@
   "name": "Loona Kirekodi cha Skrini Bure Mtandaoni",
   "short_name": "Kirekodi cha Skrini Bure Mtandaoni",
   "description": "Rekodi skrini yako, kichupo cha kivinjari au dirisha bure katika kivinjari chako - kwa sauti ya maikrofoni ukiitaka. Hakuna kujisajili, hakuna kupakia, hupakuliwa kama WebM.",
-  "id": "/loona-audio-tools/sw/screen-recorder/",
+  "id": "/sw/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

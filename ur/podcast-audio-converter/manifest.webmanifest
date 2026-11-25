@@ -2,7 +2,7 @@
   "name": "Loona پوڈکاسٹ آڈیو کنورٹر",
   "short_name": "پوڈکاسٹ آڈیو کنورٹر",
   "description": "مفت پوڈکاسٹ آڈیو کنورٹر: اپنے براؤزر میں آڈیو تبدیل اور تیار کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-audio-tools/ur/podcast-audio-converter/",
+  "id": "/ur/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

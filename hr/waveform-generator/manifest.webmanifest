@@ -2,7 +2,7 @@
   "name": "Loona Generator slike valnog oblika Besplatno na mreži",
   "short_name": "Generator slike valnog oblika",
   "description": "Pretvorite bilo koju zvučnu datoteku u sliku valnog oblika besplatno na mreži - odaberite veličinu, boje, ispunjeni ili trakasti stil i prozirnu pozadinu, zatim preuzmite PNG. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/waveform-generator/",
+  "id": "/hr/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

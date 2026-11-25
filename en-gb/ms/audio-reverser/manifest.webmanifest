@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/audio-reverser/",
+  "id": "/en-gb/ms/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

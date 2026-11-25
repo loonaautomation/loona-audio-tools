@@ -2,7 +2,7 @@
   "name": "Loona WebM til MP3",
   "short_name": "WebM til MP3",
   "description": "Gratis WebM-til-MP3-konverter: konverter WebM-lyd til MP3 i din browser. Ingen tilmelding, ingen upload, intet vandmærke.",
-  "id": "/loona-audio-tools/da/webm-to-mp3-converter/",
+  "id": "/da/webm-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona OGGからWAVへ",
   "short_name": "OGGからWAVへ",
   "description": "無料のOGG-to-WAVコンバーター：ブラウザでOGG音声をWAVに変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/ogg-to-wav-converter/",
+  "id": "/ja/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

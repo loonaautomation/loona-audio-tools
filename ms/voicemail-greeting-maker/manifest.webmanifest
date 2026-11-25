@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Ucapan Mel Suara",
   "short_name": "Pembuat Ucapan Mel Suara",
   "description": "Pembuat Ucapan Mel Suara Percuma: pangkas audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/voicemail-greeting-maker/",
+  "id": "/ms/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona บันทึกเสียงเป็น MP3",
   "short_name": "บันทึกเสียงเป็น MP3",
   "description": "บันทึกเสียงเป็น MP3 ฟรี: แปลงและเตรียมเสียงในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/voice-memo-to-mp3/",
+  "id": "/th/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

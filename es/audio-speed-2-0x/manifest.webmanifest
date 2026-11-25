@@ -2,7 +2,7 @@
   "name": "Loona Velocidad de audio 2.0x",
   "short_name": "Velocidad de audio 2.0x",
   "description": "Cambiador de velocidad de audio 2.0x gratuito: cambia cualquier archivo de audio a velocidad 2.0x en tu navegador. Sin registro, sin subida.",
-  "id": "/loona-audio-tools/es/audio-speed-2-0x/",
+  "id": "/es/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

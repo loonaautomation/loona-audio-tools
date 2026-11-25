@@ -2,7 +2,7 @@
   "name": "Loona מהירות שמע 2.0x",
   "short_name": "מהירות שמע 2.0x",
   "description": "משנה מהירות שמע 2.0x בחינם: שנו כל קובץ שמע למהירות 2.0x בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/audio-speed-2-0x/",
+  "id": "/he/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

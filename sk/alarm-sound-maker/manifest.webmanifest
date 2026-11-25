@@ -2,7 +2,7 @@
   "name": "Loona Tvorca zvuku budíka",
   "short_name": "Tvorca zvuku budíka",
   "description": "Tvorca zvuku budíka zadarmo: orezajte zvuk vo svojom prehliadači. Bez registrácie, bez nahrávania na server.",
-  "id": "/loona-audio-tools/sk/alarm-sound-maker/",
+  "id": "/sk/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

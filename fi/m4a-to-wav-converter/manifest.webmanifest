@@ -2,7 +2,7 @@
   "name": "Loona M4A WAV:ksi",
   "short_name": "M4A WAV:ksi",
   "description": "Ilmainen M4A–WAV-muunnin: muunna M4A-ääni WAV-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/m4a-to-wav-converter/",
+  "id": "/fi/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

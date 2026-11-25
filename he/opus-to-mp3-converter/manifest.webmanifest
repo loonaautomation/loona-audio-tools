@@ -2,7 +2,7 @@
   "name": "Loona Opus ל-MP3",
   "short_name": "Opus ל-MP3",
   "description": "ממיר Opus ל-MP3 בחינם: המירו שמע Opus ל-MP3 בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/opus-to-mp3-converter/",
+  "id": "/he/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

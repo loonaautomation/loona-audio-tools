@@ -2,7 +2,7 @@
   "name": "Loona ملاحظات WhatsApp الصوتية إلى MP3",
   "short_name": "ملاحظات WhatsApp الصوتية إلى MP3",
   "description": "ملاحظات WhatsApp صوتية إلى MP3 مجاني: حوّل وجهّز الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/whatsapp-voice-note-to-mp3/",
+  "id": "/ar/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

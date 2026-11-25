@@ -2,7 +2,7 @@
   "name": "Loona OGG থেকে MP3",
   "short_name": "OGG থেকে MP3",
   "description": "বিনামূল্যে OGG-to-MP3 কনভার্টার: আপনার ব্রাউজারে OGG অডিও MP3-তে রূপান্তর করুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই, কোনো ওয়াটারমার্ক নেই।",
-  "id": "/loona-audio-tools/bn/ogg-to-mp3-converter/",
+  "id": "/bn/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

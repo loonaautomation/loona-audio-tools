@@ -2,7 +2,7 @@
   "name": "Loona Bildirim Sesi Oluşturucu",
   "short_name": "Bildirim Sesi Oluşturucu",
   "description": "Ücretsiz Bildirim Sesi Oluşturucu: tarayıcınızda ses kırpın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/notification-sound-maker/",
+  "id": "/tr/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

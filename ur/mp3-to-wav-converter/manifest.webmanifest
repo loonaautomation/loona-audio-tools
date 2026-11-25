@@ -2,7 +2,7 @@
   "name": "Loona MP3 سے WAV",
   "short_name": "MP3 سے WAV",
   "description": "مفت MP3-to-WAV کنورٹر: MP3 آڈیو کو اپنے براؤزر میں WAV میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/mp3-to-wav-converter/",
+  "id": "/ur/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

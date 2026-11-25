@@ -2,7 +2,7 @@
   "name": "Loona Mikrofontest Online gratis",
   "short_name": "Mikrofontest Online gratis",
   "description": "Testa din mikrofon gratis i din webbläsare: livemätare för nivå, en testinspelning på 5 sekunder med uppspelning, och en mikrofonväljare. Ingenting laddas upp – din mikrofon används bara lokalt.",
-  "id": "/loona-audio-tools/sv/mic-test/",
+  "id": "/sv/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

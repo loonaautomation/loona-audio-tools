@@ -2,7 +2,7 @@
   "name": "Loona Hangerő-növelő Online ingyen",
   "short_name": "Hangerő-növelő Online ingyen",
   "description": "Növelje a hang hangerejét online ingyen. Tegye a halk MP3-, WAV-, M4A- és OGG-felvételeket akár 300%-kal hangosabbá, vagy normalizálja a csúcsokat biztonságosan, és exportáljon WAV formátumban. Regisztráció nélkül, és a hangja soha nem hagyja el az eszközét.",
-  "id": "/loona-audio-tools/hu/volume-booster/",
+  "id": "/hu/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

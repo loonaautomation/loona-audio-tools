@@ -2,7 +2,7 @@
   "name": "Loona Penukar MP3 Buku Audio",
   "short_name": "Penukar MP3 Buku Audio",
   "description": "Penukar MP3 Buku Audio Percuma: tukar dan sediakan audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/audiobook-mp3-converter/",
+  "id": "/ms/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

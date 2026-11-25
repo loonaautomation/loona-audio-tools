@@ -2,7 +2,7 @@
   "name": "Loona Audio Converter - Convert Audio Files Online Free",
   "short_name": "Audio Converter - Convert Audio Files Online Free",
   "description": "Free MP3 192 kbps converter: convert any audio file to MP3 at 192 kbps in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/en-us/mp3-192-kbps-converter/",
+  "id": "/en-us/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Snimač zaslona Besplatno na mreži",
   "short_name": "Snimač zaslona Besplatno na mreži",
   "description": "Snimite svoj zaslon, karticu preglednika ili prozor besplatno u svom pregledniku - sa zvukom mikrofona ako ga želite. Bez registracije, bez prijenosa, preuzima se kao WebM.",
-  "id": "/loona-audio-tools/hr/screen-recorder/",
+  "id": "/hr/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

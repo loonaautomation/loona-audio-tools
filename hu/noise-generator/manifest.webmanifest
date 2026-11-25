@@ -2,7 +2,7 @@
   "name": "Loona Zajgenerátor Online ingyen",
   "short_name": "Zajgenerátor Online ingyen",
   "description": "Generáljon fehér, rózsaszín és barna zajt online ingyen alváshoz, összpontosításhoz és hangelfedéshez. Játssza le élőben a böngészőjében, vagy töltse le 10, 30 vagy 60 másodpercben WAV-ként hurkoláshoz. Regisztráció nélkül, semmi feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/noise-generator/",
+  "id": "/hu/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

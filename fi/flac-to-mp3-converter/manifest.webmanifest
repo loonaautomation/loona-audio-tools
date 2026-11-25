@@ -2,7 +2,7 @@
   "name": "Loona FLAC MP3:ksi",
   "short_name": "FLAC MP3:ksi",
   "description": "Ilmainen FLAC–MP3-muunnin: muunna FLAC-ääni MP3-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/flac-to-mp3-converter/",
+  "id": "/fi/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

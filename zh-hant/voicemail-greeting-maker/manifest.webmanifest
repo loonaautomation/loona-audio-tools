@@ -2,7 +2,7 @@
   "name": "Loona 語音留言問候語製作器",
   "short_name": "語音留言問候語製作器",
   "description": "免費語音留言問候語製作器：在您的瀏覽器中修剪音訊。無需註冊，無需上傳。",
-  "id": "/loona-audio-tools/zh-hant/voicemail-greeting-maker/",
+  "id": "/zh-hant/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

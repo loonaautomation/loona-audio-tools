@@ -2,7 +2,7 @@
   "name": "Loona SRT-ondertiteleditor Online Gratis",
   "short_name": "SRT-ondertiteleditor Online",
   "description": "Bewerk SRT- en WebVTT-ondertitelbestanden gratis online: herstel ondertiteltekst en -tijden, verschuif alle cues in één keer, herstel overlappende cues en converteer SRT naar VTT. Geen registratie, en je ondertitelbestand verlaat je apparaat nooit.",
-  "id": "/loona-audio-tools/nl/subtitle-editor/",
+  "id": "/nl/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/tone-generator/",
+  "id": "/en-gb/ms/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

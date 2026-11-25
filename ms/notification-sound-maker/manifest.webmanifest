@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Bunyi Pemberitahuan",
   "short_name": "Pembuat Bunyi Pemberitahuan",
   "description": "Pembuat Bunyi Pemberitahuan Percuma: pangkas audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/notification-sound-maker/",
+  "id": "/ms/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

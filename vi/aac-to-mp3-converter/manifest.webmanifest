@@ -2,7 +2,7 @@
   "name": "Loona AAC sang MP3",
   "short_name": "AAC sang MP3",
   "description": "Bộ chuyển đổi AAC sang MP3 miễn phí: chuyển đổi âm thanh AAC sang MP3 trong trình duyệt của bạn. Không cần đăng ký, không tải lên, không hình mờ.",
-  "id": "/loona-audio-tools/vi/aac-to-mp3-converter/",
+  "id": "/vi/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

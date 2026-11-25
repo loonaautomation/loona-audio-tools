@@ -2,7 +2,7 @@
   "name": "Loona Ugađač instrumenata Besplatno na mreži",
   "short_name": "Ugađač instrumenata Besplatno na mreži",
   "description": "Ugađajte bilo koji instrument besplatno na mreži svojim mikrofonom. Kromatski ugađač prikazuje naziv tona, točnu frekvenciju i koliko ste centi povišeni ili sniženi. Točnost je pošteno navedena, bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/instrument-tuner/",
+  "id": "/hr/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 有聲書 MP3 轉換器",
   "short_name": "有聲書 MP3 轉換器",
   "description": "免費有聲書 MP3 轉換器：在您的瀏覽器中轉換和準備音訊。無需註冊，無需上傳。",
-  "id": "/loona-audio-tools/zh-hant/audiobook-mp3-converter/",
+  "id": "/zh-hant/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

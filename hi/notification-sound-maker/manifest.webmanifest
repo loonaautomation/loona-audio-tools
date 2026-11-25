@@ -2,7 +2,7 @@
   "name": "Loona नोटिफ़िकेशन साउंड मेकर",
   "short_name": "नोटिफ़िकेशन साउंड मेकर",
   "description": "मुफ़्त नोटिफ़िकेशन साउंड मेकर: अपने ब्राउज़र में ऑडियो ट्रिम करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/notification-sound-maker/",
+  "id": "/hi/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

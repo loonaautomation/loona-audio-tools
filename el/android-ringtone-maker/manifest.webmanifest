@@ -2,7 +2,7 @@
   "name": "Loona Δημιουργός Ήχων Κλήσης Android",
   "short_name": "Δημιουργός Ήχων Κλήσης Android",
   "description": "Δωρεάν Δημιουργός Ήχων Κλήσης Android: κόψτε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/android-ringtone-maker/",
+  "id": "/el/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

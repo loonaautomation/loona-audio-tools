@@ -2,7 +2,7 @@
   "name": "Loona Конвертер MP3 64 кбіт/с",
   "short_name": "Конвертер MP3 64 кбіт/с",
   "description": "Безкоштовний конвертер MP3 64 кбіт/с: конвертуйте будь-який аудіофайл у MP3 зі швидкістю 64 кбіт/с у вашому браузері. Без реєстрації, без передавання на сервер.",
-  "id": "/loona-audio-tools/uk/mp3-64-kbps-converter/",
+  "id": "/uk/mp3-64-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

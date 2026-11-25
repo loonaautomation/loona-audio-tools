@@ -2,7 +2,7 @@
   "name": "Loona Dalga Formu Resim Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "Dalga Formu Resim Oluşturucu",
   "description": "Herhangi bir ses dosyasını çevrimiçi ve ücretsiz bir dalga formu resmine dönüştürün - boyutu, renkleri, dolgulu veya çubuk stilini ve şeffaf arka planı seçin, sonra bir PNG indirin. Kayıt yok ve sesiniz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-audio-tools/tr/waveform-generator/",
+  "id": "/tr/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

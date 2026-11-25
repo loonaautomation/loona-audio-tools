@@ -2,7 +2,7 @@
   "name": "Loona Ses Hız Değiştirici Çevrimiçi Ücretsiz",
   "short_name": "Ses Hız Değiştirici Çevrimiçi",
   "description": "Ses hızını çevrimiçi ve ücretsiz değiştirin. MP3, WAV, M4A ve OGG'yi 0.25x ile 3x arasında hızlandırın veya yavaşlatın, anında önizleyin ve WAV olarak dışa aktarın. Kayıt gerekmez ve sesiniz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-audio-tools/tr/audio-speed-changer/",
+  "id": "/tr/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

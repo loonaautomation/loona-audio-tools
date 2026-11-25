@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp-röstmeddelande till MP3",
   "short_name": "WhatsApp-röstmeddelande till MP3",
   "description": "Gratis WhatsApp-röstmeddelande till MP3: konvertera och förbered ljud i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/whatsapp-voice-note-to-mp3/",
+  "id": "/sv/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

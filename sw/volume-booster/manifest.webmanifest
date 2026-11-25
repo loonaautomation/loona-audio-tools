@@ -2,7 +2,7 @@
   "name": "Loona Kiongeza Sauti Bure Mtandaoni",
   "short_name": "Kiongeza Sauti Bure Mtandaoni",
   "description": "Ongeza sauti ya sauti mtandaoni bure. Fanya rekodi tulivu za MP3, WAV, M4A na OGG ziwe na sauti kubwa zaidi hadi 300%, au sawazisha vilele kwa usalama, na utoe kama WAV. Hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
-  "id": "/loona-audio-tools/sw/volume-booster/",
+  "id": "/sw/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

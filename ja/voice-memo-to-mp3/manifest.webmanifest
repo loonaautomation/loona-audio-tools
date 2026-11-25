@@ -2,7 +2,7 @@
   "name": "Loona ボイスメモをMP3に変換",
   "short_name": "ボイスメモをMP3に変換",
   "description": "無料のボイスメモMP3変換：ブラウザで音声を変換・準備します。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/voice-memo-to-mp3/",
+  "id": "/ja/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

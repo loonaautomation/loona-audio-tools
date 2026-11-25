@@ -2,7 +2,7 @@
   "name": "Loona Conversor MP3 128 kbps",
   "short_name": "Conversor MP3 128 kbps",
   "description": "Conversor MP3 128 kbps grátis: converta qualquer arquivo de áudio para MP3 a 128 kbps no seu navegador. Sem cadastro, sem envio.",
-  "id": "/loona-audio-tools/pt-br/mp3-128-kbps-converter/",
+  "id": "/pt-br/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

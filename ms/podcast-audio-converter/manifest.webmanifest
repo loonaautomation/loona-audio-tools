@@ -2,7 +2,7 @@
   "name": "Loona Penukar Audio Podcast",
   "short_name": "Penukar Audio Podcast",
   "description": "Penukar Audio Podcast Percuma: tukar dan sediakan audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/podcast-audio-converter/",
+  "id": "/ms/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Nota Suara WhatsApp kepada MP3",
   "short_name": "Nota Suara WhatsApp kepada MP3",
   "description": "Nota Suara WhatsApp kepada MP3 Percuma: tukar dan sediakan audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/whatsapp-voice-note-to-mp3/",
+  "id": "/ms/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

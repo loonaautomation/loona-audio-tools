@@ -2,7 +2,7 @@
   "name": "Loona FLAC hadi WAV",
   "short_name": "FLAC hadi WAV",
   "description": "Kibadilishaji cha bure cha FLAC-hadi-WAV: badilisha sauti ya FLAC kuwa WAV katika kivinjari chako. Hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-audio-tools/sw/flac-to-wav-converter/",
+  "id": "/sw/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

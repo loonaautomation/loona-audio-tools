@@ -2,7 +2,7 @@
   "name": "Loona Φωνητική Σημείωση WhatsApp σε MP3",
   "short_name": "Φωνητική Σημείωση WhatsApp σε MP3",
   "description": "Δωρεάν Φωνητική Σημείωση WhatsApp σε MP3: μετατρέψτε και προετοιμάστε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/whatsapp-voice-note-to-mp3/",
+  "id": "/el/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

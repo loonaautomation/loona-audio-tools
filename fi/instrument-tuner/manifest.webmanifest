@@ -2,7 +2,7 @@
   "name": "Loona Soittimen viritin Ilmainen verkossa",
   "short_name": "Soittimen viritin Ilmainen verkossa",
   "description": "Viritä mikä tahansa soitin verkossa ilmaiseksi mikrofonillasi. Kromaattinen viritin näyttää sävelen nimen, tarkan taajuuden ja kuinka monta senttiä korkea tai matala olet. Tarkkuus kerrotaan rehellisesti, ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/instrument-tuner/",
+  "id": "/fi/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

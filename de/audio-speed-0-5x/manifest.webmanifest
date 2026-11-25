@@ -2,7 +2,7 @@
   "name": "Loona Audio-Geschwindigkeit 0.5x",
   "short_name": "Audio-Geschwindigkeit 0.5x",
   "description": "Kostenloser Audio-Tempoänderer 0.5x: Ändern Sie jede Audiodatei in Ihrem Browser auf 0.5x Geschwindigkeit. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/audio-speed-0-5x/",
+  "id": "/de/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

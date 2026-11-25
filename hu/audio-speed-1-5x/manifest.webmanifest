@@ -2,7 +2,7 @@
   "name": "Loona Hangsebesség 1.5x",
   "short_name": "Hangsebesség 1.5x",
   "description": "Ingyenes hangsebesség-váltó 1.5x: változtasson bármely hangfájlt 1.5x sebességre a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/audio-speed-1-5x/",
+  "id": "/hu/audio-speed-1-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

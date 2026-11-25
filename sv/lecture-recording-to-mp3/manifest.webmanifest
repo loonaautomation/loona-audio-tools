@@ -2,7 +2,7 @@
   "name": "Loona Föreläsningsinspelning till MP3",
   "short_name": "Föreläsningsinspelning till MP3",
   "description": "Gratis föreläsningsinspelning till MP3: konvertera och förbered ljud i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/lecture-recording-to-mp3/",
+  "id": "/sv/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

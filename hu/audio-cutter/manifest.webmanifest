@@ -2,7 +2,7 @@
   "name": "Loona Hangvágó Online ingyen",
   "short_name": "Hangvágó Online ingyen",
   "description": "Vágjon és szabjon hangfájlokat online ingyen. Vágjon MP3-, WAV-, M4A- és OGG-fájlokat vizuális hullámformával, regisztráció nélkül. A hangja privát módon, a böngészőjében dolgozódik fel, és WAV-ként exportálódik.",
-  "id": "/loona-audio-tools/hu/audio-cutter/",
+  "id": "/hu/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

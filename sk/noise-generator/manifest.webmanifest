@@ -2,7 +2,7 @@
   "name": "Loona Generátor šumu Online zadarmo",
   "short_name": "Generátor šumu Online zadarmo",
   "description": "Generujte biely, ružový a hnedý šum online zadarmo na spánok, sústredenie a maskovanie zvuku. Prehrávajte ho naživo vo svojom prehliadači alebo si stiahnite 10, 30 alebo 60 sekúnd ako WAV do slučky. Bez registrácie, nič sa nenahráva na server.",
-  "id": "/loona-audio-tools/sk/noise-generator/",
+  "id": "/sk/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

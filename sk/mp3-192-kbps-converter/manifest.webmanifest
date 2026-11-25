@@ -2,7 +2,7 @@
   "name": "Loona Prevodník na MP3 192 kbps",
   "short_name": "Prevodník na MP3 192 kbps",
   "description": "Bezplatný prevodník na MP3 192 kbps: preveďte akýkoľvek zvukový súbor na MP3 so 192 kbps vo svojom prehliadači. Bez registrácie, bez nahrávania na server.",
-  "id": "/loona-audio-tools/sk/mp3-192-kbps-converter/",
+  "id": "/sk/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

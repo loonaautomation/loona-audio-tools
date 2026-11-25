@@ -2,7 +2,7 @@
   "name": "Loona 语音备忘录转 MP3",
   "short_name": "语音备忘录转 MP3",
   "description": "免费语音备忘录转 MP3：在您的浏览器中转换和准备音频。无需注册，无需上传。",
-  "id": "/loona-audio-tools/zh/voice-memo-to-mp3/",
+  "id": "/zh/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

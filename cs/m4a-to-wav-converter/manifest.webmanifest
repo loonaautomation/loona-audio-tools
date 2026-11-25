@@ -2,7 +2,7 @@
   "name": "Loona M4A na WAV",
   "short_name": "M4A na WAV",
   "description": "Bezplatný převodník M4A na WAV: převeďte zvuk M4A na WAV ve svém prohlížeči. Bez registrace, bez nahrávání, bez vodoznaku.",
-  "id": "/loona-audio-tools/cs/m4a-to-wav-converter/",
+  "id": "/cs/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

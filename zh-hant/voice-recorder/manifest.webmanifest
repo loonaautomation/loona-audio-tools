@@ -2,7 +2,7 @@
   "name": "Loona 錄音機 免費線上",
   "short_name": "錄音機 免費線上",
   "description": "線上免費使用您的麥克風錄製您的聲音。回聽並下載您的錄音——它從不離開您的裝置。無需註冊，無上傳，可在手機和電腦上工作。",
-  "id": "/loona-audio-tools/zh-hant/voice-recorder/",
+  "id": "/zh-hant/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

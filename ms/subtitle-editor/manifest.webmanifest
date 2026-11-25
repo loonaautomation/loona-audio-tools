@@ -2,7 +2,7 @@
   "name": "Loona Editor Sarikata SRT Dalam Talian Percuma",
   "short_name": "Editor Sarikata SRT Online",
   "description": "Sunting fail sarikata SRT dan WebVTT dalam talian secara percuma: baiki teks dan masa sarikata, anjak semua isyarat (cue) sekali gus, baiki isyarat bertindih dan tukar SRT kepada VTT. Tanpa pendaftaran, dan fail sarikata anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-audio-tools/ms/subtitle-editor/",
+  "id": "/ms/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

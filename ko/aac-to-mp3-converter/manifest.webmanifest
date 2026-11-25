@@ -2,7 +2,7 @@
   "name": "Loona AAC를 MP3로",
   "short_name": "AAC를 MP3로",
   "description": "무료 AAC를 MP3로 변환기: 브라우저에서 AAC 오디오를 MP3로 변환하세요. 가입 없이, 업로드 없이, 워터마크 없이.",
-  "id": "/loona-audio-tools/ko/aac-to-mp3-converter/",
+  "id": "/ko/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Drum Sequencer - Online Beat Maker Free",
   "short_name": "Drum Sequencer - Online Beat Maker Free",
   "description": "Make drum beats online free with a 16-step sequencer - synthesized kick, snare and hi-hat sounds, rock, house and hip-hop presets, and tempo from 60 to 180 BPM. No samples, no sign-up, everything synthesized in your browser.",
-  "id": "/loona-audio-tools/en-us/drum-sequencer/",
+  "id": "/en-us/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

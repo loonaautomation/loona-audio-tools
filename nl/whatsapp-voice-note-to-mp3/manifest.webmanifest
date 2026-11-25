@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp-spraaknotitie naar MP3",
   "short_name": "WhatsApp-spraaknotitie naar MP3",
   "description": "Gratis WhatsApp-spraaknotitie naar MP3: converteer en bereid audio voor in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/whatsapp-voice-note-to-mp3/",
+  "id": "/nl/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

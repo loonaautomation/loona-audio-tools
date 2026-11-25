@@ -2,7 +2,7 @@
   "name": "Loona Гласова бележка от WhatsApp към MP3",
   "short_name": "Гласова бележка от WhatsApp към MP3",
   "description": "Безплатна гласова бележка от WhatsApp към MP3: конвертирайте и подготвяйте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/whatsapp-voice-note-to-mp3/",
+  "id": "/bg/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

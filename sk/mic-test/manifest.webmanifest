@@ -2,7 +2,7 @@
   "name": "Loona Test mikrofónu Online zadarmo",
   "short_name": "Test mikrofónu Online zadarmo",
   "description": "Otestujte si mikrofón zadarmo vo svojom prehliadači: živý merač úrovne, 5-sekundová testovacia nahrávka s prehrávaním a výber mikrofónu. Nič sa nenahráva na server – váš mikrofón sa používa len lokálne.",
-  "id": "/loona-audio-tools/sk/mic-test/",
+  "id": "/sk/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

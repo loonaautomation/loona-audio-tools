@@ -2,7 +2,7 @@
   "name": "Loona Opus a MP3",
   "short_name": "Opus a MP3",
   "description": "Convertidor gratuito de Opus a MP3: convierte audio Opus a MP3 en tu navegador. Sin registro, sin subida, sin marca de agua.",
-  "id": "/loona-audio-tools/es/opus-to-mp3-converter/",
+  "id": "/es/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

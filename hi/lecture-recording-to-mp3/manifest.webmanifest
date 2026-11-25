@@ -2,7 +2,7 @@
   "name": "Loona लेक्चर रिकॉर्डिंग से MP3",
   "short_name": "लेक्चर रिकॉर्डिंग से MP3",
   "description": "मुफ़्त लेक्चर रिकॉर्डिंग से MP3: अपने ब्राउज़र में ऑडियो कन्वर्ट और तैयार करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/lecture-recording-to-mp3/",
+  "id": "/hi/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

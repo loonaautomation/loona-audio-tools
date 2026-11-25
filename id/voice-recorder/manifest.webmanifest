@@ -2,7 +2,7 @@
   "name": "Loona Perekam Suara Online Gratis",
   "short_name": "Perekam Suara Online Gratis",
   "description": "Rekam suara Anda online secara gratis dengan mikrofon Anda. Dengarkan kembali dan unduh rekaman Anda - rekaman itu tidak pernah meninggalkan perangkat Anda. Tanpa pendaftaran, tanpa unggahan, berfungsi di ponsel dan komputer.",
-  "id": "/loona-audio-tools/id/voice-recorder/",
+  "id": "/id/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

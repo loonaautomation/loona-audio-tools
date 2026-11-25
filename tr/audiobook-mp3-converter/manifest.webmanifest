@@ -2,7 +2,7 @@
   "name": "Loona Sesli Kitap MP3 Dönüştürücü",
   "short_name": "Sesli Kitap MP3 Dönüştürücü",
   "description": "Ücretsiz Sesli Kitap MP3 Dönüştürücü: tarayıcınızda sesi dönüştürün ve hazırlayın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/audiobook-mp3-converter/",
+  "id": "/tr/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

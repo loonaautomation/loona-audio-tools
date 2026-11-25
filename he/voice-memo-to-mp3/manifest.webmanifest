@@ -2,7 +2,7 @@
   "name": "Loona תזכירים קוליים ל-MP3",
   "short_name": "תזכירים קוליים ל-MP3",
   "description": "תזכירים קוליים ל-MP3 בחינם: המירו והכינו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/voice-memo-to-mp3/",
+  "id": "/he/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

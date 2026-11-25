@@ -2,7 +2,7 @@
   "name": "Loona Kasi ya Sauti 0.75x",
   "short_name": "Kasi ya Sauti 0.75x",
   "description": "Kibadilishaji cha bure cha kasi ya sauti 0.75x: badilisha faili yoyote ya sauti kuwa kasi ya 0.75x katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/audio-speed-0-75x/",
+  "id": "/sw/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

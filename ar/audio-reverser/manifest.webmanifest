@@ -2,7 +2,7 @@
   "name": "Loona أداة عكس الصوت مجاني عبر الإنترنت",
   "short_name": "أداة عكس الصوت مجاني عبر الإنترنت",
   "description": "اعكس الصوت عبر الإنترنت مجانًا. شغّل أي ملف MP3 أو WAV أو M4A أو OGG بالعكس ونزّل الصوت المعكوس بصيغة WAV. دون تسجيل، ولا يغادر صوتك جهازك أبدًا.",
-  "id": "/loona-audio-tools/ar/audio-reverser/",
+  "id": "/ar/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

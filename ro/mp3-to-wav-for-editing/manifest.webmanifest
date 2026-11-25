@@ -2,7 +2,7 @@
   "name": "Loona MP3 în WAV pentru editare",
   "short_name": "MP3 în WAV pentru editare",
   "description": "MP3 în WAV pentru editare gratuit: convertește și pregătește sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/mp3-to-wav-for-editing/",
+  "id": "/ro/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

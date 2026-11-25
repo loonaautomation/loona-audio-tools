@@ -2,7 +2,7 @@
   "name": "Loona Konwerter MP3 256 kbps",
   "short_name": "Konwerter MP3 256 kbps",
   "description": "Bezpłatny konwerter MP3 256 kbps: konwertuj dowolny plik audio do MP3 przy 256 kbps w przeglądarce. Bez rejestracji, bez przesyłania na serwer.",
-  "id": "/loona-audio-tools/pl/mp3-256-kbps-converter/",
+  "id": "/pl/mp3-256-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

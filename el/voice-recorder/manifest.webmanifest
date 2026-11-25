@@ -2,7 +2,7 @@
   "name": "Loona Εγγραφέας Φωνής Δωρεάν Online",
   "short_name": "Εγγραφέας Φωνής Δωρεάν Online",
   "description": "Ηχογραφήστε τη φωνή σας δωρεάν online με το μικρόφωνό σας. Ακούστε ξανά και κατεβάστε την ηχογράφησή σας - δεν φεύγει ποτέ από τη συσκευή σας. Χωρίς εγγραφή, χωρίς ανεβάσματα, λειτουργεί σε τηλέφωνο και υπολογιστή.",
-  "id": "/loona-audio-tools/el/voice-recorder/",
+  "id": "/el/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

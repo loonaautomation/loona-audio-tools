@@ -2,7 +2,7 @@
   "name": "Loona Web Kamerası Testi Çevrimiçi Ücretsiz",
   "short_name": "Web Kamerası Testi Çevrimiçi Ücretsiz",
   "description": "Web kameranızı tarayıcınızda ücretsiz test edin: canlı önizleme, gerçek çözünürlük ve kare hızı göstergesi, ayna anahtarı ve anlık fotoğraf indirme. Hiçbir şey yüklenmez - kameranız yalnızca yerel olarak kullanılır.",
-  "id": "/loona-audio-tools/tr/webcam-test/",
+  "id": "/tr/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

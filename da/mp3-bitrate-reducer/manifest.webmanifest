@@ -2,7 +2,7 @@
   "name": "Loona MP3-bitratereduktion",
   "short_name": "MP3-bitratereduktion",
   "description": "Gratis MP3-bitratereduktion: formindsk MP3-filer ved at genindkode ved 64–320 kbps. Mindre filer til beskeder, e-mail og opbevaring — i din browser.",
-  "id": "/loona-audio-tools/da/mp3-bitrate-reducer/",
+  "id": "/da/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

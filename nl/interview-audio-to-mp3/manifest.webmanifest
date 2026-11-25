@@ -2,7 +2,7 @@
   "name": "Loona Interviewaudio naar MP3",
   "short_name": "Interviewaudio naar MP3",
   "description": "Gratis Interviewaudio naar MP3: converteer en bereid audio voor in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/interview-audio-to-mp3/",
+  "id": "/nl/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

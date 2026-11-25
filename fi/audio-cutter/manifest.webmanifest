@@ -2,7 +2,7 @@
   "name": "Loona Äänileikkuri Ilmainen verkossa",
   "short_name": "Äänileikkuri Ilmainen verkossa",
   "description": "Leikkaa äänitiedostoja ilmaiseksi verkossa. Leikkaa MP3, WAV, M4A ja OGG visuaalisella aaltomuodolla, rekisteröitymistä ei tarvita. Äänesi käsitellään yksityisesti selaimessasi ja viedään WAV-muodossa.",
-  "id": "/loona-audio-tools/fi/audio-cutter/",
+  "id": "/fi/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

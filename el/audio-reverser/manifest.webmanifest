@@ -2,7 +2,7 @@
   "name": "Loona Εργαλείο Αντιστροφής Ήχου Δωρεάν Online",
   "short_name": "Εργαλείο Αντιστροφής Ήχου Δωρεάν Online",
   "description": "Αντιστρέψτε ήχο δωρεάν online. Παίξτε οποιοδήποτε αρχείο MP3, WAV, M4A ή OGG ανάποδα και κατεβάστε τον αντεστραμμένο ήχο ως WAV. Χωρίς εγγραφή, και ο ήχος σας δεν φεύγει ποτέ από τη συσκευή σας.",
-  "id": "/loona-audio-tools/el/audio-reverser/",
+  "id": "/el/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

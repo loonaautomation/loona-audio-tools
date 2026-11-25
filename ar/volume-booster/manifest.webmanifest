@@ -2,7 +2,7 @@
   "name": "Loona معزّز مستوى الصوت مجاني عبر الإنترنت",
   "short_name": "معزّز مستوى الصوت مجاني عبر الإنترنت",
   "description": "عزّز مستوى الصوت عبر الإنترنت مجانًا. اجعل تسجيلات MP3 وWAV وM4A وOGG الهادئة أعلى حتى 300%، أو طبّع القمم بأمان، وصدّر بصيغة WAV. دون تسجيل، ولا يغادر صوتك جهازك أبدًا.",
-  "id": "/loona-audio-tools/ar/volume-booster/",
+  "id": "/ar/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

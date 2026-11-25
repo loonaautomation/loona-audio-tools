@@ -2,7 +2,7 @@
   "name": "Loona Ses Kesici Çevrimiçi Ücretsiz",
   "short_name": "Ses Kesici Çevrimiçi Ücretsiz",
   "description": "Ses dosyalarını çevrimiçi ve ücretsiz kesin ve kırpın. MP3, WAV, M4A ve OGG'yi görsel bir dalga formuyla kırpın; kayıt gerekmez. Sesiniz tarayıcınızda gizlice işlenir ve WAV olarak dışa aktarılır.",
-  "id": "/loona-audio-tools/tr/audio-cutter/",
+  "id": "/tr/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

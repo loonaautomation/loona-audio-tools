@@ -2,7 +2,7 @@
   "name": "Loona Crea suonerie Android",
   "short_name": "Crea suonerie Android",
   "description": "Crea suonerie Android gratuito: taglia l'audio nel tuo browser. Senza registrazione, nessun caricamento.",
-  "id": "/loona-audio-tools/it/android-ringtone-maker/",
+  "id": "/it/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

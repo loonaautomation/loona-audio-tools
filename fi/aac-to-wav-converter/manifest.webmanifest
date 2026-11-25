@@ -2,7 +2,7 @@
   "name": "Loona AAC WAV:ksi",
   "short_name": "AAC WAV:ksi",
   "description": "Ilmainen AAC–WAV-muunnin: muunna AAC-ääni WAV-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/aac-to-wav-converter/",
+  "id": "/fi/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 192 kbps konvertáló",
   "short_name": "MP3 192 kbps konvertáló",
   "description": "Ingyenes MP3 192 kbps konvertáló: konvertáljon bármely hangfájlt MP3-ra 192 kbps-nál a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/mp3-192-kbps-converter/",
+  "id": "/hu/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator obrazu przebiegu fali Online za darmo",
   "short_name": "Generator obrazu przebiegu fali",
   "description": "Zamień dowolny plik audio na obraz przebiegu fali online za darmo - wybierz rozmiar, kolory, styl wypełniony lub słupkowy oraz przezroczyste tło, a następnie pobierz PNG. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/waveform-generator/",
+  "id": "/pl/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

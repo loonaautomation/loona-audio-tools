@@ -2,7 +2,7 @@
   "name": "Loona オーディオスピード 1.5x",
   "short_name": "オーディオスピード 1.5x",
   "description": "無料のオーディオスピード1.5xチェンジャー：ブラウザであらゆる音声ファイルを1.5x速度に変更します。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/audio-speed-1-5x/",
+  "id": "/ja/audio-speed-1-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

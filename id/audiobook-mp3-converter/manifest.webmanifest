@@ -2,7 +2,7 @@
   "name": "Loona Konverter MP3 Buku Audio",
   "short_name": "Konverter MP3 Buku Audio",
   "description": "Konverter MP3 Buku Audio Gratis: konversi dan siapkan audio di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/audiobook-mp3-converter/",
+  "id": "/id/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

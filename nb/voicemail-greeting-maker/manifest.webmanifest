@@ -2,7 +2,7 @@
   "name": "Loona Telefonsvarerhilsen-lager",
   "short_name": "Telefonsvarerhilsen-lager",
   "description": "Gratis telefonsvarerhilsen-lager: trim lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/voicemail-greeting-maker/",
+  "id": "/nb/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

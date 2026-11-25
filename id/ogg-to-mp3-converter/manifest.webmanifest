@@ -2,7 +2,7 @@
   "name": "Loona OGG ke MP3",
   "short_name": "OGG ke MP3",
   "description": "Konverter OGG-ke-MP3 gratis: konversi audio OGG ke MP3 di browser Anda. Tanpa pendaftaran, tanpa unggahan, tanpa watermark.",
-  "id": "/loona-audio-tools/id/ogg-to-mp3-converter/",
+  "id": "/id/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

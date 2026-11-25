@@ -2,7 +2,7 @@
   "name": "Loona Konwerter audio Online za darmo",
   "short_name": "Konwerter audio Online za darmo",
   "description": "Konwertuj pliki audio online za darmo - zamień MP3, WAV, OGG, M4A, WebM i inne na WAV lub MP3 (128, 192 lub 320 kbps) z zachowaną częstotliwością próbkowania. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia, ponieważ dekodowanie zależy od przeglądarki, a konwersja działa w 100% lokalnie.",
-  "id": "/loona-audio-tools/pl/audio-converter/",
+  "id": "/pl/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

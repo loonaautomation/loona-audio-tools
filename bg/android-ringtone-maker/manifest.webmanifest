@@ -2,7 +2,7 @@
   "name": "Loona Създаване на мелодия за Android",
   "short_name": "Създаване на мелодия за Android",
   "description": "Безплатно създаване на мелодия за Android: изрязвайте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/android-ringtone-maker/",
+  "id": "/bg/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

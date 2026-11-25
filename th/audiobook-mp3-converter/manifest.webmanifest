@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงหนังสือเสียงเป็น MP3",
   "short_name": "ตัวแปลงหนังสือเสียงเป็น MP3",
   "description": "ตัวแปลงหนังสือเสียงเป็น MP3 ฟรี: แปลงและเตรียมเสียงในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/audiobook-mp3-converter/",
+  "id": "/th/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp-Sprachnotiz in MP3",
   "short_name": "WhatsApp-Sprachnotiz in MP3",
   "description": "Kostenlos: WhatsApp-Sprachnotiz in MP3: Konvertieren und bereiten Sie Audio in Ihrem Browser vor. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/whatsapp-voice-note-to-mp3/",
+  "id": "/de/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

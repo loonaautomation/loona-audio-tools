@@ -2,7 +2,7 @@
   "name": "Loona Opus 轉 MP3",
   "short_name": "Opus 轉 MP3",
   "description": "免費 Opus 轉 MP3 轉換器：在您的瀏覽器中將 Opus 音訊轉換為 MP3。無需註冊，無需上傳，無水印。",
-  "id": "/loona-audio-tools/zh-hant/opus-to-mp3-converter/",
+  "id": "/zh-hant/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

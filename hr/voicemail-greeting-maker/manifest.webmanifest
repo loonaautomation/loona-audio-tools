@@ -2,7 +2,7 @@
   "name": "Loona Izrađivač pozdravne poruke govorne pošte",
   "short_name": "Izrađivač pozdravne poruke govorne pošte",
   "description": "Besplatni izrađivač pozdravne poruke govorne pošte: skratite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/voicemail-greeting-maker/",
+  "id": "/hr/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

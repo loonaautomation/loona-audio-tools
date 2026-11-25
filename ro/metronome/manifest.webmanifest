@@ -2,7 +2,7 @@
   "name": "Loona Metronom Online Gratuit",
   "short_name": "Metronom Online Gratuit",
   "description": "Metronom online gratuit, cu un cursor BPM de la 30 la 240, măsuri, subdiviziuni, o primă bătaie accentuată, un puls vizual și tempo prin atingere. Fără înregistrare, nimic încărcat - rulează în browserul tău.",
-  "id": "/loona-audio-tools/ro/metronome/",
+  "id": "/ro/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

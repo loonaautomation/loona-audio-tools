@@ -2,7 +2,7 @@
   "name": "Loona AAC na WAV",
   "short_name": "AAC na WAV",
   "description": "Bezplatný převodník AAC na WAV: převeďte zvuk AAC na WAV ve svém prohlížeči. Bez registrace, bez nahrávání, bez vodoznaku.",
-  "id": "/loona-audio-tools/cs/aac-to-wav-converter/",
+  "id": "/cs/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

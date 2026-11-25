@@ -2,7 +2,7 @@
   "name": "Loona M4A în WAV",
   "short_name": "M4A în WAV",
   "description": "Convertor M4A în WAV gratuit: convertește sunetul M4A în WAV în browserul tău. Fără înregistrare, fără încărcare, fără filigran.",
-  "id": "/loona-audio-tools/ro/m4a-to-wav-converter/",
+  "id": "/ro/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

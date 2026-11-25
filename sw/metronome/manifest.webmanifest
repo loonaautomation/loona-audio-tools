@@ -2,7 +2,7 @@
   "name": "Loona Metronomu Bure Mtandaoni",
   "short_name": "Metronomu Bure Mtandaoni",
   "description": "Metronomu ya bure mtandaoni yenye kitelezeshi cha BPM kutoka 30 hadi 240, saini za muda, migawanyo, mpigo wa kwanza uliosisitizwa, mpigo wa kuona na mwendo wa kugonga. Hakuna kujisajili, hakuna kinachopakiwa - hufanya kazi katika kivinjari chako.",
-  "id": "/loona-audio-tools/sw/metronome/",
+  "id": "/sw/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

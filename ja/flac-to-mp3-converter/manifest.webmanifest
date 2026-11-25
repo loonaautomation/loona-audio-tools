@@ -2,7 +2,7 @@
   "name": "Loona FLACからMP3へ",
   "short_name": "FLACからMP3へ",
   "description": "無料のFLAC-to-MP3コンバーター：ブラウザでFLAC音声をMP3に変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/flac-to-mp3-converter/",
+  "id": "/ja/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 na WAV pro úpravy",
   "short_name": "MP3 na WAV pro úpravy",
   "description": "Bezplatný převod MP3 na WAV pro úpravy: převádějte a připravujte zvuk ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/mp3-to-wav-for-editing/",
+  "id": "/cs/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

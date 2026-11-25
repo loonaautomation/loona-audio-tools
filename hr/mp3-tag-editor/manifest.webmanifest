@@ -2,7 +2,7 @@
   "name": "Loona Uređivač MP3 oznaka Besplatno na mreži",
   "short_name": "Uređivač MP3 oznaka Besplatno na mreži",
   "description": "Pregledajte i uredite MP3 ID3 oznake besplatno na mreži - naslov, izvođača, album, godinu i naslovnicu - bez ponovnog kodiranja zvuka. Drugi se okviri čuvaju, oznake se mogu u cijelosti ukloniti, a vaš MP3 nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/mp3-tag-editor/",
+  "id": "/hr/mp3-tag-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

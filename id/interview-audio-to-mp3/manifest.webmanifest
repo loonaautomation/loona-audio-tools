@@ -2,7 +2,7 @@
   "name": "Loona Audio Wawancara ke MP3",
   "short_name": "Audio Wawancara ke MP3",
   "description": "Audio Wawancara ke MP3 Gratis: konversi dan siapkan audio di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/interview-audio-to-mp3/",
+  "id": "/id/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

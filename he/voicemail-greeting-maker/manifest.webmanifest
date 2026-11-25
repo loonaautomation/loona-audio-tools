@@ -2,7 +2,7 @@
   "name": "Loona יוצר ברכות תא קולי",
   "short_name": "יוצר ברכות תא קולי",
   "description": "יוצר ברכות תא קולי בחינם: גזרו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/voicemail-greeting-maker/",
+  "id": "/he/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

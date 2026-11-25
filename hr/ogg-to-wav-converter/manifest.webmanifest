@@ -2,7 +2,7 @@
   "name": "Loona OGG u WAV",
   "short_name": "OGG u WAV",
   "description": "Besplatni pretvarač OGG u WAV: pretvorite OGG zvuk u WAV u svom pregledniku. Bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-audio-tools/hr/ogg-to-wav-converter/",
+  "id": "/hr/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

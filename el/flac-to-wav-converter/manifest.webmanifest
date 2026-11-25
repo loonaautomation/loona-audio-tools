@@ -2,7 +2,7 @@
   "name": "Loona FLAC σε WAV",
   "short_name": "FLAC σε WAV",
   "description": "Δωρεάν μετατροπέας FLAC σε WAV: μετατρέψτε ήχο FLAC σε WAV στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα, χωρίς υδατογράφημα.",
-  "id": "/loona-audio-tools/el/flac-to-wav-converter/",
+  "id": "/el/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

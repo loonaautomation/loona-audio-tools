@@ -2,7 +2,7 @@
   "name": "Loona آڈیو فیڈ ایڈیٹر آن لائن مفت",
   "short_name": "آڈیو فیڈ ایڈیٹر آن لائن مفت",
   "description": "آڈیو میں آن لائن مفت فیڈ اِن اور فیڈ آؤٹ شامل کریں۔ کسی بھی MP3، WAV، M4A یا OGG فائل پر 10 سیکنڈ تک کے فیڈ مقرر کریں، جھلک دیکھیں، اور WAV کے طور پر برآمد کریں۔ کوئی سائن اپ نہیں، اور آپ کی آڈیو کبھی آپ کی ڈیوائس نہیں چھوڑتی۔",
-  "id": "/loona-audio-tools/ur/audio-fade-editor/",
+  "id": "/ur/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

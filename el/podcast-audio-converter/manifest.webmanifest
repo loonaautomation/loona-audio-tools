@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Ήχου Podcast",
   "short_name": "Μετατροπέας Ήχου Podcast",
   "description": "Δωρεάν Μετατροπέας Ήχου Podcast: μετατρέψτε και προετοιμάστε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/podcast-audio-converter/",
+  "id": "/el/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

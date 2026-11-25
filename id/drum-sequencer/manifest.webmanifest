@@ -2,7 +2,7 @@
   "name": "Loona Sekuenser Drum Online Gratis",
   "short_name": "Sekuenser Drum Online Gratis",
   "description": "Buat ketukan drum online secara gratis dengan sekuenser 16 langkah - suara kick, snare, dan hi-hat hasil sintesis, preset rock, house, dan hip-hop, serta tempo dari 60 hingga 180 BPM. Tanpa sampel, tanpa pendaftaran, semuanya disintesis di browser Anda.",
-  "id": "/loona-audio-tools/id/drum-sequencer/",
+  "id": "/id/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

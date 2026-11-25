@@ -2,7 +2,7 @@
   "name": "Loona MP3 سے WAV تدوین کے لیے",
   "short_name": "MP3 سے WAV تدوین کے لیے",
   "description": "مفت MP3 سے WAV تدوین کے لیے: اپنے براؤزر میں آڈیو تبدیل اور تیار کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-audio-tools/ur/mp3-to-wav-for-editing/",
+  "id": "/ur/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Kelele Bure Mtandaoni",
   "short_name": "Kizalishaji cha Kelele Bure Mtandaoni",
   "description": "Tengeneza kelele nyeupe, pinki na kahawia mtandaoni bure kwa usingizi, umakini na kufunika sauti. Icheze moja kwa moja katika kivinjari chako au pakua sekunde 10, 30 au 60 kama WAV kurudia. Hakuna kujisajili, hakuna kinachopakiwa.",
-  "id": "/loona-audio-tools/sw/noise-generator/",
+  "id": "/sw/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

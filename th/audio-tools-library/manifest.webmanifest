@@ -2,7 +2,7 @@
   "name": "Loona คลังเครื่องมือเสียง",
   "short_name": "คลังเครื่องมือเสียง",
   "description": "คลัง Loona Audio Tools ทั้งหมด: ตัวแปลง MP3/WAV/OGG/M4A/FLAC/AAC เป้าหมายบิตเรต ค่าความเร็วที่ตั้งไว้ล่วงหน้า และเครื่องมือตามกรณีการใช้งาน",
-  "id": "/loona-audio-tools/th/audio-tools-library/",
+  "id": "/th/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

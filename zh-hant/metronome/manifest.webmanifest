@@ -2,7 +2,7 @@
   "name": "Loona 節拍器 免費線上",
   "short_name": "節拍器 免費線上",
   "description": "免費線上節拍器，BPM 滑塊從 30 到 240，拍號、細分、重音的第一拍、視覺脈衝和拍速。無需註冊，無上傳——它在您的瀏覽器中執行。",
-  "id": "/loona-audio-tools/zh-hant/metronome/",
+  "id": "/zh-hant/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

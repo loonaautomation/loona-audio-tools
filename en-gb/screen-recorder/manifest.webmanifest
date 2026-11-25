@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/screen-recorder/",
+  "id": "/en-gb/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

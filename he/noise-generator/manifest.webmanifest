@@ -2,7 +2,7 @@
   "name": "Loona מחולל רעש בחינם באינטרנט",
   "short_name": "מחולל רעש בחינם באינטרנט",
   "description": "צרו רעש לבן, ורוד וחום באינטרנט בחינם לשינה, מיקוד ומיסוך צלילים. נגנו אותו חי בדפדפן שלכם או הורידו 10, 30 או 60 שניות כ-WAV ללולאה. ללא הרשמה, שום דבר אינו מועלה.",
-  "id": "/loona-audio-tools/he/noise-generator/",
+  "id": "/he/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

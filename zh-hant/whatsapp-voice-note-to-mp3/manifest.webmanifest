@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp 語音備忘錄轉 MP3",
   "short_name": "WhatsApp 語音備忘錄轉 MP3",
   "description": "免費 WhatsApp 語音備忘錄轉 MP3：在您的瀏覽器中轉換和準備音訊。無需註冊，無需上傳。",
-  "id": "/loona-audio-tools/zh-hant/whatsapp-voice-note-to-mp3/",
+  "id": "/zh-hant/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

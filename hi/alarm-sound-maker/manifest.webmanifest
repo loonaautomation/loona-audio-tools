@@ -2,7 +2,7 @@
   "name": "Loona अलार्म साउंड मेकर",
   "short_name": "अलार्म साउंड मेकर",
   "description": "मुफ़्त अलार्म साउंड मेकर: अपने ब्राउज़र में ऑडियो ट्रिम करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/alarm-sound-maker/",
+  "id": "/hi/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

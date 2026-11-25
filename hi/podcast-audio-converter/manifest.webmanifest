@@ -2,7 +2,7 @@
   "name": "Loona पॉडकास्ट ऑडियो कन्वर्टर",
   "short_name": "पॉडकास्ट ऑडियो कन्वर्टर",
   "description": "मुफ़्त पॉडकास्ट ऑडियो कन्वर्टर: अपने ब्राउज़र में ऑडियो कन्वर्ट और तैयार करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/podcast-audio-converter/",
+  "id": "/hi/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

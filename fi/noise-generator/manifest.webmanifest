@@ -2,7 +2,7 @@
   "name": "Loona Kohinageneraattori Ilmainen verkossa",
   "short_name": "Kohinageneraattori Ilmainen verkossa",
   "description": "Luo valkoista, vaaleanpunaista ja ruskeaa kohinaa verkossa ilmaiseksi uneen, keskittymiseen ja äänen peittämiseen. Toista se suorana selaimessasi tai lataa 10, 30 tai 60 sekuntia WAV-muodossa silmukoitavaksi. Ei rekisteröitymistä, mitään ei ladata palvelimelle.",
-  "id": "/loona-audio-tools/fi/noise-generator/",
+  "id": "/fi/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

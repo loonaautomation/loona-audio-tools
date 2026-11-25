@@ -2,7 +2,7 @@
   "name": "Loona অ্যালার্ম সাউন্ড মেকার",
   "short_name": "অ্যালার্ম সাউন্ড মেকার",
   "description": "বিনামূল্যে অ্যালার্ম সাউন্ড মেকার: আপনার ব্রাউজারে অডিও ছাঁটুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
-  "id": "/loona-audio-tools/bn/alarm-sound-maker/",
+  "id": "/bn/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

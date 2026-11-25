@@ -2,7 +2,7 @@
   "name": "Loona メトロノーム オンライン無料",
   "short_name": "メトロノーム オンライン無料",
   "description": "BPMスライダーが30から240の無料オンラインメトロノーム。拍子、細分化、アクセント付きの最初の一拍、視覚的パルス、タップテンポ付き。登録不要、アップロードなし — ブラウザで動作します。",
-  "id": "/loona-audio-tools/ja/metronome/",
+  "id": "/ja/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

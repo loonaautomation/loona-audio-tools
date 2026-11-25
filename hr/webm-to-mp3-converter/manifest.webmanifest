@@ -2,7 +2,7 @@
   "name": "Loona WebM u MP3",
   "short_name": "WebM u MP3",
   "description": "Besplatni pretvarač WebM u MP3: pretvorite WebM zvuk u MP3 u svom pregledniku. Bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-audio-tools/hr/webm-to-mp3-converter/",
+  "id": "/hr/webm-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

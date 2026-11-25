@@ -2,7 +2,7 @@
   "name": "Loona اسکرین ریکارڈر آن لائن مفت",
   "short_name": "اسکرین ریکارڈر آن لائن مفت",
   "description": "اپنی اسکرین، ٹیب یا ونڈو اپنے براؤزر میں مفت ریکارڈ کریں - اگر چاہیں تو مائیکروفون آڈیو کے ساتھ۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، WebM کے طور پر ڈاؤن لوڈ ہوتا ہے۔",
-  "id": "/loona-audio-tools/ur/screen-recorder/",
+  "id": "/ur/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

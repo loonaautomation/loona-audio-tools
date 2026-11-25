@@ -2,7 +2,7 @@
   "name": "Loona מקליט מסך בחינם באינטרנט",
   "short_name": "מקליט מסך בחינם באינטרנט",
   "description": "הקליטו את המסך שלכם, לשונית או חלון בחינם בדפדפן שלכם - עם שמע מיקרופון אם תרצו אותו. ללא הרשמה, ללא העלאה, מורד כ-WebM.",
-  "id": "/loona-audio-tools/he/screen-recorder/",
+  "id": "/he/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

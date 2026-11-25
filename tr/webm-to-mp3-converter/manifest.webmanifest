@@ -2,7 +2,7 @@
   "name": "Loona WebM'den MP3'e",
   "short_name": "WebM'den MP3'e",
   "description": "Ücretsiz WebM'den MP3'e dönüştürücü: WebM sesini tarayıcınızda MP3'e dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/webm-to-mp3-converter/",
+  "id": "/tr/webm-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

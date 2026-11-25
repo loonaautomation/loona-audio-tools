@@ -2,7 +2,7 @@
   "name": "Loona Test de microfon Online Gratuit",
   "short_name": "Test de microfon Online Gratuit",
   "description": "Testează-ți microfonul gratuit în browserul tău: indicator de nivel live, o înregistrare de test de 5 secunde cu redare și un selector de microfon. Nimic nu este încărcat - microfonul tău este folosit doar local.",
-  "id": "/loona-audio-tools/ro/mic-test/",
+  "id": "/ro/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

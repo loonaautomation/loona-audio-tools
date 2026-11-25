@@ -2,7 +2,7 @@
   "name": "Loona Ljudboks-MP3-konverterare",
   "short_name": "Ljudboks-MP3-konverterare",
   "description": "Gratis ljudboks-MP3-konverterare: konvertera och förbered ljud i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/audiobook-mp3-converter/",
+  "id": "/sv/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

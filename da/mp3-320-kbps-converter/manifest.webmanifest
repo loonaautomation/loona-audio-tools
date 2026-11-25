@@ -2,7 +2,7 @@
   "name": "Loona MP3 320 kbps-konverter",
   "short_name": "MP3 320 kbps-konverter",
   "description": "Gratis MP3 320 kbps-konverter: konverter enhver lydfil til MP3 ved 320 kbps i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/mp3-320-kbps-converter/",
+  "id": "/da/mp3-320-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

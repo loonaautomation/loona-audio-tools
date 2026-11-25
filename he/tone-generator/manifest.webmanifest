@@ -2,7 +2,7 @@
   "name": "Loona מחולל צלילים בחינם באינטרנט",
   "short_name": "מחולל צלילים בחינם באינטרנט",
   "description": "צרו צלילי בדיקה באינטרנט בחינם. צורות גל סינוס, ריבוע, משולש ושן מסור מ-20 Hz עד 20,000 Hz - נגנו מיד או הורידו כ-WAV. ללא הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-audio-tools/he/tone-generator/",
+  "id": "/he/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

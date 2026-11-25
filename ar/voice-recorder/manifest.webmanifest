@@ -2,7 +2,7 @@
   "name": "Loona مسجّل الصوت مجاني عبر الإنترنت",
   "short_name": "مسجّل الصوت مجاني عبر الإنترنت",
   "description": "سجّل صوتك عبر الإنترنت مجانًا بميكروفونك. استمع مرة أخرى ونزّل تسجيلك - لا يغادر جهازك أبدًا. دون تسجيل، ودون رفع، يعمل على الهاتف والكمبيوتر.",
-  "id": "/loona-audio-tools/ar/voice-recorder/",
+  "id": "/ar/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

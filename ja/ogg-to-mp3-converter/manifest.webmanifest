@@ -2,7 +2,7 @@
   "name": "Loona OGGからMP3へ",
   "short_name": "OGGからMP3へ",
   "description": "無料のOGG-to-MP3コンバーター：ブラウザでOGG音声をMP3に変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/ogg-to-mp3-converter/",
+  "id": "/ja/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

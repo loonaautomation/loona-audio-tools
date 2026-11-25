@@ -2,7 +2,7 @@
   "name": "Loona Instrument de schimbare a vitezei audio Online Gratuit",
   "short_name": "Instrument de schimbare a vitezei audio Online",
   "description": "Schimbă viteza sunetului online gratuit. Accelerează sau încetinește MP3, WAV, M4A și OGG de la 0.25x la 3x, previzualizează instantaneu și exportă ca WAV. Fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul.",
-  "id": "/loona-audio-tools/ro/audio-speed-changer/",
+  "id": "/ro/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

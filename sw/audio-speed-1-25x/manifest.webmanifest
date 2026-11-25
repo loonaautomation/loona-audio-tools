@@ -2,7 +2,7 @@
   "name": "Loona Kasi ya Sauti 1.25x",
   "short_name": "Kasi ya Sauti 1.25x",
   "description": "Kibadilishaji cha bure cha kasi ya sauti 1.25x: badilisha faili yoyote ya sauti kuwa kasi ya 1.25x katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/audio-speed-1-25x/",
+  "id": "/sw/audio-speed-1-25x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

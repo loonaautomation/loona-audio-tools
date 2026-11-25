@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo âm thanh thông báo",
   "short_name": "Trình tạo âm thanh thông báo",
   "description": "Trình tạo âm thanh thông báo miễn phí: cắt âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/notification-sound-maker/",
+  "id": "/vi/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

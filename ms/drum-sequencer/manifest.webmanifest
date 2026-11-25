@@ -2,7 +2,7 @@
   "name": "Loona Penjujukan Dram Dalam Talian Percuma",
   "short_name": "Penjujukan Dram Dalam Talian Percuma",
   "description": "Buat rentak dram dalam talian secara percuma dengan penjujukan 16 langkah - bunyi kick, snare dan hi-hat tersintesis, pratetap rock, house dan hip-hop, dan tempo dari 60 hingga 180 BPM. Tiada sampel, tiada pendaftaran, semuanya tersintesis dalam pelayar anda.",
-  "id": "/loona-audio-tools/ms/drum-sequencer/",
+  "id": "/ms/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

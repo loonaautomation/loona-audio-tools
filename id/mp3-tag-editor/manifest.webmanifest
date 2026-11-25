@@ -2,7 +2,7 @@
   "name": "Loona Editor Tag MP3 Online Gratis",
   "short_name": "Editor Tag MP3 Online Gratis",
   "description": "Lihat dan edit tag ID3 MP3 online secara gratis - judul, artis, album, tahun, dan sampul - tanpa mengenkode ulang audio. Bingkai lain dipertahankan, tag dapat dihapus sepenuhnya, dan MP3 Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/mp3-tag-editor/",
+  "id": "/id/mp3-tag-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

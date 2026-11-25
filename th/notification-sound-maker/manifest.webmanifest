@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างเสียงแจ้งเตือน",
   "short_name": "ตัวสร้างเสียงแจ้งเตือน",
   "description": "ตัวสร้างเสียงแจ้งเตือนฟรี: ตัดเสียงในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/notification-sound-maker/",
+  "id": "/th/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

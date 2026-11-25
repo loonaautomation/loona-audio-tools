@@ -2,7 +2,7 @@
   "name": "Loona MP3 in WAV zur Bearbeitung",
   "short_name": "MP3 in WAV zur Bearbeitung",
   "description": "Kostenlos: MP3 in WAV zur Bearbeitung: Konvertieren und bereiten Sie Audio in Ihrem Browser vor. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/mp3-to-wav-for-editing/",
+  "id": "/de/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

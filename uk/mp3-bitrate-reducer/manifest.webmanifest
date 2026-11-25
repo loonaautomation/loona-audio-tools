@@ -2,7 +2,7 @@
   "name": "Loona Зменшувач бітрейту MP3",
   "short_name": "Зменшувач бітрейту MP3",
   "description": "Безкоштовний зменшувач бітрейту MP3: зменшуйте файли MP3, перекодовуючи їх зі швидкістю 64–320 кбіт/с. Менші файли для повідомлень, електронної пошти та сховища — у вашому браузері.",
-  "id": "/loona-audio-tools/uk/mp3-bitrate-reducer/",
+  "id": "/uk/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

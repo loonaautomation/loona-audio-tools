@@ -2,7 +2,7 @@
   "name": "Loona Ilmoitusäänen tekijä",
   "short_name": "Ilmoitusäänen tekijä",
   "description": "Ilmainen ilmoitusäänen tekijä: leikkaa ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/notification-sound-maker/",
+  "id": "/fi/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

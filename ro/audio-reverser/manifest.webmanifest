@@ -2,7 +2,7 @@
   "name": "Loona Instrument de inversare audio Online Gratuit",
   "short_name": "Instrument de inversare audio Online Gratuit",
   "description": "Inversează sunetul online gratuit. Redă orice fișier MP3, WAV, M4A sau OGG invers și descarcă sunetul inversat ca WAV. Fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul.",
-  "id": "/loona-audio-tools/ro/audio-reverser/",
+  "id": "/ro/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

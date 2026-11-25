@@ -2,7 +2,7 @@
   "name": "Loona Mikrofonitesti Ilmainen verkossa",
   "short_name": "Mikrofonitesti Ilmainen verkossa",
   "description": "Testaa mikrofonisi ilmaiseksi selaimessasi: reaaliaikainen tasomittari, 5 sekunnin testitallenne toistolla ja mikrofonin valitsin. Mitään ei ladata palvelimelle - mikrofoniasi käytetään vain paikallisesti.",
-  "id": "/loona-audio-tools/fi/mic-test/",
+  "id": "/fi/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

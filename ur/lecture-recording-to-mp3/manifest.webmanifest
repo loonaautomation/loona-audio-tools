@@ -2,7 +2,7 @@
   "name": "Loona لیکچر ریکارڈنگ سے MP3",
   "short_name": "لیکچر ریکارڈنگ سے MP3",
   "description": "مفت لیکچر ریکارڈنگ سے MP3: اپنے براؤزر میں آڈیو تبدیل اور تیار کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-audio-tools/ur/lecture-recording-to-mp3/",
+  "id": "/ur/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

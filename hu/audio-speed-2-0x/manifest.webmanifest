@@ -2,7 +2,7 @@
   "name": "Loona Hangsebesség 2.0x",
   "short_name": "Hangsebesség 2.0x",
   "description": "Ingyenes hangsebesség-váltó 2.0x: változtasson bármely hangfájlt 2.0x sebességre a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/audio-speed-2-0x/",
+  "id": "/hu/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

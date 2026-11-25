@@ -2,7 +2,7 @@
   "name": "Loona AAC sang WAV",
   "short_name": "AAC sang WAV",
   "description": "Bộ chuyển đổi AAC sang WAV miễn phí: chuyển đổi âm thanh AAC sang WAV trong trình duyệt của bạn. Không cần đăng ký, không tải lên, không hình mờ.",
-  "id": "/loona-audio-tools/vi/aac-to-wav-converter/",
+  "id": "/vi/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

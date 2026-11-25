@@ -2,7 +2,7 @@
   "name": "Loona Criador de Toque para Android",
   "short_name": "Criador de Toque para Android",
   "description": "Criador de Toque para Android grátis: corte áudio no seu navegador. Sem cadastro, sem envio.",
-  "id": "/loona-audio-tools/pt/android-ringtone-maker/",
+  "id": "/pt/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

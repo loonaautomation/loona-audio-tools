@@ -2,7 +2,7 @@
   "name": "Loona Ses Araçları Kitaplığı",
   "short_name": "Ses Araçları Kitaplığı",
   "description": "Tam Loona Audio Tools kitaplığı: MP3/WAV/OGG/M4A/FLAC/AAC dönüştürücüler, bit hızı hedefleri, hız hazır ayarları ve kullanım amaçlı araçlar.",
-  "id": "/loona-audio-tools/tr/audio-tools-library/",
+  "id": "/tr/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

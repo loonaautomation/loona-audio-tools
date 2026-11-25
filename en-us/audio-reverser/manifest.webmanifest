@@ -2,7 +2,7 @@
   "name": "Loona Audio Reverser - Play Audio Backwards Online Free",
   "short_name": "Audio Reverser - Play Audio Backwards Online Free",
   "description": "Reverse audio online free. Play any MP3, WAV, M4A or OGG file backwards and download the reversed audio as WAV. No sign-up, and your audio never leaves your device.",
-  "id": "/loona-audio-tools/en-us/audio-reverser/",
+  "id": "/en-us/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

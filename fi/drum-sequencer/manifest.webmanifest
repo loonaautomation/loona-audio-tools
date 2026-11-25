@@ -2,7 +2,7 @@
   "name": "Loona Rumpusekvensseri Ilmainen verkossa",
   "short_name": "Rumpusekvensseri Ilmainen verkossa",
   "description": "Tee rumputahteja verkossa ilmaiseksi 16-askeleen sekvensserillä - syntetisoidut bassorumpu-, virveli- ja hi-hat-äänet, rock-, house- ja hip-hop-esiasetukset ja tempo 60–180 BPM. Ei näytteitä, ei rekisteröitymistä, kaikki syntetisoidaan selaimessasi.",
-  "id": "/loona-audio-tools/fi/drum-sequencer/",
+  "id": "/fi/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

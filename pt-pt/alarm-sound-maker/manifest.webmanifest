@@ -2,7 +2,7 @@
   "name": "Loona Criador de Som de Alarme",
   "short_name": "Criador de Som de Alarme",
   "description": "Criador de Som de Alarme grátis: corte áudio no seu navegador. Sem registo, sem envio.",
-  "id": "/loona-audio-tools/pt-pt/alarm-sound-maker/",
+  "id": "/pt-pt/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

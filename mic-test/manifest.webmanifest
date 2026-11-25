@@ -2,7 +2,7 @@
   "name": "Loona Microphone Test Online Free",
   "short_name": "Microphone Test Online Free",
   "description": "Test your microphone free in your browser: live level meter, a 5-second test recording with playback, and a microphone selector. Nothing is uploaded - your mic is only used locally.",
-  "id": "/loona-audio-tools/mic-test/",
+  "id": "/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

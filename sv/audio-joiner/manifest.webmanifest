@@ -2,7 +2,7 @@
   "name": "Loona Ljudsammanslagare Online gratis",
   "short_name": "Ljudsammanslagare Online gratis",
   "description": "Slå ihop ljudfiler online gratis. Kombinera MP3-, WAV-, M4A- och OGG-filer till ett spår i den ordning du väljer, ingen registrering behövs. Bearbetas privat i din webbläsare, exporteras som WAV.",
-  "id": "/loona-audio-tools/sv/audio-joiner/",
+  "id": "/sv/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Voice Recorder آن لائن مفت",
   "short_name": "Voice Recorder آن لائن مفت",
   "description": "اپنے مائیکروفون سے اپنی آواز آن لائن مفت ریکارڈ کریں۔ واپس سنیں اور اپنی ریکارڈنگ ڈاؤن لوڈ کریں - یہ کبھی آپ کی ڈیوائس نہیں چھوڑتی۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، فون اور کمپیوٹر پر کام کرتا ہے۔",
-  "id": "/loona-audio-tools/ur/voice-recorder/",
+  "id": "/ur/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

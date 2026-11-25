@@ -2,7 +2,7 @@
   "name": "Loona オーディオチャンネルミキサー オンライン無料",
   "short_name": "オーディオチャンネルミキサー Online",
   "description": "音声チャンネルをオンラインで無料変換 - ステレオからモノラル、モノラルからステレオ、左右チャンネルの入れ替え、または左・右チャンネルを両側にコピーし、WAVでエクスポートします。登録不要で、音声がデバイスの外に出ることはありません。",
-  "id": "/loona-audio-tools/ja/channel-mixer/",
+  "id": "/ja/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

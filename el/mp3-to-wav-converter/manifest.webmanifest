@@ -2,7 +2,7 @@
   "name": "Loona MP3 σε WAV",
   "short_name": "MP3 σε WAV",
   "description": "Δωρεάν μετατροπέας MP3 σε WAV: μετατρέψτε ήχο MP3 σε WAV στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα, χωρίς υδατογράφημα.",
-  "id": "/loona-audio-tools/el/mp3-to-wav-converter/",
+  "id": "/el/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

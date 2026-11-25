@@ -2,7 +2,7 @@
   "name": "Loona Instrumentstämmare Online gratis",
   "short_name": "Instrumentstämmare Online gratis",
   "description": "Stäm vilket instrument som helst online gratis med din mikrofon. Den kromatiska stämapparaten visar tonnamnet, den exakta frekvensen, och hur många cent för hög eller låg du är. Noggrannheten anges ärligt, ingen registrering, och ditt ljud lämnar aldrig din enhet.",
-  "id": "/loona-audio-tools/sv/instrument-tuner/",
+  "id": "/sv/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

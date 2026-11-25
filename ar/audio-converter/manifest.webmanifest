@@ -2,7 +2,7 @@
   "name": "Loona محوّل الصوت مجاني عبر الإنترنت",
   "short_name": "محوّل الصوت مجاني عبر الإنترنت",
   "description": "حوّل ملفات الصوت عبر الإنترنت مجانًا - حوّل MP3 وWAV وOGG وM4A وWebM وأكثر إلى WAV أو MP3 (128 أو 192 أو 320 kbps) مع الحفاظ على معدل العيّنات. دون تسجيل، ولا يغادر صوتك جهازك أبدًا، لأن فك الترميز يعتمد على متصفحك والتحويل يعمل 100% محليًا.",
-  "id": "/loona-audio-tools/ar/audio-converter/",
+  "id": "/ar/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

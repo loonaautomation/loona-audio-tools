@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Suara Alarm",
   "short_name": "Pembuat Suara Alarm",
   "description": "Pembuat Suara Alarm Gratis: pangkas audio di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/alarm-sound-maker/",
+  "id": "/id/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

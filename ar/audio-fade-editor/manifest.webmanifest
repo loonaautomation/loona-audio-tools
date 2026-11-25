@@ -2,7 +2,7 @@
   "name": "Loona محرر التلاشي الصوتي مجاني عبر الإنترنت",
   "short_name": "محرر التلاشي الصوتي مجاني عبر الإنترنت",
   "description": "أضف التلاشي التدريجي للدخول والخروج إلى الصوت عبر الإنترنت مجانًا. اضبط تلاشيات حتى 10 ثوانٍ على أي ملف MP3 أو WAV أو M4A أو OGG، وعاين، وصدّر بصيغة WAV. دون تسجيل، ولا يغادر صوتك جهازك أبدًا.",
-  "id": "/loona-audio-tools/ar/audio-fade-editor/",
+  "id": "/ar/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

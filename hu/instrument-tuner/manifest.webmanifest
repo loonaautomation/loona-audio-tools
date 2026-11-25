@@ -2,7 +2,7 @@
   "name": "Loona Hangszerhangoló Online ingyen",
   "short_name": "Hangszerhangoló Online ingyen",
   "description": "Hangoljon bármely hangszert online ingyen a mikrofonjával. A kromatikus hangoló megmutatja a hang nevét, a pontos frekvenciát, és hogy hány centtel magasabb vagy mélyebb. A pontosság őszintén feltüntetve, regisztráció nélkül, és a hangja soha nem hagyja el az eszközét.",
-  "id": "/loona-audio-tools/hu/instrument-tuner/",
+  "id": "/hu/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

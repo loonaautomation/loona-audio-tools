@@ -2,7 +2,7 @@
   "name": "Loona Editor Fade Audio Online Gratis",
   "short_name": "Editor Fade Audio Online Gratis",
   "description": "Tambahkan fade in dan fade out ke audio online secara gratis. Atur fade hingga 10 detik pada berkas MP3, WAV, M4A, atau OGG apa pun, pratinjau, dan ekspor sebagai WAV. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/audio-fade-editor/",
+  "id": "/id/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Android-Klingelton-Ersteller",
   "short_name": "Android-Klingelton-Ersteller",
   "description": "Kostenloser Android-Klingelton-Ersteller: Schneiden Sie Audio in Ihrem Browser zu. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/android-ringtone-maker/",
+  "id": "/de/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

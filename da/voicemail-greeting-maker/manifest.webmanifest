@@ -2,7 +2,7 @@
   "name": "Loona Telefonsvarerhilsenmager",
   "short_name": "Telefonsvarerhilsenmager",
   "description": "Gratis Telefonsvarerhilsenmager: klip lyd i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/voicemail-greeting-maker/",
+  "id": "/da/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

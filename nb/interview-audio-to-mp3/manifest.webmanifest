@@ -2,7 +2,7 @@
   "name": "Loona Intervjulyd til MP3",
   "short_name": "Intervjulyd til MP3",
   "description": "Gratis intervjulyd til MP3: konverter og klargjør lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/interview-audio-to-mp3/",
+  "id": "/nb/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

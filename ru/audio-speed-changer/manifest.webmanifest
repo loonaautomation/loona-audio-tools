@@ -2,7 +2,7 @@
   "name": "Loona Изменение скорости аудио Онлайн бесплатно",
   "short_name": "Изменение скорости аудио Online",
   "description": "Изменяйте скорость аудио онлайн бесплатно. Ускоряйте или замедляйте MP3, WAV, M4A и OGG от 0.25x до 3x, предпрослушивайте мгновенно и экспортируйте в WAV. Без регистрации, и ваше аудио никогда не покидает ваше устройство.",
-  "id": "/loona-audio-tools/ru/audio-speed-changer/",
+  "id": "/ru/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

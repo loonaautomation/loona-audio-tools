@@ -2,7 +2,7 @@
   "name": "Loona Vorlesungsaufnahme in MP3",
   "short_name": "Vorlesungsaufnahme in MP3",
   "description": "Kostenloser Vorlesungsaufnahme-in-MP3-Konverter: Konvertieren und bereiten Sie Audio in Ihrem Browser vor. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/lecture-recording-to-mp3/",
+  "id": "/de/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

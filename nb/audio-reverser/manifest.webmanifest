@@ -2,7 +2,7 @@
   "name": "Loona Lydsnuer gratis på nett",
   "short_name": "Lydsnuer gratis på nett",
   "description": "Snu lyd gratis på nett. Spill alle MP3-, WAV-, M4A- eller OGG-filer baklengs og last ned den snudde lyden som WAV. Ingen registrering, og lyden din forlater aldri enheten din.",
-  "id": "/loona-audio-tools/nb/audio-reverser/",
+  "id": "/nb/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

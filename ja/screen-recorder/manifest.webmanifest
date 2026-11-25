@@ -2,7 +2,7 @@
   "name": "Loona 画面レコーダー オンライン無料",
   "short_name": "画面レコーダー オンライン無料",
   "description": "画面、タブ、ウィンドウをブラウザで無料で録画 — ご希望ならマイク音声付きで。登録不要、アップロードなし、WebMでダウンロード。",
-  "id": "/loona-audio-tools/ja/screen-recorder/",
+  "id": "/ja/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

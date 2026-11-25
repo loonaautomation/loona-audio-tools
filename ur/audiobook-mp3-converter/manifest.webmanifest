@@ -2,7 +2,7 @@
   "name": "Loona آڈیو بک MP3 کنورٹر",
   "short_name": "آڈیو بک MP3 کنورٹر",
   "description": "مفت آڈیو بک MP3 کنورٹر: اپنے براؤزر میں آڈیو تبدیل اور تیار کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-audio-tools/ur/audiobook-mp3-converter/",
+  "id": "/ur/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Izrađivač zvuka alarma",
   "short_name": "Izrađivač zvuka alarma",
   "description": "Besplatni izrađivač zvuka alarma: skratite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/alarm-sound-maker/",
+  "id": "/hr/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

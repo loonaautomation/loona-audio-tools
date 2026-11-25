@@ -2,7 +2,7 @@
   "name": "Loona Audio Converter - Convert Audio Files Online Free",
   "short_name": "Audio Converter - Convert Audio Files Online Free",
   "description": "Free MP3 bitrate reducer: shrink MP3 files by re-encoding at 64–320 kbps. Smaller files for messaging, email and storage — in your browser.",
-  "id": "/loona-audio-tools/en-us/mp3-bitrate-reducer/",
+  "id": "/en-us/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AAC ל-WAV",
   "short_name": "AAC ל-WAV",
   "description": "ממיר AAC ל-WAV בחינם: המירו שמע AAC ל-WAV בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/aac-to-wav-converter/",
+  "id": "/he/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

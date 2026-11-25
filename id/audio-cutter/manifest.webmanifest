@@ -2,7 +2,7 @@
   "name": "Loona Pemotong Audio Online Gratis",
   "short_name": "Pemotong Audio Online Gratis",
   "description": "Potong dan pangkas berkas audio online secara gratis. Pangkas MP3, WAV, M4A, dan OGG dengan bentuk gelombang visual, tanpa perlu pendaftaran. Audio Anda diproses secara pribadi di browser Anda dan diekspor sebagai WAV.",
-  "id": "/loona-audio-tools/id/audio-cutter/",
+  "id": "/id/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

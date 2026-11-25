@@ -2,7 +2,7 @@
   "name": "Loona Mikser audiokanala Besplatno na mreži",
   "short_name": "Mikser audiokanala na mreži",
   "description": "Pretvorite audiokanale besplatno na mreži - stereo u mono, mono u stereo, zamijenite lijevi i desni kanal ili kopirajte lijevi ili desni kanal na obje strane, izvezeno kao WAV. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/channel-mixer/",
+  "id": "/hr/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

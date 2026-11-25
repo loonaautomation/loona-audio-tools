@@ -2,7 +2,7 @@
   "name": "Loona Davul Sıralayıcı Çevrimiçi Ücretsiz",
   "short_name": "Davul Sıralayıcı Çevrimiçi Ücretsiz",
   "description": "16 adımlı bir sıralayıcıyla davul ritimlerini çevrimiçi ve ücretsiz yapın - sentezlenmiş bas davul, trampet ve hi-hat sesleri, rock, house ve hip-hop hazır ayarları ve 60 ile 180 BPM arasında tempo. Örnek yok, kayıt yok, her şey tarayıcınızda sentezlenir.",
-  "id": "/loona-audio-tools/tr/drum-sequencer/",
+  "id": "/tr/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

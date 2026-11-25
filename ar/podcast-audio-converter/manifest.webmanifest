@@ -2,7 +2,7 @@
   "name": "Loona محوّل صوت البودكاست",
   "short_name": "محوّل صوت البودكاست",
   "description": "محوّل صوت بودكاست مجاني: حوّل وجهّز الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/podcast-audio-converter/",
+  "id": "/ar/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

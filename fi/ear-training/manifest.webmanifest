@@ -2,7 +2,7 @@
   "name": "Loona Kuulonharjoittelu Ilmainen verkossa",
   "short_name": "Kuulonharjoittelu Ilmainen verkossa",
   "description": "Harjoittele kuuloasi verkossa ilmaiseksi - kuule kaksi säveltä, nimeä intervalli ja rakenna tuloksesi ja putkesi. Helpot, keskitason ja vaikeat tasot koko oktaaviin asti. Ei rekisteröitymistä, kaikki luodaan selaimessasi.",
-  "id": "/loona-audio-tools/fi/ear-training/",
+  "id": "/fi/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

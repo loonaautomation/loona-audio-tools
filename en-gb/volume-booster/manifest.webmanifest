@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/volume-booster/",
+  "id": "/en-gb/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

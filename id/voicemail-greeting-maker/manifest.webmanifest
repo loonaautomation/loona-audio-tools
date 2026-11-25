@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Sapaan Pesan Suara",
   "short_name": "Pembuat Sapaan Pesan Suara",
   "description": "Pembuat Sapaan Pesan Suara Gratis: pangkas audio di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/voicemail-greeting-maker/",
+  "id": "/id/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

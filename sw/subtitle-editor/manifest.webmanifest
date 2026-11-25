@@ -2,7 +2,7 @@
   "name": "Loona Kihariri cha Manukuu cha SRT Bure Mtandaoni",
   "short_name": "Kihariri cha Manukuu cha SRT Mtandaoni",
   "description": "Hariri faili za manukuu za SRT na WebVTT mtandaoni bure: rekebisha maandishi na nyakati za manukuu, sogeza ishara zote kwa wakati mmoja, rekebisha ishara zinazoingiliana na badilisha SRT kuwa VTT. Hakuna kujisajili, na faili yako ya manukuu haiondoki kamwe kwenye kifaa chako.",
-  "id": "/loona-audio-tools/sw/subtitle-editor/",
+  "id": "/sw/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Android রিংটোন মেকার",
   "short_name": "Android রিংটোন মেকার",
   "description": "বিনামূল্যে Android রিংটোন মেকার: আপনার ব্রাউজারে অডিও ছাঁটুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
-  "id": "/loona-audio-tools/bn/android-ringtone-maker/",
+  "id": "/bn/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

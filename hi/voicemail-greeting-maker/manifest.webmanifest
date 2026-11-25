@@ -2,7 +2,7 @@
   "name": "Loona वॉइसमेल ग्रीटिंग मेकर",
   "short_name": "वॉइसमेल ग्रीटिंग मेकर",
   "description": "मुफ़्त वॉइसमेल ग्रीटिंग मेकर: अपने ब्राउज़र में ऑडियो ट्रिम करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/voicemail-greeting-maker/",
+  "id": "/hi/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

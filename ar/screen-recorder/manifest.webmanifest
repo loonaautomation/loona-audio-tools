@@ -2,7 +2,7 @@
   "name": "Loona مسجّل الشاشة مجاني عبر الإنترنت",
   "short_name": "مسجّل الشاشة مجاني عبر الإنترنت",
   "description": "سجّل شاشتك أو علامة تبويب أو نافذة مجانًا في متصفحك - مع صوت الميكروفون إذا أردته. دون تسجيل، ودون رفع، يُنزّل بصيغة WebM.",
-  "id": "/loona-audio-tools/ar/screen-recorder/",
+  "id": "/ar/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

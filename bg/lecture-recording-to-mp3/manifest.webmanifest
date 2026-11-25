@@ -2,7 +2,7 @@
   "name": "Loona Запис на лекция към MP3",
   "short_name": "Запис на лекция към MP3",
   "description": "Безплатен запис на лекция към MP3: конвертирайте и подготвяйте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/lecture-recording-to-mp3/",
+  "id": "/bg/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

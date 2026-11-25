@@ -2,7 +2,7 @@
   "name": "Loona OGG سے WAV",
   "short_name": "OGG سے WAV",
   "description": "مفت OGG-to-WAV کنورٹر: OGG آڈیو کو اپنے براؤزر میں WAV میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/ogg-to-wav-converter/",
+  "id": "/ur/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ταχύτητα Ήχου 2.0x",
   "short_name": "Ταχύτητα Ήχου 2.0x",
   "description": "Δωρεάν εργαλείο αλλαγής ταχύτητας ήχου 2.0x: αλλάξτε οποιοδήποτε αρχείο ήχου σε ταχύτητα 2.0x στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/audio-speed-2-0x/",
+  "id": "/el/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penyongsang Audio Dalam Talian Percuma",
   "short_name": "Penyongsang Audio Dalam Talian Percuma",
   "description": "Songsangkan audio dalam talian secara percuma. Mainkan mana-mana fail MP3, WAV, M4A atau OGG secara terbalik dan muat turun audio songsang sebagai WAV. Tanpa pendaftaran, dan audio anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-audio-tools/ms/audio-reverser/",
+  "id": "/ms/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

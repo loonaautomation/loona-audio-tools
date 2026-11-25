@@ -2,7 +2,7 @@
   "name": "Loona Înregistrare de curs în MP3",
   "short_name": "Înregistrare de curs în MP3",
   "description": "Înregistrare de curs în MP3 gratuit: convertește și pregătește sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/lecture-recording-to-mp3/",
+  "id": "/ro/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

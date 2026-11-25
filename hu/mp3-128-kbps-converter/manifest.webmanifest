@@ -2,7 +2,7 @@
   "name": "Loona MP3 128 kbps konvertáló",
   "short_name": "MP3 128 kbps konvertáló",
   "description": "Ingyenes MP3 128 kbps konvertáló: konvertáljon bármely hangfájlt MP3-ra 128 kbps-nál a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/mp3-128-kbps-converter/",
+  "id": "/hu/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

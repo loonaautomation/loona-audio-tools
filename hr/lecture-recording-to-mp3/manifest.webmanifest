@@ -2,7 +2,7 @@
   "name": "Loona Snimka predavanja u MP3",
   "short_name": "Snimka predavanja u MP3",
   "description": "Besplatna snimka predavanja u MP3: pretvorite i pripremite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/lecture-recording-to-mp3/",
+  "id": "/hr/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

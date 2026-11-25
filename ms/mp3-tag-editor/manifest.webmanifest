@@ -2,7 +2,7 @@
   "name": "Loona Editor Tag MP3 Dalam Talian Percuma",
   "short_name": "Editor Tag MP3 Dalam Talian Percuma",
   "description": "Lihat dan sunting tag ID3 MP3 dalam talian secara percuma - tajuk, artis, album, tahun dan seni kulit - tanpa mengekod semula audio. Bingkai lain dikekalkan, tag boleh dibuang sepenuhnya, dan MP3 anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-audio-tools/ms/mp3-tag-editor/",
+  "id": "/ms/mp3-tag-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

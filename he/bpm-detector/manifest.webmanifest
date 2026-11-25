@@ -2,7 +2,7 @@
   "name": "Loona גלאי BPM בחינם באינטרנט",
   "short_name": "גלאי BPM בחינם באינטרנט",
   "description": "מצאו את ה-BPM של שיר באינטרנט בחינם. הגלאי מנתח את הפעימה בדפדפן שלכם ומציג את הקצב, שניות לפעימה ודירוג ביטחון - ובנוסף כלי קצב הקשה. ללא הרשמה, והשמע שלכם לעולם אינו עוזב את המכשיר שלכם.",
-  "id": "/loona-audio-tools/he/bpm-detector/",
+  "id": "/he/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

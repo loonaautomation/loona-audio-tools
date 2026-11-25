@@ -2,7 +2,7 @@
   "name": "Loona Hlasová poznámka z WhatsAppu na MP3",
   "short_name": "Hlasová poznámka z WhatsAppu na MP3",
   "description": "Bezplatný převod Hlasové poznámky z WhatsAppu na MP3: převádějte a připravujte zvuk ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/whatsapp-voice-note-to-mp3/",
+  "id": "/cs/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

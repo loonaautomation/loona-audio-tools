@@ -2,7 +2,7 @@
   "name": "Loona Gürültü Üreteci Çevrimiçi Ücretsiz",
   "short_name": "Gürültü Üreteci Çevrimiçi Ücretsiz",
   "description": "Uyku, odaklanma ve ses maskeleme için beyaz, pembe ve kahverengi gürültüyü çevrimiçi ve ücretsiz üretin. Tarayıcınızda canlı çalın veya döngüye almak için 10, 30 veya 60 saniyeyi WAV olarak indirin. Kayıt yok, hiçbir şey yüklenmez.",
-  "id": "/loona-audio-tools/tr/noise-generator/",
+  "id": "/tr/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

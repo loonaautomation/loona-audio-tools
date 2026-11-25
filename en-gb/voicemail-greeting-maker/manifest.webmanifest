@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/voicemail-greeting-maker/",
+  "id": "/en-gb/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

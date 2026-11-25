@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας MP3 256 kbps",
   "short_name": "Μετατροπέας MP3 256 kbps",
   "description": "Δωρεάν μετατροπέας MP3 256 kbps: μετατρέψτε οποιοδήποτε αρχείο ήχου σε MP3 στα 256 kbps στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/mp3-256-kbps-converter/",
+  "id": "/el/mp3-256-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

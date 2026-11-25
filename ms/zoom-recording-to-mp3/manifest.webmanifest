@@ -2,7 +2,7 @@
   "name": "Loona Rakaman Zoom kepada MP3",
   "short_name": "Rakaman Zoom kepada MP3",
   "description": "Rakaman Zoom kepada MP3 Percuma: tukar dan sediakan audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/zoom-recording-to-mp3/",
+  "id": "/ms/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

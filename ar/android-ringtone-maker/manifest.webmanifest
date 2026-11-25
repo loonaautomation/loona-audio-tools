@@ -2,7 +2,7 @@
   "name": "Loona صانع نغمات Android",
   "short_name": "صانع نغمات Android",
   "description": "صانع نغمات Android مجاني: قصّ الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/android-ringtone-maker/",
+  "id": "/ar/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 إلى WAV للتحرير",
   "short_name": "MP3 إلى WAV للتحرير",
   "description": "MP3 إلى WAV للتحرير مجاني: حوّل وجهّز الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/mp3-to-wav-for-editing/",
+  "id": "/ar/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

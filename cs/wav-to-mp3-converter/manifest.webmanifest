@@ -2,7 +2,7 @@
   "name": "Loona WAV na MP3",
   "short_name": "WAV na MP3",
   "description": "Bezplatný převodník WAV na MP3: převeďte zvuk WAV na MP3 ve svém prohlížeči. Bez registrace, bez nahrávání, bez vodoznaku.",
-  "id": "/loona-audio-tools/cs/wav-to-mp3-converter/",
+  "id": "/cs/wav-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

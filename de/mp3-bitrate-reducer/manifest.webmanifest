@@ -2,7 +2,7 @@
   "name": "Loona MP3-Bitraten-Reduzierer",
   "short_name": "MP3-Bitraten-Reduzierer",
   "description": "Kostenloser MP3-Bitraten-Reduzierer: Verkleinern Sie MP3-Dateien durch erneutes Kodieren mit 64–320 kbps. Kleinere Dateien für Nachrichten, E-Mail und Speicher — in Ihrem Browser.",
-  "id": "/loona-audio-tools/de/mp3-bitrate-reducer/",
+  "id": "/de/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

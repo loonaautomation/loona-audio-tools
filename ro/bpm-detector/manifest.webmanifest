@@ -2,7 +2,7 @@
   "name": "Loona Detector BPM Online Gratuit",
   "short_name": "Detector BPM Online Gratuit",
   "description": "Găsește BPM-ul unei melodii online gratuit. Detectorul analizează ritmul în browserul tău și arată tempoul, secundele pe bătaie și un calificativ de încredere - plus un instrument de tempo prin atingere. Fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul.",
-  "id": "/loona-audio-tools/ro/bpm-detector/",
+  "id": "/ro/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

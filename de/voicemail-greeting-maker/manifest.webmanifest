@@ -2,7 +2,7 @@
   "name": "Loona Mailbox-Ansagen-Ersteller",
   "short_name": "Mailbox-Ansagen-Ersteller",
   "description": "Kostenloser Mailbox-Ansagen-Ersteller: Schneiden Sie Audio in Ihrem Browser zu. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/voicemail-greeting-maker/",
+  "id": "/de/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

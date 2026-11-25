@@ -2,7 +2,7 @@
   "name": "Loona WAV'dan MP3'e",
   "short_name": "WAV'dan MP3'e",
   "description": "Ücretsiz WAV'dan MP3'e dönüştürücü: WAV sesini tarayıcınızda MP3'e dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/wav-to-mp3-converter/",
+  "id": "/tr/wav-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

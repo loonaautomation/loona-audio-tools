@@ -2,7 +2,7 @@
   "name": "Loona Metronom Online zdarma",
   "short_name": "Metronom Online zdarma",
   "description": "Bezplatný online metronom s posuvníkem BPM od 30 do 240, metry, dělením, přízvučnou první dobou, vizuálním pulzem a naklepáním tempa. Bez registrace, nic se nenahrává – běží ve vašem prohlížeči.",
-  "id": "/loona-audio-tools/cs/metronome/",
+  "id": "/cs/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

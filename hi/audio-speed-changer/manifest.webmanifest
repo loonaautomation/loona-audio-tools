@@ -2,7 +2,7 @@
   "name": "Loona ऑडियो स्पीड चेंजर ऑनलाइन मुफ़्त",
   "short_name": "ऑडियो स्पीड चेंजर Online",
   "description": "ऑडियो गति ऑनलाइन मुफ़्त बदलें। MP3, WAV, M4A और OGG को 0.25x से 3x तक तेज़ या धीमा करें, तुरंत प्रीव्यू देखें और WAV के रूप में निर्यात करें। कोई साइन-अप नहीं, और आपका ऑडियो आपके डिवाइस से कभी बाहर नहीं जाता।",
-  "id": "/loona-audio-tools/hi/audio-speed-changer/",
+  "id": "/hi/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

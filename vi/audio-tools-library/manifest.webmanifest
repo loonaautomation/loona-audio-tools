@@ -2,7 +2,7 @@
   "name": "Loona Thư viện công cụ âm thanh",
   "short_name": "Thư viện công cụ âm thanh",
   "description": "Thư viện Loona Audio Tools đầy đủ: bộ chuyển đổi MP3/WAV/OGG/M4A/FLAC/AAC, mục tiêu bitrate, preset tốc độ và công cụ theo mục đích sử dụng.",
-  "id": "/loona-audio-tools/vi/audio-tools-library/",
+  "id": "/vi/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

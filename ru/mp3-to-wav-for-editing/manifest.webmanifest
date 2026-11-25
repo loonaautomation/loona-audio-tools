@@ -2,7 +2,7 @@
   "name": "Loona MP3 в WAV для редактирования",
   "short_name": "MP3 в WAV для редактирования",
   "description": "Бесплатный MP3 в WAV для редактирования: конвертируйте и подготавливайте аудио в вашем браузере. Без регистрации, без загрузки на сервер.",
-  "id": "/loona-audio-tools/ru/mp3-to-wav-for-editing/",
+  "id": "/ru/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

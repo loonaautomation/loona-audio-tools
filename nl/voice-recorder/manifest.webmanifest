@@ -2,7 +2,7 @@
   "name": "Loona Spraakrecorder Online Gratis",
   "short_name": "Spraakrecorder Online Gratis",
   "description": "Neem je stem gratis online op met je microfoon. Luister terug en download je opname - hij verlaat je apparaat nooit. Geen registratie, geen uploads, werkt op telefoon en computer.",
-  "id": "/loona-audio-tools/nl/voice-recorder/",
+  "id": "/nl/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

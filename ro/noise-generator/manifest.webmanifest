@@ -2,7 +2,7 @@
   "name": "Loona Generator de zgomot Online Gratuit",
   "short_name": "Generator de zgomot Online Gratuit",
   "description": "Generează zgomot alb, roz și maro online gratuit, pentru somn, concentrare și mascarea sunetului. Redă-l în direct în browserul tău sau descarcă 10, 30 sau 60 de secunde ca WAV, pentru redare în buclă. Fără înregistrare, nimic încărcat.",
-  "id": "/loona-audio-tools/ro/noise-generator/",
+  "id": "/ro/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

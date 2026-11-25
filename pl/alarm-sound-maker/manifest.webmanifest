@@ -2,7 +2,7 @@
   "name": "Loona Kreator dźwięku budzika",
   "short_name": "Kreator dźwięku budzika",
   "description": "Bezpłatny kreator dźwięku budzika: przycinaj dźwięk w przeglądarce. Bez rejestracji, bez przesyłania na serwer.",
-  "id": "/loona-audio-tools/pl/alarm-sound-maker/",
+  "id": "/pl/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

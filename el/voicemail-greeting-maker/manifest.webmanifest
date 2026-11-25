@@ -2,7 +2,7 @@
   "name": "Loona Δημιουργός Χαιρετισμού Τηλεφωνητή",
   "short_name": "Δημιουργός Χαιρετισμού Τηλεφωνητή",
   "description": "Δωρεάν Δημιουργός Χαιρετισμού Τηλεφωνητή: κόψτε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/voicemail-greeting-maker/",
+  "id": "/el/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

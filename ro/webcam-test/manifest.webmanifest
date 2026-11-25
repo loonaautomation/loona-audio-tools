@@ -2,7 +2,7 @@
   "name": "Loona Test de cameră web Online Gratuit",
   "short_name": "Test de cameră web Online Gratuit",
   "description": "Testează-ți camera web gratuit în browserul tău: previzualizare live, afișarea rezoluției și a ratei de cadre reale, comutator de oglindire și descărcarea unei fotografii-captură. Nimic nu este încărcat - camera ta este folosită doar local.",
-  "id": "/loona-audio-tools/ro/webcam-test/",
+  "id": "/ro/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

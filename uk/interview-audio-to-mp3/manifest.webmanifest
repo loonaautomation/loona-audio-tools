@@ -2,7 +2,7 @@
   "name": "Loona Аудіо інтерв’ю в MP3",
   "short_name": "Аудіо інтерв’ю в MP3",
   "description": "Безкоштовне аудіо інтерв’ю в MP3: конвертуйте і готуйте аудіо у вашому браузері. Без реєстрації, без передавання на сервер.",
-  "id": "/loona-audio-tools/uk/interview-audio-to-mp3/",
+  "id": "/uk/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

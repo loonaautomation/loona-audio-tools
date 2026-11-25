@@ -2,7 +2,7 @@
   "name": "Loona Hangoskönyv-MP3-konvertáló",
   "short_name": "Hangoskönyv-MP3-konvertáló",
   "description": "Ingyenes Hangoskönyv-MP3-konvertáló: konvertáljon és készítsen hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/audiobook-mp3-converter/",
+  "id": "/hu/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

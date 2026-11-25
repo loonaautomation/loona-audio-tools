@@ -2,7 +2,7 @@
   "name": "Loona Швидкість аудіо 2.0x",
   "short_name": "Швидкість аудіо 2.0x",
   "description": "Безкоштовна зміна швидкості аудіо 2.0x: змінюйте будь-який аудіофайл на швидкість 2.0x у вашому браузері. Без реєстрації, без передавання на сервер.",
-  "id": "/loona-audio-tools/uk/audio-speed-2-0x/",
+  "id": "/uk/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

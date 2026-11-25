@@ -2,7 +2,7 @@
   "name": "Loona Podcast-lydkonverter",
   "short_name": "Podcast-lydkonverter",
   "description": "Gratis Podcast-lydkonverter: konverter og klargør lyd i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/podcast-audio-converter/",
+  "id": "/da/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

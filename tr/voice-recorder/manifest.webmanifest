@@ -2,7 +2,7 @@
   "name": "Loona Ses Kaydedici Çevrimiçi Ücretsiz",
   "short_name": "Ses Kaydedici Çevrimiçi Ücretsiz",
   "description": "Sesinizi mikrofonunuzla çevrimiçi ve ücretsiz kaydedin. Geri dinleyin ve kaydınızı indirin - cihazınızdan asla ayrılmaz. Kayıt yok, yükleme yok, telefon ve bilgisayarda çalışır.",
-  "id": "/loona-audio-tools/tr/voice-recorder/",
+  "id": "/tr/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

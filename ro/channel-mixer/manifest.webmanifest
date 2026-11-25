@@ -2,7 +2,7 @@
   "name": "Loona Mixer de canale audio Online Gratuit",
   "short_name": "Mixer de canale audio Online",
   "description": "Convertește canalele audio online gratuit - stereo în mono, mono în stereo, schimbă canalele stâng și drept sau copiază canalul stâng sau drept pe ambele părți, exportat ca WAV. Fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul.",
-  "id": "/loona-audio-tools/ro/channel-mixer/",
+  "id": "/ro/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

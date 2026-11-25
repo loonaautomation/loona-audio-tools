@@ -2,7 +2,7 @@
   "name": "Loona Công cụ giảm bitrate MP3",
   "short_name": "Công cụ giảm bitrate MP3",
   "description": "Công cụ giảm bitrate MP3 miễn phí: thu nhỏ file MP3 bằng cách mã hóa lại ở 64–320 kbps. Các file nhỏ hơn cho nhắn tin, email và lưu trữ — trong trình duyệt của bạn.",
-  "id": "/loona-audio-tools/vi/mp3-bitrate-reducer/",
+  "id": "/vi/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

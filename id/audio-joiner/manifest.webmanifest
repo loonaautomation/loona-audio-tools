@@ -2,7 +2,7 @@
   "name": "Loona Penggabung Audio Online Gratis",
   "short_name": "Penggabung Audio Online Gratis",
   "description": "Gabungkan berkas audio online secara gratis. Gabungkan berkas MP3, WAV, M4A, dan OGG menjadi satu trek dalam urutan yang Anda pilih, tanpa perlu pendaftaran. Diproses secara pribadi di browser Anda, diekspor sebagai WAV.",
-  "id": "/loona-audio-tools/id/audio-joiner/",
+  "id": "/id/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

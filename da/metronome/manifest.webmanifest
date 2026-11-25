@@ -2,7 +2,7 @@
   "name": "Loona Metronom gratis online",
   "short_name": "Metronom gratis online",
   "description": "Gratis online metronom med en BPM-skyder fra 30 til 240, taktarter, underinddelinger, et accenteret første slag, en visuel puls og tap-tempo. Ingen tilmelding, intet uploadet - den kører i din browser.",
-  "id": "/loona-audio-tools/da/metronome/",
+  "id": "/da/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

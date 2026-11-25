@@ -2,7 +2,7 @@
   "name": "Loona Stemapparaat Online Gratis",
   "short_name": "Stemapparaat Online Gratis",
   "description": "Stem elk instrument gratis online met je microfoon. De chromatische tuner toont de nootnaam, de exacte frequentie, en hoeveel cent te hoog of te laag je bent. Nauwkeurigheid eerlijk vermeld, geen registratie, en je audio verlaat je apparaat nooit.",
-  "id": "/loona-audio-tools/nl/instrument-tuner/",
+  "id": "/nl/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

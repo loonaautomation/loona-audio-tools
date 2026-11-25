@@ -2,7 +2,7 @@
   "name": "Loona Perekam Layar Online Gratis",
   "short_name": "Perekam Layar Online Gratis",
   "description": "Rekam layar, tab, atau jendela Anda secara gratis di browser Anda - dengan audio mikrofon jika Anda mau. Tanpa pendaftaran, tanpa unggahan, diunduh sebagai WebM.",
-  "id": "/loona-audio-tools/id/screen-recorder/",
+  "id": "/id/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ear-training/",
+  "id": "/en-gb/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

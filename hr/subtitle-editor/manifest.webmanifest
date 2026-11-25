@@ -2,7 +2,7 @@
   "name": "Loona Uređivač SRT titlova Besplatno na mreži",
   "short_name": "Uređivač SRT titlova na mreži",
   "description": "Uređujte SRT i WebVTT datoteke titlova besplatno na mreži: popravite tekst i vremena titlova, pomaknite sve replike odjednom, popravite preklapajuće replike i pretvorite SRT u VTT. Bez registracije, a vaša datoteka titlova nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/subtitle-editor/",
+  "id": "/hr/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tes Mikrofon Online Gratis",
   "short_name": "Tes Mikrofon Online Gratis",
   "description": "Uji mikrofon Anda secara gratis di browser Anda: meter level langsung, rekaman uji 5 detik dengan pemutaran kembali, dan pemilih mikrofon. Tidak ada yang diunggah - mikrofon Anda hanya digunakan secara lokal.",
-  "id": "/loona-audio-tools/id/mic-test/",
+  "id": "/id/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

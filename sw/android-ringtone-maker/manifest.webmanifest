@@ -2,7 +2,7 @@
   "name": "Loona Kitengeneza Mlilo wa Simu wa Android",
   "short_name": "Kitengeneza Mlilo wa Simu wa Android",
   "description": "Kitengeneza Mlilo wa Simu wa Android cha Bure: punguza sauti katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/android-ringtone-maker/",
+  "id": "/sw/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

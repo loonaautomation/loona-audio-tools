@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/podcast-audio-converter/",
+  "id": "/en-gb/ms/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penguat Volume Online Gratis",
   "short_name": "Penguat Volume Online Gratis",
   "description": "Tingkatkan volume audio online secara gratis. Buat rekaman MP3, WAV, M4A, dan OGG yang pelan hingga 300% lebih keras, atau normalkan puncak dengan aman, dan ekspor sebagai WAV. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/volume-booster/",
+  "id": "/id/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

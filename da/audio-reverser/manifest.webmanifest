@@ -2,7 +2,7 @@
   "name": "Loona Lydvender gratis online",
   "short_name": "Lydvender gratis online",
   "description": "Vend lyd online gratis. Afspil enhver MP3-, WAV-, M4A- eller OGG-fil baglæns, og download den vendte lyd som WAV. Ingen tilmelding, og din lyd forlader aldrig din enhed.",
-  "id": "/loona-audio-tools/da/audio-reverser/",
+  "id": "/da/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

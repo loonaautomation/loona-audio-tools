@@ -2,7 +2,7 @@
   "name": "Loona שמע ראיונות ל-MP3",
   "short_name": "שמע ראיונות ל-MP3",
   "description": "שמע ראיונות ל-MP3 בחינם: המירו והכינו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/interview-audio-to-mp3/",
+  "id": "/he/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

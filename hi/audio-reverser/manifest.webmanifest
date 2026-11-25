@@ -2,7 +2,7 @@
   "name": "Loona ऑडियो रिवर्सर ऑनलाइन मुफ़्त",
   "short_name": "ऑडियो रिवर्सर ऑनलाइन मुफ़्त",
   "description": "ऑडियो ऑनलाइन मुफ़्त उल्टा करें। किसी भी MP3, WAV, M4A या OGG फ़ाइल को उल्टा चलाएँ और उलटे ऑडियो को WAV के रूप में डाउनलोड करें। कोई साइन-अप नहीं, और आपका ऑडियो आपके डिवाइस से कभी बाहर नहीं जाता।",
-  "id": "/loona-audio-tools/hi/audio-reverser/",
+  "id": "/hi/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

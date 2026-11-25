@@ -2,7 +2,7 @@
   "name": "Loona Zoom snimka u MP3",
   "short_name": "Zoom snimka u MP3",
   "description": "Besplatna Zoom snimka u MP3: pretvorite i pripremite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/zoom-recording-to-mp3/",
+  "id": "/hr/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

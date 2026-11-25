@@ -2,7 +2,7 @@
   "name": "Loona Ladička nástrojů Online zdarma",
   "short_name": "Ladička nástrojů Online zdarma",
   "description": "Laďte libovolný nástroj online zdarma pomocí svého mikrofonu. Chromatická ladička ukazuje název tónu, přesnou frekvenci a o kolik centů jste nad nebo pod laděním. Přesnost uvedena poctivě, bez registrace a váš zvuk nikdy neopustí vaše zařízení.",
-  "id": "/loona-audio-tools/cs/instrument-tuner/",
+  "id": "/cs/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

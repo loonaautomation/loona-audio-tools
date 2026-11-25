@@ -2,7 +2,7 @@
   "name": "Loona Гласова бележка към MP3",
   "short_name": "Гласова бележка към MP3",
   "description": "Безплатна гласова бележка към MP3: конвертирайте и подготвяйте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/voice-memo-to-mp3/",
+  "id": "/bg/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

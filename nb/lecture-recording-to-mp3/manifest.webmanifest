@@ -2,7 +2,7 @@
   "name": "Loona Forelesningsopptak til MP3",
   "short_name": "Forelesningsopptak til MP3",
   "description": "Gratis forelesningsopptak til MP3: konverter og klargjør lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/lecture-recording-to-mp3/",
+  "id": "/nb/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

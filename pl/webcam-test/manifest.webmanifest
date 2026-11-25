@@ -2,7 +2,7 @@
   "name": "Loona Test kamery internetowej Online za darmo",
   "short_name": "Test kamery internetowej Online za darmo",
   "description": "Przetestuj kamerę internetową bezpłatnie w przeglądarce: podgląd na żywo, odczyt prawdziwej rozdzielczości i liczby klatek na sekundę, przełącznik lustra oraz pobieranie zdjęcia. Nic nie jest przesyłane na serwer - kamera jest używana tylko lokalnie.",
-  "id": "/loona-audio-tools/pl/webcam-test/",
+  "id": "/pl/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

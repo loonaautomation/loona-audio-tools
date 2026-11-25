@@ -2,7 +2,7 @@
   "name": "Loona MP3 hadi WAV",
   "short_name": "MP3 hadi WAV",
   "description": "Kibadilishaji cha bure cha MP3-hadi-WAV: badilisha sauti ya MP3 kuwa WAV katika kivinjari chako. Hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-audio-tools/sw/mp3-to-wav-converter/",
+  "id": "/sw/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

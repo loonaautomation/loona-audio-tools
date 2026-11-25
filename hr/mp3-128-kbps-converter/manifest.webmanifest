@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač u MP3 128 kbps",
   "short_name": "Pretvarač u MP3 128 kbps",
   "description": "Besplatni pretvarač u MP3 128 kbps: pretvorite bilo koju zvučnu datoteku u MP3 pri 128 kbps u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/mp3-128-kbps-converter/",
+  "id": "/hr/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

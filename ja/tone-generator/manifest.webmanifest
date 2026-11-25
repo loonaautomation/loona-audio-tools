@@ -2,7 +2,7 @@
   "name": "Loona トーンジェネレーター オンライン無料",
   "short_name": "トーンジェネレーター オンライン無料",
   "description": "テストトーンをオンラインで無料生成。20 Hzから20,000 Hzのサイン波、矩形波、三角波、のこぎり波 — すぐに再生するか、WAVでダウンロード。登録不要、ブラウザで100%動作します。",
-  "id": "/loona-audio-tools/ja/tone-generator/",
+  "id": "/ja/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

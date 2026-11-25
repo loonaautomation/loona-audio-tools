@@ -2,7 +2,7 @@
   "name": "Loona Trình ghi màn hình Trực tuyến miễn phí",
   "short_name": "Trình ghi màn hình Trực tuyến miễn phí",
   "description": "Ghi màn hình, một tab hoặc một cửa sổ miễn phí trong trình duyệt của bạn - với âm thanh micro nếu bạn muốn. Không cần đăng ký, không tải lên, tải xuống dưới dạng WebM.",
-  "id": "/loona-audio-tools/vi/screen-recorder/",
+  "id": "/vi/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

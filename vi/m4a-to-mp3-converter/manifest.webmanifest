@@ -2,7 +2,7 @@
   "name": "Loona M4A sang MP3",
   "short_name": "M4A sang MP3",
   "description": "Bộ chuyển đổi M4A sang MP3 miễn phí: chuyển đổi âm thanh M4A sang MP3 trong trình duyệt của bạn. Không cần đăng ký, không tải lên, không hình mờ.",
-  "id": "/loona-audio-tools/vi/m4a-to-mp3-converter/",
+  "id": "/vi/m4a-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

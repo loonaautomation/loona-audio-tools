@@ -2,7 +2,7 @@
   "name": "Loona חותך שמע בחינם באינטרנט",
   "short_name": "חותך שמע בחינם באינטרנט",
   "description": "גזירת וחיתוך קבצי שמע באינטרנט בחינם. גזרו MP3, WAV, M4A ו-OGG עם צורת גל חזותית, ללא צורך בהרשמה. השמע שלכם מעובד בפרטיות בדפדפן שלכם ומיוצא כ-WAV.",
-  "id": "/loona-audio-tools/he/audio-cutter/",
+  "id": "/he/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

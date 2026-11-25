@@ -2,7 +2,7 @@
   "name": "Loona OGG în MP3",
   "short_name": "OGG în MP3",
   "description": "Convertor OGG în MP3 gratuit: convertește sunetul OGG în MP3 în browserul tău. Fără înregistrare, fără încărcare, fără filigran.",
-  "id": "/loona-audio-tools/ro/ogg-to-mp3-converter/",
+  "id": "/ro/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

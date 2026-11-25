@@ -2,7 +2,7 @@
   "name": "Loona Audioknipper Online Gratis",
   "short_name": "Audioknipper Online Gratis",
   "description": "Knip en trim audiobestanden gratis online. Trim MP3, WAV, M4A en OGG met een visuele golfvorm, geen registratie nodig. Je audio wordt privé verwerkt in je browser en geëxporteerd als WAV.",
-  "id": "/loona-audio-tools/nl/audio-cutter/",
+  "id": "/nl/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona BPM Detector Online Free",
   "short_name": "BPM Detector Online Free",
   "description": "Find the BPM of a song online free. The detector analyses the beat in your browser and shows the tempo, seconds per beat and a confidence rating - plus a tap-tempo tool. No sign-up, and your audio never leaves your device.",
-  "id": "/loona-audio-tools/bpm-detector/",
+  "id": "/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

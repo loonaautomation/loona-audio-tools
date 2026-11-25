@@ -2,7 +2,7 @@
   "name": "Loona Nahrávka prednášky na MP3",
   "short_name": "Nahrávka prednášky na MP3",
   "description": "Nahrávka prednášky na MP3 zadarmo: prevádzajte a pripravujte zvuk vo svojom prehliadači. Bez registrácie, bez nahrávania na server.",
-  "id": "/loona-audio-tools/sk/lecture-recording-to-mp3/",
+  "id": "/sk/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

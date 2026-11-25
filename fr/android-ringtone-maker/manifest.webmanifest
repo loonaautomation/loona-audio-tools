@@ -2,7 +2,7 @@
   "name": "Loona Créateur de sonnerie Android",
   "short_name": "Créateur de sonnerie Android",
   "description": "Créateur de sonnerie Android gratuit : découpez l'audio dans votre navigateur. Sans inscription, sans téléversement.",
-  "id": "/loona-audio-tools/fr/android-ringtone-maker/",
+  "id": "/fr/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

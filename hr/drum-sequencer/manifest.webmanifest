@@ -2,7 +2,7 @@
   "name": "Loona Sekvencer bubnjeva Besplatno na mreži",
   "short_name": "Sekvencer bubnjeva Besplatno na mreži",
   "description": "Izrađujte ritmove bubnjeva besplatno na mreži sekvencerom od 16 koraka - sintetizirani zvukovi bas-bubnja, doboša i hi-hata, unaprijed postavljeni rock, house i hip-hop uzorci te tempo od 60 do 180 BPM. Bez samplova, bez registracije, sve sintetizirano u vašem pregledniku.",
-  "id": "/loona-audio-tools/hr/drum-sequencer/",
+  "id": "/hr/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

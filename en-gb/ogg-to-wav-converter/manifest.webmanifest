@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ogg-to-wav-converter/",
+  "id": "/en-gb/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

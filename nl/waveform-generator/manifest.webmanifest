@@ -2,7 +2,7 @@
   "name": "Loona Golfvormafbeelding-generator Online Gratis",
   "short_name": "Golfvormafbeelding-generator",
   "description": "Verander elk audiobestand gratis online in een golfvormafbeelding - kies de grootte, kleuren, gevulde of balkstijl, en transparante achtergrond, en download daarna een PNG. Geen registratie, en je audio verlaat je apparaat nooit.",
-  "id": "/loona-audio-tools/nl/waveform-generator/",
+  "id": "/nl/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

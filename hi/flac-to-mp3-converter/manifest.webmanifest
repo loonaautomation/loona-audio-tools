@@ -2,7 +2,7 @@
   "name": "Loona FLAC से MP3",
   "short_name": "FLAC से MP3",
   "description": "मुफ़्त FLAC-से-MP3 कन्वर्टर: FLAC ऑडियो को अपने ब्राउज़र में MP3 में कन्वर्ट करें। कोई साइन-अप नहीं, कोई अपलोड नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-audio-tools/hi/flac-to-mp3-converter/",
+  "id": "/hi/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AAC у MP3",
   "short_name": "AAC у MP3",
   "description": "Безкоштовний конвертер AAC у MP3: конвертуйте аудіо AAC у MP3 у вашому браузері. Без реєстрації, без передавання на сервер, без водяних знаків.",
-  "id": "/loona-audio-tools/uk/aac-to-mp3-converter/",
+  "id": "/uk/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

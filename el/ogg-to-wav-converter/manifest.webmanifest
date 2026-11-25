@@ -2,7 +2,7 @@
   "name": "Loona OGG σε WAV",
   "short_name": "OGG σε WAV",
   "description": "Δωρεάν μετατροπέας OGG σε WAV: μετατρέψτε ήχο OGG σε WAV στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα, χωρίς υδατογράφημα.",
-  "id": "/loona-audio-tools/el/ogg-to-wav-converter/",
+  "id": "/el/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

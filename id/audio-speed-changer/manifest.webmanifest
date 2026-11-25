@@ -2,7 +2,7 @@
   "name": "Loona Pengubah Kecepatan Audio Online Gratis",
   "short_name": "Pengubah Kecepatan Audio Online",
   "description": "Ubah kecepatan audio online secara gratis. Percepat atau perlambat MP3, WAV, M4A, dan OGG dari 0.25x hingga 3x, pratinjau seketika, dan ekspor sebagai WAV. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/audio-speed-changer/",
+  "id": "/id/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

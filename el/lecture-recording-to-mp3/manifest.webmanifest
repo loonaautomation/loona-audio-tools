@@ -2,7 +2,7 @@
   "name": "Loona Ηχογράφηση Διάλεξης σε MP3",
   "short_name": "Ηχογράφηση Διάλεξης σε MP3",
   "description": "Δωρεάν Ηχογράφηση Διάλεξης σε MP3: μετατρέψτε και προετοιμάστε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/lecture-recording-to-mp3/",
+  "id": "/el/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

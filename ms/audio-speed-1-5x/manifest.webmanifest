@@ -2,7 +2,7 @@
   "name": "Loona Kelajuan Audio 1.5x",
   "short_name": "Kelajuan Audio 1.5x",
   "description": "Penukar kelajuan audio 1.5x percuma: tukar mana-mana fail audio kepada kelajuan 1.5x dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/audio-speed-1-5x/",
+  "id": "/ms/audio-speed-1-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

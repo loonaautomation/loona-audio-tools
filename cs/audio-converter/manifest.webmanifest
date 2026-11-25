@@ -2,7 +2,7 @@
   "name": "Loona Převodník zvuku Online zdarma",
   "short_name": "Převodník zvuku Online zdarma",
   "description": "Převádějte zvukové soubory online zdarma – proměňte MP3, WAV, OGG, M4A, WebM a další na WAV nebo MP3 (128, 192 nebo 320 kbps) se zachovanou vzorkovací frekvencí. Bez registrace a váš zvuk nikdy neopustí vaše zařízení, protože dekódování závisí na vašem prohlížeči a převod běží na 100% lokálně.",
-  "id": "/loona-audio-tools/cs/audio-converter/",
+  "id": "/cs/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

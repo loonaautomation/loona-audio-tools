@@ -2,7 +2,7 @@
   "name": "Loona BPM-detektor Online gratis",
   "short_name": "BPM-detektor Online gratis",
   "description": "Hitta BPM för en sång online gratis. Detektorn analyserar beatet i din webbläsare och visar tempot, sekunder per slag och en tillförlitlighetsbedömning – plus ett tap-tempo-verktyg. Ingen registrering, och ditt ljud lämnar aldrig din enhet.",
-  "id": "/loona-audio-tools/sv/bpm-detector/",
+  "id": "/sv/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Zoom 녹화를 MP3로",
   "short_name": "Zoom 녹화를 MP3로",
   "description": "무료 Zoom 녹화를 MP3로: 브라우저에서 오디오를 변환하고 준비하세요. 가입 없이, 업로드 없이.",
-  "id": "/loona-audio-tools/ko/zoom-recording-to-mp3/",
+  "id": "/ko/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

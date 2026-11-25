@@ -2,7 +2,7 @@
   "name": "Loona Penukar MP3 320 kbps",
   "short_name": "Penukar MP3 320 kbps",
   "description": "Penukar MP3 320 kbps percuma: tukar mana-mana fail audio kepada MP3 pada 320 kbps dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/mp3-320-kbps-converter/",
+  "id": "/ms/mp3-320-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

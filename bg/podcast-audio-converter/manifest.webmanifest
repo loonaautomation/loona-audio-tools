@@ -2,7 +2,7 @@
   "name": "Loona Конвертор на подкаст аудио",
   "short_name": "Конвертор на подкаст аудио",
   "description": "Безплатен конвертор на подкаст аудио: конвертирайте и подготвяйте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/podcast-audio-converter/",
+  "id": "/bg/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Secvențiator de tobe Online Gratuit",
   "short_name": "Secvențiator de tobe Online Gratuit",
   "description": "Fă ritmuri de tobe online gratuit, cu un secvențiator de 16 pași - sunete sintetizate de tobă mare, tobă mică și cinele, presetări rock, house și hip-hop și tempo de la 60 la 180 BPM. Fără eșantioane, fără înregistrare, totul sintetizat în browserul tău.",
-  "id": "/loona-audio-tools/ro/drum-sequencer/",
+  "id": "/ro/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

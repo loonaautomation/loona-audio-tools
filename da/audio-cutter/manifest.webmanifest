@@ -2,7 +2,7 @@
   "name": "Loona Lydklipper gratis online",
   "short_name": "Lydklipper gratis online",
   "description": "Klip og trim lydfiler online gratis. Klip MP3, WAV, M4A og OGG med en visuel bølgeform, ingen tilmelding nødvendig. Din lyd behandles privat i din browser og eksporteres som WAV.",
-  "id": "/loona-audio-tools/da/audio-cutter/",
+  "id": "/da/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

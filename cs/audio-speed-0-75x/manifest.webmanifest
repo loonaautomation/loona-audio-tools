@@ -2,7 +2,7 @@
   "name": "Loona Rychlost zvuku 0.75x",
   "short_name": "Rychlost zvuku 0.75x",
   "description": "Bezplatný měnič rychlosti zvuku 0.75x: změňte libovolný zvukový soubor na rychlost 0.75x ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/audio-speed-0-75x/",
+  "id": "/cs/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

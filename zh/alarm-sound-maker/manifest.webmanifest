@@ -2,7 +2,7 @@
   "name": "Loona 闹钟声音制作器",
   "short_name": "闹钟声音制作器",
   "description": "免费闹钟声音制作器：在您的浏览器中修剪音频。无需注册，无需上传。",
-  "id": "/loona-audio-tools/zh/alarm-sound-maker/",
+  "id": "/zh/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

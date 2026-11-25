@@ -2,7 +2,7 @@
   "name": "Loona Tốc độ âm thanh 1.25x",
   "short_name": "Tốc độ âm thanh 1.25x",
   "description": "Trình thay đổi tốc độ âm thanh 1.25x miễn phí: thay đổi bất kỳ file âm thanh nào thành tốc độ 1.25x trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/audio-speed-1-25x/",
+  "id": "/vi/audio-speed-1-25x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

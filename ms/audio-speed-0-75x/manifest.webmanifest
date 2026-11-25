@@ -2,7 +2,7 @@
   "name": "Loona Kelajuan Audio 0.75x",
   "short_name": "Kelajuan Audio 0.75x",
   "description": "Penukar kelajuan audio 0.75x percuma: tukar mana-mana fail audio kepada kelajuan 0.75x dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/audio-speed-0-75x/",
+  "id": "/ms/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

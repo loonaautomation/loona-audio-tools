@@ -2,7 +2,7 @@
   "name": "Loona Prevodník na MP3 128 kbps",
   "short_name": "Prevodník na MP3 128 kbps",
   "description": "Bezplatný prevodník na MP3 128 kbps: preveďte akýkoľvek zvukový súbor na MP3 so 128 kbps vo svojom prehliadači. Bez registrácie, bez nahrávania na server.",
-  "id": "/loona-audio-tools/sk/mp3-128-kbps-converter/",
+  "id": "/sk/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

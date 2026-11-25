@@ -2,7 +2,7 @@
   "name": "Loona AAC سے WAV",
   "short_name": "AAC سے WAV",
   "description": "مفت AAC-to-WAV کنورٹر: AAC آڈیو کو اپنے براؤزر میں WAV میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/aac-to-wav-converter/",
+  "id": "/ur/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

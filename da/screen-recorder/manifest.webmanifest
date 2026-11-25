@@ -2,7 +2,7 @@
   "name": "Loona Skærmoptager gratis online",
   "short_name": "Skærmoptager gratis online",
   "description": "Optag din skærm, en browserfane eller et vindue gratis i din browser - med mikrofonlyd, hvis du vil. Ingen tilmelding, ingen upload, downloades som WebM.",
-  "id": "/loona-audio-tools/da/screen-recorder/",
+  "id": "/da/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

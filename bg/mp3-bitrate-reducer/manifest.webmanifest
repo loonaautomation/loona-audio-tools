@@ -2,7 +2,7 @@
   "name": "Loona Намаляване на битрейта на MP3",
   "short_name": "Намаляване на битрейта на MP3",
   "description": "Безплатно намаляване на битрейта на MP3: смалявайте MP3 файлове чрез прекодиране на 64–320 kbps. По-малки файлове за съобщения, имейл и съхранение — в браузъра ви.",
-  "id": "/loona-audio-tools/bg/mp3-bitrate-reducer/",
+  "id": "/bg/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

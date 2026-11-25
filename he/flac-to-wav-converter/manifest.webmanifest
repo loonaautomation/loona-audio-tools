@@ -2,7 +2,7 @@
   "name": "Loona FLAC ל-WAV",
   "short_name": "FLAC ל-WAV",
   "description": "ממיר FLAC ל-WAV בחינם: המירו שמע FLAC ל-WAV בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/flac-to-wav-converter/",
+  "id": "/he/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

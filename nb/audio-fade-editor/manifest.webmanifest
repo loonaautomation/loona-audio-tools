@@ -2,7 +2,7 @@
   "name": "Loona Lydtoningsredigerer gratis på nett",
   "short_name": "Lydtoningsredigerer gratis på nett",
   "description": "Legg inntoning og uttoning til lyd gratis på nett. Still inn toninger på opptil 10 sekunder på en hvilken som helst MP3-, WAV-, M4A- eller OGG-fil, forhåndsvis, og eksporter som WAV. Ingen registrering, og lyden din forlater aldri enheten din.",
-  "id": "/loona-audio-tools/nb/audio-fade-editor/",
+  "id": "/nb/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Opus hadi MP3",
   "short_name": "Opus hadi MP3",
   "description": "Kibadilishaji cha bure cha Opus-hadi-MP3: badilisha sauti ya Opus kuwa MP3 katika kivinjari chako. Hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-audio-tools/sw/opus-to-mp3-converter/",
+  "id": "/sw/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

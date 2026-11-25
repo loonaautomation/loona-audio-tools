@@ -2,7 +2,7 @@
   "name": "Loona AAC kepada WAV",
   "short_name": "AAC kepada WAV",
   "description": "Penukar AAC-ke-WAV percuma: tukar audio AAC kepada WAV dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik, tanpa tera air.",
-  "id": "/loona-audio-tools/ms/aac-to-wav-converter/",
+  "id": "/ms/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mémo vocal vers MP3",
   "short_name": "Mémo vocal vers MP3",
   "description": "Mémo vocal vers MP3 gratuit : convertissez et préparez l'audio dans votre navigateur. Sans inscription, sans téléversement.",
-  "id": "/loona-audio-tools/fr/voice-memo-to-mp3/",
+  "id": "/fr/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

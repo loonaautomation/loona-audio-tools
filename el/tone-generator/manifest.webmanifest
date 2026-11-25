@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Τόνων Δωρεάν Online",
   "short_name": "Γεννήτρια Τόνων Δωρεάν Online",
   "description": "Δημιουργήστε τόνους δοκιμής δωρεάν online. Ημιτονοειδείς, τετραγωνικές, τριγωνικές και πριονωτές κυματομορφές από 20 Hz έως 20,000 Hz - παίξτε αμέσως ή κατεβάστε ως WAV. Χωρίς εγγραφή, τρέχει 100% στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-audio-tools/el/tone-generator/",
+  "id": "/el/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

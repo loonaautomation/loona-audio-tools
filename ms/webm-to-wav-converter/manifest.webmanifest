@@ -2,7 +2,7 @@
   "name": "Loona WebM kepada WAV",
   "short_name": "WebM kepada WAV",
   "description": "Penukar WebM-ke-WAV percuma: tukar audio WebM kepada WAV dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik, tanpa tera air.",
-  "id": "/loona-audio-tools/ms/webm-to-wav-converter/",
+  "id": "/ms/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

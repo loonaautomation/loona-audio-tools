@@ -2,7 +2,7 @@
   "name": "Loona Convertor audio pentru podcasturi",
   "short_name": "Convertor audio pentru podcasturi",
   "description": "Convertor audio pentru podcasturi gratuit: convertește și pregătește sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/podcast-audio-converter/",
+  "id": "/ro/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

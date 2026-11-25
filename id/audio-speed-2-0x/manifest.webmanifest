@@ -2,7 +2,7 @@
   "name": "Loona Kecepatan Audio 2.0x",
   "short_name": "Kecepatan Audio 2.0x",
   "description": "Pengubah kecepatan audio 2.0x gratis: ubah berkas audio apa pun ke kecepatan 2.0x di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/audio-speed-2-0x/",
+  "id": "/id/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

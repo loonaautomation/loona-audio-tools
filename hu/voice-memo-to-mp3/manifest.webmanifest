@@ -2,7 +2,7 @@
   "name": "Loona Hangjegyzet MP3-ba",
   "short_name": "Hangjegyzet MP3-ba",
   "description": "Ingyenes Hangjegyzet MP3-ba: konvertáljon és készítsen hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/voice-memo-to-mp3/",
+  "id": "/hu/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

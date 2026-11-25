@@ -2,7 +2,7 @@
   "name": "Loona Taglia audio online gratuito",
   "short_name": "Taglia audio online gratuito",
   "description": "Taglia e rifila file audio online gratis. Taglia MP3, WAV, M4A e OGG con una forma d'onda visiva, senza bisogno di registrazione. Il tuo audio viene elaborato privatamente nel tuo browser ed esportato come WAV.",
-  "id": "/loona-audio-tools/it/audio-cutter/",
+  "id": "/it/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

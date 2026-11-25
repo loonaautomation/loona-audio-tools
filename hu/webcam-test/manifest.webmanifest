@@ -2,7 +2,7 @@
   "name": "Loona Webkamerateszt Online ingyen",
   "short_name": "Webkamerateszt Online ingyen",
   "description": "Tesztelje a webkameráját ingyen a böngészőjében: élő előnézet, valódi felbontás- és képkockasebesség-kiolvasás, tükörkapcsoló és pillanatképfotó-letöltés. Semmi nem töltődik fel - a kamerája csak helyben használatos.",
-  "id": "/loona-audio-tools/hu/webcam-test/",
+  "id": "/hu/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Enstrüman Akort Aleti Çevrimiçi Ücretsiz",
   "short_name": "Enstrüman Akort Aleti Çevrimiçi Ücretsiz",
   "description": "Herhangi bir enstrümanı mikrofonunuzla çevrimiçi ve ücretsiz akort edin. Kromatik akort aleti; nota adını, tam frekansı ve kaç sent tiz veya pes olduğunuzu gösterir. Doğruluk dürüstçe belirtilmiştir, kayıt yoktur ve sesiniz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-audio-tools/tr/instrument-tuner/",
+  "id": "/tr/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

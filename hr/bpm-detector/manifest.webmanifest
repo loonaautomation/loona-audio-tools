@@ -2,7 +2,7 @@
   "name": "Loona Detektor BPM-a Besplatno na mreži",
   "short_name": "Detektor BPM-a Besplatno na mreži",
   "description": "Pronađite BPM pjesme besplatno na mreži. Detektor analizira ritam u vašem pregledniku i prikazuje tempo, sekunde po otkucaju i ocjenu pouzdanosti - plus alat za tempo dodirom. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/bpm-detector/",
+  "id": "/hr/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

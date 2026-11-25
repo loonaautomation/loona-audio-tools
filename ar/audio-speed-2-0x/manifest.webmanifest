@@ -2,7 +2,7 @@
   "name": "Loona سرعة الصوت 2.0x",
   "short_name": "سرعة الصوت 2.0x",
   "description": "مغيّر سرعة صوت 2.0x مجاني: غيّر أي ملف صوتي إلى سرعة 2.0x في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/audio-speed-2-0x/",
+  "id": "/ar/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

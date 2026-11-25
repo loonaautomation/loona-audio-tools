@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo nhạc chuông Android",
   "short_name": "Trình tạo nhạc chuông Android",
   "description": "Trình tạo nhạc chuông Android miễn phí: cắt âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/android-ringtone-maker/",
+  "id": "/vi/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

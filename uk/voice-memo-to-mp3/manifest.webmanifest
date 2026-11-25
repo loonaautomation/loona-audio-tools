@@ -2,7 +2,7 @@
   "name": "Loona Голосова нотатка в MP3",
   "short_name": "Голосова нотатка в MP3",
   "description": "Безкоштовна голосова нотатка в MP3: конвертуйте і готуйте аудіо у вашому браузері. Без реєстрації, без передавання на сервер.",
-  "id": "/loona-audio-tools/uk/voice-memo-to-mp3/",
+  "id": "/uk/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

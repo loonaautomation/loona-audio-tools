@@ -2,7 +2,7 @@
   "name": "Loona ऑडियोबुक MP3 कन्वर्टर",
   "short_name": "ऑडियोबुक MP3 कन्वर्टर",
   "description": "मुफ़्त ऑडियोबुक MP3 कन्वर्टर: अपने ब्राउज़र में ऑडियो कन्वर्ट और तैयार करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/audiobook-mp3-converter/",
+  "id": "/hi/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

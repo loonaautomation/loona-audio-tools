@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας MP3 320 kbps",
   "short_name": "Μετατροπέας MP3 320 kbps",
   "description": "Δωρεάν μετατροπέας MP3 320 kbps: μετατρέψτε οποιοδήποτε αρχείο ήχου σε MP3 στα 320 kbps στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/mp3-320-kbps-converter/",
+  "id": "/el/mp3-320-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

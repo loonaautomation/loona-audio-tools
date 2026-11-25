@@ -2,7 +2,7 @@
   "name": "Loona Interjúhang MP3-ba",
   "short_name": "Interjúhang MP3-ba",
   "description": "Ingyenes Interjúhang MP3-ba: konvertáljon és készítsen hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/interview-audio-to-mp3/",
+  "id": "/hu/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

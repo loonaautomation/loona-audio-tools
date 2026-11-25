@@ -2,7 +2,7 @@
   "name": "Loona Bản ghi bài giảng sang MP3",
   "short_name": "Bản ghi bài giảng sang MP3",
   "description": "Chuyển đổi bản ghi bài giảng sang MP3 miễn phí: chuyển đổi và chuẩn bị âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/lecture-recording-to-mp3/",
+  "id": "/vi/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

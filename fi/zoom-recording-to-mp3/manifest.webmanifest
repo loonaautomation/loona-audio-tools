@@ -2,7 +2,7 @@
   "name": "Loona Zoom-tallenne MP3:ksi",
   "short_name": "Zoom-tallenne MP3:ksi",
   "description": "Ilmainen Zoom-tallenne MP3:ksi: muunna ja valmistele ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/zoom-recording-to-mp3/",
+  "id": "/fi/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

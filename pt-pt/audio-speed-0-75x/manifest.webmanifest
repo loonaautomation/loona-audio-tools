@@ -2,7 +2,7 @@
   "name": "Loona Velocidade de Áudio 0.75x",
   "short_name": "Velocidade de Áudio 0.75x",
   "description": "Alterador de velocidade de áudio 0.75x grátis: mude qualquer ficheiro de áudio para velocidade 0.75x no seu navegador. Sem registo, sem envio.",
-  "id": "/loona-audio-tools/pt-pt/audio-speed-0-75x/",
+  "id": "/pt-pt/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

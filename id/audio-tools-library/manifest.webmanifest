@@ -2,7 +2,7 @@
   "name": "Loona Perpustakaan Alat Audio",
   "short_name": "Perpustakaan Alat Audio",
   "description": "Perpustakaan Loona Audio Tools lengkap: konverter MP3/WAV/OGG/M4A/FLAC/AAC, target bitrate, preset kecepatan, dan alat kebutuhan khusus.",
-  "id": "/loona-audio-tools/id/audio-tools-library/",
+  "id": "/id/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

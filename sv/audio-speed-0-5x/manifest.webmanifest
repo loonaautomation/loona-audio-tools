@@ -2,7 +2,7 @@
   "name": "Loona Ljudhastighet 0.5x",
   "short_name": "Ljudhastighet 0.5x",
   "description": "Gratis hastighetsändrare för ljud 0.5x: ändra valfri ljudfil till 0.5x hastighet i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/audio-speed-0-5x/",
+  "id": "/sv/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

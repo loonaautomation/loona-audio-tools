@@ -2,7 +2,7 @@
   "name": "Loona Memo ya Sauti hadi MP3",
   "short_name": "Memo ya Sauti hadi MP3",
   "description": "Memo ya Sauti hadi MP3 ya Bure: badilisha na andaa sauti katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/voice-memo-to-mp3/",
+  "id": "/sw/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

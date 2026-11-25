@@ -2,7 +2,7 @@
   "name": "Loona Tréning sluchu Online zadarmo",
   "short_name": "Tréning sluchu Online zadarmo",
   "description": "Trénujte si sluch online zadarmo – vypočujte si dva tóny, pomenujte interval a budujte si skóre a sériu. Ľahká, stredná a ťažká úroveň až po celú oktávu. Bez registrácie, všetko generované vo vašom prehliadači.",
-  "id": "/loona-audio-tools/sk/ear-training/",
+  "id": "/sk/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

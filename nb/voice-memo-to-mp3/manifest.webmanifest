@@ -2,7 +2,7 @@
   "name": "Loona Talenotat til MP3",
   "short_name": "Talenotat til MP3",
   "description": "Gratis talenotat til MP3: konverter og klargjør lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/voice-memo-to-mp3/",
+  "id": "/nb/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

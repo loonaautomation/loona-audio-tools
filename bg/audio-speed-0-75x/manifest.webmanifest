@@ -2,7 +2,7 @@
   "name": "Loona Скорост на аудио 0.75x",
   "short_name": "Скорост на аудио 0.75x",
   "description": "Безплатна промяна на скоростта на аудио 0.75x: променяйте всеки аудиофайл на скорост 0.75x в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/audio-speed-0-75x/",
+  "id": "/bg/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

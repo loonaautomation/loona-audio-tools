@@ -2,7 +2,7 @@
   "name": "Loona Penala Alat Muzik Dalam Talian Percuma",
   "short_name": "Penala Alat Muzik Dalam Talian Percuma",
   "description": "Tala mana-mana alat muzik dalam talian secara percuma dengan mikrofon anda. Penala kromatik menunjukkan nama not, frekuensi tepat, dan berapa cents anda tajam (sharp) atau mendatar (flat). Ketepatan dinyatakan dengan jujur, tanpa pendaftaran, dan audio anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-audio-tools/ms/instrument-tuner/",
+  "id": "/ms/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

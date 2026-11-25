@@ -2,7 +2,7 @@
   "name": "Loona Crea messaggi segreteria",
   "short_name": "Crea messaggi segreteria",
   "description": "Crea messaggi segreteria gratuito: taglia l'audio nel tuo browser. Senza registrazione, nessun caricamento.",
-  "id": "/loona-audio-tools/it/voicemail-greeting-maker/",
+  "id": "/it/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

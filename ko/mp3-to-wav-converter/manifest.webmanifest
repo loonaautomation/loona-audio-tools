@@ -2,7 +2,7 @@
   "name": "Loona MP3를 WAV로",
   "short_name": "MP3를 WAV로",
   "description": "무료 MP3를 WAV로 변환기: 브라우저에서 MP3 오디오를 WAV로 변환하세요. 가입 없이, 업로드 없이, 워터마크 없이.",
-  "id": "/loona-audio-tools/ko/mp3-to-wav-converter/",
+  "id": "/ko/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

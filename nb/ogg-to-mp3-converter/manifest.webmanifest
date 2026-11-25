@@ -2,7 +2,7 @@
   "name": "Loona OGG til MP3",
   "short_name": "OGG til MP3",
   "description": "Gratis OGG-til-MP3-konverter: konverter OGG-lyd til MP3 i nettleseren din. Ingen registrering, ingen opplasting, ingen vannmerke.",
-  "id": "/loona-audio-tools/nb/ogg-to-mp3-converter/",
+  "id": "/nb/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

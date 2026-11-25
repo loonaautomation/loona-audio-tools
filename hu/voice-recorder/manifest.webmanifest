@@ -2,7 +2,7 @@
   "name": "Loona Hangrögzítő Online ingyen",
   "short_name": "Hangrögzítő Online ingyen",
   "description": "Rögzítse a hangját online ingyen a mikrofonjával. Hallgassa vissza, és töltse le a felvételét - soha nem hagyja el az eszközét. Regisztráció nélkül, feltöltés nélkül, telefonon és számítógépen működik.",
-  "id": "/loona-audio-tools/hu/voice-recorder/",
+  "id": "/hu/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

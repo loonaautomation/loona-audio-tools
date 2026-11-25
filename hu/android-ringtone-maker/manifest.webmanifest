@@ -2,7 +2,7 @@
   "name": "Loona Android csengőhang-készítő",
   "short_name": "Android csengőhang-készítő",
   "description": "Ingyenes Android csengőhang-készítő: vágjon hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/android-ringtone-maker/",
+  "id": "/hu/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

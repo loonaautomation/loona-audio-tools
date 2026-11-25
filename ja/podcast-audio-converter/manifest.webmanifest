@@ -2,7 +2,7 @@
   "name": "Loona ポッドキャスト音声コンバーター",
   "short_name": "ポッドキャスト音声コンバーター",
   "description": "無料のポッドキャスト音声コンバーター：ブラウザで音声を変換・準備します。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/podcast-audio-converter/",
+  "id": "/ja/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

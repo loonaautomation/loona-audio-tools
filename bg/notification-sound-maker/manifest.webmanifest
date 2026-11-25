@@ -2,7 +2,7 @@
   "name": "Loona Създаване на звук за известия",
   "short_name": "Създаване на звук за известия",
   "description": "Безплатно създаване на звук за известия: изрязвайте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/notification-sound-maker/",
+  "id": "/bg/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

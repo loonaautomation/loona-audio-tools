@@ -2,7 +2,7 @@
   "name": "Loona Създаване на звук за будилник",
   "short_name": "Създаване на звук за будилник",
   "description": "Безплатно създаване на звук за будилник: изрязвайте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/alarm-sound-maker/",
+  "id": "/bg/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

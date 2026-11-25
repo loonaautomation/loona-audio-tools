@@ -2,7 +2,7 @@
   "name": "Loona Zoom Kaydından MP3'e",
   "short_name": "Zoom Kaydından MP3'e",
   "description": "Ücretsiz Zoom Kaydından MP3'e: tarayıcınızda sesi dönüştürün ve hazırlayın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/zoom-recording-to-mp3/",
+  "id": "/tr/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

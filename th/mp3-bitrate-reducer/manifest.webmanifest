@@ -2,7 +2,7 @@
   "name": "Loona ตัวลดบิตเรต MP3",
   "short_name": "ตัวลดบิตเรต MP3",
   "description": "ตัวลดบิตเรต MP3 ฟรี: ย่อไฟล์ MP3 ด้วยการเข้ารหัสใหม่ที่ 64–320 kbps ไฟล์เล็กลงสำหรับการส่งข้อความ อีเมล และพื้นที่จัดเก็บ — ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-audio-tools/th/mp3-bitrate-reducer/",
+  "id": "/th/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

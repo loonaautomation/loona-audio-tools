@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/voice-recorder/",
+  "id": "/en-gb/ms/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

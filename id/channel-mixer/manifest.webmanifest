@@ -2,7 +2,7 @@
   "name": "Loona Pencampur Kanal Audio Online Gratis",
   "short_name": "Pencampur Kanal Audio Online",
   "description": "Konversi kanal audio online secara gratis - stereo ke mono, mono ke stereo, tukar kanal kiri dan kanan, atau salin kanal kiri atau kanan ke kedua sisi, diekspor sebagai WAV. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/channel-mixer/",
+  "id": "/id/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

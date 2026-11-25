@@ -2,7 +2,7 @@
   "name": "Loona Schermrecorder Online Gratis",
   "short_name": "Schermrecorder Online Gratis",
   "description": "Neem je scherm, een tabblad of een venster gratis op in je browser - met microfoonaudio als je wilt. Geen registratie, geen upload, downloadt als WebM.",
-  "id": "/loona-audio-tools/nl/screen-recorder/",
+  "id": "/nl/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

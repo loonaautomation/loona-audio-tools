@@ -2,7 +2,7 @@
   "name": "Loona 音频工具库",
   "short_name": "音频工具库",
   "description": "完整的 Loona Audio Tools 库：MP3/WAV/OGG/M4A/FLAC/AAC 转换器、比特率目标、速度预设和使用场景工具。",
-  "id": "/loona-audio-tools/zh/audio-tools-library/",
+  "id": "/zh/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

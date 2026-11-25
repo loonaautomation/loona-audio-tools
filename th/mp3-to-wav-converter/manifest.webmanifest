@@ -2,7 +2,7 @@
   "name": "Loona MP3 เป็น WAV",
   "short_name": "MP3 เป็น WAV",
   "description": "ตัวแปลง MP3 เป็น WAV ฟรี: แปลงเสียง MP3 เป็น WAV ในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด ไม่มีลายน้ำ",
-  "id": "/loona-audio-tools/th/mp3-to-wav-converter/",
+  "id": "/th/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

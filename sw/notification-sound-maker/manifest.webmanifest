@@ -2,7 +2,7 @@
   "name": "Loona Kitengeneza Sauti ya Arifa",
   "short_name": "Kitengeneza Sauti ya Arifa",
   "description": "Kitengeneza Sauti ya Arifa cha Bure: punguza sauti katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/notification-sound-maker/",
+  "id": "/sw/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

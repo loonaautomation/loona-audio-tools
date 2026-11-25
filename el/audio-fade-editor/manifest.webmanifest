@@ -2,7 +2,7 @@
   "name": "Loona Επεξεργαστής Εξασθένησης Ήχου Δωρεάν Online",
   "short_name": "Επεξεργαστής Εξασθένησης Ήχου Δωρεάν Online",
   "description": "Προσθέστε fade in και fade out σε ήχο δωρεάν online. Ρυθμίστε fade έως 10 δευτερόλεπτα σε οποιοδήποτε αρχείο MP3, WAV, M4A ή OGG, κάντε προεπισκόπηση και εξαγάγετε ως WAV. Χωρίς εγγραφή, και ο ήχος σας δεν φεύγει ποτέ από τη συσκευή σας.",
-  "id": "/loona-audio-tools/el/audio-fade-editor/",
+  "id": "/el/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona M4A'dan WAV'a",
   "short_name": "M4A'dan WAV'a",
   "description": "Ücretsiz M4A'dan WAV'a dönüştürücü: M4A sesini tarayıcınızda WAV'a dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/m4a-to-wav-converter/",
+  "id": "/tr/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

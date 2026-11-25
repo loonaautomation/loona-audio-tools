@@ -2,7 +2,7 @@
   "name": "Loona MP3 64 kbps Converter",
   "short_name": "MP3 64 kbps Converter",
   "description": "Free MP3 64 kbps converter: convert any audio file to MP3 at 64 kbps in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/mp3-64-kbps-converter/",
+  "id": "/mp3-64-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

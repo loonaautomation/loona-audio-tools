@@ -2,7 +2,7 @@
   "name": "Loona নোটিফিকেশন সাউন্ড মেকার",
   "short_name": "নোটিফিকেশন সাউন্ড মেকার",
   "description": "বিনামূল্যে নোটিফিকেশন সাউন্ড মেকার: আপনার ব্রাউজারে অডিও ছাঁটুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
-  "id": "/loona-audio-tools/bn/notification-sound-maker/",
+  "id": "/bn/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

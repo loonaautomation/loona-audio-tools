@@ -2,7 +2,7 @@
   "name": "Loona Äänikanavien Mikseri Ilmainen verkossa",
   "short_name": "Äänikanavien Mikseri Online",
   "description": "Muunna äänikanavia ilmaiseksi verkossa - stereosta monoon, monosta stereoon, vaihda vasen ja oikea kanava tai kopioi vasen tai oikea kanava molemmille puolille, vietynä WAV-muodossa. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/channel-mixer/",
+  "id": "/fi/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

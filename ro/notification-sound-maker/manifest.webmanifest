@@ -2,7 +2,7 @@
   "name": "Loona Creator de sunete de notificare",
   "short_name": "Creator de sunete de notificare",
   "description": "Creator de sunete de notificare gratuit: taie sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/notification-sound-maker/",
+  "id": "/ro/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

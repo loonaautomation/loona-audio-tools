@@ -2,7 +2,7 @@
   "name": "Loona Aaltomuotokuvan Generaattori Ilmainen verkossa",
   "short_name": "Aaltomuotokuvan Generaattori",
   "description": "Muuta mikä tahansa äänitiedosto aaltomuotokuvaksi verkossa ilmaiseksi - valitse koko, värit, täytetty tai palkkityyli ja läpinäkyvä tausta, ja lataa sitten PNG. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/waveform-generator/",
+  "id": "/fi/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

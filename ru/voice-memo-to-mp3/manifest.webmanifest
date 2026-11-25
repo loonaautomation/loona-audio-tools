@@ -2,7 +2,7 @@
   "name": "Loona Голосовая заметка в MP3",
   "short_name": "Голосовая заметка в MP3",
   "description": "Бесплатная голосовая заметка в MP3: конвертируйте и подготавливайте аудио в вашем браузере. Без регистрации, без загрузки на сервер.",
-  "id": "/loona-audio-tools/ru/voice-memo-to-mp3/",
+  "id": "/ru/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

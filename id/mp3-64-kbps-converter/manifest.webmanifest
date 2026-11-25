@@ -2,7 +2,7 @@
   "name": "Loona Konverter MP3 64 kbps",
   "short_name": "Konverter MP3 64 kbps",
   "description": "Konverter MP3 64 kbps gratis: konversi berkas audio apa pun ke MP3 pada 64 kbps di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/mp3-64-kbps-converter/",
+  "id": "/id/mp3-64-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

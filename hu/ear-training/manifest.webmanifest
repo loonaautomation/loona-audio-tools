@@ -2,7 +2,7 @@
   "name": "Loona Hallásfejlesztés Online ingyen",
   "short_name": "Hallásfejlesztés Online ingyen",
   "description": "Gyakorolja a fülét online ingyen - halljon két hangot, nevezze meg a hangközt, és építse a pontszámát és sorozatát. Könnyű, közepes és nehéz szintek a teljes oktávig. Regisztráció nélkül, minden a böngészőjében generálódik.",
-  "id": "/loona-audio-tools/hu/ear-training/",
+  "id": "/hu/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

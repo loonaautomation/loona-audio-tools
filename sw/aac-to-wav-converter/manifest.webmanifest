@@ -2,7 +2,7 @@
   "name": "Loona AAC hadi WAV",
   "short_name": "AAC hadi WAV",
   "description": "Kibadilishaji cha bure cha AAC-hadi-WAV: badilisha sauti ya AAC kuwa WAV katika kivinjari chako. Hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-audio-tools/sw/aac-to-wav-converter/",
+  "id": "/sw/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

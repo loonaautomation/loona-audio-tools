@@ -2,7 +2,7 @@
   "name": "Loona 볼륨 부스터 온라인 무료",
   "short_name": "볼륨 부스터 온라인 무료",
   "description": "온라인에서 무료로 오디오 볼륨을 높이세요. 조용한 MP3, WAV, M4A, OGG 녹음을 최대 300%까지 크게 만들거나, 피크를 안전하게 정규화하고, WAV로 내보내세요. 가입이 필요 없고, 오디오는 기기를 떠나지 않아요.",
-  "id": "/loona-audio-tools/ko/volume-booster/",
+  "id": "/ko/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

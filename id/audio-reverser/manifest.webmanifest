@@ -2,7 +2,7 @@
   "name": "Loona Pembalik Audio Online Gratis",
   "short_name": "Pembalik Audio Online Gratis",
   "description": "Balik audio online secara gratis. Putar berkas MP3, WAV, M4A, atau OGG apa pun secara terbalik dan unduh audio yang dibalik sebagai WAV. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/audio-reverser/",
+  "id": "/id/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

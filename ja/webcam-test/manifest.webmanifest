@@ -2,7 +2,7 @@
   "name": "Loona Webカメラテスト オンライン無料",
   "short_name": "Webカメラテスト オンライン無料",
   "description": "ブラウザでWebカメラを無料テスト：ライブプレビュー、本当の解像度とフレームレートの読み取り、ミラー切り替え、スナップショット写真のダウンロード。何もアップロードされません — カメラはローカルでのみ使用されます。",
-  "id": "/loona-audio-tools/ja/webcam-test/",
+  "id": "/ja/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

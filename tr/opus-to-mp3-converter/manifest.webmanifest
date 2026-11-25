@@ -2,7 +2,7 @@
   "name": "Loona Opus'tan MP3'e",
   "short_name": "Opus'tan MP3'e",
   "description": "Ücretsiz Opus'tan MP3'e dönüştürücü: Opus sesini tarayıcınızda MP3'e dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/opus-to-mp3-converter/",
+  "id": "/tr/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

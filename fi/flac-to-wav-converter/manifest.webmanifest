@@ -2,7 +2,7 @@
   "name": "Loona FLAC WAV:ksi",
   "short_name": "FLAC WAV:ksi",
   "description": "Ilmainen FLAC–WAV-muunnin: muunna FLAC-ääni WAV-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/flac-to-wav-converter/",
+  "id": "/fi/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

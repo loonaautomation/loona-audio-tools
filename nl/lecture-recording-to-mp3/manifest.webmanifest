@@ -2,7 +2,7 @@
   "name": "Loona Collegeopname naar MP3",
   "short_name": "Collegeopname naar MP3",
   "description": "Gratis Collegeopname naar MP3: converteer en bereid audio voor in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/lecture-recording-to-mp3/",
+  "id": "/nl/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

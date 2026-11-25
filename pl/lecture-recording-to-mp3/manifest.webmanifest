@@ -2,7 +2,7 @@
   "name": "Loona Nagranie wykładu na MP3",
   "short_name": "Nagranie wykładu na MP3",
   "description": "Bezpłatny konwerter nagrania wykładu na MP3: konwertuj i przygotowuj dźwięk w przeglądarce. Bez rejestracji, bez przesyłania na serwer.",
-  "id": "/loona-audio-tools/pl/lecture-recording-to-mp3/",
+  "id": "/pl/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

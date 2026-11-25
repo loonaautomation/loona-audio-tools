@@ -2,7 +2,7 @@
   "name": "Loona Alarm Sesi Oluşturucu",
   "short_name": "Alarm Sesi Oluşturucu",
   "description": "Ücretsiz Alarm Sesi Oluşturucu: tarayıcınızda ses kırpın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/alarm-sound-maker/",
+  "id": "/tr/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

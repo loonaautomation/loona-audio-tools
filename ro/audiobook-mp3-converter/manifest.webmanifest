@@ -2,7 +2,7 @@
   "name": "Loona Convertor MP3 pentru cărți audio",
   "short_name": "Convertor MP3 pentru cărți audio",
   "description": "Convertor MP3 pentru cărți audio gratuit: convertește și pregătește sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/audiobook-mp3-converter/",
+  "id": "/ro/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

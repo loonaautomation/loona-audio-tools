@@ -2,7 +2,7 @@
   "name": "Loona Snimač glasa Besplatno na mreži",
   "short_name": "Snimač glasa Besplatno na mreži",
   "description": "Snimajte svoj glas besplatno na mreži mikrofonom. Poslušajte i preuzmite svoju snimku - nikada ne napušta vaš uređaj. Bez registracije, bez prijenosa, radi na telefonu i računalu.",
-  "id": "/loona-audio-tools/hr/voice-recorder/",
+  "id": "/hr/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

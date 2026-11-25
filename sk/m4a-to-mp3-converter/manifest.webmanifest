@@ -2,7 +2,7 @@
   "name": "Loona M4A na MP3",
   "short_name": "M4A na MP3",
   "description": "Bezplatný prevodník M4A na MP3: preveďte zvuk M4A na MP3 vo svojom prehliadači. Bez registrácie, bez nahrávania na server, bez vodoznaku.",
-  "id": "/loona-audio-tools/sk/m4a-to-mp3-converter/",
+  "id": "/sk/m4a-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

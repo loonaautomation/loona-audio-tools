@@ -2,7 +2,7 @@
   "name": "Loona Nahrávka zo Zoomu na MP3",
   "short_name": "Nahrávka zo Zoomu na MP3",
   "description": "Nahrávka zo Zoomu na MP3 zadarmo: prevádzajte a pripravujte zvuk vo svojom prehliadači. Bez registrácie, bez nahrávania na server.",
-  "id": "/loona-audio-tools/sk/zoom-recording-to-mp3/",
+  "id": "/sk/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

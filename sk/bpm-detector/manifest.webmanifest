@@ -2,7 +2,7 @@
   "name": "Loona Detektor BPM Online zadarmo",
   "short_name": "Detektor BPM Online zadarmo",
   "description": "Zistite BPM piesne online zadarmo. Detektor analyzuje rytmus vo vašom prehliadači a zobrazí tempo, sekundy na dobu a hodnotenie istoty – plus nástroj na naklepanie tempa. Bez registrácie a váš zvuk nikdy neopustí vaše zariadenie.",
-  "id": "/loona-audio-tools/sk/bpm-detector/",
+  "id": "/sk/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

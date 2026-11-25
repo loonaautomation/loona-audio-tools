@@ -2,7 +2,7 @@
   "name": "Loona Tes Webcam Online Gratis",
   "short_name": "Tes Webcam Online Gratis",
   "description": "Uji webcam Anda secara gratis di browser Anda: pratinjau langsung, pembacaan resolusi dan laju bingkai asli, tombol cermin, dan unduhan foto. Tidak ada yang diunggah - kamera Anda hanya digunakan secara lokal.",
-  "id": "/loona-audio-tools/id/webcam-test/",
+  "id": "/id/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

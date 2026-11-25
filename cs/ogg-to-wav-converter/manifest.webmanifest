@@ -2,7 +2,7 @@
   "name": "Loona OGG na WAV",
   "short_name": "OGG na WAV",
   "description": "Bezplatný převodník OGG na WAV: převeďte zvuk OGG na WAV ve svém prohlížeči. Bez registrace, bez nahrávání, bez vodoznaku.",
-  "id": "/loona-audio-tools/cs/ogg-to-wav-converter/",
+  "id": "/cs/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

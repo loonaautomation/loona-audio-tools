@@ -2,7 +2,7 @@
   "name": "Loona Hiljaisuusleikkuri Ilmainen verkossa",
   "short_name": "Hiljaisuusleikkuri Ilmainen verkossa",
   "description": "Poista hiljaisuus äänen alusta ja lopusta verkossa ilmaiseksi. Rajain mittaa hiljaiset sekunnit, rajaa ne säädettävällä dB-kynnyksellä täytteellä ja vie WAV-muodossa. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/silence-trimmer/",
+  "id": "/fi/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

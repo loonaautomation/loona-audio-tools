@@ -2,7 +2,7 @@
   "name": "Loona ממיר MP3 192 kbps",
   "short_name": "ממיר MP3 192 kbps",
   "description": "ממיר MP3 בקצב 192 kbps בחינם: המירו כל קובץ שמע ל-MP3 בקצב 192 kbps בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/mp3-192-kbps-converter/",
+  "id": "/he/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

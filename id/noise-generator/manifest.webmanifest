@@ -2,7 +2,7 @@
   "name": "Loona Generator Derau Online Gratis",
   "short_name": "Generator Derau Online Gratis",
   "description": "Hasilkan derau putih, merah muda, dan cokelat online secara gratis untuk tidur, fokus, dan penutupan suara. Putar langsung di browser Anda atau unduh 10, 30, atau 60 detik sebagai WAV untuk diputar berulang. Tanpa pendaftaran, tidak ada yang diunggah.",
-  "id": "/loona-audio-tools/id/noise-generator/",
+  "id": "/id/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

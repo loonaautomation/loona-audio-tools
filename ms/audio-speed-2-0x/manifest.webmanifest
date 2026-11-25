@@ -2,7 +2,7 @@
   "name": "Loona Kelajuan Audio 2.0x",
   "short_name": "Kelajuan Audio 2.0x",
   "description": "Penukar kelajuan audio 2.0x percuma: tukar mana-mana fail audio kepada kelajuan 2.0x dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/audio-speed-2-0x/",
+  "id": "/ms/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

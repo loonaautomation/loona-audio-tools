@@ -2,7 +2,7 @@
   "name": "Loona Ήχος Συνέντευξης σε MP3",
   "short_name": "Ήχος Συνέντευξης σε MP3",
   "description": "Δωρεάν Ήχος Συνέντευξης σε MP3: μετατρέψτε και προετοιμάστε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/interview-audio-to-mp3/",
+  "id": "/el/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

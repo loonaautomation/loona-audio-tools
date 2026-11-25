@@ -2,7 +2,7 @@
   "name": "Loona M4A a MP3",
   "short_name": "M4A a MP3",
   "description": "Convertidor gratuito de M4A a MP3: convierte audio M4A a MP3 en tu navegador. Sin registro, sin subida, sin marca de agua.",
-  "id": "/loona-audio-tools/es/m4a-to-mp3-converter/",
+  "id": "/es/m4a-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona صانع رسالة البريد الصوتي",
   "short_name": "صانع رسالة البريد الصوتي",
   "description": "صانع رسالة بريد صوتي مجاني: قصّ الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/voicemail-greeting-maker/",
+  "id": "/ar/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

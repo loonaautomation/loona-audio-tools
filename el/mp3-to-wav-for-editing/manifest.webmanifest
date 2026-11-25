@@ -2,7 +2,7 @@
   "name": "Loona MP3 σε WAV για Επεξεργασία",
   "short_name": "MP3 σε WAV για Επεξεργασία",
   "description": "Δωρεάν MP3 σε WAV για Επεξεργασία: μετατρέψτε και προετοιμάστε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/mp3-to-wav-for-editing/",
+  "id": "/el/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

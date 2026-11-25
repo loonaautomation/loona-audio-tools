@@ -2,7 +2,7 @@
   "name": "Loona AAC سے MP3",
   "short_name": "AAC سے MP3",
   "description": "مفت AAC-to-MP3 کنورٹر: AAC آڈیو کو اپنے براؤزر میں MP3 میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/aac-to-mp3-converter/",
+  "id": "/ur/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona הקלטות הרצאות ל-MP3",
   "short_name": "הקלטות הרצאות ל-MP3",
   "description": "הקלטות הרצאות ל-MP3 בחינם: המירו והכינו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/lecture-recording-to-mp3/",
+  "id": "/he/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

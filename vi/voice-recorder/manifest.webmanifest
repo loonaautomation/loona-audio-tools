@@ -2,7 +2,7 @@
   "name": "Loona Trình ghi âm Trực tuyến miễn phí",
   "short_name": "Trình ghi âm Trực tuyến miễn phí",
   "description": "Ghi giọng nói của bạn trực tuyến miễn phí bằng micro. Nghe lại và tải xuống bản ghi của bạn - nó không bao giờ rời khỏi thiết bị. Không cần đăng ký, không tải lên, hoạt động trên điện thoại và máy tính.",
-  "id": "/loona-audio-tools/vi/voice-recorder/",
+  "id": "/vi/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

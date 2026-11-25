@@ -2,7 +2,7 @@
   "name": "Loona オーディオツールライブラリ",
   "short_name": "オーディオツールライブラリ",
   "description": "Loona Audio Toolsの全ライブラリ：MP3/WAV/OGG/M4A/FLAC/AACコンバーター、ビットレート目標、速度プリセット、用途別ツール。",
-  "id": "/loona-audio-tools/ja/audio-tools-library/",
+  "id": "/ja/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

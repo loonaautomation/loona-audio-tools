@@ -2,7 +2,7 @@
   "name": "Loona MP3-taggredigerer gratis på nett",
   "short_name": "MP3-taggredigerer gratis på nett",
   "description": "Se og rediger MP3 ID3-tagger gratis på nett - tittel, artist, album, år og omslagsbilde - uten å kode lyden på nytt. Andre rammer bevares, tagger kan fjernes helt, og MP3-en din forlater aldri enheten din.",
-  "id": "/loona-audio-tools/nb/mp3-tag-editor/",
+  "id": "/nb/mp3-tag-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

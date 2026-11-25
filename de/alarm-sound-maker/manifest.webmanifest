@@ -2,7 +2,7 @@
   "name": "Loona Weckton-Ersteller",
   "short_name": "Weckton-Ersteller",
   "description": "Kostenloser Weckton-Ersteller: Schneiden Sie Audio in Ihrem Browser zu. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/alarm-sound-maker/",
+  "id": "/de/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

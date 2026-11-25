@@ -2,7 +2,7 @@
   "name": "Loona MP3 sang WAV để chỉnh sửa",
   "short_name": "MP3 sang WAV để chỉnh sửa",
   "description": "MP3 sang WAV để chỉnh sửa miễn phí: chuyển đổi và chuẩn bị âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/mp3-to-wav-for-editing/",
+  "id": "/vi/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

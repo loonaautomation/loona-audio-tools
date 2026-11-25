@@ -2,7 +2,7 @@
   "name": "Loona Strihač zvuku Online zadarmo",
   "short_name": "Strihač zvuku Online zadarmo",
   "description": "Strihajte a orezávajte zvukové súbory online zadarmo. Orezajte MP3, WAV, M4A a OGG s vizuálnou zvukovou vlnou, bez potreby registrácie. Váš zvuk sa spracúva súkromne vo vašom prehliadači a exportuje sa ako WAV.",
-  "id": "/loona-audio-tools/sk/audio-cutter/",
+  "id": "/sk/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

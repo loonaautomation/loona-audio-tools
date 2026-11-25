@@ -2,7 +2,7 @@
   "name": "Loona Sesli Nottan MP3'e",
   "short_name": "Sesli Nottan MP3'e",
   "description": "Ücretsiz Sesli Nottan MP3'e: tarayıcınızda sesi dönüştürün ve hazırlayın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/voice-memo-to-mp3/",
+  "id": "/tr/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

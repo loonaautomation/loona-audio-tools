@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp-talenotat til MP3",
   "short_name": "WhatsApp-talenotat til MP3",
   "description": "Gratis WhatsApp-talenotat til MP3: konverter og klargjør lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/whatsapp-voice-note-to-mp3/",
+  "id": "/nb/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

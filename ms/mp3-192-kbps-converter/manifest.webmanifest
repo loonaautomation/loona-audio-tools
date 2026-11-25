@@ -2,7 +2,7 @@
   "name": "Loona Penukar MP3 192 kbps",
   "short_name": "Penukar MP3 192 kbps",
   "description": "Penukar MP3 192 kbps percuma: tukar mana-mana fail audio kepada MP3 pada 192 kbps dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/mp3-192-kbps-converter/",
+  "id": "/ms/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

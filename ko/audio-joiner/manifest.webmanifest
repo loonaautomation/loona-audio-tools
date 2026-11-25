@@ -2,7 +2,7 @@
   "name": "Loona 오디오 병합기 온라인 무료",
   "short_name": "오디오 병합기 온라인 무료",
   "description": "오디오 파일을 온라인에서 무료로 병합하세요. MP3, WAV, M4A, OGG 파일을 선택한 순서대로 하나의 트랙으로 합치고, 가입이 필요 없어요. 브라우저에서 비공개로 처리되고 WAV로 내보내져요.",
-  "id": "/loona-audio-tools/ko/audio-joiner/",
+  "id": "/ko/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

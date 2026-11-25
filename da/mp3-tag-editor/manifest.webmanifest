@@ -2,7 +2,7 @@
   "name": "Loona MP3-tag-editor gratis online",
   "short_name": "MP3-tag-editor gratis online",
   "description": "Se og rediger MP3-ID3-tags online gratis - titel, kunstner, album, år og coverbillede - uden at genindkode lyden. Andre rammer bevares, tags kan fjernes helt, og din MP3 forlader aldrig din enhed.",
-  "id": "/loona-audio-tools/da/mp3-tag-editor/",
+  "id": "/da/mp3-tag-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

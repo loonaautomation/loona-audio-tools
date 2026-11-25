@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/audio-joiner/",
+  "id": "/en-gb/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

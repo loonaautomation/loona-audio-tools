@@ -2,7 +2,7 @@
   "name": "Loona Test web-kamere Besplatno na mreži",
   "short_name": "Test web-kamere Besplatno na mreži",
   "description": "Testirajte svoju web-kameru besplatno u pregledniku: pregled uživo, očitanje prave razlučivosti i brzine kadrova, preklopnik zrcaljenja i preuzimanje fotografije. Ništa se ne prenosi - vaša se kamera koristi samo lokalno.",
-  "id": "/loona-audio-tools/hr/webcam-test/",
+  "id": "/hr/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

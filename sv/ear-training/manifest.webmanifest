@@ -2,7 +2,7 @@
   "name": "Loona Gehörsträning Online gratis",
   "short_name": "Gehörsträning Online gratis",
   "description": "Träna ditt gehör online gratis – hör två toner, namnge intervallet, och bygg din poäng och svit. Easy-, medium- och hard-nivåer upp till hela oktaven. Ingen registrering, allt genererat i din webbläsare.",
-  "id": "/loona-audio-tools/sv/ear-training/",
+  "id": "/sv/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

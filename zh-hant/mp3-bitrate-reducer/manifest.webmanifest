@@ -2,7 +2,7 @@
   "name": "Loona MP3 位元率降低器",
   "short_name": "MP3 位元率降低器",
   "description": "免費 MP3 位元率降低器：透過以 64–320 kbps 重新編碼來縮小 MP3 檔案。更小的檔案用於訊息、電子郵件和儲存——在您的瀏覽器中。",
-  "id": "/loona-audio-tools/zh-hant/mp3-bitrate-reducer/",
+  "id": "/zh-hant/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

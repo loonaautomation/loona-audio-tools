@@ -2,7 +2,7 @@
   "name": "Loona Generátor tónů Online zdarma",
   "short_name": "Generátor tónů Online zdarma",
   "description": "Generujte testovací tóny online zdarma. Průběhy vlny sinus, čtverec, trojúhelník a pila od 20 Hz do 20,000 Hz – přehrajte okamžitě, nebo stáhněte jako WAV. Bez registrace, běží na 100% ve vašem prohlížeči.",
-  "id": "/loona-audio-tools/cs/tone-generator/",
+  "id": "/cs/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

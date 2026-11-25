@@ -2,7 +2,7 @@
   "name": "Loona MP3 64 kbps -muunnin",
   "short_name": "MP3 64 kbps -muunnin",
   "description": "Ilmainen MP3 64 kbps -muunnin: muunna mikä tahansa äänitiedosto MP3-muotoon 64 kbps:n nopeudella selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/mp3-64-kbps-converter/",
+  "id": "/fi/mp3-64-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

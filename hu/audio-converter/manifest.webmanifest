@@ -2,7 +2,7 @@
   "name": "Loona Hangkonvertáló Online ingyen",
   "short_name": "Hangkonvertáló Online ingyen",
   "description": "Konvertáljon hangfájlokat online ingyen - alakítsa az MP3-, WAV-, OGG-, M4A-, WebM- és egyéb fájlokat WAV-vá vagy MP3-vá (128, 192 vagy 320 kbps) a mintavételi sebesség megőrzésével. Regisztráció nélkül, és a hangja soha nem hagyja el az eszközét, mert a dekódolás a böngészőjétől függ, és a konvertálás 100%-ban helyben fut.",
-  "id": "/loona-audio-tools/hu/audio-converter/",
+  "id": "/hu/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

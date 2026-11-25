@@ -2,7 +2,7 @@
   "name": "Loona Android着信音メーカー",
   "short_name": "Android着信音メーカー",
   "description": "無料のAndroid着信音メーカー：ブラウザで音声をトリミングします。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/android-ringtone-maker/",
+  "id": "/ja/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

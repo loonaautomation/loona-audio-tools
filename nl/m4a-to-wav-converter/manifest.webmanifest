@@ -2,7 +2,7 @@
   "name": "Loona M4A naar WAV",
   "short_name": "M4A naar WAV",
   "description": "Gratis M4A-naar-WAV-converter: converteer M4A-audio naar WAV in je browser. Geen registratie, geen upload, geen watermerk.",
-  "id": "/loona-audio-tools/nl/m4a-to-wav-converter/",
+  "id": "/nl/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

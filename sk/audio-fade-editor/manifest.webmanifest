@@ -2,7 +2,7 @@
   "name": "Loona Editor zvukových prechodov Online zadarmo",
   "short_name": "Editor zvukových prechodov Online zadarmo",
   "description": "Pridajte nábeh a dozvuk zvuku online zadarmo. Nastavte prechody až 10 sekúnd na akomkoľvek súbore MP3, WAV, M4A alebo OGG, vypočujte si ukážku a exportujte ako WAV. Bez registrácie a váš zvuk nikdy neopustí vaše zariadenie.",
-  "id": "/loona-audio-tools/sk/audio-fade-editor/",
+  "id": "/sk/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

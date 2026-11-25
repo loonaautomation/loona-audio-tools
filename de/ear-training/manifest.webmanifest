@@ -2,7 +2,7 @@
   "name": "Loona Gehörbildung online kostenlos",
   "short_name": "Gehörbildung online kostenlos",
   "description": "Trainieren Sie Ihr Gehör online kostenlos - hören Sie zwei Noten, benennen Sie das Intervall und bauen Sie Ihren Punktestand und Ihre Serie auf. Leichte, mittlere und schwere Stufen bis zur vollen Oktave. Keine Anmeldung, alles in Ihrem Browser erzeugt.",
-  "id": "/loona-audio-tools/de/ear-training/",
+  "id": "/de/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

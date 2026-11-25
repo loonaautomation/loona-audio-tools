@@ -2,7 +2,7 @@
   "name": "Loona AAC na MP3",
   "short_name": "AAC na MP3",
   "description": "Bezplatný převodník AAC na MP3: převeďte zvuk AAC na MP3 ve svém prohlížeči. Bez registrace, bez nahrávání, bez vodoznaku.",
-  "id": "/loona-audio-tools/cs/aac-to-mp3-converter/",
+  "id": "/cs/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

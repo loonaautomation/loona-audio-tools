@@ -2,7 +2,7 @@
   "name": "Loona नॉइज़ जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "नॉइज़ जनरेटर ऑनलाइन मुफ़्त",
   "description": "नींद, ध्यान और ध्वनि ढकने के लिए white, pink और brown शोर ऑनलाइन मुफ़्त उत्पन्न करें। इसे अपने ब्राउज़र में लाइव चलाएँ या लूप करने के लिए 10, 30 या 60 सेकंड WAV के रूप में डाउनलोड करें। कोई साइन-अप नहीं, कुछ भी अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/noise-generator/",
+  "id": "/hi/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

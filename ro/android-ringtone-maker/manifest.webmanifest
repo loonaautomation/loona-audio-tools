@@ -2,7 +2,7 @@
   "name": "Loona Creator de tonuri de apel Android",
   "short_name": "Creator de tonuri de apel Android",
   "description": "Creator de tonuri de apel Android gratuit: taie sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/android-ringtone-maker/",
+  "id": "/ro/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

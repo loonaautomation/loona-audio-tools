@@ -2,7 +2,7 @@
   "name": "Loona Crea suoni di notifica",
   "short_name": "Crea suoni di notifica",
   "description": "Crea suoni di notifica gratuito: taglia l'audio nel tuo browser. Senza registrazione, nessun caricamento.",
-  "id": "/loona-audio-tools/it/notification-sound-maker/",
+  "id": "/it/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

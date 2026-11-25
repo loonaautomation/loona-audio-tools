@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/notification-sound-maker/",
+  "id": "/en-gb/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

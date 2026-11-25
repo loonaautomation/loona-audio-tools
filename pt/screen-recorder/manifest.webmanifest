@@ -2,7 +2,7 @@
   "name": "Loona Gravador de Tela Online Grátis",
   "short_name": "Gravador de Tela Online Grátis",
   "description": "Grave sua tela, uma guia do navegador ou uma janela grátis no seu navegador - com áudio de microfone se quiser. Sem cadastro, sem envio, baixa como WebM.",
-  "id": "/loona-audio-tools/pt/screen-recorder/",
+  "id": "/pt/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

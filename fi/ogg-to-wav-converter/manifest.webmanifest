@@ -2,7 +2,7 @@
   "name": "Loona OGG WAV:ksi",
   "short_name": "OGG WAV:ksi",
   "description": "Ilmainen OGG–WAV-muunnin: muunna OGG-ääni WAV-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/ogg-to-wav-converter/",
+  "id": "/fi/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

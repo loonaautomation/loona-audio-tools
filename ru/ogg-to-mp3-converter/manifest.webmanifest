@@ -2,7 +2,7 @@
   "name": "Loona OGG в MP3",
   "short_name": "OGG в MP3",
   "description": "Бесплатный конвертер OGG в MP3: конвертируйте аудио OGG в MP3 в вашем браузере. Без регистрации, без загрузки на сервер, без водяных знаков.",
-  "id": "/loona-audio-tools/ru/ogg-to-mp3-converter/",
+  "id": "/ru/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

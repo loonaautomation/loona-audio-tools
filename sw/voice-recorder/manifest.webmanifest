@@ -2,7 +2,7 @@
   "name": "Loona Kirekodi cha Sauti Bure Mtandaoni",
   "short_name": "Kirekodi cha Sauti Bure Mtandaoni",
   "description": "Rekodi sauti yako mtandaoni bure kwa maikrofoni yako. Sikiliza tena na upakue rekodi yako - haiondoki kamwe kwenye kifaa chako. Hakuna kujisajili, hakuna kupakia, hufanya kazi kwenye simu na kompyuta.",
-  "id": "/loona-audio-tools/sw/voice-recorder/",
+  "id": "/sw/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

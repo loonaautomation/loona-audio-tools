@@ -2,7 +2,7 @@
   "name": "Loona Herätysäänen tekijä",
   "short_name": "Herätysäänen tekijä",
   "description": "Ilmainen herätysäänen tekijä: leikkaa ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/alarm-sound-maker/",
+  "id": "/fi/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

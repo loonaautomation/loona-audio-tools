@@ -2,7 +2,7 @@
   "name": "Loona AAC'den MP3'e",
   "short_name": "AAC'den MP3'e",
   "description": "Ücretsiz AAC'den MP3'e dönüştürücü: AAC sesini tarayıcınızda MP3'e dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/aac-to-mp3-converter/",
+  "id": "/tr/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

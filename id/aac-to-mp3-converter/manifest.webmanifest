@@ -2,7 +2,7 @@
   "name": "Loona AAC ke MP3",
   "short_name": "AAC ke MP3",
   "description": "Konverter AAC-ke-MP3 gratis: konversi audio AAC ke MP3 di browser Anda. Tanpa pendaftaran, tanpa unggahan, tanpa watermark.",
-  "id": "/loona-audio-tools/id/aac-to-mp3-converter/",
+  "id": "/id/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

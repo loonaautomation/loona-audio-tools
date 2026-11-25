@@ -2,7 +2,7 @@
   "name": "Loona Metronom online kostenlos",
   "short_name": "Metronom online kostenlos",
   "description": "Kostenloses Online-Metronom mit einem BPM-Schieberegler von 30 bis 240, Taktarten, Unterteilungen, einem akzentuierten ersten Schlag, einem visuellen Puls und Tap-Tempo. Keine Anmeldung, nichts hochgeladen - es läuft in Ihrem Browser.",
-  "id": "/loona-audio-tools/de/metronome/",
+  "id": "/de/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

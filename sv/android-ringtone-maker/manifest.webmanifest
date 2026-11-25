@@ -2,7 +2,7 @@
   "name": "Loona Android-ringsignalskapare",
   "short_name": "Android-ringsignalskapare",
   "description": "Gratis Android-ringsignalskapare: trimma ljud i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/android-ringtone-maker/",
+  "id": "/sv/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

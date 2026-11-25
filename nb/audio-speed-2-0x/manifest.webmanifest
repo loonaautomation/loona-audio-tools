@@ -2,7 +2,7 @@
   "name": "Loona Lydhastighet 2.0x",
   "short_name": "Lydhastighet 2.0x",
   "description": "Gratis lydhastighet 2.0x-endrer: endre alle lydfiler til 2.0x hastighet i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/audio-speed-2-0x/",
+  "id": "/nb/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

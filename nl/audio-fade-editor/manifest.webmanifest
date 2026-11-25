@@ -2,7 +2,7 @@
   "name": "Loona Audio-fade-editor Online Gratis",
   "short_name": "Audio-fade-editor Online Gratis",
   "description": "Voeg gratis online fade-in en fade-out toe aan audio. Stel fades tot 10 seconden in op elk MP3-, WAV-, M4A- of OGG-bestand, beluister een preview en exporteer als WAV. Geen registratie, en je audio verlaat je apparaat nooit.",
-  "id": "/loona-audio-tools/nl/audio-fade-editor/",
+  "id": "/nl/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

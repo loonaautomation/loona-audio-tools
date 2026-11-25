@@ -2,7 +2,7 @@
   "name": "Loona Opus MP3:ksi",
   "short_name": "Opus MP3:ksi",
   "description": "Ilmainen Opus–MP3-muunnin: muunna Opus-ääni MP3-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/opus-to-mp3-converter/",
+  "id": "/fi/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

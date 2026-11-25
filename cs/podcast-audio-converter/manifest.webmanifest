@@ -2,7 +2,7 @@
   "name": "Loona Převodník zvuku podcastů",
   "short_name": "Převodník zvuku podcastů",
   "description": "Bezplatný Převodník zvuku podcastů: převádějte a připravujte zvuk ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/podcast-audio-converter/",
+  "id": "/cs/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

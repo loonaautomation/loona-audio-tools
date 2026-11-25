@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač zvuka Besplatno na mreži",
   "short_name": "Pretvarač zvuka Besplatno na mreži",
   "description": "Pretvorite zvučne datoteke besplatno na mreži - pretvorite MP3, WAV, OGG, M4A, WebM i više u WAV ili MP3 (128, 192 ili 320 kbps) uz očuvanu brzinu uzorkovanja. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj, jer dekodiranje ovisi o vašem pregledniku i pretvorba radi 100% lokalno.",
-  "id": "/loona-audio-tools/hr/audio-converter/",
+  "id": "/hr/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

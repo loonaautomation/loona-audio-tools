@@ -2,7 +2,7 @@
   "name": "Loona Sessizlik Kırpıcı Çevrimiçi Ücretsiz",
   "short_name": "Sessizlik Kırpıcı Çevrimiçi Ücretsiz",
   "description": "Sessizliği sesin başından ve sonundan çevrimiçi ve ücretsiz kaldırın. Kırpıcı, sessiz saniyeleri ölçer, onları ayarlanabilir bir dB eşiğinde payla birlikte kırpar ve WAV olarak dışa aktarır. Kayıt gerekmez ve sesiniz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-audio-tools/tr/silence-trimmer/",
+  "id": "/tr/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

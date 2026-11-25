@@ -2,7 +2,7 @@
   "name": "Loona Audio Converter - Convert Audio Files Online Free",
   "short_name": "Audio Converter - Convert Audio Files Online Free",
   "description": "Free Audiobook MP3 Converter: convert and prepare audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/en-us/audiobook-mp3-converter/",
+  "id": "/en-us/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

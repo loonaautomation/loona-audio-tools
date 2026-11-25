@@ -2,7 +2,7 @@
   "name": "Loona Ekran Kaydedici Çevrimiçi Ücretsiz",
   "short_name": "Ekran Kaydedici Çevrimiçi Ücretsiz",
   "description": "Ekranınızı, bir sekmeyi veya bir pencereyi tarayıcınızda ücretsiz kaydedin - isterseniz mikrofon sesiyle. Kayıt yok, yükleme yok, WebM olarak indirilir.",
-  "id": "/loona-audio-tools/tr/screen-recorder/",
+  "id": "/tr/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

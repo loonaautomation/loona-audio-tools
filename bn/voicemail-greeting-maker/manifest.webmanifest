@@ -2,7 +2,7 @@
   "name": "Loona ভয়েসমেইল শুভেচ্ছা মেকার",
   "short_name": "ভয়েসমেইল শুভেচ্ছা মেকার",
   "description": "বিনামূল্যে ভয়েসমেইল শুভেচ্ছা মেকার: আপনার ব্রাউজারে অডিও ছাঁটুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
-  "id": "/loona-audio-tools/bn/voicemail-greeting-maker/",
+  "id": "/bn/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

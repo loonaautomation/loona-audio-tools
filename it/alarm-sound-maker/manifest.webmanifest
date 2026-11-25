@@ -2,7 +2,7 @@
   "name": "Loona Crea suoni sveglia",
   "short_name": "Crea suoni sveglia",
   "description": "Crea suoni sveglia gratuito: taglia l'audio nel tuo browser. Senza registrazione, nessun caricamento.",
-  "id": "/loona-audio-tools/it/alarm-sound-maker/",
+  "id": "/it/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

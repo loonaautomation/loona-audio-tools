@@ -2,7 +2,7 @@
   "name": "Loona Hörbuch-MP3-Konverter",
   "short_name": "Hörbuch-MP3-Konverter",
   "description": "Kostenloser Hörbuch-MP3-Konverter: Konvertieren und bereiten Sie Audio in Ihrem Browser vor. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/audiobook-mp3-converter/",
+  "id": "/de/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

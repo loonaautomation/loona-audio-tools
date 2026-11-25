@@ -2,7 +2,7 @@
   "name": "Loona Audio-Cutter online kostenlos",
   "short_name": "Audio-Cutter online kostenlos",
   "description": "Schneiden und kürzen Sie Audiodateien online kostenlos. Schneiden Sie MP3, WAV, M4A und OGG mit einer visuellen Wellenform zu, ohne Anmeldung. Ihr Audio wird privat in Ihrem Browser verarbeitet und als WAV exportiert.",
-  "id": "/loona-audio-tools/de/audio-cutter/",
+  "id": "/de/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

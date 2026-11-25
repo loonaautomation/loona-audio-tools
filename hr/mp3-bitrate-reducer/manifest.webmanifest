@@ -2,7 +2,7 @@
   "name": "Loona Smanjivač brzine prijenosa MP3-ja",
   "short_name": "Smanjivač brzine prijenosa MP3-ja",
   "description": "Besplatni smanjivač brzine prijenosa MP3-ja: smanjite MP3 datoteke ponovnim kodiranjem pri 64–320 kbps. Manje datoteke za poruke, e-poštu i pohranu — u vašem pregledniku.",
-  "id": "/loona-audio-tools/hr/mp3-bitrate-reducer/",
+  "id": "/hr/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

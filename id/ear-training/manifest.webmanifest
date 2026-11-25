@@ -2,7 +2,7 @@
   "name": "Loona Latihan Pendengaran Online Gratis",
   "short_name": "Latihan Pendengaran Online Gratis",
   "description": "Latih telinga Anda online secara gratis - dengar dua nada, sebutkan intervalnya, dan bangun skor dan rangkaian Anda. Level mudah, sedang, dan sulit hingga oktaf penuh. Tanpa pendaftaran, semuanya dihasilkan di browser Anda.",
-  "id": "/loona-audio-tools/id/ear-training/",
+  "id": "/id/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

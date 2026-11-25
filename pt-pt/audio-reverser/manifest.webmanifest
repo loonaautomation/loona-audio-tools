@@ -2,7 +2,7 @@
   "name": "Loona Inversor de Áudio Online Grátis",
   "short_name": "Inversor de Áudio Online",
   "description": "Inverta áudio online grátis. Toque qualquer ficheiro MP3, WAV, M4A ou OGG ao contrário e transfira o áudio invertido como WAV. Sem registo, e seu áudio nunca sai do seu dispositivo.",
-  "id": "/loona-audio-tools/pt-pt/audio-reverser/",
+  "id": "/pt-pt/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

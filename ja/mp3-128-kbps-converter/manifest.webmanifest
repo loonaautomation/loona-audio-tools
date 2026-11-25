@@ -2,7 +2,7 @@
   "name": "Loona MP3 128 kbpsコンバーター",
   "short_name": "MP3 128 kbpsコンバーター",
   "description": "無料のMP3 128 kbpsコンバーター：ブラウザであらゆる音声ファイルを128 kbpsでMP3に変換します。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/mp3-128-kbps-converter/",
+  "id": "/ja/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

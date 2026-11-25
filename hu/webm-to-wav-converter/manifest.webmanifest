@@ -2,7 +2,7 @@
   "name": "Loona WebM-ből WAV-ba",
   "short_name": "WebM-ből WAV-ba",
   "description": "Ingyenes WebM-ből WAV-ba konvertáló: konvertálja a WebM-hangot WAV-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/webm-to-wav-converter/",
+  "id": "/hu/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

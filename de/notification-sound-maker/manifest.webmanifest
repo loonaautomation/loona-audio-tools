@@ -2,7 +2,7 @@
   "name": "Loona Benachrichtigungston-Ersteller",
   "short_name": "Benachrichtigungston-Ersteller",
   "description": "Kostenloser Benachrichtigungston-Ersteller: Schneiden Sie Audio in Ihrem Browser zu. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/notification-sound-maker/",
+  "id": "/de/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

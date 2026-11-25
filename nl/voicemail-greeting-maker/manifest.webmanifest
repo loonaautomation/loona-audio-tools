@@ -2,7 +2,7 @@
   "name": "Loona Voicemailbegroeting-maker",
   "short_name": "Voicemailbegroeting-maker",
   "description": "Gratis Voicemailbegroeting-maker: knip audio in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/voicemail-greeting-maker/",
+  "id": "/nl/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

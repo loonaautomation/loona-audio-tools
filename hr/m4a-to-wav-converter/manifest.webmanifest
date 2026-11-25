@@ -2,7 +2,7 @@
   "name": "Loona M4A u WAV",
   "short_name": "M4A u WAV",
   "description": "Besplatni pretvarač M4A u WAV: pretvorite M4A zvuk u WAV u svom pregledniku. Bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-audio-tools/hr/m4a-to-wav-converter/",
+  "id": "/hr/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

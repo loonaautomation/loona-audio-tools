@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Kasi ya Sauti Bure Mtandaoni",
   "short_name": "Kibadilishaji cha Kasi ya Sauti Mtandaoni",
   "description": "Badilisha kasi ya sauti mtandaoni bure. Ongeza au punguza kasi ya MP3, WAV, M4A na OGG kutoka 0.25x hadi 3x, hakiki mara moja na utoe kama WAV. Hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
-  "id": "/loona-audio-tools/sw/audio-speed-changer/",
+  "id": "/sw/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

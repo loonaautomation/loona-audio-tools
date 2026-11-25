@@ -2,7 +2,7 @@
   "name": "Loona Silence Trimmer - Remove Silence From Audio Online Free",
   "short_name": "Silence Trimmer - Remove Silence From Audio Online Free",
   "description": "Remove silence from the start and end of audio online free. The trimmer measures the silent seconds, trims them at an adjustable dB threshold with padding, and exports WAV. No sign-up, and your audio never leaves your device.",
-  "id": "/loona-audio-tools/en-us/silence-trimmer/",
+  "id": "/en-us/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

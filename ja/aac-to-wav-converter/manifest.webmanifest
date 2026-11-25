@@ -2,7 +2,7 @@
   "name": "Loona AACからWAVへ",
   "short_name": "AACからWAVへ",
   "description": "無料のAAC-to-WAVコンバーター：ブラウザでAAC音声をWAVに変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/aac-to-wav-converter/",
+  "id": "/ja/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

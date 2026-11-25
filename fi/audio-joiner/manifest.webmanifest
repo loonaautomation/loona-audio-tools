@@ -2,7 +2,7 @@
   "name": "Loona Äänen yhdistäjä Ilmainen verkossa",
   "short_name": "Äänen yhdistäjä Ilmainen verkossa",
   "description": "Yhdistä äänitiedostot verkossa ilmaiseksi. Yhdistä MP3-, WAV-, M4A- ja OGG-tiedostot yhdeksi raidaksi valitsemassasi järjestyksessä, rekisteröitymistä ei tarvita. Käsitellään yksityisesti selaimessasi, viedään WAV-muodossa.",
-  "id": "/loona-audio-tools/fi/audio-joiner/",
+  "id": "/fi/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kitengeneza Salamu ya Ujumbe wa Sauti",
   "short_name": "Kitengeneza Salamu ya Ujumbe wa Sauti",
   "description": "Kitengeneza Salamu ya Ujumbe wa Sauti cha Bure: punguza sauti katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/voicemail-greeting-maker/",
+  "id": "/sw/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Uređivač prijelaza zvuka Besplatno na mreži",
   "short_name": "Uređivač prijelaza zvuka Besplatno na mreži",
   "description": "Dodajte postupno pojačavanje i stišavanje zvuku besplatno na mreži. Postavite prijelaze do 10 sekundi na bilo koju MP3, WAV, M4A ili OGG datoteku, pregledajte i izvezite kao WAV. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/audio-fade-editor/",
+  "id": "/hr/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

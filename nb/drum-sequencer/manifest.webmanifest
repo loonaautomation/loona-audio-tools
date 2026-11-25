@@ -2,7 +2,7 @@
   "name": "Loona Trommesekvenser gratis på nett",
   "short_name": "Trommesekvenser gratis på nett",
   "description": "Lag trommerytmer gratis på nett med en 16-trinns sekvenser - syntetiserte basstromme-, skarptromme- og hi-hat-lyder, forhåndsvalg for rock, house og hip-hop, og tempo fra 60 til 180 BPM. Ingen sampler, ingen registrering, alt syntetisert i nettleseren din.",
-  "id": "/loona-audio-tools/nb/drum-sequencer/",
+  "id": "/nb/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

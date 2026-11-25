@@ -2,7 +2,7 @@
   "name": "Loona Notification Sound Maker",
   "short_name": "Notification Sound Maker",
   "description": "Free Notification Sound Maker: trim audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/notification-sound-maker/",
+  "id": "/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

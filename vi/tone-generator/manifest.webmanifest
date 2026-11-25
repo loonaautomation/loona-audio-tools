@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo tần số âm thanh Trực tuyến miễn phí",
   "short_name": "Trình tạo tần số âm thanh Trực tuyến miễn phí",
   "description": "Tạo các âm kiểm tra trực tuyến miễn phí. Các dạng sóng sine, square, triangle và sawtooth từ 20 Hz đến 20,000 Hz - phát ngay lập tức hoặc tải xuống dưới dạng WAV. Không cần đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-audio-tools/vi/tone-generator/",
+  "id": "/vi/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

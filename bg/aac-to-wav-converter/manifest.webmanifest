@@ -2,7 +2,7 @@
   "name": "Loona AAC към WAV",
   "short_name": "AAC към WAV",
   "description": "Безплатен конвертор от AAC към WAV: конвертирайте AAC аудио във WAV в браузъра си. Без регистрация, без качване, без воден знак.",
-  "id": "/loona-audio-tools/bg/aac-to-wav-converter/",
+  "id": "/bg/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

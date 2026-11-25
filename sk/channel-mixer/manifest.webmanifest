@@ -2,7 +2,7 @@
   "name": "Loona Mixér kanálov Online zadarmo",
   "short_name": "Mixér kanálov online",
   "description": "Prevádza zvukové kanály online zadarmo – stereo na mono, mono na stereo, výmena ľavého a pravého kanála alebo skopírovanie ľavého či pravého kanála na obe strany, exportované ako WAV. Bez registrácie a váš zvuk nikdy neopustí vaše zariadenie.",
-  "id": "/loona-audio-tools/sk/channel-mixer/",
+  "id": "/sk/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

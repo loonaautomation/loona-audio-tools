@@ -2,7 +2,7 @@
   "name": "Loona Pengesan BPM Dalam Talian Percuma",
   "short_name": "Pengesan BPM Dalam Talian Percuma",
   "description": "Cari BPM lagu dalam talian secara percuma. Pengesan menganalisis rentak dalam pelayar anda dan menunjukkan tempo, saat setiap rentak dan penilaian keyakinan - serta alat ketuk-tempo. Tanpa pendaftaran, dan audio anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-audio-tools/ms/bpm-detector/",
+  "id": "/ms/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

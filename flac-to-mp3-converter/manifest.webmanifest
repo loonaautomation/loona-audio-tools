@@ -2,7 +2,7 @@
   "name": "Loona FLAC to MP3",
   "short_name": "FLAC to MP3",
   "description": "Free FLAC-to-MP3 converter: convert FLAC audio to MP3 in your browser. No sign-up, no upload, no watermark.",
-  "id": "/loona-audio-tools/flac-to-mp3-converter/",
+  "id": "/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

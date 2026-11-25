@@ -2,7 +2,7 @@
   "name": "Loona Sprachrekorder online kostenlos",
   "short_name": "Sprachrekorder online",
   "description": "Nehmen Sie Ihre Stimme online kostenlos mit Ihrem Mikrofon auf. Hören Sie zurück und laden Sie Ihre Aufnahme herunter - sie verlässt niemals Ihr Gerät. Keine Anmeldung, keine Uploads, funktioniert auf Telefon und Computer.",
-  "id": "/loona-audio-tools/de/voice-recorder/",
+  "id": "/de/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

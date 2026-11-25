@@ -2,7 +2,7 @@
   "name": "Loona صانع صوت الإشعارات",
   "short_name": "صانع صوت الإشعارات",
   "description": "صانع صوت إشعارات مجاني: قصّ الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/notification-sound-maker/",
+  "id": "/ar/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

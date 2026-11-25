@@ -2,7 +2,7 @@
   "name": "Loona WebM naar WAV",
   "short_name": "WebM naar WAV",
   "description": "Gratis WebM-naar-WAV-converter: converteer WebM-audio naar WAV in je browser. Geen registratie, geen upload, geen watermerk.",
-  "id": "/loona-audio-tools/nl/webm-to-wav-converter/",
+  "id": "/nl/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

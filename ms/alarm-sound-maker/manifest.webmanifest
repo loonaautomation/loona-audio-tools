@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Bunyi Penggera",
   "short_name": "Pembuat Bunyi Penggera",
   "description": "Pembuat Bunyi Penggera Percuma: pangkas audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/alarm-sound-maker/",
+  "id": "/ms/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

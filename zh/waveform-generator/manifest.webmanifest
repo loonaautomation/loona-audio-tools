@@ -2,7 +2,7 @@
   "name": "Loona 波形图像生成器 免费在线",
   "short_name": "波形图像生成器",
   "description": "在线免费将任何音频文件变成波形图像——选择大小、颜色、填充或条形样式和透明背景，然后下载 PNG。无需注册，您的音频从不离开您的设备。",
-  "id": "/loona-audio-tools/zh/waveform-generator/",
+  "id": "/zh/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

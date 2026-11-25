@@ -2,7 +2,7 @@
   "name": "Loona Ujian Mikrofon Dalam Talian Percuma",
   "short_name": "Ujian Mikrofon Dalam Talian Percuma",
   "description": "Uji mikrofon anda secara percuma dalam pelayar anda: meter paras langsung, rakaman ujian 5 saat dengan main balik, dan pemilih mikrofon. Tiada apa-apa dimuat naik - mikrofon anda hanya digunakan secara setempat.",
-  "id": "/loona-audio-tools/ms/mic-test/",
+  "id": "/ms/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

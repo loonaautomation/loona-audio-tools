@@ -2,7 +2,7 @@
   "name": "Loona Audio Joiner Online Free",
   "short_name": "Audio Joiner Online Free",
   "description": "Join audio files online free. Combine MP3, WAV, M4A and OGG files into one track in the order you choose, no sign-up needed. Processed privately in your browser, exported as WAV.",
-  "id": "/loona-audio-tools/audio-joiner/",
+  "id": "/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

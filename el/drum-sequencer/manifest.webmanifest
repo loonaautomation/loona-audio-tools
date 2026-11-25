@@ -2,7 +2,7 @@
   "name": "Loona Σεκουένσερ Τυμπάνων Δωρεάν Online",
   "short_name": "Σεκουένσερ Τυμπάνων Δωρεάν Online",
   "description": "Φτιάξτε ρυθμούς τυμπάνων δωρεάν online με ένα σεκουένσερ 16 βημάτων - συνθετικούς ήχους kick, snare και hi-hat, προεπιλογές rock, house και hip-hop, και ρυθμό από 60 έως 180 BPM. Χωρίς δείγματα, χωρίς εγγραφή, όλα συντίθενται στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-audio-tools/el/drum-sequencer/",
+  "id": "/el/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

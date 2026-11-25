@@ -2,7 +2,7 @@
   "name": "Loona Audio Cutter - Trim Audio Files Online Free",
   "short_name": "Audio Cutter - Trim Audio Files Online Free",
   "description": "Cut and trim audio files online free. Trim MP3, WAV, M4A and OGG with a visual waveform, no sign-up needed. Your audio is processed privately in your browser and exported as WAV.",
-  "id": "/loona-audio-tools/en-us/audio-cutter/",
+  "id": "/en-us/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

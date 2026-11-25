@@ -2,7 +2,7 @@
   "name": "Loona MP3 ל-WAV",
   "short_name": "MP3 ל-WAV",
   "description": "ממיר MP3 ל-WAV בחינם: המירו שמע MP3 ל-WAV בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/mp3-to-wav-converter/",
+  "id": "/he/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

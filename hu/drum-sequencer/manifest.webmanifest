@@ -2,7 +2,7 @@
   "name": "Loona Dobszekvenszer Online ingyen",
   "short_name": "Dobszekvenszer Online ingyen",
   "description": "Készítsen dobütemeket online ingyen egy 16 lépéses szekvenszerrel - szintetizált lábdob-, pergődob- és lábcinhangok, rock, house és hip-hop előbeállítások, valamint tempó 60-tól 180 BPM-ig. Minták nélkül, regisztráció nélkül, minden a böngészőjében szintetizálódik.",
-  "id": "/loona-audio-tools/hu/drum-sequencer/",
+  "id": "/hu/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač audioknjiga u MP3",
   "short_name": "Pretvarač audioknjiga u MP3",
   "description": "Besplatni pretvarač audioknjiga u MP3: pretvorite i pripremite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/audiobook-mp3-converter/",
+  "id": "/hr/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

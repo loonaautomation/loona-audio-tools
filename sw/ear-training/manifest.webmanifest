@@ -2,7 +2,7 @@
   "name": "Loona Mafunzo ya Sikio Bure Mtandaoni",
   "short_name": "Mafunzo ya Sikio Bure Mtandaoni",
   "description": "Funza sikio lako mtandaoni bure - sikia noti mbili, taja nafasi, na ujenge alama na mfululizo wako. Viwango vya rahisi, wastani na ngumu hadi oktava kamili. Hakuna kujisajili, kila kitu hutengenezwa katika kivinjari chako.",
-  "id": "/loona-audio-tools/sw/ear-training/",
+  "id": "/sw/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Editor prolínání zvuku Online zdarma",
   "short_name": "Editor prolínání zvuku Online zdarma",
   "description": "Přidejte ke zvuku online zdarma zesílení na začátku a zeslabení na konci. Nastavte prolínání až 10 sekund u libovolného souboru MP3, WAV, M4A nebo OGG, poslechněte si náhled a vyexportujte jako WAV. Bez registrace a váš zvuk nikdy neopustí vaše zařízení.",
-  "id": "/loona-audio-tools/cs/audio-fade-editor/",
+  "id": "/cs/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

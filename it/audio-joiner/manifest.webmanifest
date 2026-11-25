@@ -2,7 +2,7 @@
   "name": "Loona Unisci audio online gratuito",
   "short_name": "Unisci audio online gratuito",
   "description": "Unisci file audio online gratis. Combina file MP3, WAV, M4A e OGG in un'unica traccia nell'ordine che scegli, senza bisogno di registrazione. Elaborato privatamente nel tuo browser, esportato come WAV.",
-  "id": "/loona-audio-tools/it/audio-joiner/",
+  "id": "/it/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Wekkergeluid-maker",
   "short_name": "Wekkergeluid-maker",
   "description": "Gratis Wekkergeluid-maker: knip audio in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/alarm-sound-maker/",
+  "id": "/nl/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

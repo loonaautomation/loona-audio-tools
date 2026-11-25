@@ -2,7 +2,7 @@
   "name": "Loona Acordor de instrumente Online Gratuit",
   "short_name": "Acordor de instrumente Online Gratuit",
   "description": "Acordează orice instrument online gratuit, cu microfonul tău. Acordorul cromatic arată numele notei, frecvența exactă și cu câți cenți ești prea sus sau prea jos. Precizie declarată onest, fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul.",
-  "id": "/loona-audio-tools/ro/instrument-tuner/",
+  "id": "/ro/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

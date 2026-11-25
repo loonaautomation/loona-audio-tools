@@ -2,7 +2,7 @@
   "name": "Loona Odwracanie audio Online za darmo",
   "short_name": "Odwracanie audio Online za darmo",
   "description": "Odwracaj dźwięk online za darmo. Odtwarzaj dowolny plik MP3, WAV, M4A lub OGG wstecz i pobierz odwrócony dźwięk jako WAV. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/audio-reverser/",
+  "id": "/pl/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

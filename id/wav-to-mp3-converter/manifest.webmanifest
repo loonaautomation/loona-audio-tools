@@ -2,7 +2,7 @@
   "name": "Loona WAV ke MP3",
   "short_name": "WAV ke MP3",
   "description": "Konverter WAV-ke-MP3 gratis: konversi audio WAV ke MP3 di browser Anda. Tanpa pendaftaran, tanpa unggahan, tanpa watermark.",
-  "id": "/loona-audio-tools/id/wav-to-mp3-converter/",
+  "id": "/id/wav-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

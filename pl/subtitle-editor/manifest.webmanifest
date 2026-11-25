@@ -2,7 +2,7 @@
   "name": "Loona Edytor napisów SRT Online za darmo",
   "short_name": "Edytor napisów SRT online",
   "description": "Edytuj pliki napisów SRT i WebVTT online za darmo: poprawiaj tekst i czasy napisów, przesuwaj wszystkie wskazówki naraz, naprawiaj nakładające się wskazówki i konwertuj SRT na VTT. Bez rejestracji, a plik napisów nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/subtitle-editor/",
+  "id": "/pl/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας MP3 128 kbps",
   "short_name": "Μετατροπέας MP3 128 kbps",
   "description": "Δωρεάν μετατροπέας MP3 128 kbps: μετατρέψτε οποιοδήποτε αρχείο ήχου σε MP3 στα 128 kbps στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/mp3-128-kbps-converter/",
+  "id": "/el/mp3-128-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

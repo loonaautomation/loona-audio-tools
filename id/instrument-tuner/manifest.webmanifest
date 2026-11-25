@@ -2,7 +2,7 @@
   "name": "Loona Penyetem Instrumen Online Gratis",
   "short_name": "Penyetem Instrumen Online Gratis",
   "description": "Setem instrumen apa pun online secara gratis dengan mikrofon Anda. Penyetem kromatik menampilkan nama nada, frekuensi tepat, dan berapa sen terlalu tinggi atau rendah Anda. Keakuratan dinyatakan dengan jujur, tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/instrument-tuner/",
+  "id": "/id/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Stemmeopptaker gratis på nett",
   "short_name": "Stemmeopptaker gratis på nett",
   "description": "Ta opp stemmen din gratis på nett med mikrofonen din. Lytt tilbake og last ned opptaket ditt - det forlater aldri enheten din. Ingen registrering, ingen opplastinger, fungerer på telefon og datamaskin.",
-  "id": "/loona-audio-tools/nb/voice-recorder/",
+  "id": "/nb/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

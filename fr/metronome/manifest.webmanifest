@@ -2,7 +2,7 @@
   "name": "Loona Métronome en ligne gratuit",
   "short_name": "Métronome en ligne gratuit",
   "description": "Métronome en ligne gratuit avec un curseur BPM de 30 à 240, des signatures rythmiques, des subdivisions, un premier temps accentué, une pulsation visuelle et un tempo tapé. Sans inscription, rien de téléversé - il fonctionne dans votre navigateur.",
-  "id": "/loona-audio-tools/fr/metronome/",
+  "id": "/fr/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator Nada Online Gratis",
   "short_name": "Generator Nada Online Gratis",
   "description": "Hasilkan nada uji online secara gratis. Bentuk gelombang sinus, persegi, segitiga, dan gigi gergaji dari 20 Hz hingga 20,000 Hz - putar seketika atau unduh sebagai WAV. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-audio-tools/id/tone-generator/",
+  "id": "/id/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 เป็น WAV สำหรับการแก้ไข",
   "short_name": "MP3 เป็น WAV สำหรับการแก้ไข",
   "description": "MP3 เป็น WAV สำหรับการแก้ไข ฟรี: แปลงและเตรียมเสียงในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/mp3-to-wav-for-editing/",
+  "id": "/th/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

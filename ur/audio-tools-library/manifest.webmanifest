@@ -2,7 +2,7 @@
   "name": "Loona آڈیو ٹولز لائبریری",
   "short_name": "آڈیو ٹولز لائبریری",
   "description": "مکمل Loona Audio Tools لائبریری: MP3/WAV/OGG/M4A/FLAC/AAC کنورٹرز، بٹ ریٹ اہداف، رفتار پری سیٹس اور استعمال کے ٹولز۔",
-  "id": "/loona-audio-tools/ur/audio-tools-library/",
+  "id": "/ur/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

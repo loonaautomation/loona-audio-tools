@@ -2,7 +2,7 @@
   "name": "Loona Opusból MP3-ba",
   "short_name": "Opusból MP3-ba",
   "description": "Ingyenes Opusból MP3-ba konvertáló: konvertálja az Opus-hangot MP3-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/opus-to-mp3-converter/",
+  "id": "/hu/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

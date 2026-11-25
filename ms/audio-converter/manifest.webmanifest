@@ -2,7 +2,7 @@
   "name": "Loona Penukar Audio Dalam Talian Percuma",
   "short_name": "Penukar Audio Dalam Talian Percuma",
   "description": "Tukar fail audio dalam talian secara percuma - jadikan MP3, WAV, OGG, M4A, WebM dan banyak lagi kepada WAV atau MP3 (128, 192 atau 320 kbps) dengan kadar sampel dikekalkan. Tanpa pendaftaran, dan audio anda tidak pernah meninggalkan peranti anda, kerana penyahkodan bergantung pada pelayar anda dan penukaran berjalan 100% secara setempat.",
-  "id": "/loona-audio-tools/ms/audio-converter/",
+  "id": "/ms/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

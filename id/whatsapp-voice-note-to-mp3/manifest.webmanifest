@@ -2,7 +2,7 @@
   "name": "Loona Catatan Suara WhatsApp ke MP3",
   "short_name": "Catatan Suara WhatsApp ke MP3",
   "description": "Catatan Suara WhatsApp ke MP3 Gratis: konversi dan siapkan audio di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/whatsapp-voice-note-to-mp3/",
+  "id": "/id/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

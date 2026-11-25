@@ -2,7 +2,7 @@
   "name": "Loona Android Ringtone Maker",
   "short_name": "Android Ringtone Maker",
   "description": "Free Android Ringtone Maker: trim audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/android-ringtone-maker/",
+  "id": "/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

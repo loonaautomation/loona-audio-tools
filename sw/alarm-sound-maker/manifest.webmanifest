@@ -2,7 +2,7 @@
   "name": "Loona Kitengeneza Sauti ya Kengele",
   "short_name": "Kitengeneza Sauti ya Kengele",
   "description": "Kitengeneza Sauti ya Kengele cha Bure: punguza sauti katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/alarm-sound-maker/",
+  "id": "/sw/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

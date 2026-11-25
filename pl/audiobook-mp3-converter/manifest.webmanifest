@@ -2,7 +2,7 @@
   "name": "Loona Konwerter audiobooków do MP3",
   "short_name": "Konwerter audiobooków do MP3",
   "description": "Bezpłatny konwerter audiobooków do MP3: konwertuj i przygotowuj dźwięk w przeglądarce. Bez rejestracji, bez przesyłania na serwer.",
-  "id": "/loona-audio-tools/pl/audiobook-mp3-converter/",
+  "id": "/pl/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Webcamtest Online Gratis",
   "short_name": "Webcamtest Online Gratis",
   "description": "Test je webcam gratis in je browser: live preview, echte resolutie- en framerate-uitlezing, spiegelschakelaar en download van een momentopname. Er wordt niets geüpload - je camera wordt alleen lokaal gebruikt.",
-  "id": "/loona-audio-tools/nl/webcam-test/",
+  "id": "/nl/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างคำทักทายข้อความเสียง",
   "short_name": "ตัวสร้างคำทักทายข้อความเสียง",
   "description": "ตัวสร้างคำทักทายข้อความเสียงฟรี: ตัดเสียงในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/voicemail-greeting-maker/",
+  "id": "/th/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

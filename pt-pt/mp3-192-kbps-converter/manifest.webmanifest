@@ -2,7 +2,7 @@
   "name": "Loona Conversor MP3 192 kbps",
   "short_name": "Conversor MP3 192 kbps",
   "description": "Conversor MP3 192 kbps grátis: converta qualquer ficheiro de áudio para MP3 a 192 kbps no seu navegador. Sem registo, sem envio.",
-  "id": "/loona-audio-tools/pt-pt/mp3-192-kbps-converter/",
+  "id": "/pt-pt/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

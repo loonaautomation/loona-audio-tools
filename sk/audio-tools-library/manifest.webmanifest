@@ -2,7 +2,7 @@
   "name": "Loona Knižnica zvukových nástrojov",
   "short_name": "Knižnica zvukových nástrojov",
   "description": "Úplná knižnica nástrojov Loona Audio Tools: prevodníky MP3/WAV/OGG/M4A/FLAC/AAC, cieľové bitové rýchlosti, predvoľby rýchlosti a nástroje pre konkrétne prípady použitia.",
-  "id": "/loona-audio-tools/sk/audio-tools-library/",
+  "id": "/sk/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

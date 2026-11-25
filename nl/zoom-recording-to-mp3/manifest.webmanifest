@@ -2,7 +2,7 @@
   "name": "Loona Zoom-opname naar MP3",
   "short_name": "Zoom-opname naar MP3",
   "description": "Gratis Zoomopname naar MP3: converteer en bereid audio voor in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/zoom-recording-to-mp3/",
+  "id": "/nl/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

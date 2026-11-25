@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp Sesli Notundan MP3'e",
   "short_name": "WhatsApp Sesli Notundan MP3'e",
   "description": "Ücretsiz WhatsApp Sesli Notundan MP3'e: tarayıcınızda sesi dönüştürün ve hazırlayın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/whatsapp-voice-note-to-mp3/",
+  "id": "/tr/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

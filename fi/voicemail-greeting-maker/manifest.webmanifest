@@ -2,7 +2,7 @@
   "name": "Loona Vastaajatervehdyksen tekijä",
   "short_name": "Vastaajatervehdyksen tekijä",
   "description": "Ilmainen vastaajatervehdyksen tekijä: leikkaa ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/voicemail-greeting-maker/",
+  "id": "/fi/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 u WAV",
   "short_name": "MP3 u WAV",
   "description": "Besplatni pretvarač MP3 u WAV: pretvorite MP3 zvuk u WAV u svom pregledniku. Bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-audio-tools/hr/mp3-to-wav-converter/",
+  "id": "/hr/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

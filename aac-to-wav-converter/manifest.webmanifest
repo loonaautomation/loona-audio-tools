@@ -2,7 +2,7 @@
   "name": "Loona AAC to WAV",
   "short_name": "AAC to WAV",
   "description": "Free AAC-to-WAV converter: convert AAC audio to WAV in your browser. No sign-up, no upload, no watermark.",
-  "id": "/loona-audio-tools/aac-to-wav-converter/",
+  "id": "/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

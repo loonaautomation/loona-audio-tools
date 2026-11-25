@@ -2,7 +2,7 @@
   "name": "Loona Lecture Recording to MP3",
   "short_name": "Lecture Recording to MP3",
   "description": "Free Lecture Recording to MP3: convert and prepare audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/lecture-recording-to-mp3/",
+  "id": "/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

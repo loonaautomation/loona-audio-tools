@@ -2,7 +2,7 @@
   "name": "Loona Tvorca pozdravov do hlasovej schránky",
   "short_name": "Tvorca pozdravov do hlasovej schránky",
   "description": "Tvorca pozdravov do hlasovej schránky zadarmo: orezajte zvuk vo svojom prehliadači. Bez registrácie, bez nahrávania na server.",
-  "id": "/loona-audio-tools/sk/voicemail-greeting-maker/",
+  "id": "/sk/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona יוצר צלילי התראות",
   "short_name": "יוצר צלילי התראות",
   "description": "יוצר צלילי התראות בחינם: גזרו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/notification-sound-maker/",
+  "id": "/he/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

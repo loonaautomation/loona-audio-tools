@@ -2,7 +2,7 @@
   "name": "Loona 音訊合併器 免費線上",
   "short_name": "音訊合併器 免費線上",
   "description": "線上免費合併音訊檔案。按您選擇的順序將 MP3、WAV、M4A 和 OGG 檔案合併為一條曲目，無需註冊。在您的瀏覽器中私密處理，匯出為 WAV。",
-  "id": "/loona-audio-tools/zh-hant/audio-joiner/",
+  "id": "/zh-hant/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

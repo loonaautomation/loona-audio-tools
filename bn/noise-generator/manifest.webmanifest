@@ -2,7 +2,7 @@
   "name": "Loona নয়েজ জেনারেটর অনলাইন বিনামূল্যে",
   "short_name": "নয়েজ জেনারেটর অনলাইন বিনামূল্যে",
   "description": "ঘুম, মনোযোগ ও শব্দ ঢাকার জন্য অনলাইনে বিনামূল্যে white, pink ও brown নয়েজ তৈরি করুন। আপনার ব্রাউজারে লাইভ বাজান বা লুপ করার জন্য 10, 30 বা 60 সেকেন্ড WAV হিসেবে ডাউনলোড করুন। কোনো সাইন-আপ নেই, কিছু আপলোড হয় না।",
-  "id": "/loona-audio-tools/bn/noise-generator/",
+  "id": "/bn/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

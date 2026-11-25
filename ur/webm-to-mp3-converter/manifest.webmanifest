@@ -2,7 +2,7 @@
   "name": "Loona WebM سے MP3",
   "short_name": "WebM سے MP3",
   "description": "مفت WebM-to-MP3 کنورٹر: WebM آڈیو کو اپنے براؤزر میں MP3 میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/webm-to-mp3-converter/",
+  "id": "/ur/webm-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona M4A til MP3",
   "short_name": "M4A til MP3",
   "description": "Gratis M4A-til-MP3-konverter: konverter M4A-lyd til MP3 i nettleseren din. Ingen registrering, ingen opplasting, ingen vannmerke.",
-  "id": "/loona-audio-tools/nb/m4a-to-mp3-converter/",
+  "id": "/nb/m4a-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

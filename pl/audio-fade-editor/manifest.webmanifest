@@ -2,7 +2,7 @@
   "name": "Loona Edytor przenikania audio Online za darmo",
   "short_name": "Edytor przenikania audio Online za darmo",
   "description": "Dodaj narastanie i zanikanie dźwięku online za darmo. Ustaw efekty fade do 10 sekund na dowolnym pliku MP3, WAV, M4A lub OGG, odsłuchaj podgląd i wyeksportuj jako WAV. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/audio-fade-editor/",
+  "id": "/pl/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

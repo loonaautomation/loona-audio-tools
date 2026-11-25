@@ -2,7 +2,7 @@
   "name": "Loona オーディオジョイナー オンライン無料",
   "short_name": "オーディオジョイナー オンライン無料",
   "description": "音声ファイルをオンラインで無料結合。MP3、WAV、M4A、OGGファイルを、選んだ順序で一つのトラックに結合します。登録不要。ブラウザでプライベートに処理され、WAVでエクスポートされます。",
-  "id": "/loona-audio-tools/ja/audio-joiner/",
+  "id": "/ja/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona イヤートレーニング オンライン無料",
   "short_name": "イヤートレーニング オンライン無料",
   "description": "耳をオンラインで無料トレーニング — 二つの音を聞き、音程を当て、スコアと連続記録を築きましょう。初級、中級、上級レベルは全オクターブまで。登録不要、すべてがブラウザで生成されます。",
-  "id": "/loona-audio-tools/ja/ear-training/",
+  "id": "/ja/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

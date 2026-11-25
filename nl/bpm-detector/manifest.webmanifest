@@ -2,7 +2,7 @@
   "name": "Loona BPM-detector Online Gratis",
   "short_name": "BPM-detector Online Gratis",
   "description": "Vind gratis online de BPM van een nummer. De detector analyseert de beat in je browser en toont het tempo, de seconden per tel en een betrouwbaarheidsbeoordeling - plus een taptempotool. Geen registratie, en je audio verlaat je apparaat nooit.",
-  "id": "/loona-audio-tools/nl/bpm-detector/",
+  "id": "/nl/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

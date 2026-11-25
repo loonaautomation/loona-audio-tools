@@ -2,7 +2,7 @@
   "name": "Loona Verkkokameratesti Ilmainen verkossa",
   "short_name": "Verkkokameratesti Ilmainen verkossa",
   "description": "Testaa verkkokamerasi ilmaiseksi selaimessasi: reaaliaikainen esikatselu, todellisen resoluution ja kuvataajuuden lukema, peilikytkin ja tilannekuvan lataus. Mitään ei ladata palvelimelle - kameraasi käytetään vain paikallisesti.",
-  "id": "/loona-audio-tools/fi/webcam-test/",
+  "id": "/fi/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

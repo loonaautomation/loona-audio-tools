@@ -2,7 +2,7 @@
   "name": "Loona FLAC'den WAV'a",
   "short_name": "FLAC'den WAV'a",
   "description": "Ücretsiz FLAC'den WAV'a dönüştürücü: FLAC sesini tarayıcınızda WAV'a dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/flac-to-wav-converter/",
+  "id": "/tr/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

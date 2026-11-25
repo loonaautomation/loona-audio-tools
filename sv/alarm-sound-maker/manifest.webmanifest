@@ -2,7 +2,7 @@
   "name": "Loona Ljud för väckarklocka",
   "short_name": "Ljud för väckarklocka",
   "description": "Gratis ljud för väckarklocka: trimma ljud i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/alarm-sound-maker/",
+  "id": "/sv/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

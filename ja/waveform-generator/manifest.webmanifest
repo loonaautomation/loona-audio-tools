@@ -2,7 +2,7 @@
   "name": "Loona 波形画像ジェネレーター オンライン無料",
   "short_name": "波形画像ジェネレーター",
   "description": "任意の音声ファイルを波形画像にオンラインで無料変換 — サイズ、色、塗りつぶしまたはバーのスタイル、透明な背景を選んで、PNGをダウンロード。登録不要で、音声がデバイスの外に出ることは決してありません。",
-  "id": "/loona-audio-tools/ja/waveform-generator/",
+  "id": "/ja/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

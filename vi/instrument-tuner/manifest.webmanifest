@@ -2,7 +2,7 @@
   "name": "Loona Bộ lên dây nhạc cụ Trực tuyến miễn phí",
   "short_name": "Bộ lên dây nhạc cụ Trực tuyến miễn phí",
   "description": "Lên dây bất kỳ nhạc cụ nào trực tuyến miễn phí bằng micro của bạn. Bộ lên dây sắc độ hiển thị tên nốt, tần số chính xác, và bạn cao hơn hoặc thấp hơn bao nhiêu cents. Độ chính xác được nêu trung thực, không cần đăng ký, và âm thanh của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-audio-tools/vi/instrument-tuner/",
+  "id": "/vi/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

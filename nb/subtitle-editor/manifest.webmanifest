@@ -2,7 +2,7 @@
   "name": "Loona SRT-undertekstredigerer gratis på nett",
   "short_name": "SRT-undertekstredigerer Online",
   "description": "Rediger SRT- og WebVTT-undertekstfiler gratis på nett: fiks underteksttekst og tidspunkter, flytt alle tekstbolker samtidig, reparer overlappende tekstbolker og konverter SRT til VTT. Ingen registrering, og undertekstfilen din forlater aldri enheten din.",
-  "id": "/loona-audio-tools/nb/subtitle-editor/",
+  "id": "/nb/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Äänikirjojen MP3-muunnin",
   "short_name": "Äänikirjojen MP3-muunnin",
   "description": "Ilmainen äänikirjojen MP3-muunnin: muunna ja valmistele ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/audiobook-mp3-converter/",
+  "id": "/fi/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

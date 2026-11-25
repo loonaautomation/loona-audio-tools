@@ -2,7 +2,7 @@
   "name": "Loona Prevodník na MP3 64 kbps",
   "short_name": "Prevodník na MP3 64 kbps",
   "description": "Bezplatný prevodník na MP3 64 kbps: preveďte akýkoľvek zvukový súbor na MP3 so 64 kbps vo svojom prehliadači. Bez registrácie, bez nahrávania na server.",
-  "id": "/loona-audio-tools/sk/mp3-64-kbps-converter/",
+  "id": "/sk/mp3-64-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

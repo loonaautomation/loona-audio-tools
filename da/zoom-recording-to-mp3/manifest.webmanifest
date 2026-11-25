@@ -2,7 +2,7 @@
   "name": "Loona Zoom-optagelse til MP3",
   "short_name": "Zoom-optagelse til MP3",
   "description": "Gratis Zoom-optagelse til MP3: konverter og klargør lyd i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/zoom-recording-to-mp3/",
+  "id": "/da/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

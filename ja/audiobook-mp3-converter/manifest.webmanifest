@@ -2,7 +2,7 @@
   "name": "Loona オーディオブックMP3コンバーター",
   "short_name": "オーディオブックMP3コンバーター",
   "description": "無料のオーディオブックMP3コンバーター：ブラウザで音声を変換・準備します。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/audiobook-mp3-converter/",
+  "id": "/ja/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

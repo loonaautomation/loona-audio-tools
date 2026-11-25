@@ -2,7 +2,7 @@
   "name": "Loona Înregistrator vocal Online Gratuit",
   "short_name": "Înregistrator vocal Online Gratuit",
   "description": "Înregistrează-ți vocea online gratuit, cu microfonul tău. Ascultă din nou și descarcă înregistrarea - nu părăsește niciodată dispozitivul. Fără înregistrare, fără încărcări, funcționează pe telefon și computer.",
-  "id": "/loona-audio-tools/ro/voice-recorder/",
+  "id": "/ro/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

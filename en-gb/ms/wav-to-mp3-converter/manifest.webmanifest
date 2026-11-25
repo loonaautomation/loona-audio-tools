@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/wav-to-mp3-converter/",
+  "id": "/en-gb/ms/wav-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

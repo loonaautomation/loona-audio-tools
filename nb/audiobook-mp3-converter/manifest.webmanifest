@@ -2,7 +2,7 @@
   "name": "Loona Lydbok-MP3-konverter",
   "short_name": "Lydbok-MP3-konverter",
   "description": "Gratis lydbok-MP3-konverter: konverter og klargjør lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/audiobook-mp3-converter/",
+  "id": "/nb/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

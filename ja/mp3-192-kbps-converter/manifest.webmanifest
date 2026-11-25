@@ -2,7 +2,7 @@
   "name": "Loona MP3 192 kbpsコンバーター",
   "short_name": "MP3 192 kbpsコンバーター",
   "description": "無料のMP3 192 kbpsコンバーター：ブラウザであらゆる音声ファイルを192 kbpsでMP3に変換します。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/mp3-192-kbps-converter/",
+  "id": "/ja/mp3-192-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

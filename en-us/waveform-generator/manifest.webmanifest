@@ -2,7 +2,7 @@
   "name": "Loona Waveform Generator - Audio to Waveform Image Online Free",
   "short_name": "Waveform Generator - Audio to Waveform Image Online Free",
   "description": "Turn any audio file into a waveform image online free - choose the size, colors, filled or bar style, and transparent background, then download a PNG. No sign-up, and your audio never leaves your device.",
-  "id": "/loona-audio-tools/en-us/waveform-generator/",
+  "id": "/en-us/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona صانع صوت المنبه",
   "short_name": "صانع صوت المنبه",
   "description": "صانع صوت منبه مجاني: قصّ الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/alarm-sound-maker/",
+  "id": "/ar/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

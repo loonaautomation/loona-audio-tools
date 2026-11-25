@@ -2,7 +2,7 @@
   "name": "Loona WebM WAV:ksi",
   "short_name": "WebM WAV:ksi",
   "description": "Ilmainen WebM–WAV-muunnin: muunna WebM-ääni WAV-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/webm-to-wav-converter/",
+  "id": "/fi/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

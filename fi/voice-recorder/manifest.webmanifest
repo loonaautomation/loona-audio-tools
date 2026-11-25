@@ -2,7 +2,7 @@
   "name": "Loona Äänitallennin Ilmainen verkossa",
   "short_name": "Äänitallennin Ilmainen verkossa",
   "description": "Tallenna äänesi verkossa ilmaiseksi mikrofonillasi. Kuuntele takaisin ja lataa tallenteesi - se ei koskaan poistu laitteeltasi. Ei rekisteröitymistä, ei latauksia palvelimelle, toimii puhelimella ja tietokoneella.",
-  "id": "/loona-audio-tools/fi/voice-recorder/",
+  "id": "/fi/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

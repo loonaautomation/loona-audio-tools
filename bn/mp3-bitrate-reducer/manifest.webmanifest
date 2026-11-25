@@ -2,7 +2,7 @@
   "name": "Loona MP3 বিটরেট রিডিউসার",
   "short_name": "MP3 বিটরেট রিডিউসার",
   "description": "বিনামূল্যে MP3 বিটরেট রিডিউসার: 64–320 kbps-এ পুনরায় এনকোড করে MP3 ফাইল সঙ্কুচিত করুন। মেসেজিং, ইমেইল ও স্টোরেজের জন্য ছোট ফাইল — আপনার ব্রাউজারে।",
-  "id": "/loona-audio-tools/bn/mp3-bitrate-reducer/",
+  "id": "/bn/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

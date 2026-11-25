@@ -2,7 +2,7 @@
   "name": "Loona ऑडियो टूल लाइब्रेरी",
   "short_name": "ऑडियो टूल लाइब्रेरी",
   "description": "पूरी Loona Audio Tools लाइब्रेरी: MP3/WAV/OGG/M4A/FLAC/AAC कन्वर्टर, बिटरेट लक्ष्य, स्पीड प्रीसेट और उपयोग-केस टूल।",
-  "id": "/loona-audio-tools/hi/audio-tools-library/",
+  "id": "/hi/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Äänimuunnin Ilmainen verkossa",
   "short_name": "Äänimuunnin Ilmainen verkossa",
   "description": "Muunna äänitiedostoja ilmaiseksi verkossa - muuta MP3, WAV, OGG, M4A, WebM ja muuta WAV:ksi tai MP3:ksi (128, 192 tai 320 kbps) näytetaajuus säilytettynä. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi, koska purkaminen riippuu selaimestasi ja muunnos toimii 100% paikallisesti.",
-  "id": "/loona-audio-tools/fi/audio-converter/",
+  "id": "/fi/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

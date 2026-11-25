@@ -2,7 +2,7 @@
   "name": "Loona AAC-ból WAV-ba",
   "short_name": "AAC-ból WAV-ba",
   "description": "Ingyenes AAC-ból WAV-ba konvertáló: konvertálja az AAC-hangot WAV-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/aac-to-wav-converter/",
+  "id": "/hu/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

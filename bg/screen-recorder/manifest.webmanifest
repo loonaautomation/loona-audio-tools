@@ -2,7 +2,7 @@
   "name": "Loona Запис на екрана безплатно онлайн",
   "short_name": "Запис на екрана безплатно онлайн",
   "description": "Запишете екрана си, раздел или прозорец безплатно в браузъра си - с аудио от микрофон, ако го искате. Без регистрация, без качване, изтегля се като WebM.",
-  "id": "/loona-audio-tools/bg/screen-recorder/",
+  "id": "/bg/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

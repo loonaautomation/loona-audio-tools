@@ -2,7 +2,7 @@
   "name": "Loona AAC ל-MP3",
   "short_name": "AAC ל-MP3",
   "description": "ממיר AAC ל-MP3 בחינם: המירו שמע AAC ל-MP3 בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/aac-to-mp3-converter/",
+  "id": "/he/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Biblioteka alata za zvuk",
   "short_name": "Biblioteka alata za zvuk",
   "description": "Puna biblioteka Loona Audio Tools: pretvarači MP3/WAV/OGG/M4A/FLAC/AAC, ciljane brzine prijenosa, unaprijed postavljene brzine i alati za pojedine namjene.",
-  "id": "/loona-audio-tools/hr/audio-tools-library/",
+  "id": "/hr/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

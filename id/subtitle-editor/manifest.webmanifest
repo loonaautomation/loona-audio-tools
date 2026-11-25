@@ -2,7 +2,7 @@
   "name": "Loona Editor Subtitel SRT Online Gratis",
   "short_name": "Editor Subtitel SRT Online",
   "description": "Edit berkas subtitel SRT dan WebVTT online secara gratis: perbaiki teks dan waktu subtitel, geser semua cue sekaligus, perbaiki cue yang tumpang tindih, dan konversi SRT ke VTT. Tanpa pendaftaran, dan berkas subtitel Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/subtitle-editor/",
+  "id": "/id/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

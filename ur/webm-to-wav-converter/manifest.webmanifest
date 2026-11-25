@@ -2,7 +2,7 @@
   "name": "Loona WebM سے WAV",
   "short_name": "WebM سے WAV",
   "description": "مفت WebM-to-WAV کنورٹر: WebM آڈیو کو اپنے براؤزر میں WAV میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/webm-to-wav-converter/",
+  "id": "/ur/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

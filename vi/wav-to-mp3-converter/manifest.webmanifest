@@ -2,7 +2,7 @@
   "name": "Loona WAV sang MP3",
   "short_name": "WAV sang MP3",
   "description": "Bộ chuyển đổi WAV sang MP3 miễn phí: chuyển đổi âm thanh WAV sang MP3 trong trình duyệt của bạn. Không cần đăng ký, không tải lên, không hình mờ.",
-  "id": "/loona-audio-tools/vi/wav-to-mp3-converter/",
+  "id": "/vi/wav-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

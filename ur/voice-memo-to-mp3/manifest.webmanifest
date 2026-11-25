@@ -2,7 +2,7 @@
   "name": "Loona وائس میمو سے MP3",
   "short_name": "وائس میمو سے MP3",
   "description": "مفت وائس میمو سے MP3: اپنے براؤزر میں آڈیو تبدیل اور تیار کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-audio-tools/ur/voice-memo-to-mp3/",
+  "id": "/ur/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

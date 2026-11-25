@@ -2,7 +2,7 @@
   "name": "Loona Opus σε MP3",
   "short_name": "Opus σε MP3",
   "description": "Δωρεάν μετατροπέας Opus σε MP3: μετατρέψτε ήχο Opus σε MP3 στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα, χωρίς υδατογράφημα.",
-  "id": "/loona-audio-tools/el/opus-to-mp3-converter/",
+  "id": "/el/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

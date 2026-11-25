@@ -2,7 +2,7 @@
   "name": "Loona BPM Detector Bure Mtandaoni",
   "short_name": "BPM Detector Bure Mtandaoni",
   "description": "Tafuta BPM ya wimbo mtandaoni bure. Kigunduzi huchanganua mpigo katika kivinjari chako na huonyesha mwendo, sekunde kwa mpigo na ukadiriaji wa ujasiri - pamoja na zana ya mwendo wa kugonga. Hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
-  "id": "/loona-audio-tools/sw/bpm-detector/",
+  "id": "/sw/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

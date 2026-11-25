@@ -2,7 +2,7 @@
   "name": "Loona 音調生成器 免費線上",
   "short_name": "音調生成器 免費線上",
   "description": "線上免費生成測試音調。從 20 Hz 到 20,000 Hz 的正弦波、方波、三角波和鋸齒波——即時播放或下載為 WAV。無需註冊，100% 在您的瀏覽器中執行。",
-  "id": "/loona-audio-tools/zh-hant/tone-generator/",
+  "id": "/zh-hant/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

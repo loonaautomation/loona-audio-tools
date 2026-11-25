@@ -2,7 +2,7 @@
   "name": "Loona Metronom Besplatno na mreži",
   "short_name": "Metronom Besplatno na mreži",
   "description": "Besplatni mrežni metronom s BPM klizačem od 30 do 240, mjerama, podjelama, naglašenim prvim otkucajem, vizualnim pulsom i tempom dodirom. Bez registracije, ništa se ne prenosi - radi u vašem pregledniku.",
-  "id": "/loona-audio-tools/hr/metronome/",
+  "id": "/hr/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

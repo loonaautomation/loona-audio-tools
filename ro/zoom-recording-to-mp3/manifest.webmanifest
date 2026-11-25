@@ -2,7 +2,7 @@
   "name": "Loona Înregistrare Zoom în MP3",
   "short_name": "Înregistrare Zoom în MP3",
   "description": "Înregistrare Zoom în MP3 gratuit: convertește și pregătește sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/zoom-recording-to-mp3/",
+  "id": "/ro/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

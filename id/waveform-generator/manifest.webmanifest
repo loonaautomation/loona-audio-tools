@@ -2,7 +2,7 @@
   "name": "Loona Generator Gambar Bentuk Gelombang Online Gratis",
   "short_name": "Generator Gambar Bentuk Gelombang",
   "description": "Ubah berkas audio apa pun menjadi gambar bentuk gelombang online secara gratis - pilih ukuran, warna, gaya terisi atau batang, dan latar belakang transparan, lalu unduh PNG. Tanpa pendaftaran, dan audio Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-audio-tools/id/waveform-generator/",
+  "id": "/id/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

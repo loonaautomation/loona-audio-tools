@@ -2,7 +2,7 @@
   "name": "Loona مولّد النغمات مجاني عبر الإنترنت",
   "short_name": "مولّد النغمات مجاني عبر الإنترنت",
   "description": "أنشئ نغمات اختبار عبر الإنترنت مجانًا. موجات جيبية ومربعة ومثلثة ومنشارية من 20 Hz إلى 20,000 Hz - شغّل فورًا أو نزّل بصيغة WAV. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-audio-tools/ar/tone-generator/",
+  "id": "/ar/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

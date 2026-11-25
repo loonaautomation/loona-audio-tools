@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Ηχητικών Βιβλίων σε MP3",
   "short_name": "Μετατροπέας Ηχητικών Βιβλίων σε MP3",
   "description": "Δωρεάν Μετατροπέας Ηχητικών Βιβλίων σε MP3: μετατρέψτε και προετοιμάστε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/audiobook-mp3-converter/",
+  "id": "/el/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

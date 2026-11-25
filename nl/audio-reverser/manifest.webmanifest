@@ -2,7 +2,7 @@
   "name": "Loona Audio Omkeerder Online Gratis",
   "short_name": "Audio Omkeerder Online Gratis",
   "description": "Keer audio gratis online om. Speel elk MP3-, WAV-, M4A- of OGG-bestand achterstevoren af en download de omgekeerde audio als WAV. Geen registratie, en je audio verlaat je apparaat nooit.",
-  "id": "/loona-audio-tools/nl/audio-reverser/",
+  "id": "/nl/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

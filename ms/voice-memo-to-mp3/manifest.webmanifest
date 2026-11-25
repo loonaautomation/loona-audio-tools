@@ -2,7 +2,7 @@
   "name": "Loona Memo Suara kepada MP3",
   "short_name": "Memo Suara kepada MP3",
   "description": "Memo Suara kepada MP3 Percuma: tukar dan sediakan audio dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-audio-tools/ms/voice-memo-to-mp3/",
+  "id": "/ms/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

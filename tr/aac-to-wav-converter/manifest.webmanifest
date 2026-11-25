@@ -2,7 +2,7 @@
   "name": "Loona AAC'den WAV'a",
   "short_name": "AAC'den WAV'a",
   "description": "Ücretsiz AAC'den WAV'a dönüştürücü: AAC sesini tarayıcınızda WAV'a dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/aac-to-wav-converter/",
+  "id": "/tr/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

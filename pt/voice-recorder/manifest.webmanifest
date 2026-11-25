@@ -2,7 +2,7 @@
   "name": "Loona Gravador de Voz Online Grátis",
   "short_name": "Gravador de Voz Online Grátis",
   "description": "Grave sua voz online grátis com seu microfone. Ouça de volta e baixe sua gravação - ela nunca sai do seu dispositivo. Sem cadastro, sem envios, funciona em celular e computador.",
-  "id": "/loona-audio-tools/pt/voice-recorder/",
+  "id": "/pt/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

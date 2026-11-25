@@ -2,7 +2,7 @@
   "name": "Loona Pengadun Saluran Audio Dalam Talian Percuma",
   "short_name": "Pengadun Saluran Audio Online",
   "description": "Tukar saluran audio dalam talian secara percuma - stereo kepada mono, mono kepada stereo, tukar saluran kiri dan kanan, atau salin saluran kiri atau kanan ke kedua-dua belah, dieksport sebagai WAV. Tanpa pendaftaran, dan audio anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-audio-tools/ms/channel-mixer/",
+  "id": "/ms/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

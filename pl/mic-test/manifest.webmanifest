@@ -2,7 +2,7 @@
   "name": "Loona Test mikrofonu Online za darmo",
   "short_name": "Test mikrofonu Online za darmo",
   "description": "Przetestuj mikrofon bezpłatnie w przeglądarce: miernik poziomu na żywo, 5-sekundowe nagranie testowe z odtwarzaniem oraz selektor mikrofonu. Nic nie jest przesyłane na serwer - mikrofon jest używany tylko lokalnie.",
-  "id": "/loona-audio-tools/pl/mic-test/",
+  "id": "/pl/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

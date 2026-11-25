@@ -2,7 +2,7 @@
   "name": "Loona Lydkutter gratis på nett",
   "short_name": "Lydkutter gratis på nett",
   "description": "Kutt og trim lydfiler gratis på nett. Trim MP3, WAV, M4A og OGG med en visuell bølgeform, ingen registrering nødvendig. Lyden din behandles privat i nettleseren din og eksporteres som WAV.",
-  "id": "/loona-audio-tools/nb/audio-cutter/",
+  "id": "/nb/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

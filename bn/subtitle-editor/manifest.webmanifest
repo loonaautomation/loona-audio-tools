@@ -2,7 +2,7 @@
   "name": "Loona SRT সাবটাইটেল এডিটর অনলাইন বিনামূল্যে",
   "short_name": "SRT সাবটাইটেল এডিটর Online",
   "description": "SRT ও WebVTT সাবটাইটেল ফাইল অনলাইনে বিনামূল্যে এডিট করুন: সাবটাইটেল টেক্সট ও সময় ঠিক করুন, সব cue একসঙ্গে সরান, ওভারল্যাপ করা cue মেরামত করুন এবং SRT কে VTT-তে রূপান্তর করুন। কোনো সাইন-আপ নেই, এবং আপনার সাবটাইটেল ফাইল কখনো আপনার ডিভাইস ছাড়ে না।",
-  "id": "/loona-audio-tools/bn/subtitle-editor/",
+  "id": "/bn/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

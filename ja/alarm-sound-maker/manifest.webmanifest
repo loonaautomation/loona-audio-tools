@@ -2,7 +2,7 @@
   "name": "Loona アラーム音メーカー",
   "short_name": "アラーム音メーカー",
   "description": "無料のアラーム音メーカー：ブラウザで音声をトリミングします。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/alarm-sound-maker/",
+  "id": "/ja/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

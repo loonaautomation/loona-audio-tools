@@ -2,7 +2,7 @@
   "name": "Loona محرر ترجمة SRT مجاني عبر الإنترنت",
   "short_name": "محرر ترجمة SRT عبر الإنترنت",
   "description": "حرّر ملفات ترجمة SRT وWebVTT عبر الإنترنت مجانًا: أصلح نص الترجمة والتوقيتات، وأزح كل الإشارات دفعة واحدة، وأصلح الإشارات المتداخلة وحوّل SRT إلى VTT. دون تسجيل، ولا يغادر ملف ترجمتك جهازك أبدًا.",
-  "id": "/loona-audio-tools/ar/subtitle-editor/",
+  "id": "/ar/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

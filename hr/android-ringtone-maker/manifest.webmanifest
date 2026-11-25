@@ -2,7 +2,7 @@
   "name": "Loona Izrađivač melodija zvona za Android",
   "short_name": "Izrađivač melodija zvona za Android",
   "description": "Besplatni izrađivač melodija zvona za Android: skratite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/android-ringtone-maker/",
+  "id": "/hr/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

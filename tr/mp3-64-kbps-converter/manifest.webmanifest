@@ -2,7 +2,7 @@
   "name": "Loona MP3 64 kbps Dönüştürücü",
   "short_name": "MP3 64 kbps Dönüştürücü",
   "description": "Ücretsiz MP3 64 kbps dönüştürücü: herhangi bir ses dosyasını tarayıcınızda 64 kbps hızında MP3'e dönüştürün. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/mp3-64-kbps-converter/",
+  "id": "/tr/mp3-64-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

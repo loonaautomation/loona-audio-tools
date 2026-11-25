@@ -2,7 +2,7 @@
   "name": "Loona OGG u MP3",
   "short_name": "OGG u MP3",
   "description": "Besplatni pretvarač OGG u MP3: pretvorite OGG zvuk u MP3 u svom pregledniku. Bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-audio-tools/hr/ogg-to-mp3-converter/",
+  "id": "/hr/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

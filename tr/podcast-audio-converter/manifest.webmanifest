@@ -2,7 +2,7 @@
   "name": "Loona Podcast Ses Dönüştürücü",
   "short_name": "Podcast Ses Dönüştürücü",
   "description": "Ücretsiz Podcast Ses Dönüştürücü: tarayıcınızda sesi dönüştürün ve hazırlayın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/podcast-audio-converter/",
+  "id": "/tr/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

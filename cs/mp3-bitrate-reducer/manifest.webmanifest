@@ -2,7 +2,7 @@
   "name": "Loona Redukce datového toku MP3",
   "short_name": "Redukce datového toku MP3",
   "description": "Bezplatná redukce datového toku MP3: zmenšete soubory MP3 překódováním na 64–320 kbps. Menší soubory pro zprávy, e-mail a úložiště — ve vašem prohlížeči.",
-  "id": "/loona-audio-tools/cs/mp3-bitrate-reducer/",
+  "id": "/cs/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

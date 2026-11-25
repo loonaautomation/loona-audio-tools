@@ -2,7 +2,7 @@
   "name": "Loona AAC ke WAV",
   "short_name": "AAC ke WAV",
   "description": "Konverter AAC-ke-WAV gratis: konversi audio AAC ke WAV di browser Anda. Tanpa pendaftaran, tanpa unggahan, tanpa watermark.",
-  "id": "/loona-audio-tools/id/aac-to-wav-converter/",
+  "id": "/id/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

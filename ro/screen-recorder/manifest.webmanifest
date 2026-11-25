@@ -2,7 +2,7 @@
   "name": "Loona Înregistrator de ecran Online Gratuit",
   "short_name": "Înregistrator de ecran Online Gratuit",
   "description": "Înregistrează-ți ecranul, o filă de browser sau o fereastră, gratuit, în browserul tău - cu sunet de microfon, dacă îl vrei. Fără înregistrare, fără încărcare, se descarcă ca WebM.",
-  "id": "/loona-audio-tools/ro/screen-recorder/",
+  "id": "/ro/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

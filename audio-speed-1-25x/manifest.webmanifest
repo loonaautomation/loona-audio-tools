@@ -2,7 +2,7 @@
   "name": "Loona Audio Speed 1.25x",
   "short_name": "Audio Speed 1.25x",
   "description": "Free audio speed 1.25x changer: change any audio file to 1.25x speed in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/audio-speed-1-25x/",
+  "id": "/audio-speed-1-25x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

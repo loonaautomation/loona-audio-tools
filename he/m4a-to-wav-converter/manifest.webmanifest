@@ -2,7 +2,7 @@
   "name": "Loona M4A ל-WAV",
   "short_name": "M4A ל-WAV",
   "description": "ממיר M4A ל-WAV בחינם: המירו שמע M4A ל-WAV בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/m4a-to-wav-converter/",
+  "id": "/he/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

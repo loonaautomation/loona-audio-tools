@@ -2,7 +2,7 @@
   "name": "Loona Áudio de Entrevista para MP3",
   "short_name": "Áudio de Entrevista para MP3",
   "description": "Áudio de Entrevista para MP3 grátis: converta e prepare áudio no seu navegador. Sem cadastro, sem envio.",
-  "id": "/loona-audio-tools/pt-br/interview-audio-to-mp3/",
+  "id": "/pt-br/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

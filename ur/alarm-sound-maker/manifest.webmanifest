@@ -2,7 +2,7 @@
   "name": "Loona الارم ساؤنڈ میکر",
   "short_name": "الارم ساؤنڈ میکر",
   "description": "مفت الارم ساؤنڈ میکر: اپنے براؤزر میں آڈیو تراشیں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-audio-tools/ur/alarm-sound-maker/",
+  "id": "/ur/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

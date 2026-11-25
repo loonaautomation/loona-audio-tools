@@ -2,7 +2,7 @@
   "name": "Loona Webbkameratest Online gratis",
   "short_name": "Webbkameratest Online gratis",
   "description": "Testa din webbkamera gratis i din webbläsare: liveförhandsgranskning, verklig avläsning av upplösning och bildfrekvens, spegelväxling och nedladdning av ett ögonblicksfoto. Ingenting laddas upp – din kamera används bara lokalt.",
-  "id": "/loona-audio-tools/sv/webcam-test/",
+  "id": "/sv/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

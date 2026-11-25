@@ -2,7 +2,7 @@
   "name": "Loona เครื่องบันทึกหน้าจอ ออนไลน์ฟรี",
   "short_name": "เครื่องบันทึกหน้าจอ ออนไลน์ฟรี",
   "description": "บันทึกหน้าจอ แท็บ หรือหน้าต่างของคุณฟรีในเบราว์เซอร์ - พร้อมเสียงไมโครโฟนหากคุณต้องการ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด ดาวน์โหลดเป็น WebM",
-  "id": "/loona-audio-tools/th/screen-recorder/",
+  "id": "/th/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

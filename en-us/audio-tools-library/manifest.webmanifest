@@ -2,7 +2,7 @@
   "name": "Loona Audio Converter - Convert Audio Files Online Free",
   "short_name": "Audio Converter - Convert Audio Files Online Free",
   "description": "The full Loona Audio Tools library: MP3/WAV/OGG/M4A/FLAC/AAC converters, bitrate targets, speed presets and use-case tools.",
-  "id": "/loona-audio-tools/en-us/audio-tools-library/",
+  "id": "/en-us/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

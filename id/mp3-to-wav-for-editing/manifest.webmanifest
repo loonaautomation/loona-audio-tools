@@ -2,7 +2,7 @@
   "name": "Loona MP3 ke WAV untuk Pengeditan",
   "short_name": "MP3 ke WAV untuk Pengeditan",
   "description": "MP3 ke WAV untuk Pengeditan Gratis: konversi dan siapkan audio di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/mp3-to-wav-for-editing/",
+  "id": "/id/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

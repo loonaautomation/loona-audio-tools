@@ -2,7 +2,7 @@
   "name": "Loona MP3 til WAV til redigering",
   "short_name": "MP3 til WAV til redigering",
   "description": "Gratis MP3 til WAV til redigering: konverter og klargør lyd i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/mp3-to-wav-for-editing/",
+  "id": "/da/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

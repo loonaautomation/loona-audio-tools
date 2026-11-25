@@ -2,7 +2,7 @@
   "name": "Loona M4A MP3:ksi",
   "short_name": "M4A MP3:ksi",
   "description": "Ilmainen M4A–MP3-muunnin: muunna M4A-ääni MP3-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/m4a-to-mp3-converter/",
+  "id": "/fi/m4a-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

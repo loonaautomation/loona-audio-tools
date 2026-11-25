@@ -2,7 +2,7 @@
   "name": "Loona سرعة الصوت 1.25x",
   "short_name": "سرعة الصوت 1.25x",
   "description": "مغيّر سرعة صوت 1.25x مجاني: غيّر أي ملف صوتي إلى سرعة 1.25x في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/audio-speed-1-25x/",
+  "id": "/ar/audio-speed-1-25x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

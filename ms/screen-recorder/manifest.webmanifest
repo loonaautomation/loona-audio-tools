@@ -2,7 +2,7 @@
   "name": "Loona Perakam Skrin Dalam Talian Percuma",
   "short_name": "Perakam Skrin Dalam Talian Percuma",
   "description": "Rakam skrin, tab atau tetingkap anda secara percuma dalam pelayar anda - dengan audio mikrofon jika anda mahukannya. Tanpa pendaftaran, tanpa muat naik, dimuat turun sebagai WebM.",
-  "id": "/loona-audio-tools/ms/screen-recorder/",
+  "id": "/ms/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

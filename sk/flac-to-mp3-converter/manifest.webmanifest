@@ -2,7 +2,7 @@
   "name": "Loona FLAC na MP3",
   "short_name": "FLAC na MP3",
   "description": "Bezplatný prevodník FLAC na MP3: preveďte zvuk FLAC na MP3 vo svojom prehliadači. Bez registrácie, bez nahrávania na server, bez vodoznaku.",
-  "id": "/loona-audio-tools/sk/flac-to-mp3-converter/",
+  "id": "/sk/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

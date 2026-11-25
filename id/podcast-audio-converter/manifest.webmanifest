@@ -2,7 +2,7 @@
   "name": "Loona Konverter Audio Podcast",
   "short_name": "Konverter Audio Podcast",
   "description": "Konverter Audio Podcast Gratis: konversi dan siapkan audio di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/podcast-audio-converter/",
+  "id": "/id/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

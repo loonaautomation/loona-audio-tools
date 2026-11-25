@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/subtitle-editor/",
+  "id": "/en-gb/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

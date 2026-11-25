@@ -2,7 +2,7 @@
   "name": "Loona Biblioteca de instrumente audio",
   "short_name": "Biblioteca de instrumente audio",
   "description": "Întreaga bibliotecă Loona Audio Tools: convertoare MP3/WAV/OGG/M4A/FLAC/AAC, valori țintă pentru rata de biți, presetări de viteză și instrumente pentru cazuri de utilizare.",
-  "id": "/loona-audio-tools/ro/audio-tools-library/",
+  "id": "/ro/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

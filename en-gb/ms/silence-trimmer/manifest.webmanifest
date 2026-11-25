@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/silence-trimmer/",
+  "id": "/en-gb/ms/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

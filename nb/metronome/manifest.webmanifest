@@ -2,7 +2,7 @@
   "name": "Loona Metronom gratis på nett",
   "short_name": "Metronom gratis på nett",
   "description": "Gratis nettbasert metronom med en BPM-glidebryter fra 30 til 240, taktarter, underdelinger, et aksentuert første slag, en visuell puls og tapp-tempo. Ingen registrering, ingenting lastet opp - den kjører i nettleseren din.",
-  "id": "/loona-audio-tools/nb/metronome/",
+  "id": "/nb/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

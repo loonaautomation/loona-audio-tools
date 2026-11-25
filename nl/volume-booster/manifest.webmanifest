@@ -2,7 +2,7 @@
   "name": "Loona Volumeversterker Online Gratis",
   "short_name": "Volumeversterker Online Gratis",
   "description": "Versterk het audiovolume gratis online. Maak zachte MP3-, WAV-, M4A- en OGG-opnamen tot 300% luider, of normaliseer pieken veilig, en exporteer als WAV. Geen registratie, en je audio verlaat je apparaat nooit.",
-  "id": "/loona-audio-tools/nl/volume-booster/",
+  "id": "/nl/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

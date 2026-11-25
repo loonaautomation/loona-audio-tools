@@ -2,7 +2,7 @@
   "name": "Loona Editor titulků SRT Online zdarma",
   "short_name": "Editor titulků SRT online",
   "description": "Upravujte soubory titulků SRT a WebVTT online zdarma: opravte text a časování titulků, posuňte všechny repliky najednou, opravte překrývající se repliky a převádějte SRT na VTT. Bez registrace a váš soubor titulků nikdy neopustí vaše zařízení.",
-  "id": "/loona-audio-tools/cs/subtitle-editor/",
+  "id": "/cs/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

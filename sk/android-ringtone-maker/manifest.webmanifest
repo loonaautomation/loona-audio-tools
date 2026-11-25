@@ -2,7 +2,7 @@
   "name": "Loona Tvorca zvonení pre Android",
   "short_name": "Tvorca zvonení pre Android",
   "description": "Tvorca zvonení pre Android zadarmo: orezajte zvuk vo svojom prehliadači. Bez registrácie, bez nahrávania na server.",
-  "id": "/loona-audio-tools/sk/android-ringtone-maker/",
+  "id": "/sk/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

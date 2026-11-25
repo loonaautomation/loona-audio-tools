@@ -2,7 +2,7 @@
   "name": "Loona Képernyőfelvevő Online ingyen",
   "short_name": "Képernyőfelvevő Online ingyen",
   "description": "Rögzítse a képernyőjét, egy böngészőfület vagy egy ablakot ingyen a böngészőjében - mikrofonhanggal, ha szeretné. Regisztráció nélkül, feltöltés nélkül, WebM-ként töltődik le.",
-  "id": "/loona-audio-tools/hu/screen-recorder/",
+  "id": "/hu/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

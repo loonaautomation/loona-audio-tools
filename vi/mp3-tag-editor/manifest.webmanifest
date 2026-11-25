@@ -2,7 +2,7 @@
   "name": "Loona Trình chỉnh sửa thẻ MP3 Trực tuyến miễn phí",
   "short_name": "Trình chỉnh sửa thẻ MP3 Trực tuyến miễn phí",
   "description": "Xem và chỉnh sửa thẻ ID3 MP3 trực tuyến miễn phí - tiêu đề, nghệ sĩ, album, năm và ảnh bìa - mà không mã hóa lại âm thanh. Các khung khác được giữ nguyên, thẻ có thể bị loại bỏ hoàn toàn, và MP3 của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-audio-tools/vi/mp3-tag-editor/",
+  "id": "/vi/mp3-tag-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

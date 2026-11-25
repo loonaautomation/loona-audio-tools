@@ -2,7 +2,7 @@
   "name": "Loona מגביר עוצמת קול בחינם באינטרנט",
   "short_name": "מגביר עוצמת קול בחינם באינטרנט",
   "description": "הגברת עוצמת קול באינטרנט בחינם. הפכו הקלטות MP3, WAV, M4A ו-OGG שקטות לחזקות יותר עד 300%, או נרמלו פסגות בבטחה, וייצאו כ-WAV. ללא הרשמה, והשמע שלכם לעולם אינו עוזב את המכשיר שלכם.",
-  "id": "/loona-audio-tools/he/volume-booster/",
+  "id": "/he/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

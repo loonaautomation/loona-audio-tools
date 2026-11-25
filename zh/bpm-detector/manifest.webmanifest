@@ -2,7 +2,7 @@
   "name": "Loona BPM 检测器 免费在线",
   "short_name": "BPM 检测器 免费在线",
   "description": "在线免费查找歌曲的 BPM。检测器在您的浏览器中分析节拍，并显示速度、每拍秒数和可信度评级——外加一个拍速工具。无需注册，您的音频从不离开您的设备。",
-  "id": "/loona-audio-tools/zh/bpm-detector/",
+  "id": "/zh/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

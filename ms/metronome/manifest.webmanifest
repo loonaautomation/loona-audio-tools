@@ -2,7 +2,7 @@
   "name": "Loona Metronom Dalam Talian Percuma",
   "short_name": "Metronom Dalam Talian Percuma",
   "description": "Metronom dalam talian percuma dengan peluncur BPM dari 30 hingga 240, tanda masa, pecahan, rentak pertama beraksen, denyutan visual dan ketuk tempo. Tanpa pendaftaran, tiada apa-apa dimuat naik - ia berjalan dalam pelayar anda.",
-  "id": "/loona-audio-tools/ms/metronome/",
+  "id": "/ms/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

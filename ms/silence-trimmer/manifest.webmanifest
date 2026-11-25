@@ -2,7 +2,7 @@
   "name": "Loona Pemangkas Senyap Dalam Talian Percuma",
   "short_name": "Pemangkas Senyap Dalam Talian Percuma",
   "description": "Buang kesenyapan dari permulaan dan penghujung audio dalam talian secara percuma. Pemangkas mengukur saat senyap, memangkasnya pada ambang dB yang boleh dilaraskan dengan pelapik, dan mengeksport WAV. Tanpa pendaftaran, dan audio anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-audio-tools/ms/silence-trimmer/",
+  "id": "/ms/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

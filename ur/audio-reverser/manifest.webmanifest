@@ -2,7 +2,7 @@
   "name": "Loona آڈیو ریورسر آن لائن مفت",
   "short_name": "آڈیو ریورسر آن لائن مفت",
   "description": "آڈیو آن لائن مفت الٹیں۔ کوئی بھی MP3، WAV، M4A یا OGG فائل الٹی چلائیں اور الٹی آڈیو کو WAV کے طور پر ڈاؤن لوڈ کریں۔ کوئی سائن اپ نہیں، اور آپ کی آڈیو کبھی آپ کی ڈیوائس نہیں چھوڑتی۔",
-  "id": "/loona-audio-tools/ur/audio-reverser/",
+  "id": "/ur/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

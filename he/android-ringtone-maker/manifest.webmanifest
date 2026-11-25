@@ -2,7 +2,7 @@
   "name": "Loona יוצר רינגטונים ל-Android",
   "short_name": "יוצר רינגטונים ל-Android",
   "description": "יוצר רינגטונים ל-Android בחינם: גזרו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/android-ringtone-maker/",
+  "id": "/he/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

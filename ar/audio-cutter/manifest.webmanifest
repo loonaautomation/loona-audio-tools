@@ -2,7 +2,7 @@
   "name": "Loona أداة قص الصوت مجاني عبر الإنترنت",
   "short_name": "أداة قص الصوت مجاني عبر الإنترنت",
   "description": "اقطع وقصّ ملفات الصوت عبر الإنترنت مجانًا. قصّ MP3 وWAV وM4A وOGG بموجة صوتية مرئية، دون حاجة إلى تسجيل. يُعالج صوتك بخصوصية في متصفحك ويُصدّر بصيغة WAV.",
-  "id": "/loona-audio-tools/ar/audio-cutter/",
+  "id": "/ar/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hangpostaüdvözlés-készítő",
   "short_name": "Hangpostaüdvözlés-készítő",
   "description": "Ingyenes Hangpostaüdvözlés-készítő: vágjon hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/voicemail-greeting-maker/",
+  "id": "/hu/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

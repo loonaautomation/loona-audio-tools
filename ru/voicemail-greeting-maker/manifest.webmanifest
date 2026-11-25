@@ -2,7 +2,7 @@
   "name": "Loona Создание приветствия голосовой почты",
   "short_name": "Создание приветствия голосовой почты",
   "description": "Бесплатное создание приветствия голосовой почты: обрезайте аудио в вашем браузере. Без регистрации, без загрузки на сервер.",
-  "id": "/loona-audio-tools/ru/voicemail-greeting-maker/",
+  "id": "/ru/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

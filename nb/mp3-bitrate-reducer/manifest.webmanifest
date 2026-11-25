@@ -2,7 +2,7 @@
   "name": "Loona MP3-bitrate-reduserer",
   "short_name": "MP3-bitrate-reduserer",
   "description": "Gratis MP3-bitrate-reduserer: krymp MP3-filer ved å kode på nytt ved 64–320 kbps. Mindre filer til meldinger, e-post og lagring — i nettleseren din.",
-  "id": "/loona-audio-tools/nb/mp3-bitrate-reducer/",
+  "id": "/nb/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

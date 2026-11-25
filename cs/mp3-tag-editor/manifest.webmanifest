@@ -2,7 +2,7 @@
   "name": "Loona Editor značek MP3 Online zdarma",
   "short_name": "Editor značek MP3 Online zdarma",
   "description": "Zobrazujte a upravujte značky ID3 v MP3 online zdarma – název, interpreta, album, rok a obrázek obalu – bez opětovného kódování zvuku. Ostatní rámce jsou zachovány, značky lze zcela odstranit a vaše MP3 nikdy neopustí vaše zařízení.",
-  "id": "/loona-audio-tools/cs/mp3-tag-editor/",
+  "id": "/cs/mp3-tag-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

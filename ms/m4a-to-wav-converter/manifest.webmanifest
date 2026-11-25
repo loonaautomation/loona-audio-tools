@@ -2,7 +2,7 @@
   "name": "Loona M4A kepada WAV",
   "short_name": "M4A kepada WAV",
   "description": "Penukar M4A-ke-WAV percuma: tukar audio M4A kepada WAV dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik, tanpa tera air.",
-  "id": "/loona-audio-tools/ms/m4a-to-wav-converter/",
+  "id": "/ms/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

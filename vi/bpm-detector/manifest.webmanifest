@@ -2,7 +2,7 @@
   "name": "Loona Trình phát hiện BPM Trực tuyến miễn phí",
   "short_name": "Trình phát hiện BPM Trực tuyến miễn phí",
   "description": "Tìm BPM của một bài hát trực tuyến miễn phí. Công cụ phát hiện phân tích nhịp trong trình duyệt của bạn và hiển thị nhịp độ, số giây mỗi nhịp và đánh giá độ tin cậy - cộng với công cụ tap-tempo. Không cần đăng ký, và âm thanh của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-audio-tools/vi/bpm-detector/",
+  "id": "/vi/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

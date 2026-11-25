@@ -2,7 +2,7 @@
   "name": "Loona Bộ chuyển đổi âm thanh Trực tuyến miễn phí",
   "short_name": "Bộ chuyển đổi âm thanh Trực tuyến miễn phí",
   "description": "Chuyển đổi file âm thanh trực tuyến miễn phí - chuyển MP3, WAV, OGG, M4A, WebM và hơn nữa thành WAV hoặc MP3 (128, 192 hoặc 320 kbps) với tốc độ lấy mẫu được giữ nguyên. Không cần đăng ký, và âm thanh của bạn không bao giờ rời khỏi thiết bị, vì việc giải mã phụ thuộc vào trình duyệt của bạn và chuyển đổi chạy 100% cục bộ.",
-  "id": "/loona-audio-tools/vi/audio-converter/",
+  "id": "/vi/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

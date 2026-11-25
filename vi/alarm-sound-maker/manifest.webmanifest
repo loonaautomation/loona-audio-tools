@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo âm thanh báo thức",
   "short_name": "Trình tạo âm thanh báo thức",
   "description": "Trình tạo âm thanh báo thức miễn phí: cắt âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/alarm-sound-maker/",
+  "id": "/vi/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

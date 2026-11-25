@@ -2,7 +2,7 @@
   "name": "Loona Äänen kääntäjä Ilmainen verkossa",
   "short_name": "Äänen kääntäjä Ilmainen verkossa",
   "description": "Käännä ääni verkossa ilmaiseksi. Toista mikä tahansa MP3-, WAV-, M4A- tai OGG-tiedosto takaperin ja lataa käännetty ääni WAV-muodossa. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/audio-reverser/",
+  "id": "/fi/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

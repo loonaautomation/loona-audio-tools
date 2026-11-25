@@ -2,7 +2,7 @@
   "name": "Loona Instrument de eliminare a tăcerii Online Gratuit",
   "short_name": "Instrument de eliminare a tăcerii Online Gratuit",
   "description": "Elimină tăcerea de la începutul și sfârșitul sunetului, online gratuit. Instrumentul de tăiere măsoară secundele de tăcere, le taie la un prag dB reglabil, cu marjă, și exportă WAV. Fără înregistrare, iar sunetul tău nu părăsește niciodată dispozitivul.",
-  "id": "/loona-audio-tools/ro/silence-trimmer/",
+  "id": "/ro/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

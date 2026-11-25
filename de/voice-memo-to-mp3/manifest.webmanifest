@@ -2,7 +2,7 @@
   "name": "Loona Sprachmemo in MP3",
   "short_name": "Sprachmemo in MP3",
   "description": "Kostenlos: Sprachmemo in MP3: Konvertieren und bereiten Sie Audio in Ihrem Browser vor. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/voice-memo-to-mp3/",
+  "id": "/de/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

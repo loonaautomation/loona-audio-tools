@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Tons Online Grátis",
   "short_name": "Gerador de Tons Online Grátis",
   "description": "Gere tons de teste online grátis. Formas de onda senoidal, quadrada, triangular e dente de serra de 20 Hz a 20,000 Hz - toque na hora ou transfira como WAV. Sem registo, funciona 100% no seu navegador.",
-  "id": "/loona-audio-tools/pt-pt/tone-generator/",
+  "id": "/pt-pt/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

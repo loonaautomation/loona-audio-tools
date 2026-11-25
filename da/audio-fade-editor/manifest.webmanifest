@@ -2,7 +2,7 @@
   "name": "Loona Lydfade-editor gratis online",
   "short_name": "Lydfade-editor gratis online",
   "description": "Tilføj fade-in og fade-out til lyd online gratis. Indstil fades på op til 10 sekunder på enhver MP3-, WAV-, M4A- eller OGG-fil, lyt til resultatet, og eksporter som WAV. Ingen tilmelding, og din lyd forlader aldrig din enhed.",
-  "id": "/loona-audio-tools/da/audio-fade-editor/",
+  "id": "/da/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

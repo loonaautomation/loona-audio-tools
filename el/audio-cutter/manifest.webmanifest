@@ -2,7 +2,7 @@
   "name": "Loona Εργαλείο Κοπής Ήχου Δωρεάν Online",
   "short_name": "Εργαλείο Κοπής Ήχου Δωρεάν Online",
   "description": "Κόψτε και περικόψτε αρχεία ήχου δωρεάν online. Κόψτε MP3, WAV, M4A και OGG με οπτική κυματομορφή, χωρίς να χρειάζεται εγγραφή. Ο ήχος σας επεξεργάζεται ιδιωτικά στο πρόγραμμα περιήγησής σας και εξάγεται ως WAV.",
-  "id": "/loona-audio-tools/el/audio-cutter/",
+  "id": "/el/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

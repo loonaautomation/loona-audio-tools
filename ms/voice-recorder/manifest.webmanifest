@@ -2,7 +2,7 @@
   "name": "Loona Perakam Suara Dalam Talian Percuma",
   "short_name": "Perakam Suara Dalam Talian Percuma",
   "description": "Rakam suara anda dalam talian secara percuma dengan mikrofon anda. Dengar semula dan muat turun rakaman anda - ia tidak pernah meninggalkan peranti anda. Tanpa pendaftaran, tanpa muat naik, berfungsi pada telefon dan komputer.",
-  "id": "/loona-audio-tools/ms/voice-recorder/",
+  "id": "/ms/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

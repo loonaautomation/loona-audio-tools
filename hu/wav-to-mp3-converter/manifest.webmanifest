@@ -2,7 +2,7 @@
   "name": "Loona WAV-ból MP3-ba",
   "short_name": "WAV-ból MP3-ba",
   "description": "Ingyenes WAV-ból MP3-ba konvertáló: konvertálja a WAV-hangot MP3-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/wav-to-mp3-converter/",
+  "id": "/hu/wav-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

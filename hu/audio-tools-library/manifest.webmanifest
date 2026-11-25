@@ -2,7 +2,7 @@
   "name": "Loona Hangeszköz-könyvtár",
   "short_name": "Hangeszköz-könyvtár",
   "description": "A teljes Loona Audio Tools könyvtár: MP3/WAV/OGG/M4A/FLAC/AAC konvertálók, bitsebesség-célok, sebesség-előbeállítások és felhasználási célú eszközök.",
-  "id": "/loona-audio-tools/hu/audio-tools-library/",
+  "id": "/hu/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

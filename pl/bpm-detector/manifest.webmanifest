@@ -2,7 +2,7 @@
   "name": "Loona Detektor BPM Online za darmo",
   "short_name": "Detektor BPM Online za darmo",
   "description": "Znajdź BPM piosenki online za darmo. Detektor analizuje rytm w przeglądarce i pokazuje tempo, liczbę sekund na uderzenie oraz ocenę pewności - a także narzędzie tempa uderzanego. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/bpm-detector/",
+  "id": "/pl/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

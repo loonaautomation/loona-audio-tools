@@ -2,7 +2,7 @@
   "name": "Loona Konverter MP3 256 kbps",
   "short_name": "Konverter MP3 256 kbps",
   "description": "Konverter MP3 256 kbps gratis: konversi berkas audio apa pun ke MP3 pada 256 kbps di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/mp3-256-kbps-converter/",
+  "id": "/id/mp3-256-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

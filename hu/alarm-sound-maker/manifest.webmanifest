@@ -2,7 +2,7 @@
   "name": "Loona Ébresztőhang-készítő",
   "short_name": "Ébresztőhang-készítő",
   "description": "Ingyenes Ébresztőhang-készítő: vágjon hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/alarm-sound-maker/",
+  "id": "/hu/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

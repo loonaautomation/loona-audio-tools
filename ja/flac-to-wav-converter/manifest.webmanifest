@@ -2,7 +2,7 @@
   "name": "Loona FLACからWAVへ",
   "short_name": "FLACからWAVへ",
   "description": "無料のFLAC-to-WAVコンバーター：ブラウザでFLAC音声をWAVに変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/flac-to-wav-converter/",
+  "id": "/ja/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

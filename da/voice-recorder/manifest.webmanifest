@@ -2,7 +2,7 @@
   "name": "Loona Stemmeoptager gratis online",
   "short_name": "Stemmeoptager gratis online",
   "description": "Optag din stemme online gratis med din mikrofon. Lyt tilbage, og download din optagelse - den forlader aldrig din enhed. Ingen tilmelding, ingen uploads, fungerer på telefon og computer.",
-  "id": "/loona-audio-tools/da/voice-recorder/",
+  "id": "/da/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Intervjuljud till MP3",
   "short_name": "Intervjuljud till MP3",
   "description": "Gratis intervjuljud till MP3: konvertera och förbered ljud i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/interview-audio-to-mp3/",
+  "id": "/sv/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

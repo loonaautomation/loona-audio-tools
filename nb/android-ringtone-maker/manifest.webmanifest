@@ -2,7 +2,7 @@
   "name": "Loona Ringetonelager for Android",
   "short_name": "Ringetonelager for Android",
   "description": "Gratis ringetonelager for Android: trim lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/android-ringtone-maker/",
+  "id": "/nb/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

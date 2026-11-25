@@ -2,7 +2,7 @@
   "name": "Loona Notifikationslydmager",
   "short_name": "Notifikationslydmager",
   "description": "Gratis Notifikationslydmager: klip lyd i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/notification-sound-maker/",
+  "id": "/da/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

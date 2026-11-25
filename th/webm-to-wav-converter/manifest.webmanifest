@@ -2,7 +2,7 @@
   "name": "Loona WebM เป็น WAV",
   "short_name": "WebM เป็น WAV",
   "description": "ตัวแปลง WebM เป็น WAV ฟรี: แปลงเสียง WebM เป็น WAV ในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด ไม่มีลายน้ำ",
-  "id": "/loona-audio-tools/th/webm-to-wav-converter/",
+  "id": "/th/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

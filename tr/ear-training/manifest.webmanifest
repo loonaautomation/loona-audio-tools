@@ -2,7 +2,7 @@
   "name": "Loona Kulak Eğitimi Çevrimiçi Ücretsiz",
   "short_name": "Kulak Eğitimi Çevrimiçi Ücretsiz",
   "description": "Kulağınızı çevrimiçi ve ücretsiz eğitin - iki nota duyun, aralığı adlandırın ve puanınızı ve serinizi oluşturun. Tam oktava kadar kolay, orta ve zor seviyeler. Kayıt yok, her şey tarayıcınızda üretilir.",
-  "id": "/loona-audio-tools/tr/ear-training/",
+  "id": "/tr/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

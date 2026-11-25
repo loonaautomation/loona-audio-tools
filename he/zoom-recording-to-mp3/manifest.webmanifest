@@ -2,7 +2,7 @@
   "name": "Loona הקלטות Zoom ל-MP3",
   "short_name": "הקלטות Zoom ל-MP3",
   "description": "הקלטות Zoom ל-MP3 בחינם: המירו והכינו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/zoom-recording-to-mp3/",
+  "id": "/he/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

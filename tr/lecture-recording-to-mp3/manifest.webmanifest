@@ -2,7 +2,7 @@
   "name": "Loona Ders Kaydından MP3'e",
   "short_name": "Ders Kaydından MP3'e",
   "description": "Ücretsiz Ders Kaydından MP3'e: tarayıcınızda sesi dönüştürün ve hazırlayın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/lecture-recording-to-mp3/",
+  "id": "/tr/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

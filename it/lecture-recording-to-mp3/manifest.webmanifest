@@ -2,7 +2,7 @@
   "name": "Loona Registrazione lezione in MP3",
   "short_name": "Registrazione lezione in MP3",
   "description": "Registrazione lezione in MP3 gratuito: converti e prepara l'audio nel tuo browser. Senza registrazione, nessun caricamento.",
-  "id": "/loona-audio-tools/it/lecture-recording-to-mp3/",
+  "id": "/it/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

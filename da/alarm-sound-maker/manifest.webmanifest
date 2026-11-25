@@ -2,7 +2,7 @@
   "name": "Loona Alarmlydmager",
   "short_name": "Alarmlydmager",
   "description": "Gratis Alarmlydmager: klip lyd i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/alarm-sound-maker/",
+  "id": "/da/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

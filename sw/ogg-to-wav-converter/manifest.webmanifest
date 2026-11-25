@@ -2,7 +2,7 @@
   "name": "Loona OGG hadi WAV",
   "short_name": "OGG hadi WAV",
   "description": "Kibadilishaji cha bure cha OGG-hadi-WAV: badilisha sauti ya OGG kuwa WAV katika kivinjari chako. Hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-audio-tools/sw/ogg-to-wav-converter/",
+  "id": "/sw/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

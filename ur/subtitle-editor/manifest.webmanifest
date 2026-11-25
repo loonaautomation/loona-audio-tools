@@ -2,7 +2,7 @@
   "name": "Loona SRT سب ٹائٹل ایڈیٹر آن لائن مفت",
   "short_name": "SRT سب ٹائٹل ایڈیٹر Online",
   "description": "SRT اور WebVTT سب ٹائٹل فائلوں میں آن لائن مفت ترمیم کریں: سب ٹائٹل متن اور اوقات درست کریں، تمام کیوز ایک ساتھ منتقل کریں، اوورلیپنگ کیوز مرمت کریں اور SRT کو VTT میں تبدیل کریں۔ کوئی سائن اپ نہیں، اور آپ کی سب ٹائٹل فائل کبھی آپ کی ڈیوائس نہیں چھوڑتی۔",
-  "id": "/loona-audio-tools/ur/subtitle-editor/",
+  "id": "/ur/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

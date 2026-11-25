@@ -2,7 +2,7 @@
   "name": "Loona Kitunzi cha Ala za Muziki Bure Mtandaoni",
   "short_name": "Kitunzi cha Ala za Muziki Bure Mtandaoni",
   "description": "Rekebisha ala yoyote mtandaoni bure kwa maikrofoni yako. Kitunzi cha kromatiki huonyesha jina la noti, masafa halisi, na senti ngapi uko kali au bapa. Usahihi umesemwa kwa uaminifu, hakuna kujisajili, na sauti yako haiondoki kamwe kwenye kifaa chako.",
-  "id": "/loona-audio-tools/sw/instrument-tuner/",
+  "id": "/sw/instrument-tuner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

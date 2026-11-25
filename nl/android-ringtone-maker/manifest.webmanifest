@@ -2,7 +2,7 @@
   "name": "Loona Android Ringtone-maker",
   "short_name": "Android Ringtone-maker",
   "description": "Gratis Android Ringtone-maker: knip audio in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/android-ringtone-maker/",
+  "id": "/nl/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

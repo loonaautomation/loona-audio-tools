@@ -2,7 +2,7 @@
   "name": "Loona Lydhastighedsændrer gratis online",
   "short_name": "Lydhastighedsændrer Online",
   "description": "Ændr lydhastighed online gratis. Sæt hastigheden op eller ned på MP3, WAV, M4A og OGG fra 0.25x til 3x, lyt med det samme, og eksporter som WAV. Ingen tilmelding, og din lyd forlader aldrig din enhed.",
-  "id": "/loona-audio-tools/da/audio-speed-changer/",
+  "id": "/da/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

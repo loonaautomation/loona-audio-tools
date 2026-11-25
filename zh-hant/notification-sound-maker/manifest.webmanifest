@@ -2,7 +2,7 @@
   "name": "Loona 通知聲音製作器",
   "short_name": "通知聲音製作器",
   "description": "免費通知聲音製作器：在您的瀏覽器中修剪音訊。無需註冊，無需上傳。",
-  "id": "/loona-audio-tools/zh-hant/notification-sound-maker/",
+  "id": "/zh-hant/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

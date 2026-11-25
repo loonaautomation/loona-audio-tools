@@ -2,7 +2,7 @@
   "name": "Loona Hangegyesítő Online ingyen",
   "short_name": "Hangegyesítő Online ingyen",
   "description": "Egyesítsen hangfájlokat online ingyen. Kombináljon MP3-, WAV-, M4A- és OGG-fájlokat egyetlen sávvá az Ön által választott sorrendben, regisztráció nélkül. Privát módon, a böngészőjében feldolgozva, WAV-ként exportálva.",
-  "id": "/loona-audio-tools/hu/audio-joiner/",
+  "id": "/hu/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

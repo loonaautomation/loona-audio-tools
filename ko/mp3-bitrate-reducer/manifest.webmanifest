@@ -2,7 +2,7 @@
   "name": "Loona MP3 비트레이트 줄이기",
   "short_name": "MP3 비트레이트 줄이기",
   "description": "무료 MP3 비트레이트 줄이기: 64–320 kbps로 다시 인코딩해 MP3 파일을 줄이세요. 메신저, 이메일, 저장 공간을 위한 더 작은 파일 — 브라우저에서요.",
-  "id": "/loona-audio-tools/ko/mp3-bitrate-reducer/",
+  "id": "/ko/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

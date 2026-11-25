@@ -2,7 +2,7 @@
   "name": "Loona MP3 بٹ ریٹ کم کرنے والا",
   "short_name": "MP3 بٹ ریٹ کم کرنے والا",
   "description": "مفت MP3 بٹ ریٹ کم کرنے والا: 64–320 kbps پر دوبارہ انکوڈ کر کے MP3 فائلیں سکڑیں۔ پیغام رسانی، ای میل اور اسٹوریج کے لیے چھوٹی فائلیں — اپنے براؤزر میں۔",
-  "id": "/loona-audio-tools/ur/mp3-bitrate-reducer/",
+  "id": "/ur/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

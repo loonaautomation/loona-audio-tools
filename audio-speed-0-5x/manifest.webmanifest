@@ -2,7 +2,7 @@
   "name": "Loona Audio Speed 0.5x",
   "short_name": "Audio Speed 0.5x",
   "description": "Free audio speed 0.5x changer: change any audio file to 0.5x speed in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/audio-speed-0-5x/",
+  "id": "/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

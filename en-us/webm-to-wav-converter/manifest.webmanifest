@@ -2,7 +2,7 @@
   "name": "Loona Audio Converter - Convert Audio Files Online Free",
   "short_name": "Audio Converter - Convert Audio Files Online Free",
   "description": "Free WebM-to-WAV converter: convert WebM audio to WAV in your browser. No sign-up, no upload, no watermark.",
-  "id": "/loona-audio-tools/en-us/webm-to-wav-converter/",
+  "id": "/en-us/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

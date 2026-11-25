@@ -2,7 +2,7 @@
   "name": "Loona Ηχογράφηση Zoom σε MP3",
   "short_name": "Ηχογράφηση Zoom σε MP3",
   "description": "Δωρεάν Ηχογράφηση Zoom σε MP3: μετατρέψτε και προετοιμάστε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/zoom-recording-to-mp3/",
+  "id": "/el/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

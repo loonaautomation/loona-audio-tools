@@ -2,7 +2,7 @@
   "name": "Loona Notas de voz a MP3",
   "short_name": "Notas de voz a MP3",
   "description": "Notas de voz a MP3 gratuito: convierte y prepara audio en tu navegador. Sin registro, sin subida.",
-  "id": "/loona-audio-tools/es/voice-memo-to-mp3/",
+  "id": "/es/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

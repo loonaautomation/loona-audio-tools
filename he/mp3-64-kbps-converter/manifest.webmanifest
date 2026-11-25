@@ -2,7 +2,7 @@
   "name": "Loona ממיר MP3 64 kbps",
   "short_name": "ממיר MP3 64 kbps",
   "description": "ממיר MP3 בקצב 64 kbps בחינם: המירו כל קובץ שמע ל-MP3 בקצב 64 kbps בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/mp3-64-kbps-converter/",
+  "id": "/he/mp3-64-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

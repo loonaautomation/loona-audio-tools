@@ -2,7 +2,7 @@
   "name": "Loona آڈیو اسپیڈ چینجر آن لائن مفت",
   "short_name": "آڈیو اسپیڈ چینجر Online",
   "description": "آڈیو کی رفتار آن لائن مفت بدلیں۔ MP3، WAV، M4A اور OGG کو 0.25x سے 3x تک تیز یا آہستہ کریں، فوراً جھلک دیکھیں اور WAV کے طور پر برآمد کریں۔ کوئی سائن اپ نہیں، اور آپ کی آڈیو کبھی آپ کی ڈیوائس نہیں چھوڑتی۔",
-  "id": "/loona-audio-tools/ur/audio-speed-changer/",
+  "id": "/ur/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

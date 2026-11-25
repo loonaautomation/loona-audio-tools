@@ -2,7 +2,7 @@
   "name": "Loona Przycinarka audio Online za darmo",
   "short_name": "Przycinarka audio Online za darmo",
   "description": "Wycinaj i przycinaj pliki audio online za darmo. Przycinaj MP3, WAV, M4A i OGG przy użyciu wizualnego przebiegu fali, bez konieczności rejestracji. Dźwięk jest przetwarzany prywatnie w przeglądarce i eksportowany jako WAV.",
-  "id": "/loona-audio-tools/pl/audio-cutter/",
+  "id": "/pl/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

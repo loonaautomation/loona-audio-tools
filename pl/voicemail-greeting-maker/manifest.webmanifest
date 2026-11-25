@@ -2,7 +2,7 @@
   "name": "Loona Kreator powitania poczty głosowej",
   "short_name": "Kreator powitania poczty głosowej",
   "description": "Bezpłatny kreator powitania poczty głosowej: przycinaj dźwięk w przeglądarce. Bez rejestracji, bez przesyłania na serwer.",
-  "id": "/loona-audio-tools/pl/voicemail-greeting-maker/",
+  "id": "/pl/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

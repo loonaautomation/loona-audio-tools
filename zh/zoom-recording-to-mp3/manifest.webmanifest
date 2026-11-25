@@ -2,7 +2,7 @@
   "name": "Loona Zoom 录音转 MP3",
   "short_name": "Zoom 录音转 MP3",
   "description": "免费 Zoom 录音转 MP3：在您的浏览器中转换和准备音频。无需注册，无需上传。",
-  "id": "/loona-audio-tools/zh/zoom-recording-to-mp3/",
+  "id": "/zh/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

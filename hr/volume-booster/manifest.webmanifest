@@ -2,7 +2,7 @@
   "name": "Loona Pojačivač glasnoće Besplatno na mreži",
   "short_name": "Pojačivač glasnoće Besplatno na mreži",
   "description": "Pojačajte glasnoću zvuka besplatno na mreži. Učinite tihe MP3, WAV, M4A i OGG snimke do 300% glasnijima ili sigurno normalizirajte vrhove i izvezite kao WAV. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/volume-booster/",
+  "id": "/hr/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

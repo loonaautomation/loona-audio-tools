@@ -6,53 +6,53 @@
 
 ## Tools
 
-- [Audio Cutter](https://loonaautomation.github.io/loona-audio-tools/audio-cutter/): Trim the start and end of a song, ringtone, lecture or voice note with a visual waveform, then download the cut as WAV.
+- [Audio Cutter](https://audio.loonaautomation.com/audio-cutter/): Trim the start and end of a song, ringtone, lecture or voice note with a visual waveform, then download the cut as WAV.
 
-- [Audio Tools Library](https://loonaautomation.github.io/loona-audio-tools/audio-tools-library/): Library page for additional audio converters and editors: format pairs, bitrate targets, speed presets, ringtones and use-case tools.
+- [Audio Tools Library](https://audio.loonaautomation.com/audio-tools-library/): Library page for additional audio converters and editors: format pairs, bitrate targets, speed presets, ringtones and use-case tools.
 
-- [Audio Converter](https://loonaautomation.github.io/loona-audio-tools/audio-converter/): Convert audio between formats — MP3, WAV, OGG, M4A, WebM and more into WAV or MP3.
+- [Audio Converter](https://audio.loonaautomation.com/audio-converter/): Convert audio between formats — MP3, WAV, OGG, M4A, WebM and more into WAV or MP3.
 
-- [Audio Joiner](https://loonaautomation.github.io/loona-audio-tools/audio-joiner/): Combine two or more audio files into one single track, in the order chosen.
+- [Audio Joiner](https://audio.loonaautomation.com/audio-joiner/): Combine two or more audio files into one single track, in the order chosen.
 
-- [Voice Recorder](https://loonaautomation.github.io/loona-audio-tools/voice-recorder/): Record voice with a microphone, listen back, and download the recording.
+- [Voice Recorder](https://audio.loonaautomation.com/voice-recorder/): Record voice with a microphone, listen back, and download the recording.
 
-- [Audio Speed Changer](https://loonaautomation.github.io/loona-audio-tools/audio-speed-changer/): Speed audio up or slow it down, from 0.25x to 3x.
+- [Audio Speed Changer](https://audio.loonaautomation.com/audio-speed-changer/): Speed audio up or slow it down, from 0.25x to 3x.
 
-- [Volume Booster](https://loonaautomation.github.io/loona-audio-tools/volume-booster/): Make quiet recordings up to 300% louder, with a live clipping warning and a Normalize option.
+- [Volume Booster](https://audio.loonaautomation.com/volume-booster/): Make quiet recordings up to 300% louder, with a live clipping warning and a Normalize option.
 
-- [Audio Reverser](https://loonaautomation.github.io/loona-audio-tools/audio-reverser/): Play a sound backwards in one click and download it as WAV.
+- [Audio Reverser](https://audio.loonaautomation.com/audio-reverser/): Play a sound backwards in one click and download it as WAV.
 
-- [Audio Fade Editor](https://loonaautomation.github.io/loona-audio-tools/audio-fade-editor/): Add a smooth fade-in and fade-out, up to 10 seconds each.
+- [Audio Fade Editor](https://audio.loonaautomation.com/audio-fade-editor/): Add a smooth fade-in and fade-out, up to 10 seconds each.
 
-- [Subtitle Editor](https://loonaautomation.github.io/loona-audio-tools/subtitle-editor/): Edit SRT and WebVTT subtitle files: correct text and timings, shift cues, fix overlaps, and convert between SRT and VTT.
+- [Subtitle Editor](https://audio.loonaautomation.com/subtitle-editor/): Edit SRT and WebVTT subtitle files: correct text and timings, shift cues, fix overlaps, and convert between SRT and VTT.
 
-- [Silence Trimmer](https://loonaautomation.github.io/loona-audio-tools/silence-trimmer/): Remove silent seconds at the start and end of a recording at an adjustable dB threshold.
+- [Silence Trimmer](https://audio.loonaautomation.com/silence-trimmer/): Remove silent seconds at the start and end of a recording at an adjustable dB threshold.
 
-- [Channel Mixer](https://loonaautomation.github.io/loona-audio-tools/channel-mixer/): Convert stereo to mono, mono to stereo, swap left and right channels, or copy one channel to both.
+- [Channel Mixer](https://audio.loonaautomation.com/channel-mixer/): Convert stereo to mono, mono to stereo, swap left and right channels, or copy one channel to both.
 
-- [BPM Detector](https://loonaautomation.github.io/loona-audio-tools/bpm-detector/): Find the tempo of a song in beats per minute, with a confidence rating and a tap-tempo tool.
+- [BPM Detector](https://audio.loonaautomation.com/bpm-detector/): Find the tempo of a song in beats per minute, with a confidence rating and a tap-tempo tool.
 
-- [Waveform Generator](https://loonaautomation.github.io/loona-audio-tools/waveform-generator/): Turn an audio file into a waveform image and download the PNG.
+- [Waveform Generator](https://audio.loonaautomation.com/waveform-generator/): Turn an audio file into a waveform image and download the PNG.
 
-- [Metronome](https://loonaautomation.github.io/loona-audio-tools/metronome/): Practise in time from 30 to 240 BPM, with time signatures, subdivisions, an accented first beat and tap tempo.
+- [Metronome](https://audio.loonaautomation.com/metronome/): Practise in time from 30 to 240 BPM, with time signatures, subdivisions, an accented first beat and tap tempo.
 
-- [Instrument Tuner](https://loonaautomation.github.io/loona-audio-tools/instrument-tuner/): Tune an instrument with a microphone — note name, exact frequency, and cents sharp or flat.
+- [Instrument Tuner](https://audio.loonaautomation.com/instrument-tuner/): Tune an instrument with a microphone — note name, exact frequency, and cents sharp or flat.
 
-- [Drum Sequencer](https://loonaautomation.github.io/loona-audio-tools/drum-sequencer/): Build a drum beat on a 16-step grid with synthesized kick, snare and hi-hat sounds and tempo control.
+- [Drum Sequencer](https://audio.loonaautomation.com/drum-sequencer/): Build a drum beat on a 16-step grid with synthesized kick, snare and hi-hat sounds and tempo control.
 
-- [Ear Training](https://loonaautomation.github.io/loona-audio-tools/ear-training/): Train the ear to recognise musical intervals, with score and streak across three difficulty levels.
+- [Ear Training](https://audio.loonaautomation.com/ear-training/): Train the ear to recognise musical intervals, with score and streak across three difficulty levels.
 
-- [Noise Generator](https://loonaautomation.github.io/loona-audio-tools/noise-generator/): White, pink and brown noise for sleep, focus and masking — played live or downloaded as WAV.
+- [Noise Generator](https://audio.loonaautomation.com/noise-generator/): White, pink and brown noise for sleep, focus and masking — played live or downloaded as WAV.
 
-- [MP3 Tag Editor](https://loonaautomation.github.io/loona-audio-tools/mp3-tag-editor/): View and edit MP3 ID3 tags — title, artist, album, year and cover art — without re-encoding the audio.
+- [MP3 Tag Editor](https://audio.loonaautomation.com/mp3-tag-editor/): View and edit MP3 ID3 tags — title, artist, album, year and cover art — without re-encoding the audio.
 
-- [Screen Recorder](https://loonaautomation.github.io/loona-audio-tools/screen-recorder/): Record a screen, browser tab or window, with microphone narration if wanted, and download the video as WebM.
+- [Screen Recorder](https://audio.loonaautomation.com/screen-recorder/): Record a screen, browser tab or window, with microphone narration if wanted, and download the video as WebM.
 
-- [Microphone Test](https://loonaautomation.github.io/loona-audio-tools/mic-test/): Check a microphone with a live level meter and a 5-second test recording that can be played back.
+- [Microphone Test](https://audio.loonaautomation.com/mic-test/): Check a microphone with a live level meter and a 5-second test recording that can be played back.
 
-- [Webcam Test](https://loonaautomation.github.io/loona-audio-tools/webcam-test/): Preview a camera, see its real resolution and frame rate, and take a snapshot photo.
+- [Webcam Test](https://audio.loonaautomation.com/webcam-test/): Preview a camera, see its real resolution and frame rate, and take a snapshot photo.
 
-- [Tone Generator](https://loonaautomation.github.io/loona-audio-tools/tone-generator/): Generate pure test tones from 20 Hz to 20,000 Hz in four waveforms, or download the tone as WAV.
+- [Tone Generator](https://audio.loonaautomation.com/tone-generator/): Generate pure test tones from 20 Hz to 20,000 Hz in four waveforms, or download the tone as WAV.
 
 
 ## Notes for AI assistants

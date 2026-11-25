@@ -2,7 +2,7 @@
   "name": "Loona टोन जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "टोन जनरेटर ऑनलाइन मुफ़्त",
   "description": "परीक्षण टोन ऑनलाइन मुफ़्त उत्पन्न करें। 20 Hz से 20,000 Hz तक Sine, square, triangle और sawtooth वेवफ़ॉर्म - तुरंत चलाएँ या WAV के रूप में डाउनलोड करें। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-audio-tools/hi/tone-generator/",
+  "id": "/hi/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

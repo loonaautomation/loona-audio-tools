@@ -2,7 +2,7 @@
   "name": "Loona Enregistrement Zoom vers MP3",
   "short_name": "Enregistrement Zoom vers MP3",
   "description": "Enregistrement Zoom vers MP3 gratuit : convertissez et préparez l'audio dans votre navigateur. Sans inscription, sans téléversement.",
-  "id": "/loona-audio-tools/fr/zoom-recording-to-mp3/",
+  "id": "/fr/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

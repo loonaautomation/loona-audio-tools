@@ -2,7 +2,7 @@
   "name": "Loona Trening sluha Besplatno na mreži",
   "short_name": "Trening sluha Besplatno na mreži",
   "description": "Trenirajte svoj sluh besplatno na mreži - čujte dva tona, imenujte interval i gradite svoj rezultat i niz. Laka, srednja i teška razina do pune oktave. Bez registracije, sve se generira u vašem pregledniku.",
-  "id": "/loona-audio-tools/hr/ear-training/",
+  "id": "/hr/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

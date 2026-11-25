@@ -2,7 +2,7 @@
   "name": "Loona Glasovna bilješka u MP3",
   "short_name": "Glasovna bilješka u MP3",
   "description": "Besplatna glasovna bilješka u MP3: pretvorite i pripremite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/voice-memo-to-mp3/",
+  "id": "/hr/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Аудио обръщач безплатно онлайн",
   "short_name": "Аудио обръщач безплатно онлайн",
   "description": "Обръщайте аудио онлайн безплатно. Пускайте всеки MP3, WAV, M4A или OGG файл наобратно и изтегляйте обърнатото аудио като WAV. Без регистрация, а аудиото ви никога не напуска устройството ви.",
-  "id": "/loona-audio-tools/bg/audio-reverser/",
+  "id": "/bg/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

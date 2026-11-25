@@ -2,7 +2,7 @@
   "name": "Loona Hlasový záznamník Online zadarmo",
   "short_name": "Hlasový záznamník Online zadarmo",
   "description": "Nahrávajte svoj hlas online zadarmo mikrofónom. Vypočujte si a stiahnite si svoju nahrávku – nikdy neopustí vaše zariadenie. Bez registrácie, bez nahrávania na server, funguje na telefóne aj počítači.",
-  "id": "/loona-audio-tools/sk/voice-recorder/",
+  "id": "/sk/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 64 kbps কনভার্টার",
   "short_name": "MP3 64 kbps কনভার্টার",
   "description": "বিনামূল্যে MP3 64 kbps কনভার্টার: আপনার ব্রাউজারে যেকোনো অডিও ফাইল 64 kbps-এ MP3-তে রূপান্তর করুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
-  "id": "/loona-audio-tools/bn/mp3-64-kbps-converter/",
+  "id": "/bn/mp3-64-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

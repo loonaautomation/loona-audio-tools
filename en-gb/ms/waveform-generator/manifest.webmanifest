@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/waveform-generator/",
+  "id": "/en-gb/ms/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

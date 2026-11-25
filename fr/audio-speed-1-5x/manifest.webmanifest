@@ -2,7 +2,7 @@
   "name": "Loona Vitesse audio 1.5x",
   "short_name": "Vitesse audio 1.5x",
   "description": "Modificateur de vitesse audio 1.5x gratuit : changez n'importe quel fichier audio à la vitesse 1.5x dans votre navigateur. Sans inscription, sans téléversement.",
-  "id": "/loona-audio-tools/fr/audio-speed-1-5x/",
+  "id": "/fr/audio-speed-1-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

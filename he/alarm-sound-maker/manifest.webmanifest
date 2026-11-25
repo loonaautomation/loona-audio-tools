@@ -2,7 +2,7 @@
   "name": "Loona יוצר צלילי שעון מעורר",
   "short_name": "יוצר צלילי שעון מעורר",
   "description": "יוצר צלילי שעון מעורר בחינם: גזרו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/alarm-sound-maker/",
+  "id": "/he/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gehoortraining Online Gratis",
   "short_name": "Gehoortraining Online Gratis",
   "description": "Train je gehoor gratis online - hoor twee noten, benoem het interval, en bouw je score en reeks op. Makkelijke, gemiddelde en moeilijke niveaus tot het volledige octaaf. Geen registratie, alles gegenereerd in je browser.",
-  "id": "/loona-audio-tools/nl/ear-training/",
+  "id": "/nl/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

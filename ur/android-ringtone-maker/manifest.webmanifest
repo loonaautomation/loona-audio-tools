@@ -2,7 +2,7 @@
   "name": "Loona Android رنگ ٹون میکر",
   "short_name": "Android رنگ ٹون میکر",
   "description": "مفت Android رنگ ٹون میکر: اپنے براؤزر میں آڈیو تراشیں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-audio-tools/ur/android-ringtone-maker/",
+  "id": "/ur/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

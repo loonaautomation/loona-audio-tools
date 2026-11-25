@@ -2,7 +2,7 @@
   "name": "Loona AAC MP3:ksi",
   "short_name": "AAC MP3:ksi",
   "description": "Ilmainen AAC–MP3-muunnin: muunna AAC-ääni MP3-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/aac-to-mp3-converter/",
+  "id": "/fi/aac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

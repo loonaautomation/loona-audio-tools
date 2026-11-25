@@ -2,7 +2,7 @@
   "name": "Loona Lydkonverter gratis på nett",
   "short_name": "Lydkonverter gratis på nett",
   "description": "Konverter lydfiler gratis på nett - gjør MP3, WAV, OGG, M4A, WebM og mer om til WAV eller MP3 (128, 192 eller 320 kbps) med samplingsfrekvensen bevart. Ingen registrering, og lyden din forlater aldri enheten din, fordi dekoding avhenger av nettleseren din og konverteringen kjører 100% lokalt.",
-  "id": "/loona-audio-tools/nb/audio-converter/",
+  "id": "/nb/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

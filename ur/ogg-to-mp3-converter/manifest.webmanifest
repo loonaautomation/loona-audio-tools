@@ -2,7 +2,7 @@
   "name": "Loona OGG سے MP3",
   "short_name": "OGG سے MP3",
   "description": "مفت OGG-to-MP3 کنورٹر: OGG آڈیو کو اپنے براؤزر میں MP3 میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/ogg-to-mp3-converter/",
+  "id": "/ur/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

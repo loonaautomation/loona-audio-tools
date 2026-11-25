@@ -2,7 +2,7 @@
   "name": "Loona Rezač zvuka Besplatno na mreži",
   "short_name": "Rezač zvuka Besplatno na mreži",
   "description": "Režite i skraćujte zvučne datoteke besplatno na mreži. Skratite MP3, WAV, M4A i OGG vizualnim valnim oblikom, bez potrebne registracije. Vaš se zvuk privatno obrađuje u vašem pregledniku i izvozi kao WAV.",
-  "id": "/loona-audio-tools/hr/audio-cutter/",
+  "id": "/hr/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

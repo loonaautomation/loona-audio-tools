@@ -2,7 +2,7 @@
   "name": "Loona Tonegenerator gratis online",
   "short_name": "Tonegenerator gratis online",
   "description": "Generer testtoner online gratis. Sinus-, firkant-, trekant- og savtakbølgeformer fra 20 Hz til 20,000 Hz - afspil med det samme eller download som WAV. Ingen tilmelding, kører 100% i din browser.",
-  "id": "/loona-audio-tools/da/tone-generator/",
+  "id": "/da/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

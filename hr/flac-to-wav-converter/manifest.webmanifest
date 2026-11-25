@@ -2,7 +2,7 @@
   "name": "Loona FLAC u WAV",
   "short_name": "FLAC u WAV",
   "description": "Besplatni pretvarač FLAC u WAV: pretvorite FLAC zvuk u WAV u svom pregledniku. Bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-audio-tools/hr/flac-to-wav-converter/",
+  "id": "/hr/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

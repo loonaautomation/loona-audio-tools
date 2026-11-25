@@ -2,7 +2,7 @@
   "name": "Loona Създаване на поздрав за гласова поща",
   "short_name": "Създаване на поздрав за гласова поща",
   "description": "Безплатно създаване на поздрав за гласова поща: изрязвайте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/voicemail-greeting-maker/",
+  "id": "/bg/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

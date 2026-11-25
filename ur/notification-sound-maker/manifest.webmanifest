@@ -2,7 +2,7 @@
   "name": "Loona نوٹیفکیشن ساؤنڈ میکر",
   "short_name": "نوٹیفکیشن ساؤنڈ میکر",
   "description": "مفت نوٹیفکیشن ساؤنڈ میکر: اپنے براؤزر میں آڈیو تراشیں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-audio-tools/ur/notification-sound-maker/",
+  "id": "/ur/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

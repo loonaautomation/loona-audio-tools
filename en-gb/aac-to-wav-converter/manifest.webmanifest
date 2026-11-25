@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/aac-to-wav-converter/",
+  "id": "/en-gb/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

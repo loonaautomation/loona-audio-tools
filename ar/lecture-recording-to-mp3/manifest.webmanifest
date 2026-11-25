@@ -2,7 +2,7 @@
   "name": "Loona تسجيلات المحاضرات إلى MP3",
   "short_name": "تسجيلات المحاضرات إلى MP3",
   "description": "تسجيلات محاضرات إلى MP3 مجاني: حوّل وجهّز الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/lecture-recording-to-mp3/",
+  "id": "/ar/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

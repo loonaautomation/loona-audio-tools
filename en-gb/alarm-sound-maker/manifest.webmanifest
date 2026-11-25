@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/alarm-sound-maker/",
+  "id": "/en-gb/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

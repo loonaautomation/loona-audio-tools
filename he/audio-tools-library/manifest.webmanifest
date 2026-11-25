@@ -2,7 +2,7 @@
   "name": "Loona ספריית כלי שמע",
   "short_name": "ספריית כלי שמע",
   "description": "ספריית Loona Audio Tools המלאה: ממירי MP3/WAV/OGG/M4A/FLAC/AAC, יעדי קצב סיביות, הגדרות מהירות קבועות מראש וכלים לפי מקרי שימוש.",
-  "id": "/loona-audio-tools/he/audio-tools-library/",
+  "id": "/he/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

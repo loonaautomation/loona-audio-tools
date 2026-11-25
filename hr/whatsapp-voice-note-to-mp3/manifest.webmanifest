@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp glasovna bilješka u MP3",
   "short_name": "WhatsApp glasovna bilješka u MP3",
   "description": "Besplatna WhatsApp glasovna bilješka u MP3: pretvorite i pripremite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/whatsapp-voice-note-to-mp3/",
+  "id": "/hr/whatsapp-voice-note-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

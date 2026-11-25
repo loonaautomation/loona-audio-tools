@@ -2,7 +2,7 @@
   "name": "Loona WebMからMP3へ",
   "short_name": "WebMからMP3へ",
   "description": "無料のWebM-to-MP3コンバーター：ブラウザでWebM音声をMP3に変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/webm-to-mp3-converter/",
+  "id": "/ja/webm-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

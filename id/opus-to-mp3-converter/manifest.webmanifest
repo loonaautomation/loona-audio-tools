@@ -2,7 +2,7 @@
   "name": "Loona Opus ke MP3",
   "short_name": "Opus ke MP3",
   "description": "Konverter Opus-ke-MP3 gratis: konversi audio Opus ke MP3 di browser Anda. Tanpa pendaftaran, tanpa unggahan, tanpa watermark.",
-  "id": "/loona-audio-tools/id/opus-to-mp3-converter/",
+  "id": "/id/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tvůrce zvuků oznámení",
   "short_name": "Tvůrce zvuků oznámení",
   "description": "Bezplatný Tvůrce zvuků oznámení: stříhejte zvuk ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/notification-sound-maker/",
+  "id": "/cs/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Latihan Pendengaran Dalam Talian Percuma",
   "short_name": "Latihan Pendengaran Dalam Talian Percuma",
   "description": "Latih telinga anda dalam talian secara percuma - dengar dua not, namakan selang, dan bina skor serta rentetan anda. Tahap mudah, sederhana dan sukar sehingga oktav penuh. Tanpa pendaftaran, semuanya dijana dalam pelayar anda.",
-  "id": "/loona-audio-tools/ms/ear-training/",
+  "id": "/ms/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

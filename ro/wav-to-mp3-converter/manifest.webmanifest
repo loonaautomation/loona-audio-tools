@@ -2,7 +2,7 @@
   "name": "Loona WAV în MP3",
   "short_name": "WAV în MP3",
   "description": "Convertor WAV în MP3 gratuit: convertește sunetul WAV în MP3 în browserul tău. Fără înregistrare, fără încărcare, fără filigran.",
-  "id": "/loona-audio-tools/ro/wav-to-mp3-converter/",
+  "id": "/ro/wav-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

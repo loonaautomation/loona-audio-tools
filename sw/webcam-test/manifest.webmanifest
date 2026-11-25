@@ -2,7 +2,7 @@
   "name": "Loona Jaribio la Kamera ya Wavuti Bure Mtandaoni",
   "short_name": "Jaribio la Kamera ya Wavuti Bure Mtandaoni",
   "description": "Jaribu kamera yako ya wavuti bure katika kivinjari chako: hakiki ya moja kwa moja, kisomo halisi cha ubora na kiwango cha fremu, kigeuzi cha kioo na upakuaji wa picha ya haraka. Hakuna kinachopakiwa - kamera yako hutumika ndani ya kifaa tu.",
-  "id": "/loona-audio-tools/sw/webcam-test/",
+  "id": "/sw/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

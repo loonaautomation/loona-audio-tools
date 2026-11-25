@@ -2,7 +2,7 @@
   "name": "Loona ความเร็วเสียง 0.75x",
   "short_name": "ความเร็วเสียง 0.75x",
   "description": "ตัวเปลี่ยนความเร็วเสียง 0.75x ฟรี: เปลี่ยนไฟล์เสียงใดก็ได้เป็นความเร็ว 0.75x ในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/audio-speed-0-75x/",
+  "id": "/th/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

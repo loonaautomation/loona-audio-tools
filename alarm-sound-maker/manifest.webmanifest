@@ -2,7 +2,7 @@
   "name": "Loona Alarm Sound Maker",
   "short_name": "Alarm Sound Maker",
   "description": "Free Alarm Sound Maker: trim audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/alarm-sound-maker/",
+  "id": "/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

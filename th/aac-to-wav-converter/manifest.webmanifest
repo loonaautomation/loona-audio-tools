@@ -2,7 +2,7 @@
   "name": "Loona AAC เป็น WAV",
   "short_name": "AAC เป็น WAV",
   "description": "ตัวแปลง AAC เป็น WAV ฟรี: แปลงเสียง AAC เป็น WAV ในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด ไม่มีลายน้ำ",
-  "id": "/loona-audio-tools/th/aac-to-wav-converter/",
+  "id": "/th/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

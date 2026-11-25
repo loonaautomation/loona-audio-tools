@@ -2,7 +2,7 @@
   "name": "Loona Kiunganishaji cha Sauti Bure Mtandaoni",
   "short_name": "Kiunganishaji cha Sauti Bure Mtandaoni",
   "description": "Unganisha faili za sauti mtandaoni bure. Unganisha faili za MP3, WAV, M4A na OGG kuwa wimbo mmoja kwa mpangilio unaouchagua, hakuna kujisajili kunahitajika. Husindikwa kwa faragha katika kivinjari chako, hutolewa kama WAV.",
-  "id": "/loona-audio-tools/sw/audio-joiner/",
+  "id": "/sw/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

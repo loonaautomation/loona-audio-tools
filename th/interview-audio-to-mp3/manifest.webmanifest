@@ -2,7 +2,7 @@
   "name": "Loona เสียงสัมภาษณ์เป็น MP3",
   "short_name": "เสียงสัมภาษณ์เป็น MP3",
   "description": "เสียงสัมภาษณ์เป็น MP3 ฟรี: แปลงและเตรียมเสียงในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/interview-audio-to-mp3/",
+  "id": "/th/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

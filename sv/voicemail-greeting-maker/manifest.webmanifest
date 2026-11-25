@@ -2,7 +2,7 @@
   "name": "Loona Skapare av röstbrevlådehälsning",
   "short_name": "Skapare av röstbrevlådehälsning",
   "description": "Gratis skapare av röstbrevlådehälsning: trimma ljud i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/voicemail-greeting-maker/",
+  "id": "/sv/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ממיר שמע לפודקאסט",
   "short_name": "ממיר שמע לפודקאסט",
   "description": "ממיר שמע לפודקאסט בחינם: המירו והכינו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/podcast-audio-converter/",
+  "id": "/he/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

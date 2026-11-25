@@ -2,7 +2,7 @@
   "name": "Loona 無音トリマー オンライン無料",
   "short_name": "無音トリマー オンライン無料",
   "description": "録音の冒頭と末尾から無音をオンラインで無料除去。トリマーは無音の秒数を測定し、調整可能なdBしきい値でパディング付きでトリミングし、WAVでエクスポートします。登録不要で、音声がデバイスの外に出ることはありません。",
-  "id": "/loona-audio-tools/ja/silence-trimmer/",
+  "id": "/ja/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

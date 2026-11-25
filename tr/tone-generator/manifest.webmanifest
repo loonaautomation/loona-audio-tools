@@ -2,7 +2,7 @@
   "name": "Loona Ton Üreteci Çevrimiçi Ücretsiz",
   "short_name": "Ton Üreteci Çevrimiçi Ücretsiz",
   "description": "Test tonlarını çevrimiçi ve ücretsiz üretin. 20 Hz ile 20,000 Hz arasında sinüs, kare, üçgen ve testere dişi dalga formları - anında çalın veya WAV olarak indirin. Kayıt yok, %100 tarayıcınızda çalışır.",
-  "id": "/loona-audio-tools/tr/tone-generator/",
+  "id": "/tr/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

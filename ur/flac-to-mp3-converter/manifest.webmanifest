@@ -2,7 +2,7 @@
   "name": "Loona FLAC سے MP3",
   "short_name": "FLAC سے MP3",
   "description": "مفت FLAC-to-MP3 کنورٹر: FLAC آڈیو کو اپنے براؤزر میں MP3 میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/flac-to-mp3-converter/",
+  "id": "/ur/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Android 铃声制作器",
   "short_name": "Android 铃声制作器",
   "description": "免费 Android 铃声制作器：在您的浏览器中修剪音频。无需注册，无需上传。",
-  "id": "/loona-audio-tools/zh/android-ringtone-maker/",
+  "id": "/zh/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

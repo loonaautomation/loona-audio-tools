@@ -2,7 +2,7 @@
   "name": "Loona Pengurang Bitrate MP3",
   "short_name": "Pengurang Bitrate MP3",
   "description": "Pengurang bitrate MP3 gratis: kecilkan berkas MP3 dengan mengenkode ulang pada 64–320 kbps. Berkas lebih kecil untuk pesan, email, dan penyimpanan — di browser Anda.",
-  "id": "/loona-audio-tools/id/mp3-bitrate-reducer/",
+  "id": "/id/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

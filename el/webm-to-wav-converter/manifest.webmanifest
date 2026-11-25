@@ -2,7 +2,7 @@
   "name": "Loona WebM σε WAV",
   "short_name": "WebM σε WAV",
   "description": "Δωρεάν μετατροπέας WebM σε WAV: μετατρέψτε ήχο WebM σε WAV στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα, χωρίς υδατογράφημα.",
-  "id": "/loona-audio-tools/el/webm-to-wav-converter/",
+  "id": "/el/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Audio Converter - Convert Audio Files Online Free",
   "short_name": "Audio Converter - Convert Audio Files Online Free",
   "description": "Free Voice Memo to MP3: convert and prepare audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/en-us/voice-memo-to-mp3/",
+  "id": "/en-us/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

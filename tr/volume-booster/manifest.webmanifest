@@ -2,7 +2,7 @@
   "name": "Loona Ses Yükseltici Çevrimiçi Ücretsiz",
   "short_name": "Ses Yükseltici Çevrimiçi Ücretsiz",
   "description": "Ses seviyesini çevrimiçi ve ücretsiz yükseltin. Sessiz MP3, WAV, M4A ve OGG kayıtlarını %300'e kadar daha yüksek sesli yapın veya tepeleri güvenle normalize edin ve WAV olarak dışa aktarın. Kayıt gerekmez ve sesiniz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-audio-tools/tr/volume-booster/",
+  "id": "/tr/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

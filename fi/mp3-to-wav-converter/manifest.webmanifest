@@ -2,7 +2,7 @@
   "name": "Loona MP3 WAV:ksi",
   "short_name": "MP3 WAV:ksi",
   "description": "Ilmainen MP3–WAV-muunnin: muunna MP3-ääni WAV-muotoon selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-audio-tools/fi/mp3-to-wav-converter/",
+  "id": "/fi/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rekaman Kuliah ke MP3",
   "short_name": "Rekaman Kuliah ke MP3",
   "description": "Rekaman Kuliah ke MP3 Gratis: konversi dan siapkan audio di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/lecture-recording-to-mp3/",
+  "id": "/id/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ear Training Online Free",
   "short_name": "Ear Training Online Free",
   "description": "Train your ear online free - hear two notes, name the interval, and build your score and streak. Easy, medium and hard levels up to the full octave. No sign-up, everything generated in your browser.",
-  "id": "/loona-audio-tools/ear-training/",
+  "id": "/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

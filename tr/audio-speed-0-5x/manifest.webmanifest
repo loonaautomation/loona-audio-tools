@@ -2,7 +2,7 @@
   "name": "Loona Ses Hızı 0.5x",
   "short_name": "Ses Hızı 0.5x",
   "description": "Ücretsiz ses hızı 0.5x değiştirici: herhangi bir ses dosyasını tarayıcınızda 0.5x hızına değiştirin. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/audio-speed-0-5x/",
+  "id": "/tr/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

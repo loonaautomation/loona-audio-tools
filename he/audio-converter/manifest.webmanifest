@@ -2,7 +2,7 @@
   "name": "Loona ממיר שמע בחינם באינטרנט",
   "short_name": "ממיר שמע בחינם באינטרנט",
   "description": "המרת קבצי שמע באינטרנט בחינם - הפכו MP3, WAV, OGG, M4A, WebM ועוד ל-WAV או MP3 (128, 192 או 320 kbps) עם שמירה על קצב הדגימה. ללא הרשמה, והשמע שלכם לעולם אינו עוזב את המכשיר שלכם, מכיוון שהפענוח תלוי בדפדפן שלכם וההמרה פועלת 100% מקומית.",
-  "id": "/loona-audio-tools/he/audio-converter/",
+  "id": "/he/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

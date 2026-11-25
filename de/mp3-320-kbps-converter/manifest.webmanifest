@@ -2,7 +2,7 @@
   "name": "Loona MP3-320-kbps-Konverter",
   "short_name": "MP3-320-kbps-Konverter",
   "description": "Kostenloser MP3-320-kbps-Konverter: Konvertieren Sie jede Audiodatei in Ihrem Browser in MP3 mit 320 kbps. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/mp3-320-kbps-converter/",
+  "id": "/de/mp3-320-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

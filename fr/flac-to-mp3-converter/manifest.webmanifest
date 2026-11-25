@@ -2,7 +2,7 @@
   "name": "Loona FLAC vers MP3",
   "short_name": "FLAC vers MP3",
   "description": "Convertisseur FLAC vers MP3 gratuit : convertissez l'audio FLAC en MP3 dans votre navigateur. Sans inscription, sans téléversement, sans filigrane.",
-  "id": "/loona-audio-tools/fr/flac-to-mp3-converter/",
+  "id": "/fr/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

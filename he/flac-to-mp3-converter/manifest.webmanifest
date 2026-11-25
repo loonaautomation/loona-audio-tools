@@ -2,7 +2,7 @@
   "name": "Loona FLAC ל-MP3",
   "short_name": "FLAC ל-MP3",
   "description": "ממיר FLAC ל-MP3 בחינם: המירו שמע FLAC ל-MP3 בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/flac-to-mp3-converter/",
+  "id": "/he/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

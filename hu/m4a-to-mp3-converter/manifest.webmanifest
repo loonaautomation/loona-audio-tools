@@ -2,7 +2,7 @@
   "name": "Loona M4A-ból MP3-ba",
   "short_name": "M4A-ból MP3-ba",
   "description": "Ingyenes M4A-ból MP3-ba konvertáló: konvertálja az M4A-hangot MP3-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/m4a-to-mp3-converter/",
+  "id": "/hu/m4a-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

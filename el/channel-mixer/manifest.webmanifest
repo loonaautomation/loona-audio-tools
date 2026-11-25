@@ -2,7 +2,7 @@
   "name": "Loona Μίκτης Καναλιών Ήχου Δωρεάν Online",
   "short_name": "Μίκτης Καναλιών Ήχου Online",
   "description": "Μετατρέψτε κανάλια ήχου δωρεάν online - stereo σε mono, mono σε stereo, εναλλαγή αριστερών και δεξιών καναλιών, ή αντιγραφή του αριστερού ή δεξιού καναλιού και στις δύο πλευρές, με εξαγωγή ως WAV. Χωρίς εγγραφή, και ο ήχος σας δεν φεύγει ποτέ από τη συσκευή σας.",
-  "id": "/loona-audio-tools/el/channel-mixer/",
+  "id": "/el/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מהפך שמע בחינם באינטרנט",
   "short_name": "מהפך שמע בחינם באינטרנט",
   "description": "היפוך שמע באינטרנט בחינם. נגנו כל קובץ MP3, WAV, M4A או OGG לאחור והורידו את השמע ההפוך כ-WAV. ללא הרשמה, והשמע שלכם לעולם אינו עוזב את המכשיר שלכם.",
-  "id": "/loona-audio-tools/he/audio-reverser/",
+  "id": "/he/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

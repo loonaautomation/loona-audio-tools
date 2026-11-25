@@ -2,7 +2,7 @@
   "name": "Loona Spraakmemo naar MP3",
   "short_name": "Spraakmemo naar MP3",
   "description": "Gratis Spraakmemo naar MP3: converteer en bereid audio voor in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/voice-memo-to-mp3/",
+  "id": "/nl/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

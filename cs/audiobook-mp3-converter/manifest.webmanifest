@@ -2,7 +2,7 @@
   "name": "Loona Převodník audioknih do MP3",
   "short_name": "Převodník audioknih do MP3",
   "description": "Bezplatný Převodník audioknih do MP3: převádějte a připravujte zvuk ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/audiobook-mp3-converter/",
+  "id": "/cs/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

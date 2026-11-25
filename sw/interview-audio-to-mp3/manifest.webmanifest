@@ -2,7 +2,7 @@
   "name": "Loona Sauti ya Mahojiano hadi MP3",
   "short_name": "Sauti ya Mahojiano hadi MP3",
   "description": "Sauti ya Mahojiano hadi MP3 ya Bure: badilisha na andaa sauti katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/interview-audio-to-mp3/",
+  "id": "/sw/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

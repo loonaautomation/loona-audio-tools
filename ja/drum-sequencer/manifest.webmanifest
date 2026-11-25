@@ -2,7 +2,7 @@
   "name": "Loona ドラムシーケンサー オンライン無料",
   "short_name": "ドラムシーケンサー オンライン無料",
   "description": "16ステップシーケンサーでドラムビートをオンラインで無料作成 — 合成されたキック、スネア、ハイハットの音、rock、house、hip-hopのプリセット、60から180 BPMのテンポ。サンプルなし、登録不要、すべてがブラウザで合成されます。",
-  "id": "/loona-audio-tools/ja/drum-sequencer/",
+  "id": "/ja/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

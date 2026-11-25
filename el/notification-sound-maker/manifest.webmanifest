@@ -2,7 +2,7 @@
   "name": "Loona Δημιουργός Ήχων Ειδοποίησης",
   "short_name": "Δημιουργός Ήχων Ειδοποίησης",
   "description": "Δωρεάν Δημιουργός Ήχων Ειδοποίησης: κόψτε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/notification-sound-maker/",
+  "id": "/el/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

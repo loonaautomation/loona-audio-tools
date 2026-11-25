@@ -2,7 +2,7 @@
   "name": "Loona Aviseringsljudskapare",
   "short_name": "Aviseringsljudskapare",
   "description": "Gratis aviseringsljudskapare: trimma ljud i din webbläsare. Ingen registrering, ingen uppladdning.",
-  "id": "/loona-audio-tools/sv/notification-sound-maker/",
+  "id": "/sv/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

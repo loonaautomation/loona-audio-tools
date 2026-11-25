@@ -2,7 +2,7 @@
   "name": "Loona MP3 ל-WAV לעריכה",
   "short_name": "MP3 ל-WAV לעריכה",
   "description": "MP3 ל-WAV לעריכה בחינם: המירו והכינו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/mp3-to-wav-for-editing/",
+  "id": "/he/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

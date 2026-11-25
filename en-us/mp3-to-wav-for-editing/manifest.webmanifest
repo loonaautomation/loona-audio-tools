@@ -2,7 +2,7 @@
   "name": "Loona Audio Converter - Convert Audio Files Online Free",
   "short_name": "Audio Converter - Convert Audio Files Online Free",
   "description": "Free MP3 to WAV for Editing: convert and prepare audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/en-us/mp3-to-wav-for-editing/",
+  "id": "/en-us/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

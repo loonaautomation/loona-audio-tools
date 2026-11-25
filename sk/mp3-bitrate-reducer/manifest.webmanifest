@@ -2,7 +2,7 @@
   "name": "Loona Znižovač bitovej rýchlosti MP3",
   "short_name": "Znižovač bitovej rýchlosti MP3",
   "description": "Bezplatný znižovač bitovej rýchlosti MP3: zmenšite súbory MP3 prekódovaním na 64–320 kbps. Menšie súbory pre správy, e-mail a úložisko — vo vašom prehliadači.",
-  "id": "/loona-audio-tools/sk/mp3-bitrate-reducer/",
+  "id": "/sk/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

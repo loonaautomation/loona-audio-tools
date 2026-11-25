@@ -2,7 +2,7 @@
   "name": "Loona Mjenjač brzine zvuka Besplatno na mreži",
   "short_name": "Mjenjač brzine zvuka na mreži",
   "description": "Promijenite brzinu zvuka besplatno na mreži. Ubrzajte ili usporite MP3, WAV, M4A i OGG od 0.25x do 3x, trenutačno pregledajte i izvezite kao WAV. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/audio-speed-changer/",
+  "id": "/hr/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

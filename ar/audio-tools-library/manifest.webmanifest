@@ -2,7 +2,7 @@
   "name": "Loona مكتبة أدوات الصوت",
   "short_name": "مكتبة أدوات الصوت",
   "description": "مكتبة Loona Audio Tools الكاملة: محوّلات MP3/WAV/OGG/M4A/FLAC/AAC، وأهداف معدل بت، وإعدادات سرعة مسبقة، وأدوات حسب الاستخدام.",
-  "id": "/loona-audio-tools/ar/audio-tools-library/",
+  "id": "/ar/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

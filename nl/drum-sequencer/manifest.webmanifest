@@ -2,7 +2,7 @@
   "name": "Loona Drumsequencer Online Gratis",
   "short_name": "Drumsequencer Online Gratis",
   "description": "Maak drumbeats gratis online met een sequencer van 16 stappen - gesynthetiseerde kick-, snare- en hi-hatgeluiden, rock-, house- en hiphop-presets, en tempo van 60 tot 180 BPM. Geen samples, geen registratie, alles gesynthetiseerd in je browser.",
-  "id": "/loona-audio-tools/nl/drum-sequencer/",
+  "id": "/nl/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

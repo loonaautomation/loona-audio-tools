@@ -2,7 +2,7 @@
   "name": "Loona Generator tonova Besplatno na mreži",
   "short_name": "Generator tonova Besplatno na mreži",
   "description": "Generirajte testne tonove besplatno na mreži. Sinusni, kvadratni, trokutasti i pilasti valni oblici od 20 Hz do 20,000 Hz - reproducirajte trenutačno ili preuzmite kao WAV. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-audio-tools/hr/tone-generator/",
+  "id": "/hr/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

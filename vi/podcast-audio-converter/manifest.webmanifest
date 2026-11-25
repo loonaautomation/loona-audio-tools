@@ -2,7 +2,7 @@
   "name": "Loona Bộ chuyển đổi âm thanh podcast",
   "short_name": "Bộ chuyển đổi âm thanh podcast",
   "description": "Bộ chuyển đổi âm thanh podcast miễn phí: chuyển đổi và chuẩn bị âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/podcast-audio-converter/",
+  "id": "/vi/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل الكتب الصوتية إلى MP3",
   "short_name": "محوّل الكتب الصوتية إلى MP3",
   "description": "محوّل كتب صوتية إلى MP3 مجاني: حوّل وجهّز الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/audiobook-mp3-converter/",
+  "id": "/ar/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 конвертор 256 kbps",
   "short_name": "MP3 конвертор 256 kbps",
   "description": "Безплатен MP3 конвертор 256 kbps: конвертирайте всеки аудиофайл в MP3 с 256 kbps в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/mp3-256-kbps-converter/",
+  "id": "/bg/mp3-256-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

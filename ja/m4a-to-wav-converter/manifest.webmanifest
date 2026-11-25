@@ -2,7 +2,7 @@
   "name": "Loona M4AからWAVへ",
   "short_name": "M4AからWAVへ",
   "description": "無料のM4A-to-WAVコンバーター：ブラウザでM4A音声をWAVに変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/m4a-to-wav-converter/",
+  "id": "/ja/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

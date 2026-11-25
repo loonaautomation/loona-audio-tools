@@ -2,7 +2,7 @@
   "name": "Loona Конвертор на аудиокниги в MP3",
   "short_name": "Конвертор на аудиокниги в MP3",
   "description": "Безплатен конвертор на аудиокниги в MP3: конвертирайте и подготвяйте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/audiobook-mp3-converter/",
+  "id": "/bg/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

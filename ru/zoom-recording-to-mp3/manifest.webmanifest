@@ -2,7 +2,7 @@
   "name": "Loona Запись Zoom в MP3",
   "short_name": "Запись Zoom в MP3",
   "description": "Бесплатная запись Zoom в MP3: конвертируйте и подготавливайте аудио в вашем браузере. Без регистрации, без загрузки на сервер.",
-  "id": "/loona-audio-tools/ru/zoom-recording-to-mp3/",
+  "id": "/ru/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

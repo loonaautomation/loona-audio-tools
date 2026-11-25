@@ -2,7 +2,7 @@
   "name": "Loona Zmiana prędkości audio Online za darmo",
   "short_name": "Zmiana prędkości audio online",
   "description": "Zmień prędkość dźwięku online za darmo. Przyspiesz lub spowolnij pliki MP3, WAV, M4A i OGG od 0.25x do 3x, odsłuchaj podgląd natychmiast i wyeksportuj jako WAV. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/audio-speed-changer/",
+  "id": "/pl/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

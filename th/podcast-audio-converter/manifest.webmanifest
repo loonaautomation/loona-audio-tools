@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงเสียงพอดแคสต์",
   "short_name": "ตัวแปลงเสียงพอดแคสต์",
   "description": "ตัวแปลงเสียงพอดแคสต์ฟรี: แปลงและเตรียมเสียงในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/podcast-audio-converter/",
+  "id": "/th/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

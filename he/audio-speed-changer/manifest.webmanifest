@@ -2,7 +2,7 @@
   "name": "Loona משנה מהירות שמע בחינם באינטרנט",
   "short_name": "משנה מהירות שמע באינטרנט",
   "description": "שינוי מהירות שמע באינטרנט בחינם. האיצו או האטו MP3, WAV, M4A ו-OGG מ-0.25x עד 3x, צפו בתצוגה מקדימה מיד וייצאו כ-WAV. ללא הרשמה, והשמע שלכם לעולם אינו עוזב את המכשיר שלכם.",
-  "id": "/loona-audio-tools/he/audio-speed-changer/",
+  "id": "/he/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

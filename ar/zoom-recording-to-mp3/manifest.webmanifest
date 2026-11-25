@@ -2,7 +2,7 @@
   "name": "Loona تسجيلات Zoom إلى MP3",
   "short_name": "تسجيلات Zoom إلى MP3",
   "description": "تسجيلات Zoom إلى MP3 مجاني: حوّل وجهّز الصوت في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/zoom-recording-to-mp3/",
+  "id": "/ar/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

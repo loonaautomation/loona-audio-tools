@@ -2,7 +2,7 @@
   "name": "Loona Ταχύτητα Ήχου 1.5x",
   "short_name": "Ταχύτητα Ήχου 1.5x",
   "description": "Δωρεάν εργαλείο αλλαγής ταχύτητας ήχου 1.5x: αλλάξτε οποιοδήποτε αρχείο ήχου σε ταχύτητα 1.5x στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/audio-speed-1-5x/",
+  "id": "/el/audio-speed-1-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

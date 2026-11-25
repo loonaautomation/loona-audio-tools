@@ -2,7 +2,7 @@
   "name": "Loona WebM hadi WAV",
   "short_name": "WebM hadi WAV",
   "description": "Kibadilishaji cha bure cha WebM-hadi-WAV: badilisha sauti ya WebM kuwa WAV katika kivinjari chako. Hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-audio-tools/sw/webm-to-wav-converter/",
+  "id": "/sw/webm-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

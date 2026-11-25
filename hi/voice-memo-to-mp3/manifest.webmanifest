@@ -2,7 +2,7 @@
   "name": "Loona वॉइस मेमो से MP3",
   "short_name": "वॉइस मेमो से MP3",
   "description": "मुफ़्त वॉइस मेमो से MP3: अपने ब्राउज़र में ऑडियो कन्वर्ट और तैयार करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/voice-memo-to-mp3/",
+  "id": "/hi/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

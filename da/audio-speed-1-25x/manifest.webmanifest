@@ -2,7 +2,7 @@
   "name": "Loona Lydhastighed 1.25x",
   "short_name": "Lydhastighed 1.25x",
   "description": "Gratis lydhastighed 1.25x-ændrer: ændr enhver lydfil til 1.25x hastighed i din browser. Ingen tilmelding, ingen upload.",
-  "id": "/loona-audio-tools/da/audio-speed-1-25x/",
+  "id": "/da/audio-speed-1-25x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

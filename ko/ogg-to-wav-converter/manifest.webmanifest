@@ -2,7 +2,7 @@
   "name": "Loona OGG를 WAV로",
   "short_name": "OGG를 WAV로",
   "description": "무료 OGG를 WAV로 변환기: 브라우저에서 OGG 오디오를 WAV로 변환하세요. 가입 없이, 업로드 없이, 워터마크 없이.",
-  "id": "/loona-audio-tools/ko/ogg-to-wav-converter/",
+  "id": "/ko/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

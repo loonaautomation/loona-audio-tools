@@ -2,7 +2,7 @@
   "name": "Loona FLAC в MP3",
   "short_name": "FLAC в MP3",
   "description": "Бесплатный конвертер FLAC в MP3: конвертируйте аудио FLAC в MP3 в вашем браузере. Без регистрации, без загрузки на сервер, без водяных знаков.",
-  "id": "/loona-audio-tools/ru/flac-to-mp3-converter/",
+  "id": "/ru/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

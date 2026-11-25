@@ -2,7 +2,7 @@
   "name": "Loona Ses Geçiş Düzenleyici Çevrimiçi Ücretsiz",
   "short_name": "Ses Geçiş Düzenleyici Çevrimiçi Ücretsiz",
   "description": "Sese çevrimiçi ve ücretsiz olarak açılış ve kapanış geçişi ekleyin. Herhangi bir MP3, WAV, M4A veya OGG dosyasında 10 saniyeye kadar geçişler ayarlayın, önizleyin ve WAV olarak dışa aktarın. Kayıt gerekmez ve sesiniz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-audio-tools/tr/audio-fade-editor/",
+  "id": "/tr/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator tonów Online za darmo",
   "short_name": "Generator tonów Online za darmo",
   "description": "Generuj tony testowe online za darmo. Przebiegi sinusoidalny, prostokątny, trójkątny i piłokształtny od 20 Hz do 20,000 Hz - odtwarzaj natychmiast lub pobierz jako WAV. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-audio-tools/pl/tone-generator/",
+  "id": "/pl/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

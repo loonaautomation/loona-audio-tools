@@ -2,7 +2,7 @@
   "name": "Loona FLAC ke MP3",
   "short_name": "FLAC ke MP3",
   "description": "Konverter FLAC-ke-MP3 gratis: konversi audio FLAC ke MP3 di browser Anda. Tanpa pendaftaran, tanpa unggahan, tanpa watermark.",
-  "id": "/loona-audio-tools/id/flac-to-mp3-converter/",
+  "id": "/id/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

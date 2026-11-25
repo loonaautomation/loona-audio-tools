@@ -2,7 +2,7 @@
   "name": "Loona Rejestrator ekranu Online za darmo",
   "short_name": "Rejestrator ekranu Online za darmo",
   "description": "Nagrywaj ekran, kartę przeglądarki lub okno bezpłatnie w przeglądarce - z dźwiękiem mikrofonu, jeśli chcesz. Bez rejestracji, bez przesyłania na serwer, pobieranie jako WebM.",
-  "id": "/loona-audio-tools/pl/screen-recorder/",
+  "id": "/pl/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

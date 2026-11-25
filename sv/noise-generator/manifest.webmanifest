@@ -2,7 +2,7 @@
   "name": "Loona Brusgenerator Online gratis",
   "short_name": "Brusgenerator Online gratis",
   "description": "Generera vitt, rosa och brunt brus online gratis för sömn, fokus och ljudmaskering. Spela det live i din webbläsare eller ladda ner 10, 30 eller 60 sekunder som WAV att loopa. Ingen registrering, ingenting uppladdat.",
-  "id": "/loona-audio-tools/sv/noise-generator/",
+  "id": "/sv/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

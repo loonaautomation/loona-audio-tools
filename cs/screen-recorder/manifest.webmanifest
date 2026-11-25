@@ -2,7 +2,7 @@
   "name": "Loona Záznamník obrazovky Online zdarma",
   "short_name": "Záznamník obrazovky Online zdarma",
   "description": "Nahrávejte svou obrazovku, kartu prohlížeče nebo okno zdarma ve svém prohlížeči – se zvukem mikrofonu, pokud ho chcete. Bez registrace, bez nahrávání, stahuje se jako WebM.",
-  "id": "/loona-audio-tools/cs/screen-recorder/",
+  "id": "/cs/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

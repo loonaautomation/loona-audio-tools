@@ -2,7 +2,7 @@
   "name": "Loona OGG-ból MP3-ba",
   "short_name": "OGG-ból MP3-ba",
   "description": "Ingyenes OGG-ból MP3-ba konvertáló: konvertálja az OGG-hangot MP3-ra a böngészőjében. Regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-audio-tools/hu/ogg-to-mp3-converter/",
+  "id": "/hu/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

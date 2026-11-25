@@ -2,7 +2,7 @@
   "name": "Loona M4A hadi WAV",
   "short_name": "M4A hadi WAV",
   "description": "Kibadilishaji cha bure cha M4A-hadi-WAV: badilisha sauti ya M4A kuwa WAV katika kivinjari chako. Hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-audio-tools/sw/m4a-to-wav-converter/",
+  "id": "/sw/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

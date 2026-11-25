@@ -2,7 +2,7 @@
   "name": "Loona أداة دمج الصوت مجاني عبر الإنترنت",
   "short_name": "أداة دمج الصوت مجاني عبر الإنترنت",
   "description": "ادمج ملفات الصوت عبر الإنترنت مجانًا. ادمج ملفات MP3 وWAV وM4A وOGG في مسار واحد بالترتيب الذي تختاره، دون حاجة إلى تسجيل. يُعالج بخصوصية في متصفحك، ويُصدّر بصيغة WAV.",
-  "id": "/loona-audio-tools/ar/audio-joiner/",
+  "id": "/ar/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

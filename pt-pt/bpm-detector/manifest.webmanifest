@@ -2,7 +2,7 @@
   "name": "Loona Detector de BPM Online Grátis",
   "short_name": "Detector de BPM Online Grátis",
   "description": "Descubra o BPM de uma música online grátis. O detector analisa a batida no seu navegador e mostra o andamento, os segundos por batida e uma avaliação de confiança - além de uma ferramenta de andamento por toque. Sem registo, e seu áudio nunca sai do seu dispositivo.",
-  "id": "/loona-audio-tools/pt-pt/bpm-detector/",
+  "id": "/pt-pt/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

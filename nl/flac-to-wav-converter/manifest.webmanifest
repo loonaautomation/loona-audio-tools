@@ -2,7 +2,7 @@
   "name": "Loona FLAC naar WAV",
   "short_name": "FLAC naar WAV",
   "description": "Gratis FLAC-naar-WAV-converter: converteer FLAC-audio naar WAV in je browser. Geen registratie, geen upload, geen watermerk.",
-  "id": "/loona-audio-tools/nl/flac-to-wav-converter/",
+  "id": "/nl/flac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

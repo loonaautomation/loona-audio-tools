@@ -2,7 +2,7 @@
   "name": "Loona Metrônomo Online Grátis",
   "short_name": "Metrônomo Online Grátis",
   "description": "Metrônomo online grátis com um controle de BPM de 30 a 240, fórmulas de compasso, subdivisões, uma primeira batida acentuada, um pulso visual e andamento por toque. Sem cadastro, nada enviado - funciona no seu navegador.",
-  "id": "/loona-audio-tools/pt-br/metronome/",
+  "id": "/pt-br/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

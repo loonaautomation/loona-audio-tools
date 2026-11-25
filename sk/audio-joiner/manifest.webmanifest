@@ -2,7 +2,7 @@
   "name": "Loona Spájač zvuku Online zadarmo",
   "short_name": "Spájač zvuku Online zadarmo",
   "description": "Spájajte zvukové súbory online zadarmo. Skombinujte súbory MP3, WAV, M4A a OGG do jednej stopy v poradí, ktoré si vyberiete, bez potreby registrácie. Spracované súkromne vo vašom prehliadači, exportované ako WAV.",
-  "id": "/loona-audio-tools/sk/audio-joiner/",
+  "id": "/sk/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

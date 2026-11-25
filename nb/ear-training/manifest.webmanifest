@@ -2,7 +2,7 @@
   "name": "Loona Hørselstrening gratis på nett",
   "short_name": "Hørselstrening gratis på nett",
   "description": "Tren øret ditt gratis på nett - hør to toner, navngi intervallet, og bygg poengsummen og rekken din. Lett, medium og vanskelig nivå opptil hele oktaven. Ingen registrering, alt generert i nettleseren din.",
-  "id": "/loona-audio-tools/nb/ear-training/",
+  "id": "/nb/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kecepatan Audio 0.75x",
   "short_name": "Kecepatan Audio 0.75x",
   "description": "Pengubah kecepatan audio 0.75x gratis: ubah berkas audio apa pun ke kecepatan 0.75x di browser Anda. Tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-audio-tools/id/audio-speed-0-75x/",
+  "id": "/id/audio-speed-0-75x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

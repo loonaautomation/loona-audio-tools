@@ -2,7 +2,7 @@
   "name": "Loona Przycinarka ciszy Online za darmo",
   "short_name": "Przycinarka ciszy Online za darmo",
   "description": "Usuwaj ciszę z początku i końca dźwięku online za darmo. Przycinarka mierzy ciche sekundy, przycina je przy regulowanym progu dB z marginesem i eksportuje WAV. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/silence-trimmer/",
+  "id": "/pl/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

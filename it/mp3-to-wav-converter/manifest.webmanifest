@@ -2,7 +2,7 @@
   "name": "Loona Da MP3 a WAV",
   "short_name": "Da MP3 a WAV",
   "description": "Convertitore gratuito da MP3 a WAV: converti l'audio MP3 in WAV nel tuo browser. Senza registrazione, nessun caricamento, nessuna filigrana.",
-  "id": "/loona-audio-tools/it/mp3-to-wav-converter/",
+  "id": "/it/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AAC σε WAV",
   "short_name": "AAC σε WAV",
   "description": "Δωρεάν μετατροπέας AAC σε WAV: μετατρέψτε ήχο AAC σε WAV στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα, χωρίς υδατογράφημα.",
-  "id": "/loona-audio-tools/el/aac-to-wav-converter/",
+  "id": "/el/aac-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Noise Generator - White, Pink & Brown Noise Online Free",
   "short_name": "Noise Generator - White, Pink & Brown Noise Online Free",
   "description": "Generate white, pink and brown noise online free for sleep, focus and sound masking. Play it live in your browser or download 10, 30 or 60 seconds as WAV to loop. No sign-up, nothing uploaded.",
-  "id": "/loona-audio-tools/en-us/noise-generator/",
+  "id": "/en-us/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

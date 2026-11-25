@@ -2,7 +2,7 @@
   "name": "Loona Android रिंगटोन मेकर",
   "short_name": "Android रिंगटोन मेकर",
   "description": "मुफ़्त Android रिंगटोन मेकर: अपने ब्राउज़र में ऑडियो ट्रिम करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/android-ringtone-maker/",
+  "id": "/hi/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

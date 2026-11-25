@@ -2,7 +2,7 @@
   "name": "Loona Pengurang Kadar Bit MP3",
   "short_name": "Pengurang Kadar Bit MP3",
   "description": "Pengurang kadar bit MP3 percuma: kecilkan fail MP3 dengan mengekod semula pada 64–320 kbps. Fail lebih kecil untuk pemesejan, e-mel dan storan — dalam pelayar anda.",
-  "id": "/loona-audio-tools/ms/mp3-bitrate-reducer/",
+  "id": "/ms/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

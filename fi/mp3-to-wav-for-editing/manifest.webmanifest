@@ -2,7 +2,7 @@
   "name": "Loona MP3 WAV:ksi editointia varten",
   "short_name": "MP3 WAV:ksi editointia varten",
   "description": "Ilmainen MP3 WAV:ksi editointia varten: muunna ja valmistele ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/mp3-to-wav-for-editing/",
+  "id": "/fi/mp3-to-wav-for-editing/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

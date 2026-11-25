@@ -2,7 +2,7 @@
   "name": "Loona オーディオコンバーター オンライン無料",
   "short_name": "オーディオコンバーター オンライン無料",
   "description": "音声ファイルをオンラインで無料変換 - MP3、WAV、OGG、M4A、WebMなどを、サンプルレートを保持しながら、WAVまたはMP3（128、192、320 kbps）に変換します。登録不要で、音声がデバイスの外に出ることはありません。デコードはブラウザに依存し、変換は100%ローカルで動作します。",
-  "id": "/loona-audio-tools/ja/audio-converter/",
+  "id": "/ja/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

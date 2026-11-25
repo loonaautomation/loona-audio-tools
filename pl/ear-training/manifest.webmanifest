@@ -2,7 +2,7 @@
   "name": "Loona Trening słuchu Online za darmo",
   "short_name": "Trening słuchu Online za darmo",
   "description": "Trenuj słuch online za darmo - usłysz dwa dźwięki, nazwij interwał i buduj wynik oraz passę. Poziomy łatwy, średni i trudny aż do pełnej oktawy. Bez rejestracji, wszystko generowane w przeglądarce.",
-  "id": "/loona-audio-tools/pl/ear-training/",
+  "id": "/pl/ear-training/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

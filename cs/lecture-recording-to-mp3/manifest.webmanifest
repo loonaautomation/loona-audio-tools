@@ -2,7 +2,7 @@
   "name": "Loona Záznam přednášky na MP3",
   "short_name": "Záznam přednášky na MP3",
   "description": "Bezplatný převod Záznamu přednášky na MP3: převádějte a připravujte zvuk ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/lecture-recording-to-mp3/",
+  "id": "/cs/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

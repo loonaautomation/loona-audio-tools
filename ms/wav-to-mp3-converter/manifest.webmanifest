@@ -2,7 +2,7 @@
   "name": "Loona WAV kepada MP3",
   "short_name": "WAV kepada MP3",
   "description": "Penukar WAV-ke-MP3 percuma: tukar audio WAV kepada MP3 dalam pelayar anda. Tanpa pendaftaran, tanpa muat naik, tanpa tera air.",
-  "id": "/loona-audio-tools/ms/wav-to-mp3-converter/",
+  "id": "/ms/wav-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

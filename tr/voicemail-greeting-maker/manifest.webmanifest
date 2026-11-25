@@ -2,7 +2,7 @@
   "name": "Loona Sesli Mesaj Karşılama Oluşturucu",
   "short_name": "Sesli Mesaj Karşılama Oluşturucu",
   "description": "Ücretsiz Sesli Mesaj Karşılama Oluşturucu: tarayıcınızda ses kırpın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/voicemail-greeting-maker/",
+  "id": "/tr/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

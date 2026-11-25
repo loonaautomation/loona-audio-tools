@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/metronome/",
+  "id": "/en-gb/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

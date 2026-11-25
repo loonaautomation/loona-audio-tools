@@ -2,7 +2,7 @@
   "name": "Loona Tone Generator - Free Online Test Tone Generator",
   "short_name": "Tone Generator - Free Online Test Tone Generator",
   "description": "Generate test tones online free. Sine, square, triangle and sawtooth waveforms from 20 Hz to 20,000 Hz - play instantly or download as WAV. No sign-up, runs 100% in your browser.",
-  "id": "/loona-audio-tools/en-us/tone-generator/",
+  "id": "/en-us/tone-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

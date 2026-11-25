@@ -2,7 +2,7 @@
   "name": "Loona Podkastlydkonverter",
   "short_name": "Podkastlydkonverter",
   "description": "Gratis podkastlydkonverter: konverter og klargjør lyd i nettleseren din. Ingen registrering, ingen opplasting.",
-  "id": "/loona-audio-tools/nb/podcast-audio-converter/",
+  "id": "/nb/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

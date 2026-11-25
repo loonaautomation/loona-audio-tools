@@ -2,7 +2,7 @@
   "name": "Loona Wzmacniacz głośności Online za darmo",
   "short_name": "Wzmacniacz głośności Online za darmo",
   "description": "Wzmocnij głośność dźwięku online za darmo. Spraw, aby ciche nagrania MP3, WAV, M4A i OGG były do 300% głośniejsze, lub bezpiecznie znormalizuj szczyty, i wyeksportuj jako WAV. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/volume-booster/",
+  "id": "/pl/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

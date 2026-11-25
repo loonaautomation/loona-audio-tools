@@ -2,7 +2,7 @@
   "name": "Loona Støjgenerator gratis online",
   "short_name": "Støjgenerator gratis online",
   "description": "Generer hvid, lyserød og brun støj online gratis til søvn, fokus og lydmaskering. Afspil den live i din browser, eller download 10, 30 eller 60 sekunder som WAV til looping. Ingen tilmelding, intet uploadet.",
-  "id": "/loona-audio-tools/da/noise-generator/",
+  "id": "/da/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

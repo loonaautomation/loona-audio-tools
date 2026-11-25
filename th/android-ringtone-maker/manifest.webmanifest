@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างเสียงเรียกเข้า Android",
   "short_name": "ตัวสร้างเสียงเรียกเข้า Android",
   "description": "ตัวสร้างเสียงเรียกเข้า Android ฟรี: ตัดเสียงในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/android-ringtone-maker/",
+  "id": "/th/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

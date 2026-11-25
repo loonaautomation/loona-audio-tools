@@ -2,7 +2,7 @@
   "name": "Loona Metronom Online Gratis",
   "short_name": "Metronom Online Gratis",
   "description": "Metronom online gratis dengan penggeser BPM dari 30 hingga 240, tanda birama, subdivisi, ketukan pertama beraksen, denyut visual, dan ketuk tempo. Tanpa pendaftaran, tidak ada yang diunggah - berjalan di browser Anda.",
-  "id": "/loona-audio-tools/id/metronome/",
+  "id": "/id/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

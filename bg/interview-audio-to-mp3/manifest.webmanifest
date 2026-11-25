@@ -2,7 +2,7 @@
   "name": "Loona Аудио от интервю към MP3",
   "short_name": "Аудио от интервю към MP3",
   "description": "Безплатно аудио от интервю към MP3: конвертирайте и подготвяйте аудио в браузъра си. Без регистрация, без качване.",
-  "id": "/loona-audio-tools/bg/interview-audio-to-mp3/",
+  "id": "/bg/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

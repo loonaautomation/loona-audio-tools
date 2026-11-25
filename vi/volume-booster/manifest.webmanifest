@@ -2,7 +2,7 @@
   "name": "Loona Trình tăng âm lượng Trực tuyến miễn phí",
   "short_name": "Trình tăng âm lượng Trực tuyến miễn phí",
   "description": "Tăng âm lượng âm thanh trực tuyến miễn phí. Làm cho các bản ghi MP3, WAV, M4A và OGG nhỏ to hơn tới 300%, hoặc chuẩn hóa đỉnh một cách an toàn, và xuất dưới dạng WAV. Không cần đăng ký, và âm thanh của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-audio-tools/vi/volume-booster/",
+  "id": "/vi/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

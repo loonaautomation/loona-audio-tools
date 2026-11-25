@@ -2,7 +2,7 @@
   "name": "Loona Podcast-hangkonvertáló",
   "short_name": "Podcast-hangkonvertáló",
   "description": "Ingyenes Podcast-hangkonvertáló: konvertáljon és készítsen hangot a böngészőjében. Regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-audio-tools/hu/podcast-audio-converter/",
+  "id": "/hu/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

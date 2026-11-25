@@ -2,7 +2,7 @@
   "name": "Loona Bộ chuyển đổi sách nói sang MP3",
   "short_name": "Bộ chuyển đổi sách nói sang MP3",
   "description": "Bộ chuyển đổi sách nói sang MP3 miễn phí: chuyển đổi và chuẩn bị âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/audiobook-mp3-converter/",
+  "id": "/vi/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ses Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "Ses Dönüştürücü Çevrimiçi Ücretsiz",
   "description": "Ses dosyalarını çevrimiçi ve ücretsiz dönüştürün - MP3, WAV, OGG, M4A, WebM ve daha fazlasını, örnekleme hızı korunarak WAV veya MP3'e (128, 192 veya 320 kbps) çevirin. Kayıt gerekmez ve sesiniz cihazınızdan asla ayrılmaz; çünkü çözüm tarayıcınıza bağlıdır ve dönüştürme %100 yerel olarak çalışır.",
-  "id": "/loona-audio-tools/tr/audio-converter/",
+  "id": "/tr/audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

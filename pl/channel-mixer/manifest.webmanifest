@@ -2,7 +2,7 @@
   "name": "Loona Mikser kanałów audio Online za darmo",
   "short_name": "Mikser kanałów audio online",
   "description": "Konwertuj kanały audio online za darmo - stereo na mono, mono na stereo, zamiana lewego i prawego kanału lub kopiowanie lewego albo prawego kanału na obie strony, z eksportem jako WAV. Bez rejestracji, a dźwięk nigdy nie opuszcza urządzenia.",
-  "id": "/loona-audio-tools/pl/channel-mixer/",
+  "id": "/pl/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

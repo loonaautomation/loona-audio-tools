@@ -2,7 +2,7 @@
   "name": "Loona Android Zil Sesi Oluşturucu",
   "short_name": "Android Zil Sesi Oluşturucu",
   "description": "Ücretsiz Android Zil Sesi Oluşturucu: tarayıcınızda ses kırpın. Kayıt yok, yükleme yok.",
-  "id": "/loona-audio-tools/tr/android-ringtone-maker/",
+  "id": "/tr/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

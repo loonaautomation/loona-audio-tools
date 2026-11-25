@@ -2,7 +2,7 @@
   "name": "Loona Pemotong Audio Dalam Talian Percuma",
   "short_name": "Pemotong Audio Dalam Talian Percuma",
   "description": "Potong dan pangkas fail audio dalam talian secara percuma. Pangkas MP3, WAV, M4A dan OGG dengan bentuk gelombang visual, tanpa pendaftaran diperlukan. Audio anda diproses secara peribadi dalam pelayar anda dan dieksport sebagai WAV.",
-  "id": "/loona-audio-tools/ms/audio-cutter/",
+  "id": "/ms/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

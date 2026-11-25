@@ -2,7 +2,7 @@
   "name": "Loona 강의 녹음을 MP3로",
   "short_name": "강의 녹음을 MP3로",
   "description": "무료 강의 녹음을 MP3로: 브라우저에서 오디오를 변환하고 준비하세요. 가입 없이, 업로드.",
-  "id": "/loona-audio-tools/ko/lecture-recording-to-mp3/",
+  "id": "/ko/lecture-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

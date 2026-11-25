@@ -2,7 +2,7 @@
   "name": "Loona Meldingsgeluid-maker",
   "short_name": "Meldingsgeluid-maker",
   "description": "Gratis Meldingsgeluid-maker: knip audio in je browser. Geen registratie, geen upload.",
-  "id": "/loona-audio-tools/nl/notification-sound-maker/",
+  "id": "/nl/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

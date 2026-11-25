@@ -2,7 +2,7 @@
   "name": "Loona Opus سے MP3",
   "short_name": "Opus سے MP3",
   "description": "مفت Opus-to-MP3 کنورٹر: Opus آڈیو کو اپنے براؤزر میں MP3 میں تبدیل کریں۔ کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-audio-tools/ur/opus-to-mp3-converter/",
+  "id": "/ur/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tvůrce vyzváněcích tónů pro Android",
   "short_name": "Tvůrce vyzváněcích tónů pro Android",
   "description": "Bezplatný Tvůrce vyzváněcích tónů pro Android: stříhejte zvuk ve svém prohlížeči. Bez registrace, bez nahrávání.",
-  "id": "/loona-audio-tools/cs/android-ringtone-maker/",
+  "id": "/cs/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

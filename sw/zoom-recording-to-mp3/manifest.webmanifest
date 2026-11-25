@@ -2,7 +2,7 @@
   "name": "Loona Rekodi ya Zoom hadi MP3",
   "short_name": "Rekodi ya Zoom hadi MP3",
   "description": "Rekodi ya Zoom hadi MP3 ya Bure: badilisha na andaa sauti katika kivinjari chako. Hakuna kujisajili, hakuna kupakia.",
-  "id": "/loona-audio-tools/sw/zoom-recording-to-mp3/",
+  "id": "/sw/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

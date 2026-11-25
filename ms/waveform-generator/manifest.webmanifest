@@ -2,7 +2,7 @@
   "name": "Loona Penjana Imej Bentuk Gelombang Dalam Talian Percuma",
   "short_name": "Penjana Imej Bentuk Gelombang",
   "description": "Jadikan mana-mana fail audio kepada imej bentuk gelombang dalam talian secara percuma - pilih saiz, warna, gaya berisi atau bar, dan latar belakang lutsinar, kemudian muat turun PNG. Tanpa pendaftaran, dan audio anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-audio-tools/ms/waveform-generator/",
+  "id": "/ms/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

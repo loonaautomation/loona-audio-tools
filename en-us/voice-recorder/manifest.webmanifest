@@ -2,7 +2,7 @@
   "name": "Loona Voice Recorder - Record Your Voice Online Free",
   "short_name": "Voice Recorder - Record Your Voice Online Free",
   "description": "Record your voice online free with your microphone. Listen back and download your recording - it never leaves your device. No sign-up, no uploads, works on phone and computer.",
-  "id": "/loona-audio-tools/en-us/voice-recorder/",
+  "id": "/en-us/voice-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

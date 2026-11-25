@@ -2,7 +2,7 @@
   "name": "Loona Metronomo online gratuito",
   "short_name": "Metronomo online gratuito",
   "description": "Metronomo online gratuito con un cursore BPM da 30 a 240, tempi, suddivisioni, un primo battito accentato, un impulso visivo e tap tempo. Senza registrazione, nulla viene caricato: funziona nel tuo browser.",
-  "id": "/loona-audio-tools/it/metronome/",
+  "id": "/it/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-audio-tools/en-gb/ms/mic-test/",
+  "id": "/en-gb/ms/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

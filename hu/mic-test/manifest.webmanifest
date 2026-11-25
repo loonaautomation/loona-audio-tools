@@ -2,7 +2,7 @@
   "name": "Loona Mikrofonteszt Online ingyen",
   "short_name": "Mikrofonteszt Online ingyen",
   "description": "Tesztelje a mikrofonját ingyen a böngészőjében: élő szintmérő, egy 5 másodperces tesztfelvétel visszajátszással, és mikrofonválasztó. Semmi nem töltődik fel - a mikrofonja csak helyben használatos.",
-  "id": "/loona-audio-tools/hu/mic-test/",
+  "id": "/hu/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

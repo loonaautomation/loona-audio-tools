@@ -2,7 +2,7 @@
   "name": "Loona Kiểm tra webcam Trực tuyến miễn phí",
   "short_name": "Kiểm tra webcam Trực tuyến miễn phí",
   "description": "Kiểm tra webcam của bạn miễn phí trong trình duyệt: xem trước trực tiếp, đọc độ phân giải và tốc độ khung hình thực, chuyển đổi phản chiếu và tải xuống ảnh chụp nhanh. Không có gì được tải lên - máy ảnh của bạn chỉ được dùng cục bộ.",
-  "id": "/loona-audio-tools/vi/webcam-test/",
+  "id": "/vi/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

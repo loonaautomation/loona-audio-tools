@@ -2,7 +2,7 @@
   "name": "Loona גוזם שקט בחינם באינטרנט",
   "short_name": "גוזם שקט בחינם באינטרנט",
   "description": "הסרת שקט מההתחלה והסוף של שמע באינטרנט בחינם. הגוזם מודד את השניות השקטות, גוזר אותן בסף dB מתכוונן עם ריפוד, ומייצא WAV. ללא הרשמה, והשמע שלכם לעולם אינו עוזב את המכשיר שלכם.",
-  "id": "/loona-audio-tools/he/silence-trimmer/",
+  "id": "/he/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

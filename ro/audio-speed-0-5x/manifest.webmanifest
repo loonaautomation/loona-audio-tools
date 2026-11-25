@@ -2,7 +2,7 @@
   "name": "Loona Viteză audio 0.5x",
   "short_name": "Viteză audio 0.5x",
   "description": "Instrument gratuit de schimbare a vitezei audio la 0.5x: schimbă orice fișier audio la viteza 0.5x în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/audio-speed-0-5x/",
+  "id": "/ro/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

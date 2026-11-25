@@ -2,7 +2,7 @@
   "name": "Loona 인터뷰 오디오를 MP3로",
   "short_name": "인터뷰 오디오를 MP3로",
   "description": "무료 인터뷰 오디오를 MP3로: 브라우저에서 오디오를 변환하고 준비하세요. 가입 없이, 업로드.",
-  "id": "/loona-audio-tools/ko/interview-audio-to-mp3/",
+  "id": "/ko/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

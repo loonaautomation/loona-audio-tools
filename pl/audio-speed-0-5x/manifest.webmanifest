@@ -2,7 +2,7 @@
   "name": "Loona Prędkość audio 0.5x",
   "short_name": "Prędkość audio 0.5x",
   "description": "Bezpłatna zmiana prędkości audio 0.5x: zmień dowolny plik audio na prędkość 0.5x w przeglądarce. Bez rejestracji, bez przesyłania na serwer.",
-  "id": "/loona-audio-tools/pl/audio-speed-0-5x/",
+  "id": "/pl/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

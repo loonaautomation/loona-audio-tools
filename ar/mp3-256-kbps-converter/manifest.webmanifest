@@ -2,7 +2,7 @@
   "name": "Loona محوّل MP3 256 kbps",
   "short_name": "محوّل MP3 256 kbps",
   "description": "محوّل MP3 256 kbps مجاني: حوّل أي ملف صوتي إلى MP3 بمعدل 256 kbps في متصفحك. دون تسجيل، ودون رفع.",
-  "id": "/loona-audio-tools/ar/mp3-256-kbps-converter/",
+  "id": "/ar/mp3-256-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

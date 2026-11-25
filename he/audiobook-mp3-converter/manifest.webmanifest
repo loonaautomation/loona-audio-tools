@@ -2,7 +2,7 @@
   "name": "Loona ממיר ספרי שמע ל-MP3",
   "short_name": "ממיר ספרי שמע ל-MP3",
   "description": "ממיר ספרי שמע ל-MP3 בחינם: המירו והכינו שמע בדפדפן שלכם. ללא הרשמה, ללא העלאה.",
-  "id": "/loona-audio-tools/he/audiobook-mp3-converter/",
+  "id": "/he/audiobook-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Editor de subtitrări SRT Online Gratuit",
   "short_name": "Editor de subtitrări SRT Online",
   "description": "Editează fișiere de subtitrări SRT și WebVTT online gratuit: corectează textul și timpii subtitrărilor, mută toate marcajele odată, repară marcajele suprapuse și convertește SRT în VTT. Fără înregistrare, iar fișierul tău de subtitrări nu părăsește niciodată dispozitivul.",
-  "id": "/loona-audio-tools/ro/subtitle-editor/",
+  "id": "/ro/subtitle-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona OGG'den WAV'a",
   "short_name": "OGG'den WAV'a",
   "description": "Ücretsiz OGG'den WAV'a dönüştürücü: OGG sesini tarayıcınızda WAV'a dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/ogg-to-wav-converter/",
+  "id": "/tr/ogg-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

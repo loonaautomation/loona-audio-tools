@@ -2,7 +2,7 @@
   "name": "Loona Izrađivač zvuka obavijesti",
   "short_name": "Izrađivač zvuka obavijesti",
   "description": "Besplatni izrađivač zvuka obavijesti: skratite zvuk u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/notification-sound-maker/",
+  "id": "/hr/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

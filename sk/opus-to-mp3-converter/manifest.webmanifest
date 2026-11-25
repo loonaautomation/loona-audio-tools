@@ -2,7 +2,7 @@
   "name": "Loona Opus na MP3",
   "short_name": "Opus na MP3",
   "description": "Bezplatný prevodník Opus na MP3: preveďte zvuk Opus na MP3 vo svojom prehliadači. Bez registrácie, bez nahrávania na server, bez vodoznaku.",
-  "id": "/loona-audio-tools/sk/opus-to-mp3-converter/",
+  "id": "/sk/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

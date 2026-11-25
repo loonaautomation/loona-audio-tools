@@ -2,7 +2,7 @@
   "name": "Loona M4A vers WAV",
   "short_name": "M4A vers WAV",
   "description": "Convertisseur M4A vers WAV gratuit : convertissez l'audio M4A en WAV dans votre navigateur. Sans inscription, sans téléversement, sans filigrane.",
-  "id": "/loona-audio-tools/fr/m4a-to-wav-converter/",
+  "id": "/fr/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

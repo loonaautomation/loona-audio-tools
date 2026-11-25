@@ -2,7 +2,7 @@
   "name": "Loona OGG'den MP3'e",
   "short_name": "OGG'den MP3'e",
   "description": "Ücretsiz OGG'den MP3'e dönüştürücü: OGG sesini tarayıcınızda MP3'e dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/ogg-to-mp3-converter/",
+  "id": "/tr/ogg-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

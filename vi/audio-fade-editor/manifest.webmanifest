@@ -2,7 +2,7 @@
   "name": "Loona Trình chỉnh sửa hiệu ứng fade âm thanh Trực tuyến miễn phí",
   "short_name": "Trình chỉnh sửa hiệu ứng fade âm thanh Trực tuyến miễn phí",
   "description": "Thêm fade in và fade out vào âm thanh trực tuyến miễn phí. Đặt hiệu ứng fade tối đa 10 giây trên bất kỳ file MP3, WAV, M4A hoặc OGG nào, xem trước, và xuất dưới dạng WAV. Không cần đăng ký, và âm thanh của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-audio-tools/vi/audio-fade-editor/",
+  "id": "/vi/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

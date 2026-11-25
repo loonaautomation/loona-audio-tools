@@ -2,7 +2,7 @@
   "name": "Loona Audio Fade Editor - Add Fade In & Fade Out Online Free",
   "short_name": "Audio Fade Editor - Add Fade In & Fade Out Online Free",
   "description": "Add fade in and fade out to audio online free. Set fades up to 10 seconds on any MP3, WAV, M4A or OGG file, preview, and export as WAV. No sign-up, and your audio never leaves your device.",
-  "id": "/loona-audio-tools/en-us/audio-fade-editor/",
+  "id": "/en-us/audio-fade-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

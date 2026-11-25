@@ -2,7 +2,7 @@
   "name": "Loona Test webkamery Online zdarma",
   "short_name": "Test webkamery Online zdarma",
   "description": "Otestujte svou webkameru zdarma ve svém prohlížeči: živý náhled, odečet skutečného rozlišení a snímkové frekvence, přepínač zrcadlení a stažení fotografie snímku. Nic se nenahrává – vaše kamera se používá pouze lokálně.",
-  "id": "/loona-audio-tools/cs/webcam-test/",
+  "id": "/cs/webcam-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

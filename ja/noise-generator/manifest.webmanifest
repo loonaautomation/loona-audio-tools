@@ -2,7 +2,7 @@
   "name": "Loona ノイズジェネレーター オンライン無料",
   "short_name": "ノイズジェネレーター オンライン無料",
   "description": "睡眠、集中、音のマスキングのために、ホワイト、ピンク、ブラウンノイズをオンラインで無料生成。ブラウザでライブ再生するか、ループ用に10秒、30秒、60秒をWAVでダウンロード。登録不要、アップロードなし。",
-  "id": "/loona-audio-tools/ja/noise-generator/",
+  "id": "/ja/noise-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

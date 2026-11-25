@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง MP3 320 kbps",
   "short_name": "ตัวแปลง MP3 320 kbps",
   "description": "ตัวแปลง MP3 320 kbps ฟรี: แปลงไฟล์เสียงใดก็ได้เป็น MP3 ที่ 320 kbps ในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-audio-tools/th/mp3-320-kbps-converter/",
+  "id": "/th/mp3-320-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Βιβλιοθήκη Εργαλείων Ήχου",
   "short_name": "Βιβλιοθήκη Εργαλείων Ήχου",
   "description": "Η πλήρης βιβλιοθήκη Loona Audio Tools: μετατροπείς MP3/WAV/OGG/M4A/FLAC/AAC, στόχοι bitrate, προεπιλογές ταχύτητας και εργαλεία για συγκεκριμένες χρήσεις.",
-  "id": "/loona-audio-tools/el/audio-tools-library/",
+  "id": "/el/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

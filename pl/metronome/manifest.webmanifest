@@ -2,7 +2,7 @@
   "name": "Loona Metronom Online za darmo",
   "short_name": "Metronom Online za darmo",
   "description": "Bezpłatny metronom online z suwakiem BPM od 30 do 240, metrami, podziałami, akcentowanym pierwszym uderzeniem, wizualnym impulsem i tempem uderzanym. Bez rejestracji, nic nie jest przesyłane na serwer - działa w przeglądarce.",
-  "id": "/loona-audio-tools/pl/metronome/",
+  "id": "/pl/metronome/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

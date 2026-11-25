@@ -2,7 +2,7 @@
   "name": "Loona FLAC'den MP3'e",
   "short_name": "FLAC'den MP3'e",
   "description": "Ücretsiz FLAC'den MP3'e dönüştürücü: FLAC sesini tarayıcınızda MP3'e dönüştürün. Kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-audio-tools/tr/flac-to-mp3-converter/",
+  "id": "/tr/flac-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

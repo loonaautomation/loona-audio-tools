@@ -2,7 +2,7 @@
   "name": "Loona Creator de mesaje de întâmpinare pentru căsuța vocală",
   "short_name": "Creator de mesaje de întâmpinare pentru căsuța vocală",
   "description": "Creator de mesaje de întâmpinare pentru căsuța vocală gratuit: taie sunetul în browserul tău. Fără înregistrare, fără încărcare.",
-  "id": "/loona-audio-tools/ro/voicemail-greeting-maker/",
+  "id": "/ro/voicemail-greeting-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

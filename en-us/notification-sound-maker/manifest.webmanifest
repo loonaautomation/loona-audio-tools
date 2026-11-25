@@ -2,7 +2,7 @@
   "name": "Loona Audio Cutter - Trim Audio Files Online Free",
   "short_name": "Audio Cutter - Trim Audio Files Online Free",
   "description": "Free Notification Sound Maker: trim audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/en-us/notification-sound-maker/",
+  "id": "/en-us/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 音频剪切器 免费在线",
   "short_name": "音频剪切器 免费在线",
   "description": "在线免费剪切和修剪音频文件。使用可视化波形修剪 MP3、WAV、M4A 和 OGG，无需注册。您的音频在浏览器中私密处理，并导出为 WAV。",
-  "id": "/loona-audio-tools/zh/audio-cutter/",
+  "id": "/zh/audio-cutter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

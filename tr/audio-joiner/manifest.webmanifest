@@ -2,7 +2,7 @@
   "name": "Loona Ses Birleştirici Çevrimiçi Ücretsiz",
   "short_name": "Ses Birleştirici Çevrimiçi Ücretsiz",
   "description": "Ses dosyalarını çevrimiçi ve ücretsiz birleştirin. MP3, WAV, M4A ve OGG dosyalarını seçtiğiniz sırada tek bir parçada birleştirin; kayıt gerekmez. Tarayıcınızda gizlice işlenir, WAV olarak dışa aktarılır.",
-  "id": "/loona-audio-tools/tr/audio-joiner/",
+  "id": "/tr/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bộ chuyển đổi MP3 320 kbps",
   "short_name": "Bộ chuyển đổi MP3 320 kbps",
   "description": "Bộ chuyển đổi MP3 320 kbps miễn phí: chuyển đổi bất kỳ file âm thanh nào sang MP3 ở 320 kbps trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/mp3-320-kbps-converter/",
+  "id": "/vi/mp3-320-kbps-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

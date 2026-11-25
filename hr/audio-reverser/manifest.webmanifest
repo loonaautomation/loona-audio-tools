@@ -2,7 +2,7 @@
   "name": "Loona Obrtač zvuka Besplatno na mreži",
   "short_name": "Obrtač zvuka Besplatno na mreži",
   "description": "Obrćite zvuk besplatno na mreži. Reproducirajte bilo koju MP3, WAV, M4A ili OGG datoteku unatrag i preuzmite obrnuti zvuk kao WAV. Bez registracije, a vaš zvuk nikada ne napušta vaš uređaj.",
-  "id": "/loona-audio-tools/hr/audio-reverser/",
+  "id": "/hr/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

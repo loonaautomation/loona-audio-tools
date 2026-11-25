@@ -2,7 +2,7 @@
   "name": "Loona Podcast-äänen muunnin",
   "short_name": "Podcast-äänen muunnin",
   "description": "Ilmainen podcast-äänen muunnin: muunna ja valmistele ääntä selaimessasi. Ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-audio-tools/fi/podcast-audio-converter/",
+  "id": "/fi/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

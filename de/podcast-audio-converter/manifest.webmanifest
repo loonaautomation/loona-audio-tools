@@ -2,7 +2,7 @@
   "name": "Loona Podcast-Audio-Konverter",
   "short_name": "Podcast-Audio-Konverter",
   "description": "Kostenloser Podcast-Audio-Konverter: Konvertieren und bereiten Sie Audio in Ihrem Browser vor. Keine Anmeldung, kein Upload.",
-  "id": "/loona-audio-tools/de/podcast-audio-converter/",
+  "id": "/de/podcast-audio-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

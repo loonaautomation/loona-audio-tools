@@ -2,7 +2,7 @@
   "name": "Loona Rilevatore BPM online gratuito",
   "short_name": "Rilevatore BPM online gratuito",
   "description": "Trova i BPM di una canzone online gratis. Il rilevatore analizza il battito nel tuo browser e mostra il tempo, i secondi per battito e una valutazione di affidabilità, più uno strumento tap-tempo. Senza registrazione, e il tuo audio non lascia mai il tuo dispositivo.",
-  "id": "/loona-audio-tools/it/bpm-detector/",
+  "id": "/it/bpm-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

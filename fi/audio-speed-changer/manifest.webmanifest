@@ -2,7 +2,7 @@
   "name": "Loona Äänen nopeuden vaihtaja Ilmainen verkossa",
   "short_name": "Äänen nopeuden vaihtaja Online",
   "description": "Muuta äänen nopeutta ilmaiseksi verkossa. Nopeuta tai hidasta MP3, WAV, M4A ja OGG 0.25x:stä 3x:ään, esikatsele heti ja vie WAV-muodossa. Ei rekisteröitymistä, eikä äänesi koskaan poistu laitteeltasi.",
-  "id": "/loona-audio-tools/fi/audio-speed-changer/",
+  "id": "/fi/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

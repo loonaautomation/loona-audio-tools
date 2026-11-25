@@ -2,7 +2,7 @@
   "name": "Loona 通知音メーカー",
   "short_name": "通知音メーカー",
   "description": "無料の通知音メーカー：ブラウザで音声をトリミングします。登録不要、アップロード不要。",
-  "id": "/loona-audio-tools/ja/notification-sound-maker/",
+  "id": "/ja/notification-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

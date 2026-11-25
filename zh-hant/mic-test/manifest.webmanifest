@@ -2,7 +2,7 @@
   "name": "Loona 麥克風測試 免費線上",
   "short_name": "麥克風測試 免費線上",
   "description": "在您的瀏覽器中免費測試您的麥克風：實時電平表、帶回放的 5 秒測試錄音，以及麥克風選擇器。不上傳任何東西——您的麥克風僅在本地使用。",
-  "id": "/loona-audio-tools/zh-hant/mic-test/",
+  "id": "/zh-hant/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

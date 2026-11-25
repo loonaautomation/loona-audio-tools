@@ -2,7 +2,7 @@
   "name": "Loona MP3-bittinopeuden pienentäjä",
   "short_name": "MP3-bittinopeuden pienentäjä",
   "description": "Ilmainen MP3-bittinopeuden pienentäjä: pienennä MP3-tiedostoja koodaamalla ne uudelleen 64–320 kbps:n nopeudella. Pienemmät tiedostot viesteihin, sähköpostiin ja tallennukseen — selaimessasi.",
-  "id": "/loona-audio-tools/fi/mp3-bitrate-reducer/",
+  "id": "/fi/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

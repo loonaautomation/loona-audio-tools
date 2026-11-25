@@ -2,7 +2,7 @@
   "name": "Loona Taglia silenzi online gratuito",
   "short_name": "Taglia silenzi online gratuito",
   "description": "Rimuovi il silenzio dall'inizio e dalla fine dell'audio online gratis. Il tagliatore misura i secondi silenziosi, li taglia a una soglia dB regolabile con margine ed esporta WAV. Senza registrazione, e il tuo audio non lascia mai il tuo dispositivo.",
-  "id": "/loona-audio-tools/it/silence-trimmer/",
+  "id": "/it/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

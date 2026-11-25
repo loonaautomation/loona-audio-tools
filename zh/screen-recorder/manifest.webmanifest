@@ -2,7 +2,7 @@
   "name": "Loona 屏幕录像机 免费在线",
   "short_name": "屏幕录像机 免费在线",
   "description": "在您的浏览器中免费录制您的屏幕、浏览器选项卡或窗口——如果您愿意，带麦克风音频。无需注册，无上传，下载为 WebM。",
-  "id": "/loona-audio-tools/zh/screen-recorder/",
+  "id": "/zh/screen-recorder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

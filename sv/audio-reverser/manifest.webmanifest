@@ -2,7 +2,7 @@
   "name": "Loona Ljudvändare Online gratis",
   "short_name": "Ljudvändare Online gratis",
   "description": "Vänd ljud online gratis. Spela valfri MP3-, WAV-, M4A- eller OGG-fil baklänges och ladda ner det omvända ljudet som WAV. Ingen registrering, och ditt ljud lämnar aldrig din enhet.",
-  "id": "/loona-audio-tools/sv/audio-reverser/",
+  "id": "/sv/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

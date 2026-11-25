@@ -2,7 +2,7 @@
   "name": "Loona M4AからMP3へ",
   "short_name": "M4AからMP3へ",
   "description": "無料のM4A-to-MP3コンバーター：ブラウザでM4A音声をMP3に変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/m4a-to-mp3-converter/",
+  "id": "/ja/m4a-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona WebM ל-MP3",
   "short_name": "WebM ל-MP3",
   "description": "ממיר WebM ל-MP3 בחינם: המירו שמע WebM ל-MP3 בדפדפן שלכם. ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-audio-tools/he/webm-to-mp3-converter/",
+  "id": "/he/webm-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

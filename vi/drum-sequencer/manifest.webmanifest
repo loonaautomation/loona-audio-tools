@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo nhịp trống Trực tuyến miễn phí",
   "short_name": "Trình tạo nhịp trống Trực tuyến miễn phí",
   "description": "Tạo nhịp trống trực tuyến miễn phí với sequencer 16 bước - âm thanh kick, snare và hi-hat tổng hợp, các preset rock, house và hip-hop, và nhịp độ từ 60 đến 180 BPM. Không có sample, không cần đăng ký, mọi thứ được tổng hợp trong trình duyệt của bạn.",
-  "id": "/loona-audio-tools/vi/drum-sequencer/",
+  "id": "/vi/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

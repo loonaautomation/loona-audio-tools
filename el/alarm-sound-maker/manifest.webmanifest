@@ -2,7 +2,7 @@
   "name": "Loona Δημιουργός Ήχων Ξυπνητηριού",
   "short_name": "Δημιουργός Ήχων Ξυπνητηριού",
   "description": "Δωρεάν Δημιουργός Ήχων Ξυπνητηριού: κόψτε ήχο στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, χωρίς ανέβασμα.",
-  "id": "/loona-audio-tools/el/alarm-sound-maker/",
+  "id": "/el/alarm-sound-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

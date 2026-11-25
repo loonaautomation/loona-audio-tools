@@ -2,7 +2,7 @@
   "name": "Loona مخفّض معدل بت MP3",
   "short_name": "مخفّض معدل بت MP3",
   "description": "مخفّض معدل بت MP3 مجاني: قلّص ملفات MP3 بإعادة الترميز بمعدل 64–320 kbps. ملفات أصغر للمراسلة والبريد والتخزين — في متصفحك.",
-  "id": "/loona-audio-tools/ar/mp3-bitrate-reducer/",
+  "id": "/ar/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

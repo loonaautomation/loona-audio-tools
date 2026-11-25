@@ -2,7 +2,7 @@
   "name": "Loona MP3 থেকে WAV",
   "short_name": "MP3 থেকে WAV",
   "description": "বিনামূল্যে MP3-to-WAV কনভার্টার: আপনার ব্রাউজারে MP3 অডিও WAV-তে রূপান্তর করুন। কোনো সাইন-আপ নেই, কোনো আপলোড নেই, কোনো ওয়াটারমার্ক নেই।",
-  "id": "/loona-audio-tools/bn/mp3-to-wav-converter/",
+  "id": "/bn/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona M4A към WAV",
   "short_name": "M4A към WAV",
   "description": "Безплатен конвертор от M4A към WAV: конвертирайте M4A аудио във WAV в браузъра си. Без регистрация, без качване, без воден знак.",
-  "id": "/loona-audio-tools/bg/m4a-to-wav-converter/",
+  "id": "/bg/m4a-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

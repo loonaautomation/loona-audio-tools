@@ -2,7 +2,7 @@
   "name": "Loona Volumforsterker gratis på nett",
   "short_name": "Volumforsterker gratis på nett",
   "description": "Øk lydvolumet gratis på nett. Gjør stille MP3-, WAV-, M4A- og OGG-opptak opptil 300% høyere, eller normaliser topper trygt, og eksporter som WAV. Ingen registrering, og lyden din forlater aldri enheten din.",
-  "id": "/loona-audio-tools/nb/volume-booster/",
+  "id": "/nb/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

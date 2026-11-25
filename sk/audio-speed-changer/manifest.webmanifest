@@ -2,7 +2,7 @@
   "name": "Loona Menič rýchlosti zvuku Online zadarmo",
   "short_name": "Menič rýchlosti zvuku online",
   "description": "Zmeňte rýchlosť zvuku online zadarmo. Zrýchlite alebo spomaľte MP3, WAV, M4A a OGG z 0.25x na 3x, okamžite si vypočujte ukážku a exportujte ako WAV. Bez registrácie a váš zvuk nikdy neopustí vaše zariadenie.",
-  "id": "/loona-audio-tools/sk/audio-speed-changer/",
+  "id": "/sk/audio-speed-changer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

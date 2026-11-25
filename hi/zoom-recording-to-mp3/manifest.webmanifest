@@ -2,7 +2,7 @@
   "name": "Loona Zoom रिकॉर्डिंग से MP3",
   "short_name": "Zoom रिकॉर्डिंग से MP3",
   "description": "मुफ़्त Zoom रिकॉर्डिंग से MP3: अपने ब्राउज़र में ऑडियो कन्वर्ट और तैयार करें। कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-audio-tools/hi/zoom-recording-to-mp3/",
+  "id": "/hi/zoom-recording-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

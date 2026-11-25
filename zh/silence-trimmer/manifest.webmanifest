@@ -2,7 +2,7 @@
   "name": "Loona 静音修剪器 免费在线",
   "short_name": "静音修剪器 免费在线",
   "description": "在线免费去除音频开头和结尾的静音。修剪器测量静音秒数，以可调的 dB 阈值和填充修剪它们，并导出 WAV。无需注册，您的音频从不离开您的设备。",
-  "id": "/loona-audio-tools/zh/silence-trimmer/",
+  "id": "/zh/silence-trimmer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

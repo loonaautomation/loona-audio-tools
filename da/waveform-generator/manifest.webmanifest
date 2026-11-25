@@ -2,7 +2,7 @@
   "name": "Loona Bølgeformbilledgenerator gratis online",
   "short_name": "Bølgeformbilledgenerator",
   "description": "Lav enhver lydfil om til et bølgeformbillede online gratis - vælg størrelsen, farverne, den udfyldte stil eller bjælkestilen og gennemsigtig baggrund, og download derefter en PNG. Ingen tilmelding, og din lyd forlader aldrig din enhed.",
-  "id": "/loona-audio-tools/da/waveform-generator/",
+  "id": "/da/waveform-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

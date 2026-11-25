@@ -2,7 +2,7 @@
   "name": "Loona WebM 轉 MP3",
   "short_name": "WebM 轉 MP3",
   "description": "免費 WebM 轉 MP3 轉換器：在您的瀏覽器中將 WebM 音訊轉換為 MP3。無需註冊，無需上傳，無水印。",
-  "id": "/loona-audio-tools/zh-hant/webm-to-mp3-converter/",
+  "id": "/zh-hant/webm-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

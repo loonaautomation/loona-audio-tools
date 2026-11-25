@@ -2,7 +2,7 @@
   "name": "Loona Bubnový sekvencer Online zdarma",
   "short_name": "Bubnový sekvencer Online zdarma",
   "description": "Vytvářejte bubnové rytmy online zdarma pomocí sekvenceru o 16 krocích – syntetizované zvuky kopáku, virblu a hi-hatu, předvolby rock, house a hip-hop a tempo od 60 do 180 BPM. Žádné samply, žádná registrace, vše syntetizováno ve vašem prohlížeči.",
-  "id": "/loona-audio-tools/cs/drum-sequencer/",
+  "id": "/cs/drum-sequencer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

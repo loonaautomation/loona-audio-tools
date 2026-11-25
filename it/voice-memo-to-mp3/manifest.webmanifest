@@ -2,7 +2,7 @@
   "name": "Loona Memo vocale in MP3",
   "short_name": "Memo vocale in MP3",
   "description": "Memo vocale in MP3 gratuito: converti e prepara l'audio nel tuo browser. Senza registrazione, nessun caricamento.",
-  "id": "/loona-audio-tools/it/voice-memo-to-mp3/",
+  "id": "/it/voice-memo-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

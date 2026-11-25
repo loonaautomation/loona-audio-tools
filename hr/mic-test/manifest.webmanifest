@@ -2,7 +2,7 @@
   "name": "Loona Test mikrofona Besplatno na mreži",
   "short_name": "Test mikrofona Besplatno na mreži",
   "description": "Testirajte svoj mikrofon besplatno u pregledniku: mjerač razine uživo, testna snimka od 5 sekundi s reprodukcijom i birač mikrofona. Ništa se ne prenosi - vaš se mikrofon koristi samo lokalno.",
-  "id": "/loona-audio-tools/hr/mic-test/",
+  "id": "/hr/mic-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Brzina zvuka 0.5x",
   "short_name": "Brzina zvuka 0.5x",
   "description": "Besplatni mjenjač brzine zvuka 0.5x: promijenite bilo koju zvučnu datoteku na brzinu 0.5x u svom pregledniku. Bez registracije, bez prijenosa.",
-  "id": "/loona-audio-tools/hr/audio-speed-0-5x/",
+  "id": "/hr/audio-speed-0-5x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

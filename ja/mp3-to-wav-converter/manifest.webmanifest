@@ -2,7 +2,7 @@
   "name": "Loona MP3からWAVへ",
   "short_name": "MP3からWAVへ",
   "description": "無料のMP3-to-WAVコンバーター：ブラウザでMP3音声をWAVに変換します。登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-audio-tools/ja/mp3-to-wav-converter/",
+  "id": "/ja/mp3-to-wav-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

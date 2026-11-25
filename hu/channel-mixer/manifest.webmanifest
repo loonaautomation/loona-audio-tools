@@ -2,7 +2,7 @@
   "name": "Loona Hangcsatorna-keverő Online ingyen",
   "short_name": "Hangcsatorna-keverő Online",
   "description": "Konvertálja a hangcsatornákat online ingyen - sztereóból monó, monóból sztereó, cserélje fel a bal és jobb csatornát, vagy másolja a bal vagy jobb csatornát mindkét oldalra, WAV-ként exportálva. Regisztráció nélkül, és a hangja soha nem hagyja el az eszközét.",
-  "id": "/loona-audio-tools/hu/channel-mixer/",
+  "id": "/hu/channel-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

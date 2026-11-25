@@ -2,7 +2,7 @@
   "name": "Loona Obrátenie zvuku Online zadarmo",
   "short_name": "Obrátenie zvuku Online zadarmo",
   "description": "Obráťte zvuk online zadarmo. Prehrajte akýkoľvek súbor MP3, WAV, M4A alebo OGG odzadu a stiahnite si obrátený zvuk ako WAV. Bez registrácie a váš zvuk nikdy neopustí vaše zariadenie.",
-  "id": "/loona-audio-tools/sk/audio-reverser/",
+  "id": "/sk/audio-reverser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

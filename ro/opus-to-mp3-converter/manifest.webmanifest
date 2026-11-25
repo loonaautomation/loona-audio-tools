@@ -2,7 +2,7 @@
   "name": "Loona Opus în MP3",
   "short_name": "Opus în MP3",
   "description": "Convertor Opus în MP3 gratuit: convertește sunetul Opus în MP3 în browserul tău. Fără înregistrare, fără încărcare, fără filigran.",
-  "id": "/loona-audio-tools/ro/opus-to-mp3-converter/",
+  "id": "/ro/opus-to-mp3-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

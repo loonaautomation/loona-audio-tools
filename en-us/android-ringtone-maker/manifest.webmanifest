@@ -2,7 +2,7 @@
   "name": "Loona Audio Cutter - Trim Audio Files Online Free",
   "short_name": "Audio Cutter - Trim Audio Files Online Free",
   "description": "Free Android Ringtone Maker: trim audio in your browser. No sign-up, no upload.",
-  "id": "/loona-audio-tools/en-us/android-ringtone-maker/",
+  "id": "/en-us/android-ringtone-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MP3 比特率降低器",
   "short_name": "MP3 比特率降低器",
   "description": "免费 MP3 比特率降低器：通过以 64–320 kbps 重新编码来缩小 MP3 文件。更小的文件用于消息、电子邮件和存储——在您的浏览器中。",
-  "id": "/loona-audio-tools/zh/mp3-bitrate-reducer/",
+  "id": "/zh/mp3-bitrate-reducer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

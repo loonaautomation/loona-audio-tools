@@ -2,7 +2,7 @@
   "name": "Loona 音量ブースター オンライン無料",
   "short_name": "音量ブースター オンライン無料",
   "description": "音声の音量をオンラインで無料で上げます。静かなMP3、WAV、M4A、OGG録音を最大300%大きくするか、ピークを安全にノーマライズして、WAVでエクスポートします。登録不要で、音声がデバイスの外に出ることはありません。",
-  "id": "/loona-audio-tools/ja/volume-booster/",
+  "id": "/ja/volume-booster/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

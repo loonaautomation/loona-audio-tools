@@ -2,7 +2,7 @@
   "name": "Loona 오디오 속도 2.0x",
   "short_name": "오디오 속도 2.0x",
   "description": "무료 오디오 속도 2.0x 변경기: 브라우저에서 모든 오디오 파일을 2.0x 속도로 바꾸세요. 가입 없이, 업로드 없이.",
-  "id": "/loona-audio-tools/ko/audio-speed-2-0x/",
+  "id": "/ko/audio-speed-2-0x/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

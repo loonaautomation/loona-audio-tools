@@ -2,7 +2,7 @@
   "name": "Loona Äänityökalujen kirjasto",
   "short_name": "Äänityökalujen kirjasto",
   "description": "Koko Loona Audio Tools -kirjasto: MP3/WAV/OGG/M4A/FLAC/AAC-muuntimet, bittinopeustavoitteet, nopeuden esiasetukset ja käyttötarkoitustyökalut.",
-  "id": "/loona-audio-tools/fi/audio-tools-library/",
+  "id": "/fi/audio-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Âm thanh phỏng vấn sang MP3",
   "short_name": "Âm thanh phỏng vấn sang MP3",
   "description": "Chuyển đổi âm thanh phỏng vấn sang MP3 miễn phí: chuyển đổi và chuẩn bị âm thanh trong trình duyệt của bạn. Không cần đăng ký, không tải lên.",
-  "id": "/loona-audio-tools/vi/interview-audio-to-mp3/",
+  "id": "/vi/interview-audio-to-mp3/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

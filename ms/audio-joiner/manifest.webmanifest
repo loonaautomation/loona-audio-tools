@@ -2,7 +2,7 @@
   "name": "Loona Penggabung Audio Dalam Talian Percuma",
   "short_name": "Penggabung Audio Dalam Talian Percuma",
   "description": "Gabungkan fail audio dalam talian secara percuma. Gabungkan fail MP3, WAV, M4A dan OGG menjadi satu trek dalam susunan yang anda pilih, tanpa pendaftaran diperlukan. Diproses secara peribadi dalam pelayar anda, dieksport sebagai WAV.",
-  "id": "/loona-audio-tools/ms/audio-joiner/",
+  "id": "/ms/audio-joiner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
